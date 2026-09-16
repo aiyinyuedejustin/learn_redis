@@ -1,0 +1,89 @@
+name: One-time verified course import
+on:
+  push:
+    branches: [main]
+    paths: ['.course-transfer/ready.json']
+permissions:
+  contents: write
+concurrency:
+  group: course-import-main
+  cancel-in-progress: false
+jobs:
+  import:
+    if: github.repository == 'aiyinyuedejustin/learn_redis' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate and import UTF-8 course files
+        id: unpack
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import base64, hashlib, json, lzma, os, re, shutil
+          from pathlib import Path, PurePosixPath
+          root = Path.cwd()
+          staging = root / '.course-transfer'
+          ready = staging / 'ready.json'
+          if not ready.exists():
+              print('The transfer was already consumed; nothing to import.')
+              raise SystemExit(0)
+          manifest = json.loads(ready.read_text(encoding='utf-8'))
+          parts = manifest['parts']
+          if not parts or len(parts) > 32 or len(set(parts)) != len(parts):
+              raise SystemExit('Invalid transfer part list')
+          if any(not re.fullmatch(r'part-[0-9]{3}\.b64', p) for p in parts):
+              raise SystemExit('Invalid transfer filename')
+          encoded = ''.join((staging / p).read_text(encoding='ascii').strip() for p in parts)
+          if len(encoded) > 4000000:
+              raise SystemExit('Transfer exceeds size limit')
+          archive = base64.b64decode(encoded, validate=True)
+          if hashlib.sha256(archive).hexdigest() != manifest['sha256']:
+              raise SystemExit('Archive checksum mismatch; no course files changed')
+          decoder = lzma.LZMADecompressor(memlimit=268435456)
+          data = decoder.decompress(archive, max_length=10000000)
+          if not decoder.eof or decoder.unused_data:
+              raise SystemExit('Invalid or oversized archive')
+          files = json.loads(data.decode('utf-8'))
+          if not isinstance(files, list) or len(files) != manifest['file_count'] or len(files) > 1000:
+              raise SystemExit('File count mismatch')
+          checked = []
+          seen = set()
+          for item in files:
+              name = item['path']
+              path = PurePosixPath(name)
+              if not name or path.is_absolute() or str(path) != name or '\\' in name or any(x in ('.', '..', '.git', '.github', '.course-transfer') for x in path.parts):
+                  raise SystemExit('Unsafe archive path: ' + name)
+              if name in seen or item['mode'] not in ('100644', '100755'):
+                  raise SystemExit('Duplicate path or invalid file mode: ' + name)
+              seen.add(name)
+              target = root.joinpath(*path.parts)
+              if any(parent.is_symlink() for parent in (target, *target.parents)):
+                  raise SystemExit('Symlink path rejected: ' + name)
+              content = item['content'].encode('utf-8')
+              if hashlib.sha256(content).hexdigest() != item['sha256']:
+                  raise SystemExit('File checksum mismatch: ' + name)
+              if target.exists() and (not target.is_file() or target.read_bytes() != content):
+                  raise SystemExit('Existing file differs; refusing to overwrite: ' + name)
+              checked.append((target, content, item['mode']))
+          for target, content, mode in checked:
+              target.parent.mkdir(parents=True, exist_ok=True)
+              target.write_bytes(content)
+              target.chmod(0o755 if mode == '100755' else 0o644)
+          shutil.rmtree(staging)
+          with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as out:
+              out.write('imported=true\n')
+          print('Validated and imported', len(checked), 'files; archive SHA-256:', manifest['sha256'])
+          PY
+      - name: Commit without replacing remote history
+        if: steps.unpack.outputs.imported == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          test "$(git rev-parse origin/main)" = "$GITHUB_SHA" || { echo 'main changed; refusing to push over concurrent work'; exit 1; }
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --all
+          git commit -m 'Import complete Redis learning workspace and evidence; preserve existing main history'
+          git push origin HEAD:main
