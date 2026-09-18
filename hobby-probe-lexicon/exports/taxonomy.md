@@ -1,0 +1,3244 @@
+# 探圈词表 PROBE LEXICON v2
+
+- nodes: 3239  leaves: **2254**
+- generated: 2026-09-18T14:09:02
+
+- 📁 **二次元与同人** _Anime, Manga & Doujin_
+  - 📁 **Cosplay与道具** _Cosplay与道具_
+    - 📁 **反主流道具** _反主流道具_
+    - 📁 **时尚亚文化穿搭** _Fashion Subcultures_
+      - 🍃 **Decora装饰系穿搭** _Decora_ — 同人做「Decora装饰系穿搭」（Decora）。
+      - 🍃 **EGL洛丽塔时尚社群** _EGL Lolita Fashion_ — 同人做「EGL洛丽塔时尚社群」的同好圈。
+      - 🍃 **Furry兽装爱好社群** _Furry Fandom_ — 同人做「Furry兽装爱好社群」（Furry Fandom）。
+      - 🍃 **Visual Kei视觉系** _Visual Kei_ — 同人做「Visual Kei视觉系」（Visual Kei）。
+    - 📁 **材料与头雕** _材料与头雕_
+      - 🍃 **纸样工业打版研究** _Industrial Pattern-drafting for Costumes_ — 同人做「纸样工业打版研究」的同好圈。
+      - 🍃 **车库套件原模雕刻** _Garage-kit Original Sculpt Circles_ — 同人做「车库套件原模雕刻」的同好圈。
+    - 📁 **材料盔甲** _Armor Materials_
+      - 🍃 **热成型EVA板甲** _Thermoformed EVA Plate Armor_ — 同人做「热成型EVA板甲」的同好圈。
+    - 🍃 **漫展更衣室志愿协调** _Cosplay Green Room Volunteer Coordination_ — 同人做「漫展更衣室志愿协调」的同好圈。
+    - 📁 **被误认为裁缝铺** _Tailoring Mistaken for Shop_
+    - 📁 **认证路径道具** _Credentialed Props_
+    - 🍃 **赛前盔甲试穿互助会** _Pre-Con Armor Fit Mutual-Aid Circle_ — 同人做「赛前盔甲试穿互助会」的同好圈。
+    - 📁 **身器地道具** _身器地道具_
+    - 🍃 **道具枪与盔甲制作** _Prop & Armor Crafting_ — 同人做「道具枪与盔甲制作」的同好圈。
+    - 📁 **道具补2** _道具补2_
+    - 📁 **风险边缘道具** _风险边缘道具_
+  - 🍃 **中文同人语音剧配音棚业余** _Chinese Doujin Audio-drama Amateur Booths_ — 同人做「中文同人语音剧配音棚业余」的同好圈。
+  - 📁 **动画漫画** _动画漫画_
+    - 📁 **制作技艺** _制作技艺_
+      - 🍃 **MAD剪辑时间轴技艺** _MAD Edit Timeline Craft Circles_ — 同人做「MAD剪辑时间轴技艺」的同好圈。
+      - 🍃 **UTAU音源制作圈** _UTAU Voicebank Maker Circles_ — 同人做「UTAU音源制作圈」的同好圈。
+      - 🍃 **同人音乐编曲DAW社** _Doujin Music DAW Arrangement Circles_ — 同人做「同人音乐编曲DAW社」的同好圈。
+    - 📁 **制作补** _制作补_
+    - 📁 **制作补2** _制作补2_
+    - 📁 **反主流动画** _反主流动画_
+    - 📁 **垂直作品圈** _Title-specific Fandoms_
+      - 🍃 **Vocaloid原创曲圈** _Vocaloid Producer Scene_ — 同人做「Vocaloid原创曲圈」的同好圈。
+      - 🍃 **东方Project同人生态** _Touhou Project Fandom_ — 同人做「东方Project同人生态」的同好圈。
+      - 🍃 **特摄迷考据与同人** _Tokusatsu Fandom_ — 同人做「特摄迷考据与同人」（Tokusatsu Fandom）。
+    - 📁 **字幕传习** _Subtitle Transmission_
+    - 🍃 **影迷马拉松接力放映志愿** _Anime Marathon Relay Screening Crew_ — 同人做「影迷马拉松接力放映志愿」的同好圈。
+    - 📁 **纸芝居与软胶改模** _Kamishibai and Sofubi Custom_
+      - 🍃 **kamishibai业余演剧** _Amateur Kamishibai Performance_ — 同人做「kamishibai业余演剧」的同好圈。
+      - 🍃 **sofubi软胶改模** _Sofubi Soft-vinyl Customizing_ — 同人做「sofubi软胶改模」的同好圈。
+    - 📁 **补洞作品圈外技艺** _Craft beyond Titles_
+  - 📁 **北美欧澳同人展赛** _NA/EU/Oceania Fan Conventions_
+    - 🍃 **Anime Boston** _Anime Boston_ — 同人做「Anime Boston」（Anime Boston）。
+    - 🍃 **Anime NYC** _Anime NYC_ — 同人做「Anime NYC」（Anime NYC）。
+    - 🍃 **Anime North多伦多** _Anime North_ — 同人做「Anime North多伦多」（Anime North）。
+    - 🍃 **Anthrocon皮毛展** _Anthrocon_ — 同人做「Anthrocon皮毛展」（Anthrocon）。
+    - 🍃 **FanimeCon圣何塞** _FanimeCon_ — 同人做「FanimeCon圣何塞」（FanimeCon）。
+    - 🍃 **Hyper Japan伦敦** _HYPER JAPAN_ — 同人做「Hyper Japan伦敦」（HYPER JAPAN）。
+    - 🍃 **Japan Expo巴黎旁观者社群** _Japan Expo_ — 同人做「Japan Expo巴黎旁观者社群」（Japan Expo）。
+    - 🍃 **Katsucon** _Katsucon_ — 同人做「Katsucon」（Katsucon）。
+    - 🍃 **MCM Comic Con伦敦** _MCM Comic Con_ — 同人做「MCM Comic Con伦敦」的同好圈。
+    - 🍃 **Madman Anime Festival澳** _Madman Anime Festival_ — 同人做「Madman Anime Festival澳」的同好圈。
+    - 🍃 **Midwest FurFest** _Midwest FurFest_ — 同人做「Midwest FurFest」的同好圈。
+    - 🍃 **Nan Desu Kan丹佛** _Nan Desu Kan_ — 同人做「Nan Desu Kan丹佛」（Nan Desu Kan）。
+    - 🍃 **Otakon** _Otakon_ — 同人做「Otakon」（Otakon）。
+    - 🍃 **SMASH!悉尼动漫展** _SMASH! Sydney Manga and Anime Show_ — 同人做「SMASH!悉尼动漫展」的同好圈。
+    - 🍃 **Sakura-Con西雅图** _Sakura-Con_ — 同人做「Sakura-Con西雅图」（Sakura-Con）。
+  - 📁 **同人创作与展会** _同人创作与展会_
+    - 🍃 **世界科幻大会会务志愿** _Worldcon Convention Operations Volunteering_ — 同人做「世界科幻大会会务志愿」的同好圈。
+    - 📁 **传习场** _传习场_
+    - 🍃 **动漫展会现场志愿工** _Anime Convention Floor Staff Volunteering_ — 同人做「动漫展会现场志愿工」的同好圈。
+    - 📁 **印刷纸材** _印刷纸材_
+    - 📁 **反主流同人** _反主流同人_
+    - 📁 **同人二次创作形态** _Transformative Fanwork Forms_
+      - 🍃 **AMV与Vidding剪辑** _AMV / Vidding_ — 同人做「AMV与Vidding剪辑」（AMV / Vidding）。
+      - 🍃 **AO3同人档案库创作** _AO3 Fanwork Archiving_ — 同人做「AO3同人档案库创作」的同好圈。
+      - 🍃 **Fanlore词条编修** _Fanlore Editing_ — 同人做「Fanlore词条编修」（Fanlore Editing）。
+      - 🍃 **OTW变革性作品组织志愿** _OTW Volunteering_ — 同人做「OTW变革性作品组织志愿」的同好圈。
+      - 🍃 **同人音频剧Podfic** _Podfic_ — 同人做「同人音频剧Podfic」（Podfic）。
+      - 🍃 **同人志印刷协作** _Doujinshi Printing_ — 同人做「同人志印刷协作」（Doujinshi Printing）。
+      - 🍃 **同人游戏发布** _Doujin Game Publishing_ — 同人做「同人游戏发布」的同好圈。
+    - 📁 **同人展会与市集** _Doujin Conventions & Markets_
+      - 🍃 **Comic Market（コミケ）** _Comic Market_ — 同人做「Comic Market（コミケ）」的同好圈。
+      - 🍃 **Comic World** _Comic World_ — 同人做「Comic World」（Comic World）。
+    - 🍃 **同人展前通宵装台志愿** _Doujin Event Overnight Load-in Crew_ — 同人做「同人展前通宵装台志愿」的同好圈。
+    - 🍃 **同人展后撤展通宵清场** _Doujin Event Overnight Teardown Crew_ — 同人做「同人展后撤展通宵清场」的同好圈。
+    - 🍃 **同人展安保入口志愿** _Doujin Event Entry Queue Stewarding_ — 同人做「同人展安保入口志愿」的同好圈。
+    - 🍃 **同人志印刷所通宵赶工社群** _Doujinshi Print Shop Overnight Crunch Circle_ — 同人做「同人志印刷所通宵赶工社群」的同好圈。
+    - 🍃 **同人拍卖会司仪志愿** _Fan Charity Auction Emcee Volunteering_ — 同人做「同人拍卖会司仪志愿」的同好圈。
+    - 📁 **展会补** _展会补_
+    - 📁 **展补2** _展补2_
+    - 📁 **欧美同人会** _Euro-NA Fan Cons_
+      - 🍃 **欧美同人Zine市集** _Euro-NA Zine Fair Collectives_ — 同人做「欧美同人Zine市集」的同好圈。
+    - 🍃 **欧美同人展工棚搭建** _Fan Convention Artists Alley Build Crew_ — 同人做「欧美同人展工棚搭建」的同好圈。
+    - 📁 **社交形态印刷** _社交形态印刷_
+    - 📁 **舞台安全** _舞台安全_
+      - 🍃 **痛车贴膜技艺社** _Itasha Vinyl-wrap Craft Circles_ — 同人做「痛车贴膜技艺社」的同好圈。
+  - 📁 **同人制作与赛制** _Fanwork Production & Contests_
+    - 🍃 **AMV竞赛文化** _Anime Music Video Contests_ — 同人做「AMV竞赛文化」的同好圈。
+    - 🍃 **Doujin自资出版者北美摊位实践** _North American Doujin Artist Alleys_ — 同人做「Doujin自资出版者北美摊位实践」的同好圈。
+    - 🍃 **EuroCosplay锦标赛** _EuroCosplay Championship_ — 同人做「EuroCosplay锦标赛」的同好圈。
+    - 🍃 **Flame Con酷儿漫画展** _Flame Con_ — 同人做「Flame Con酷儿漫画展」（Flame Con）。
+    - 🍃 **World Cosplay Summit选拔赛北美欧澳** _World Cosplay Summit National Selections_ — 同人做「World Cosplay Summit选拔赛北美欧澳」的同好圈。
+    - 🍃 **Yaoi North同人展** _Yaoi North_ — 同人做「Yaoi North同人展」（Yaoi North）。
+  - 🍃 **手工娃衣BJD缝制社** _BJD Doll Clothes Sewing Circles_ — 同人做「手工娃衣BJD缝制社」的同好圈。
+- 🍃 **同人音乐M3即卖会摊事** _M3 Doujin Music Fair Booths_ — 同人做「同人音乐M3即卖会摊事」的同好圈。
+- 🍃 **AO3成人同人写作工坊** _Adult Fanfiction Writing Workshops_ — 同人做「AO3成人同人写作工坊」的同好圈。
+- 🍃 **独立Zine印刷市集** _Independent Zine Fests Adult_ — 同人做「独立Zine印刷市集」的同好圈。
+- 🍃 **英国漫画展UK Comic Cons社群** _UK Comic Convention Circuit_ — 同人做「英国漫画展UK Comic Cons社群」的同好圈。
+- 📁 **健身形体** _Fitness & Body_
+  - 📁 **传统摔跤与负重** _传统摔跤与负重_
+    - 🍃 **HEMA历史武技联盟** _HEMA Alliance_ — 练「HEMA历史武技联盟」（HEMA Alliance）。
+    - 🍃 **Hayward伐木世界锦标赛** _Lumberjack World Championships_ — 练「Hayward伐木世界锦标赛」的同好圈。
+    - 🍃 **冰岛Glima摔跤** _Glima_ — 练「冰岛Glima摔跤」（Glima）。
+    - 🍃 **北美飞斧联盟成人赛** _National Axe Throwing Federation_ — 练「北美飞斧联盟成人赛」的同好圈。
+    - 📁 **历史复活摔** _历史复活摔_
+      - 🍃 **古希腊pancration业余研究** _Pankration Historical Study Clubs_ — 练「古希腊pancration业余研究」的同好圈。
+    - 🍃 **坎伯兰西摩兰摔跤** _Cumberland and Westmorland Wrestling_ — 练「坎伯兰西摩兰摔跤」的同好圈。
+    - 🍃 **康沃尔摔跤** _Cornish Wrestling_ — 练「康沃尔摔跤」（Cornish Wrestling）。
+    - 📁 **摔跤补** _摔跤补_
+      - 🍃 **伊朗帕赫拉瓦尼** _Pahlevani Zurkhaneh Amateur_ — 练「伊朗帕赫拉瓦尼」的同好圈。
+      - 🍃 **蒙古博克业余** _Bökh Mongolian Wrestling Amateur_ — 练「蒙古博克业余」的同好圈。
+    - 🍃 **波兰猎鹰会成人体操** _Polish Falcons of America Adult Gymnastics_ — 练「波兰猎鹰会成人体操」的同好圈。
+    - 🍃 **爱尔兰Hurley棍球俱乐部** _Hurling Clubs GAA_ — 练「爱尔兰Hurley棍球俱乐部」的同好圈。
+    - 🍃 **瑞士Schwingen摔跤** _Schwingen_ — 练「瑞士Schwingen摔跤」（Schwingen）。
+    - 🍃 **皇家苏格兰乡村舞社** _Royal Scottish Country Dance Society_ — 练「皇家苏格兰乡村舞社」的同好圈。
+    - 🍃 **美国方形舞导舞者社群** _CALLERLAB Square Dance Callers_ — 练「美国方形舞导舞者社群」的同好圈。
+    - 🍃 **美国盖尔运动协会俱乐部赛** _USGAA Adult Club Games_ — 练「美国盖尔运动协会俱乐部赛」的同好圈。
+    - 🍃 **美国相扑联合会成人赛** _United States Sumo Federation_ — 练「美国相扑联合会成人赛」的同好圈。
+    - 🍃 **美式Sokol捷克裔体操社** _American Sokol_ — 练「美式Sokol捷克裔体操社」（American Sokol）。
+    - 🍃 **芬兰背妻赛Eukonkanto** _Eukonkanto Wife Carrying_ — 练「芬兰背妻赛Eukonkanto」的同好圈。
+    - 🍃 **苏格兰扔杆Caber Toss** _Caber Toss_ — 练「苏格兰扔杆Caber Toss」（Caber Toss）。
+    - 🍃 **苏格兰背抱摔跤Scottish Backhold** _Scottish Backhold Wrestling_ — 练「苏格兰背抱摔跤Scottish Backhold」的同好圈。
+    - 🍃 **英国Capoeira罗达成人社** _UK Capoeira Society Adult Rodas_ — 练「英国Capoeira罗达成人社」的同好圈。
+  - 📁 **力量与体能** _力量与体能_
+    - 📁 **传统武术与搏击** _Traditional Martial Arts & Combat Sports_
+      - 🍃 **埃及棍术** _Tahtib_ — 练「埃及棍术」（Tahtib）。
+    - 📁 **力量举与强人** _Powerlifting & Strongman_
+      - 🍃 **Strongman业余训练** _Amateur Strongman_ — 练「Strongman业余训练」的同好圈。
+    - 📁 **力量举细分规则** _Powerlifting Rule Splits_
+      - 🍃 **经典力量举Raw专项** _Raw Classic Powerlifting Meets_ — 练「经典力量举Raw专项」的同好圈。
+    - 📁 **力量补** _力量补_
+    - 📁 **动作传习** _Movement Transmission_
+    - 📁 **南亚身体技艺** _South Asian Body Crafts_
+      - 🍃 **印度棒Indian Clubs** _Indian Club Swinging_ — 练「印度棒Indian Clubs」的同好圈。
+    - 🍃 **强人赛协会季度挑战日** _Strongman Club Quarterly Challenge Day_ — 练「强人赛协会季度挑战日」的同好圈。
+    - 📁 **本体感觉力量** _Proprioceptive Strength_
+      - 🍃 **伐木运动Timbersports** _Stihl Timbersports Amateur Heats_ — 练「伐木运动Timbersports」的同好圈。
+      - 🍃 **壶铃运动Girevoy** _Girevoy Kettlebell Sport_ — 练「壶铃运动Girevoy」的同好圈。
+      - 🍃 **拔河TWIF业余** _TWIF Tug-of-war Amateur_ — 练「拔河TWIF业余」的同好圈。
+      - 🍃 **握力运动GripSport** _Grip Sport Crush Competitions_ — 练「握力运动GripSport」的同好圈。
+      - 🍃 **格鲁吉亚锤Gada** _Gada Mace Club Swinging_ — 练「格鲁吉亚锤Gada」的同好圈。
+      - 🍃 **臂摔WAF业余** _WAF Armwrestling Amateur_ — 练「臂摔WAF业余」的同好圈。
+    - 📁 **材料器械本体** _Material Implement Body_
+    - 📁 **认证路径力** _Credentialed Strength_
+      - 🍃 **IPF力量举裁判路径** _IPF Referee Pathway Amateur_ — 练「IPF力量举裁判路径」的同好圈。
+      - 🍃 **举重IWF教练路径** _IWF Coach Pathway Amateur_ — 练「举重IWF教练路径」的同好圈。
+    - 📁 **身器地力** _身器地力_
+    - 📁 **风险边缘力** _风险边缘力_
+  - 📁 **有氧与耐力** _有氧与耐力_
+    - 📁 **反主流耐** _反主流耐_
+    - 🍃 **圣火接力城市段志愿** _Community Torch Relay City Leg Volunteering_ — 练「圣火接力城市段志愿」的同好圈。
+    - 📁 **欧美耐力社** _Euro-NA Endurance Clubs_
+    - 📁 **气候塑造耐力** _Climate-shaped Endurance_
+      - 🍃 **HYROX室内混合耐力** _HYROX Indoor Hybrid Endurance_ — 练「HYROX室内混合耐力」的同好圈。
+      - 🍃 **国际冰泳IISA** _IISA Ice Swimming_ — 练「国际冰泳IISA」（IISA Ice Swimming）。
+      - 🍃 **垂直千米VK赛** _Vertical Kilometer VK Races_ — 练「垂直千米VK赛」的同好圈。
+      - 🍃 **登楼跑Towerrunning** _Towerrunning Stair Races_ — 练「登楼跑Towerrunning」的同好圈。
+      - 🍃 **障碍赛OCR业余** _OCR Obstacle Course Racing Amateur_ — 练「障碍赛OCR业余」的同好圈。
+    - 📁 **气味工作犬运动** _Scent-work Canine Sport_
+      - 🍃 **NACSW气味工作赛** _NACSW Nose Work Trials_ — 练「NACSW气味工作赛」的同好圈。
+      - 🍃 **人迹追踪Mantrailing** _Mantrailing Scent Trailing_ — 练「人迹追踪Mantrailing」的同好圈。
+      - 🍃 **松露猎犬训练** _Truffle Dog Training_ — 练「松露猎犬训练」（Truffle Dog Training）。
+    - 📁 **泳姿与公开水域** _Stroke & Open Water_
+      - 🍃 **公开水域业余泳渡** _Open-water Amateur Crossings_ — 练「公开水域业余泳渡」的同好圈。
+      - 🍃 **接力英吉利海峡组织者** _English-channel Relay Organizer Circles_ — 练「接力英吉利海峡组织者」的同好圈。
+      - 🍃 **花样游泳业余队** _Artistic Swimming Amateur Clubs_ — 练「花样游泳业余队」的同好圈。
+    - 🍃 **科科球** _Kho-Kho_ — 练「科科球」（Kho-Kho）。
+    - 📁 **耐力补** _耐力补_
+    - 📁 **认证路径耐** _Credentialed Endurance_
+    - 📁 **身器地耐** _身器地耐_
+    - 📁 **配速传习** _Pacing Transmission_
+    - 📁 **风险边缘耐** _风险边缘耐_
+  - 📁 **杂技与本体感** _杂技与本体感_
+    - 🍃 **中国竿** _Chinese pole_ — 练「中国竿」（Chinese pole）。
+    - 🍃 **双人瑜伽** _AcroYoga_ — 练「双人瑜伽」（AcroYoga）。
+    - 📁 **反主流平衡** _反主流平衡_
+    - 🍃 **德国轮** _German wheel_ — 练「德国轮」（German wheel）。
+    - 🍃 **成人马戏教育** _Adult circus education_ — 练「成人马戏教育」的同好圈。
+    - 📁 **杂技补** _杂技补_
+    - 🍃 **空中绳** _Corde lisse_ — 练「空中绳」（Corde lisse）。
+    - 🍃 **空中绸吊** _Aerial silks_ — 练「空中绸吊」（Aerial silks）。
+    - 🍃 **西尔轮** _Cyr wheel_ — 练「西尔轮」（Cyr wheel）。
+    - 🍃 **走钢丝** _Tightwire walking_ — 练「走钢丝」（Tightwire walking）。
+    - 🍃 **马拉坎布** _Mallakhamb_ — 练「马拉坎布」（Mallakhamb）。
+  - 📁 **武戏与身体游戏** _Martial play & jogo_
+    - 🍃 **伊朗左尔哈内** _Pahlevani & zoorkhanei rituals_ — 练「伊朗左尔哈内」的同好圈。
+  - 📁 **武术与格斗** _武术与格斗_
+    - 🍃 **业余相扑** _Amateur Sumo_ — 练「业余相扑」（Amateur Sumo）。
+    - 🍃 **中国式摔跤** _Shuai Jiao_ — 练「中国式摔跤」（Shuai Jiao）。
+    - 📁 **亚洲武补** _亚洲武补_
+      - 🍃 **印尼本西拉** _Pencak Silat Amateur Clubs_ — 练「印尼本西拉」的同好圈。
+      - 🍃 **朝鲜跆跟** _Taekkyeon Amateur_ — 练「朝鲜跆跟」（Taekkyeon Amateur）。
+      - 🍃 **菲律宾短棍Eskrima** _Eskrima Stick Amateur Clubs_ — 练「菲律宾短棍Eskrima」的同好圈。
+      - 🍃 **越南咏春Vovinam** _Vovinam Amateur Clubs_ — 练「越南咏春Vovinam」的同好圈。
+    - 🍃 **加特卡** _Gatka_ — 练「加特卡」（Gatka）。
+    - 🍃 **卡波耶拉安哥拉** _Capoeira Angola_ — 练「卡波耶拉安哥拉」（Capoeira Angola）。
+    - 🍃 **古吴哥斗术** _Kun Lbokator_ — 练「古吴哥斗术」（Kun Lbokator）。
+    - 🍃 **居合道** _Iaido_ — 练「居合道」（Iaido）。
+    - 🍃 **巴西柔术蓝带业余馆** _BJJ Blue-belt Amateur Gyms_ — 练「巴西柔术蓝带业余馆」的同好圈。
+    - 📁 **师徒对练** _师徒对练_
+      - 🍃 **合气道稽古终身** _Aikido Lifelong Keiko_ — 练「合气道稽古终身」的同好圈。
+      - 🍃 **咏春木人桩师徒** _Wing-chun Wooden-dummy Lineages_ — 练「咏春木人桩师徒」的同好圈。
+      - 🍃 **太极拳盘架十年** _Taijiquan Decade Frame Practice_ — 练「太极拳盘架十年」的同好圈。
+    - 🍃 **库什蒂摔跤** _Kushti / Pehlwani_ — 练「库什蒂摔跤」（Kushti / Pehlwani）。
+    - 🍃 **库拉什** _Kurash_ — 练「库拉什」（Kurash）。
+    - 🍃 **杖道** _Jodo_ — 练「杖道」（Jodo）。
+    - 🍃 **格斗短棍** _Krabi-krabong_ — 练「格斗短棍」（Krabi-krabong）。
+    - 🍃 **缅甸莱威** _Lethwei_ — 练「缅甸莱威」（Lethwei）。
+    - 🍃 **莫兰吉** _Moraingy_ — 练「莫兰吉」（Moraingy）。
+    - 🍃 **蒙古搏克** _Mongolian bökh_ — 练「蒙古搏克」（Mongolian bökh）。
+    - 🍃 **薙刀** _Naginata_ — 练「薙刀」（Naginata）。
+    - 🍃 **西兰巴姆棍术** _Silambam_ — 练「西兰巴姆棍术」（Silambam）。
+    - 📁 **身器地** _身器地_
+    - 🍃 **阿雷什腰带摔跤** _Alysh Belt Wrestling_ — 练「阿雷什腰带摔跤」（Alysh Belt Wrestling）。
+    - 📁 **风险边缘武** _风险边缘武_
+  - 📁 **民俗力量与舞蹈** _Folk Strength & Dance_
+    - 🍃 **加那利岛Lucha Canaria** _Canarian Wrestling_ — 练「加那利岛Lucha Canaria」的同好圈。
+    - 🍃 **威尔士Twmpath民俗舞会** _Welsh Twmpath Folk Dances_ — 练「威尔士Twmpath民俗舞会」的同好圈。
+    - 🍃 **法罗链舞社群** _Faroese Chain Dance Circles_ — 练「法罗链舞社群」的同好圈。
+    - 🍃 **爱尔兰Set Dance成人班** _Irish Set Dancing Adult Classes_ — 练「爱尔兰Set Dance成人班」的同好圈。
+  - 📁 **社群舞蹈传统** _社群舞蹈传统_
+    - 📁 **东南亚宫廷舞业余** _东南亚宫廷舞业余_
+      - 🍃 **康提舞业余** _Kandyan Dance Amateur_ — 练「康提舞业余」（Kandyan Dance Amateur）。
+      - 🍃 **爪哇贝多优舞蹈** _Bedhaya Court-dance Amateur_ — 练「爪哇贝多优舞蹈」的同好圈。
+      - 🍃 **缅甸阿迎舞业余** _Anyeint Amateur Troupes_ — 练「缅甸阿迎舞业余」的同好圈。
+      - 🍃 **高棉古典舞成人** _Khmer Classical Dance Adult_ — 练「高棉古典舞成人」的同好圈。
+    - 🍃 **乌拉圭康东贝鼓队舞步** _Uruguay Candombe Comparsa Dance Steps_ — 练「乌拉圭康东贝鼓队舞步」的同好圈。
+    - 📁 **南亚舞师徒** _南亚舞师徒_
+      - 🍃 **卡塔克利科利颜谱** _Kathakali Makeup-and-play Adult_ — 练「卡塔克利科利颜谱」的同好圈。
+      - 🍃 **奥迪西舞成人班** _Odissi Adult Lineages_ — 练「奥迪西舞成人班」的同好圈。
+      - 🍃 **库契普迪成人班** _Kuchipudi Adult Lineages_ — 练「库契普迪成人班」的同好圈。
+      - 🍃 **曼尼普利舞成人班** _Manipuri Dance Adult Circles_ — 练「曼尼普利舞成人班」的同好圈。
+      - 🍃 **莫希尼阿坦成人班** _Mohiniyattam Adult Circles_ — 练「莫希尼阿坦成人班」的同好圈。
+      - 🍃 **雅克萨迦纳夜戏** _Yakshagana Night-play Troupes_ — 练「雅克萨迦纳夜戏」的同好圈。
+    - 🍃 **夏威夷Kahiko胡拉** _Hula kahiko_ — 练「夏威夷Kahiko胡拉」（Hula kahiko）。
+    - 📁 **太平洋身体** _太平洋身体_
+      - 🍃 **夏威夷古呼啦** _Hula Kahiko Adult Halau_ — 练「夏威夷古呼啦」的同好圈。
+      - 🍃 **汤加拉卡拉卡** _Tongan Lakalaka Amateur_ — 练「汤加拉卡拉卡」的同好圈。
+      - 🍃 **萨摩亚西瓦舞** _Samoan Siva Adult Troupes_ — 练「萨摩亚西瓦舞」的同好圈。
+    - 🍃 **威尔士诗乐竞赛合唱舞** _Welsh Eisteddfod Choral Movement Practice_ — 练「威尔士诗乐竞赛合唱舞」的同好圈。
+    - 🍃 **巴塞尔法斯纳赫特鼓笛舞步** _Basel Fasnacht Gugge Dance Steps_ — 练「巴塞尔法斯纳赫特鼓笛舞步」的同好圈。
+    - 🍃 **巴西Forro** _Forró social dance matrices_ — 练「巴西Forro」的同好圈。
+    - 📁 **拉丁补** _拉丁补_
+    - 🍃 **格纳瓦仪式轮舞共练** _Gnawa Lila Ritual Circle Dance_ — 练「格纳瓦仪式轮舞共练」的同好圈。
+    - 📁 **欧洲对舞补** _欧洲对舞补_
+      - 🍃 **匈牙利恰尔达什业余** _Csárdás Amateur Circles_ — 练「匈牙利恰尔达什业余」的同好圈。
+      - 🍃 **波兰马祖卡业余** _Mazurka Amateur Circles_ — 练「波兰马祖卡业余」的同好圈。
+    - 🍃 **盆踊夏祭圆圈共跳** _Bon Odori Summer Circle Dance_ — 练「盆踊夏祭圆圈共跳」的同好圈。
+    - 🍃 **美洲原住民鼓圈公开文化舞** _Powwow Intertribal Drum Circle Dance_ — 练「美洲原住民鼓圈公开文化舞」的同好圈。
+    - 🍃 **莫哈奇布绍面具狂欢队** _Mohacs Buso Masked Carnival Crew_ — 练「莫哈奇布绍面具狂欢队」的同好圈。
+    - 🍃 **莫里斯棍舞季节巡演** _Morris Stick Dance Seasonal Touring_ — 练「莫里斯棍舞季节巡演」的同好圈。
+    - 📁 **身器地舞** _身器地舞_
+    - 🍃 **青森睡魔祭跳人队** _Aomori Nebuta Haneto Dancer Crew_ — 练「青森睡魔祭跳人队」的同好圈。
+    - 📁 **非洲身体补** _非洲身体补_
+      - 🍃 **乌邦图靴舞Gumboot** _Gumboot Dance Amateur Troupes_ — 练「乌邦图靴舞Gumboot」的同好圈。
+      - 🍃 **南非裤子舞Pantsula** _Pantsula Dance Amateur_ — 练「南非裤子舞Pantsula」的同好圈。
+  - 📁 **舞蹈与柔韧** _舞蹈与柔韧_
+    - 📁 **世界舞蹈与表演实践** _World Dance & Performance Practice_
+      - 🍃 **卡塔卡利业余研习** _Kathakali Amateur Study_ — 练「卡塔卡利业余研习」的同好圈。
+      - 🍃 **昆比亚舞习** _Cumbia Dance Practice_ — 练「昆比亚舞习」（Cumbia Dance Practice）。
+      - 🍃 **毛利彩球Poi** _Māori Poi Performance_ — 练「毛利彩球Poi」的同好圈。
+      - 🍃 **达布卡舞** _Dabke_ — 练「达布卡舞」（Dabke）。
+    - 📁 **全球南武术与身体实践** _Global South Martial & Body Practices_
+      - 🍃 **印尼Pencak Silat短打武术** _Pencak Silat_ — 练「印尼Pencak Silat短打武术」的同好圈。
+      - 🍃 **印度Kalaripayattu卡拉里** _Kalaripayattu_ — 练「印度Kalaripayattu卡拉里」的同好圈。
+      - 🍃 **塞内加尔Laamb摔跤** _Senegalese Laamb Wrestling_ — 练「塞内加尔Laamb摔跤」的同好圈。
+      - 🍃 **尼日利亚Dambe传统拳击** _Dambe Traditional Boxing_ — 练「尼日利亚Dambe传统拳击」的同好圈。
+      - 🍃 **巴西Capoeira卡波耶拉** _Capoeira_ — 练「巴西Capoeira卡波耶拉」（Capoeira）。
+      - 🍃 **巴西柔术业余馆训** _Brazilian Jiu-Jitsu Amateur Training_ — 练「巴西柔术业余馆训」的同好圈。
+      - 🍃 **泰国Muay Thai泰拳业余** _Amateur Muay Thai_ — 练「泰国Muay Thai泰拳业余」的同好圈。
+      - 🍃 **菲律宾Arnis短棍术** _Arnis / Eskrima / Kali_ — 练「菲律宾Arnis短棍术」的同好圈。
+    - 📁 **全球南舞蹈与节庆身体** _Global South Dance & Festive Body Arts_
+      - 🍃 **印度Bharatanatyam业余传习** _Bharatanatyam Amateur Learning_ — 练「印度Bharatanatyam业余传习」的同好圈。
+      - 🍃 **古巴萨尔萨与赌场舞Casino** _Cuban Casino / Salsa Social Dance_ — 练「古巴萨尔萨与赌场舞Casino」的同好圈。
+      - 🍃 **夏威夷Hula呼拉舞蹈社群** _Hawaiian Hula Dance Halau_ — 练「夏威夷Hula呼拉舞蹈社群」的同好圈。
+      - 🍃 **巴西Frevo累西腓狂欢舞** _Brazilian Frevo Dance_ — 练「巴西Frevo累西腓狂欢舞」的同好圈。
+      - 🍃 **探戈社交舞Milonga场景** _Tango Social Dancing / Milonga_ — 练「探戈社交舞Milonga场景」的同好圈。
+      - 🍃 **斐济Meke歌舞社群** _Fijian Meke Dance_ — 练「斐济Meke歌舞社群」（Fijian Meke Dance）。
+    - 🍃 **农乐舞队训练** _Nongak Community Dance Practice_ — 练「农乐舞队训练」的同好圈。
+    - 🍃 **卡尔贝利亚蛇形舞共练** _Kalbelia Dance Practice_ — 练「卡尔贝利亚蛇形舞共练」的同好圈。
+    - 🍃 **卡提亚克节庆展演团** _Kathak Festival Performance Troupes_ — 练「卡提亚克节庆展演团」的同好圈。
+    - 📁 **即兴传习** _Improv Transmission_
+    - 🍃 **古吉拉特加尔巴舞圈** _Garba of Gujarat Dance Circles_ — 练「古吉拉特加尔巴舞圈」的同好圈。
+    - 🍃 **巴厘岛Kecak火圈合唱** _Balinese Kecak Fire-circle Chorus_ — 练「巴厘岛Kecak火圈合唱」的同好圈。
+    - 🍃 **巴厘巴龙舞社群排练** _Balinese Barong Dance Troupe Rehearsal_ — 练「巴厘巴龙舞社群排练」的同好圈。
+    - 🍃 **布列塔尼Fest-noz集体舞** _Fest-Noz_ — 练「布列塔尼Fest-noz集体舞」（Fest-Noz）。
+    - 🍃 **弗拉门戈掌击节奏班** _Flamenco Palmas Rhythm Classes_ — 练「弗拉门戈掌击节奏班」的同好圈。
+    - 🍃 **弗雷沃狂欢舞训练** _Frevo Carnival Dance Practice_ — 练「弗雷沃狂欢舞训练」的同好圈。
+    - 🍃 **恰乌面具舞训练** _Chhau Mask Dance Practice_ — 练「恰乌面具舞训练」的同好圈。
+    - 📁 **扁带与平衡** _Webbing & Balance_
+      - 🍃 **花样扁带Trickline** _Trickline Bouncing Slackline_ — 练「花样扁带Trickline」的同好圈。
+    - 🍃 **扎乌利面具舞社群** _Zaouli Mask Dance Communities_ — 练「扎乌利面具舞社群」的同好圈。
+    - 📁 **抛接与旋转** _Toss & Spin_
+      - 🍃 **接触抛球ContactJuggle** _Contact Juggling Isolation_ — 练「接触抛球ContactJuggle」的同好圈。
+      - 🍃 **溜溜球IYYF** _IYYF Yo-yo Contests_ — 练「溜溜球IYYF」（IYYF Yo-yo Contests）。
+      - 🍃 **火舞Poi旋转** _Poi Spinning Fire-art Circles_ — 练「火舞Poi旋转」的同好圈。
+    - 🍃 **接触即兴** _Contact Improvisation_ — 练「接触即兴」（Contact Improvisation）。
+    - 📁 **柔韧补** _柔韧补_
+    - 📁 **欧美民俗传统舞蹈** _Euro-NA Folk Traditional Dance_
+      - 🍃 **对舞Contra** _Contra Dance Evenings_ — 练「对舞Contra」的同好圈。
+      - 🍃 **美国方形舞Caller** _Square-dance Caller Circles_ — 练「美国方形舞Caller」的同好圈。
+      - 🍃 **苏格兰高地舞** _Scottish Highland Dancing_ — 练「苏格兰高地舞」的同好圈。
+    - 📁 **民俗舞艺与流艺** _Folk Dance and Flow Arts_
+      - 🍃 **英格兰乡村舞ECD** _English Country Dance_ — 练「英格兰乡村舞ECD」的同好圈。
+    - 🍃 **爱尔兰Feis踢踏赛会** _Irish Competitive Step Dance Feis Circuits_ — 练「爱尔兰Feis踢踏赛会」的同好圈。
+    - 📁 **社交舞细分** _Social-dance Splits_
+      - 🍃 **基兹巴Kizomba** _Kizomba Social Dance Nights_ — 练「基兹巴Kizomba」的同好圈。
+      - 🍃 **巴西佐克Zouk** _Brazilian Zouk Dance Scenes_ — 练「巴西佐克Zouk」的同好圈。
+      - 🍃 **阿根廷探戈Salon** _Salon-style Argentine Tango Milongas_ — 练「阿根廷探戈Salon」的同好圈。
+    - 🍃 **神乐里神乐社传习** _Kagura Shrine Troupe Transmission_ — 练「神乐里神乐社传习」的同好圈。
+    - 🍃 **科洛手拉手环舞** _Kolo Hand-linked Circle Dance_ — 练「科洛手拉手环舞」的同好圈。
+    - 🍃 **秩父夜祭屋台踊协作** _Chichibu Night Festival Float Dance Crew_ — 练「秩父夜祭屋台踊协作」的同好圈。
+    - 📁 **空中与轮具** _Aerial & Wheels_
+      - 🍃 **德国轮GermanWheel** _German Wheel Rhönrad Sport_ — 练「德国轮GermanWheel」的同好圈。
+      - 🍃 **空中 hoop 钢圈** _Lyra Aerial Hoop Circles_ — 练「空中 hoop 钢圈」的同好圈。
+      - 🍃 **钢管运动IPSF** _IPSF Pole Sports Amateur_ — 练「钢管运动IPSF」的同好圈。
+    - 🍃 **菲律宾Tinikling竹竿舞** _Tinikling Bamboo Dance Groups_ — 练「菲律宾Tinikling竹竿舞」的同好圈。
+    - 🍃 **萨曼坐式节奏舞团** _Saman Seated Dance Groups_ — 练「萨曼坐式节奏舞团」的同好圈。
+    - 📁 **被误认为宗教的身** _Bodies Mistaken for Religion_
+      - 🍃 **苏菲旋转舞业余** _Sufi Whirling Practice Circles_ — 练「苏菲旋转舞业余」的同好圈。
+    - 📁 **认证路径杂耍** _Credentialed Circus_
+    - 📁 **认证路径柔** _Credentialed Mobility_
+    - 🍃 **跆跟节令社群练习** _Taekkyeon Seasonal Community Practice_ — 练「跆跟节令社群练习」的同好圈。
+  - 📁 **身体觉察与舞踏** _身体觉察与舞踏_
+    - 📁 **反主流身** _反主流身_
+      - 🍃 **舞踏业余稽古** _Butoh Amateur Keiko_ — 练「舞踏业余稽古」（Butoh Amateur Keiko）。
+    - 🍃 **费登奎斯方法** _Feldenkrais Method_ — 练「费登奎斯方法」（Feldenkrais Method）。
+- 🍃 **泰拳Muay boran复原** _Muay Boran Revival_ — 练「泰拳Muay boran复原」的同好圈。
+- 🍃 **布列塔尼Gouren摔跤** _Gouren Breton Wrestling_ — 练「布列塔尼Gouren摔跤」的同好圈。
+- 🍃 **苏格兰高地运动会** _Scottish Highland Games_ — 练「苏格兰高地运动会」的同好圈。
+- 🍃 **意大利木棍Bastone** _Italian Stick Fighting Bastone_ — 练「意大利木棍Bastone」的同好圈。
+- 🍃 **parkrun社区五公里** _parkrun_ — 练「parkrun社区五公里」（parkrun）。
+- 🍃 **美国大师游泳** _U.S. Masters Swimming_ — 练「美国大师游泳」（U.S. Masters Swimming）。
+- 🍃 **大东流合气柔术业余** _Daito-ryu Aiki-jujutsu_ — 练「大东流合气柔术业余」的同好圈。
+- 🍃 **新阴流兵法业余** _Shinkage-ryu Study Groups_ — 练「新阴流兵法业余」的同好圈。
+- 🍃 **Pekiti-Tirsia Kali** _Pekiti-Tirsia Kali_ — 练「Pekiti-Tirsia Kali」的同好圈。
+- 🍃 **现代Arnis业余** _Modern Arnis_ — 练「现代Arnis业余」（Modern Arnis）。
+- 📁 **动手制作与电子** _Making & Electronics_
+  - 📁 **3D打印与数控** _3D打印与数控_
+    - 📁 **反主流材料** _反主流材料_
+    - 📁 **数控补** _数控补_
+    - 📁 **数控补2** _数控补2_
+    - 📁 **机床传习** _Machine Transmission_
+    - 📁 **材料打印机伦理** _Printer Material Ethics_
+    - 📁 **欧美创客机床** _Euro-NA Machines_
+      - 🍃 **社区机床FabLab欧** _European FabLab Machine Circles_ — DIY「社区机床FabLab欧」的同好圈。
+    - 📁 **补洞数控** _Gap CNC_
+    - 📁 **被误认为工厂的模** _Molds Mistaken for Factory_
+      - 🍃 **失蜡法首饰浇铸** _Lost-wax Jewelry Casting Clubs_ — DIY「失蜡法首饰浇铸」的同好圈。
+      - 🍃 **砂型铸铝车库** _Garage Sand-casting Aluminum_ — DIY「砂型铸铝车库」的同好圈。
+    - 📁 **认证路径机床** _Credentialed CNC_
+  - 📁 **单片机与嵌入式** _单片机与嵌入式_
+    - 📁 **传习田野** _传习田野_
+    - 📁 **反主流硬件** _反主流硬件_
+    - 📁 **固件传习** _Firmware Transmission_
+      - 🍃 **Arduino固件学徒营** _Arduino Firmware Apprentice Camps_ — DIY「Arduino固件学徒营」的同好圈。
+      - 🍃 **RISC-V业余开发板** _RISC-V Hobby Development Boards_ — DIY「RISC-V业余开发板」的同好圈。
+      - 🍃 **逻辑分析仪固件** _Logic-analyzer Firmware Hacking Circles_ — DIY「逻辑分析仪固件」的同好圈。
+    - 📁 **安全路径** _Safety Pathways_
+    - 📁 **嵌入补** _嵌入补_
+    - 📁 **嵌入补2** _嵌入补2_
+    - 📁 **补洞嵌入** _Gap Embedded_
+    - 📁 **被误认为工厂的仪** _Instruments Mistaken for Factory_
+      - 🍃 **自建地震仪网络** _Home Seismograph Station Nets_ — DIY「自建地震仪网络」的同好圈。
+    - 📁 **键盘固件与改装** _Keyboard Firmware & Mods_
+      - 🍃 **QMK固件定制** _QMK Firmware_ — DIY「QMK固件定制」（QMK Firmware）。
+      - 🍃 **ZMK无线键盘固件** _ZMK Firmware_ — DIY「ZMK无线键盘固件」（ZMK Firmware）。
+      - 🍃 **机械键盘轴体润滑** _Switch Lubing_ — DIY「机械键盘轴体润滑」（Switch Lubing）。
+  - 📁 **无线电与业余电台** _无线电与业余电台_
+    - 🍃 **CWops摩尔斯操作与学院** _CWops CW Operating & Academy_ — DIY「CWops摩尔斯操作与学院」的同好圈。
+    - 📁 **HAM补** _HAM补_
+    - 📁 **HAM补2** _HAM补2_
+    - 📁 **QRP与低功率** _QRP & Low Power_
+      - 🍃 **ARRL手持与便携操作** _ARRL Portable Ops_ — DIY「ARRL手持与便携操作」的同好圈。
+      - 🍃 **Parks On The Air** _POTA_ — DIY「Parks On The Air」（POTA）。
+      - 🍃 **QRP Labs实验电台** _QRP Labs_ — DIY「QRP Labs实验电台」（QRP Labs）。
+      - 🍃 **Summits On The Air** _SOTA_ — DIY「Summits On The Air」（SOTA）。
+    - 🍃 **六米波段业余操作** _50 MHz Six Metre Amateur Operation_ — DIY「六米波段业余操作」的同好圈。
+    - 📁 **反主流频谱** _反主流频谱_
+    - 📁 **图像月面与卫星** _SSTV EME and Amateur Satellite_
+      - 🍃 **AMSAT业余卫星** _AMSAT Amateur Satellite_ — DIY「AMSAT业余卫星」的同好圈。
+      - 🍃 **SSTV慢扫描电视** _Amateur SSTV_ — DIY「SSTV慢扫描电视」（Amateur SSTV）。
+    - 🍃 **城堡业余电台启动WCA** _Castles On The Air (WCA)_ — DIY「城堡业余电台启动WCA」的同好圈。
+    - 📁 **天线传习** _Antenna Transmission_
+    - 📁 **奖赏与激活项目** _Award & Activation Programs_
+      - 🍃 **IOTA岛上业余电台激活** _Islands On The Air_ — DIY「IOTA岛上业余电台激活」的同好圈。
+      - 🍃 **WWFF动植物保护区电台激活** _World Wide Flora & Fauna_ — DIY「WWFF动植物保护区电台激活」的同好圈。
+    - 📁 **执照路径** _License Pathways_
+      - 🍃 **业余无线电执照考班** _Amateur Radio License Study Classes_ — DIY「业余无线电执照考班」的同好圈。
+      - 🍃 **志愿考官VE团队** _Volunteer Examiner Teams_ — DIY「志愿考官VE团队」的同好圈。
+    - 🍃 **FISTS摩尔斯电码保存** _FISTS Morse Code Preservation_ — DIY「FISTS摩尔斯电码保存」的同好圈。
+    - 📁 **数字与传习** _Digital & Transmission_
+      - 🍃 **CW高时速拷贝** _High-speed CW Copy Practice_ — DIY「CW高时速拷贝」的同好圈。
+      - 🍃 **D-STAR数字语音中继** _D-STAR Digital Voice Repeaters_ — DIY「D-STAR数字语音中继」的同好圈。
+    - 📁 **材料天线** _Material Antennas_
+    - 📁 **欧美HAM社** _Euro-NA Ham Clubs_
+      - 🍃 **ARRL地方无线电社** _ARRL Affiliated Club Nets_ — DIY「ARRL地方无线电社」的同好圈。
+      - 🍃 **RSGB地方无线电社** _RSGB Local Radio Societies_ — DIY「RSGB地方无线电社」的同好圈。
+    - 🍃 **澳大利亚电子管收音机修复** _Historical Radio Society of Australia_ — DIY「澳大利亚电子管收音机修复」的同好圈。
+    - 🍃 **灯塔业余电台启动** _Amateur Radio Lighthouse Activating_ — DIY「灯塔业余电台启动」的同好圈。
+    - 📁 **身器地天线** _身器地天线_
+    - 🍃 **野外日架台志愿周末** _Amateur Radio Field Day Setup Weekend_ — DIY「野外日架台志愿周末」的同好圈。
+    - 📁 **频谱与模式实践** _Spectrum & Mode Practices_
+      - 🍃 **BATC业余电视传输实践** _Amateur Television (BATC)_ — DIY「BATC业余电视传输实践」的同好圈。
+      - 🍃 **BrandMeister数字中继网实践** _BrandMeister DMR Networking_ — DIY「BrandMeister数字中继网实践」的同好圈。
+      - 🍃 **EME地月反射通信实践** _EME Moonbounce Communication_ — DIY「EME地月反射通信实践」的同好圈。
+      - 🍃 **IARU频谱守护与联合会实务** _IARU Spectrum Advocacy Practice_ — DIY「IARU频谱守护与联合会实务」的同好圈。
+      - 🍃 **JARL日本业余无线联盟实践** _JARL Amateur Radio Practice_ — DIY「JARL日本业余无线联盟实践」的同好圈。
+      - 🍃 **KiwiSDR公开接收机网络** _KiwiSDR Public Receiver Network_ — DIY「KiwiSDR公开接收机网络」的同好圈。
+      - 🍃 **QRPARCI低功率俱乐部实践** _QRP Amateur Radio Club International_ — DIY「QRPARCI低功率俱乐部实践」的同好圈。
+      - 🍃 **RSGB英国业余无线电实践** _RSGB Amateur Radio Practice_ — DIY「RSGB英国业余无线电实践」的同好圈。
+      - 🍃 **WSJT数字弱信号模式操作** _WSJT Weak-Signal Digital Modes_ — DIY「WSJT数字弱信号模式操作」的同好圈。
+      - 🍃 **WSPR弱信号传播报告网** _WSPR Propagation Reporting_ — DIY「WSPR弱信号传播报告网」的同好圈。
+      - 🍃 **业余卫星QO-100操作实践** _QO-100 Geostationary Amateur Satellite Ops_ — DIY「业余卫星QO-100操作实践」的同好圈。
+      - 🍃 **反向信标网RBN听测** _Reverse Beacon Network Skimming_ — DIY「反向信标网RBN听测」的同好圈。
+      - 🍃 **直键CW世纪俱乐部实践** _Straight Key Century Club CW_ — DIY「直键CW世纪俱乐部实践」的同好圈。
+      - 🍃 **短波广播收听NASWA实践** _NASWA Shortwave Listening_ — DIY「短波广播收听NASWA实践」的同好圈。
+      - 🍃 **英国业余高空气球HAB** _UKHAS High-Altitude Ballooning_ — DIY「英国业余高空气球HAB」的同好圈。
+      - 🍃 **英国微波业余电台实践** _UK Microwave Group Practice_ — DIY「英国微波业余电台实践」的同好圈。
+    - 📁 **风险边缘电** _风险边缘电_
+    - 🍃 **高空气球载荷跟踪业余** _HAB Payload Tracking Hobby_ — DIY「高空气球载荷跟踪业余」的同好圈。
+  - 📁 **无线电频谱实践** _无线电频谱实践_
+    - 📁 **听音与自然无线电** _Listening & Natural Radio_
+      - 🍃 **时间信号台DX** _Time-signal Station DXing_ — DIY「时间信号台DX」的同好圈。
+      - 🍃 **晶体检波收音机DX** _Crystal-set DX Listening_ — DIY「晶体检波收音机DX」的同好圈。
+      - 🍃 **流星散射通信** _Meteor-scatter Amateur Comms_ — DIY「流星散射通信」的同好圈。
+      - 🍃 **甚低频哨声监听** _VLF Natural Radio Whistlers_ — DIY「甚低频哨声监听」的同好圈。
+    - 📁 **感官频谱** _感官频谱_
+    - 📁 **测向与弱信号** _Direction Finding & Weak Signal_
+    - 📁 **频谱补** _频谱补_
+    - 📁 **频谱补2** _频谱补2_
+- 🍃 **美国实验飞机协会EAA** _Experimental Aircraft Association_ — DIY「美国实验飞机协会EAA」的同好圈。
+- 🍃 **复古计算机节VCF** _Vintage Computer Festival_ — DIY「复古计算机节VCF」的同好圈。
+- 🍃 **美国业余无线电联盟ARRL** _ARRL Amateur Radio_ — DIY「美国业余无线电联盟ARRL」的同好圈。
+- 🍃 **差分机复原建造** _Difference Engine Recreation_ — DIY「差分机复原建造」的同好圈。
+- 🍃 **尼克斯管时钟制作** _Nixie Tube Clock Building_ — DIY「尼克斯管时钟制作」的同好圈。
+- 🍃 **真空管音频DIY社** _Vacuum Tube Audio DIY_ — DIY「真空管音频DIY社」的同好圈。
+- 🍃 **电子刺绣与导电织物** _E-textiles Conductive Embroidery_ — DIY「电子刺绣与导电织物」的同好圈。
+- 🍃 **编织机程序打孔带复原** _Punched-card Knitting Machine Hacking_ — DIY「编织机程序打孔带复原」的同好圈。
+- 🍃 **特斯拉线圈业余安全圈** _Tesla Coil Building Clubs_ — DIY「特斯拉线圈业余安全圈」的同好圈。
+- 🍃 **静电起电机Wimshurst复原** _Wimshurst Machine Recreation_ — DIY「静电起电机Wimshurst复原」的同好圈。
+- 📁 **动植物饲养与园艺** _Keeping Plants & Animals_
+  - 📁 **专项园艺展评** _Specialty Horticulture Shows_
+    - 🍃 **北美大丽花协会展评** _American Dahlia Society Shows_ — 养「北美大丽花协会展评」的同好圈。
+    - 🍃 **北美鸢尾协会分会** _American Iris Society Chapters_ — 养「北美鸢尾协会分会」的同好圈。
+    - 🍃 **英国信鸽竞翔协会** _Royal Pigeon Racing Association_ — 养「英国信鸽竞翔协会」的同好圈。
+    - 🍃 **英国高山植物协会** _Alpine Garden Society_ — 养「英国高山植物协会」的同好圈。
+  - 📁 **原生植物与种子保存** _Native Plants & Seed Saving_
+    - 🍃 **American Bonsai Society** _American Bonsai Society_ — 养「American Bonsai Society」的同好圈。
+    - 🍃 **American Community Gardening Association** _American Community Gardening Association_ — 「American Community Gardening Associatio
+    - 🍃 **American Orchid Society** _American Orchid Society_ — 养「American Orchid Society」的同好圈。
+    - 🍃 **American Rose Society** _American Rose Society_ — 养「American Rose Society」的同好圈。
+    - 🍃 **California Native Plant Society** _California Native Plant Society_ — 养「California Native Plant Society」的同好圈。
+    - 🍃 **Hardy Plant Society英美** _Hardy Plant Society_ — 养「Hardy Plant Society英美」的同好圈。
+    - 🍃 **Native Plant Trust新英格兰** _Native Plant Trust_ — 养「Native Plant Trust新英格兰」的同好圈。
+  - 📁 **水族与爬宠** _水族与爬宠_
+    - 📁 **传习水** _传习水_
+    - 📁 **水族细分** _水族细分_
+      - 🍃 **七彩神仙鱼品评** _Discus Showing Circles_ — 养「七彩神仙鱼品评」的同好圈。
+      - 🍃 **金鱼兰寿品评** _Ranchu Goldfish Showing_ — 养「金鱼兰寿品评」的同好圈。
+    - 📁 **水族补2** _水族补2_
+    - 📁 **水质传习** _Water-chem Transmission_
+    - 📁 **造景水族** _Aquascaping_
+      - 🍃 **ADA自然水族造景** _Nature Aquarium ADA_ — 养「ADA自然水族造景」的同好圈。
+      - 🍃 **Iwagumi岩景** _Iwagumi Aquascape_ — 养「Iwagumi岩景」（Iwagumi Aquascape）。
+      - 🍃 **荷兰式水族造景** _Dutch Aquascaping_ — 养「荷兰式水族造景」（Dutch Aquascaping）。
+    - 🍃 **锦鲤品评会季节评审** _Koi Show Seasonal Judging Circuit_ — 养「锦鲤品评会季节评审」的同好圈。
+    - 📁 **龟与两栖细分** _龟与两栖细分_
+  - 📁 **水族爬宠与菌菇** _Aquaria Herps & Mycology_
+    - 🍃 **American Ferret Association** _American Ferret Association_ — 养「American Ferret Association」的同好圈。
+    - 🍃 **Associated Koi Clubs of America** _Associated Koi Clubs of America_ — 养「Associated Koi Clubs of America」的同好圈。
+    - 🍃 **MASNA海水水族** _Marine Aquarium Societies of North America_ — 养「MASNA海水水族」的同好圈。
+    - 🍃 **Project FeederWatch观鸟喂食器** _Project FeederWatch_ — 养「Project FeederWatch观鸟喂食器」的同好圈。
+  - 📁 **犬猫与小宠** _犬猫与小宠_
+    - 📁 **传习训地** _传习训地_
+      - 🍃 **牧羊犬试验田** _Sheepdog Trial Fields Amateur_ — 养「牧羊犬试验田」的同好圈。
+    - 📁 **家禽庭院饲养** _Backyard Poultry_
+      - 🍃 **城市养蜂业余** _Urban Beekeeping_ — 养「城市养蜂业余」（Urban Beekeeping）。
+    - 📁 **小宠补2** _小宠补2_
+    - 📁 **展评与训** _展评与训_
+      - 🍃 **豚鼠展评ACBA** _ACBA Cavy Showing_ — 养「豚鼠展评ACBA」（ACBA Cavy Showing）。
+      - 🍃 **金丝雀歌唱赛** _Canary Song Contests_ — 养「金丝雀歌唱赛」（Canary Song Contests）。
+    - 🍃 **猫展评协会周末展** _Cat Fancy Weekend Championship Show_ — 养「猫展评协会周末展」的同好圈。
+    - 📁 **认证路径训** _Credentialed Training_
+  - 📁 **禽畜与蜂业** _禽畜与蜂业_
+    - 🍃 **世界养蜂大会参会社群** _Apimondia World Beekeeping Congress_ — 养「世界养蜂大会参会社群」的同好圈。
+    - 📁 **传习蜂地** _传习蜂地_
+    - 🍃 **信鸽协会放飞典礼** _Racing Pigeon Club Liberation Ceremony_ — 养「信鸽协会放飞典礼」的同好圈。
+    - 🍃 **信鸽竞翔** _Pigeon Racing_ — 养「信鸽竞翔」（Pigeon Racing）。
+    - 🍃 **家兔展评（ARBA）** _Rabbit Showing (ARBA)_ — 养「家兔展评（ARBA）」的同好圈。
+    - 📁 **欧美禽畜展** _Euro-NA Stock Shows_
+      - 🍃 **县集市家禽展评** _County-fair Poultry Showing_ — 养「县集市家禽展评」的同好圈。
+    - 📁 **畜补2** _畜补2_
+    - 🍃 **美国养蜂联合会年会** _American Beekeeping Federation Conference_ — 养「美国养蜂联合会年会」的同好圈。
+    - 📁 **认证路径蜂** _Credentialed Bee_
+    - 📁 **迷你畜与蜂** _迷你畜与蜂_
+      - 🍃 **无刺蜂蜜罐** _Stingless-bee Pot-honey Keeping_ — 养「无刺蜂蜜罐」的同好圈。
+    - 🍃 **鹌鹑庭院饲养** _Quail Keeping_ — 养「鹌鹑庭院饲养」（Quail Keeping）。
+  - 📁 **禽畜保育品种** _Heritage Livestock Keeping_
+    - 🍃 **Alpaca Owners Association** _Alpaca Owners Association_ — 养「Alpaca Owners Association」的同好圈。
+    - 🍃 **American Guinea Pig Breeders** _American Cavy Breeders Association_ — 养「American Guinea Pig Breeders」的同好圈。
+    - 🍃 **American Poultry Association** _American Poultry Association_ — 养「American Poultry Association」的同好圈。
+    - 🍃 **National Pigeon Association** _National Pigeon Association_ — 养「National Pigeon Association」的同好圈。
+    - 🍃 **Rare Breeds Survival Trust** _Rare Breeds Survival Trust_ — 养「Rare Breeds Survival Trust」的同好圈。
+    - 🍃 **The Livestock Conservancy** _The Livestock Conservancy_ — 养「The Livestock Conservancy」的同好圈。
+  - 📁 **观赏植物与园艺** _观赏植物与园艺_
+    - 📁 **专类植物协会** _专类植物协会_
+      - 🍃 **冬青协会Holly** _Holly Society of America_ — 养「冬青协会Holly」的同好圈。
+      - 🍃 **北美岩园协会** _North American Rock Garden Society_ — 养「北美岩园协会」的同好圈。
+      - 🍃 **国际凤梨科协会** _Bromeliad Society International_ — 养「国际凤梨科协会」的同好圈。
+      - 🍃 **国际橡树协会** _International Oak Society_ — 养「国际橡树协会」的同好圈。
+      - 🍃 **木兰协会** _Magnolia Society International_ — 养「木兰协会」的同好圈。
+      - 🍃 **美洲芍药协会展评** _American Peony Society Showing_ — 养「美洲芍药协会展评」的同好圈。
+      - 🍃 **美洲蕨类协会** _American Fern Society Members_ — 养「美洲蕨类协会」的同好圈。
+      - 🍃 **美洲针叶树协会** _American Conifer Society_ — 养「美洲针叶树协会」的同好圈。
+      - 🍃 **美洲鸢尾协会展评** _American Iris Society Showing_ — 养「美洲鸢尾协会展评」的同好圈。
+      - 🍃 **苦苣苔科协会** _Gesneriad Society Circles_ — 养「苦苣苔科协会」的同好圈。
+      - 🍃 **萱草协会展评** _American Hemerocallis Society Showing_ — 养「萱草协会展评」的同好圈。
+    - 📁 **专类花卉社** _专类花卉社_
+      - 🍃 **杜鹃酸性土社** _Rhododendron Acid-soil Societies_ — 养「杜鹃酸性土社」的同好圈。
+      - 🍃 **睡莲缸深水栽培** _Waterlily Deep-tub Culture_ — 养「睡莲缸深水栽培」的同好圈。
+      - 🍃 **茶花品种登录** _Camellia Cultivar Registration Circles_ — 养「茶花品种登录」的同好圈。
+    - 🍃 **中国盆景Penjing** _Chinese penjing_ — 养「中国盆景Penjing」（Chinese penjing）。
+    - 📁 **传习地** _传习地_
+    - 🍃 **切尔西花展志愿执勤** _RHS Chelsea Flower Show Volunteering_ — 养「切尔西花展志愿执勤」的同好圈。
+    - 📁 **多肉繁殖** _Succulent Propagation_
+      - 🍃 **国际多肉协会爱好者** _CSSA Enthusiasts_ — 养「国际多肉协会爱好者」（CSSA Enthusiasts）。
+    - 📁 **季节循环园** _季节循环园_
+    - 📁 **植物补2** _植物补2_
+    - 📁 **欧美园艺社** _Euro-NA Garden Societies_
+    - 🍃 **盆景协会全国展评会** _National Bonsai Exhibition Society Show_ — 养「盆景协会全国展评会」的同好圈。
+    - 📁 **砧木传习** _Rootstock Transmission_
+    - 🍃 **社区农园周末共作日** _Community Garden Weekend Workday_ — 养「社区农园周末共作日」的同好圈。
+    - 🍃 **种子交换会季节集市** _Community Seed Swap Seasonal Fair_ — 养「种子交换会季节集市」的同好圈。
+    - 🍃 **美国县级农集市园艺评奖** _US County Fair Horticulture Judging_ — 养「美国县级农集市园艺评奖」的同好圈。
+    - 📁 **花道专类** _花道专类_
+      - 🍃 **草月流花道业余** _Sogetsu Ikebana Amateur_ — 养「草月流花道业余」的同好圈。
+    - 📁 **苔与石** _苔与石_
+      - 🍃 **水石鉴赏会** _Suiseki Viewing-stone Societies_ — 养「水石鉴赏会」的同好圈。
+      - 🍃 **苔玉球制作社** _Kokedama Ball-making Circles_ — 养「苔玉球制作社」的同好圈。
+    - 📁 **被误认为林业的形** _Shapes Mistaken for Forestry_
+      - 🍃 **拓扑修剪Topiary** _Topiary Sculpture Clipping_ — 养「拓扑修剪Topiary」的同好圈。
+      - 🍃 **树艺造形Espalier** _Espalier Fruit-tree Training_ — 养「树艺造形Espalier」的同好圈。
+      - 🍃 **迷宫树篱设计** _Hedge-maze Design Hobby_ — 养「迷宫树篱设计」的同好圈。
+    - 📁 **认证路径园** _Credentialed Garden_
+  - 📁 **陆生宠物与昆虫** _陆生宠物与昆虫_
+    - 🍃 **两栖生态缸（蝾螈等）** _Amphibian Vivaria (Caudata)_ — 养「两栖生态缸（蝾螈等）」的同好圈。
+    - 🍃 **养蚁（Formiculture）** _Antkeeping / Formiculture_ — 养「养蚁（Formiculture）」的同好圈。
+    - 🍃 **养蚁爱好者年聚会** _Formiculture Hobbyist Annual Meetup_ — 养「养蚁爱好者年聚会」的同好圈。
+    - 📁 **反主流养** _反主流养_
+    - 📁 **昆虫补2** _昆虫补2_
+    - 🍃 **潮虫 / 鼠妇饲育** _Isopod Keeping_ — 养「潮虫 / 鼠妇饲育」（Isopod Keeping）。
+    - 🍃 **竹节虫饲育** _Stick Insect Keeping_ — 养「竹节虫饲育」（Stick Insect Keeping）。
+    - 🍃 **豹纹守宫 Morph 繁育圈** _Leopard Gecko Morph Breeding_ — 养「豹纹守宫 Morph 繁育圈」的同好圈。
+    - 📁 **鞘翅饲育** _鞘翅饲育_
+    - 📁 **风险边缘养** _风险边缘养_
+    - 📁 **鸣虫与蚕桑** _鸣虫与蚕桑_
+      - 🍃 **家蚕小簇上簇** _Home Silkworm Cocooning Circles_ — 养「家蚕小簇上簇」的同好圈。
+- 📁 **专类植物社群** _Specialty Plant Societies_
+  - 🍃 **兰花栽培（AOS 体系）** _Orchid Growing (AOS)_ — 养「兰花栽培（AOS 体系）」的同好圈。
+  - 🍃 **食虫植物栽培** _Carnivorous Plant Growing_ — 养「食虫植物栽培」的同好圈。
+- 🍃 **原生植物园艺** _Native Plant Gardening_ — 养「原生植物园艺」的同好圈。
+- 🍃 **盆景造型与展评** _Bonsai Practice & Exhibitions_ — 养「盆景造型与展评」的同好圈。
+- 🍃 **种子保存与交换** _Seed Saving & Swaps_ — 养「种子保存与交换」（Seed Saving & Swaps）。
+- 🍃 **菌菇野外识别社群** _Mycology Foraying Clubs_ — 养「菌菇野外识别社群」的同好圈。
+- 🍃 **美国州级fair园艺竞赛** _State Fair Horticulture Contests_ — 养「美国州级fair园艺竞赛」的同好圈。
+- 🍃 **英国皇家园艺学会地方分会** _RHS Affiliated Societies_ — 养「英国皇家园艺学会地方分会」的同好圈。
+- 🍃 **溪流缸 / 河川缸** _River Aquarium / Stream Tank_ — 养「溪流缸 / 河川缸」的同好圈。
+- 📁 **造景与虾蟹** _Aquascape & Invert Tanks_
+  - 🍃 **IAPLC 国际水草造景大赛** _IAPLC Aquascaping Contest_ — 养「IAPLC 国际水草造景大赛」的同好圈。
+  - 🍃 **水晶虾 / 蜜蜂虾饲育** _Crystal Red / Bee Shrimp Keeping_ — 养「水晶虾 / 蜜蜂虾饲育」的同好圈。
+  - 🍃 **海水礁岩生态缸** _Reef Aquarium Keeping_ — 养「海水礁岩生态缸」的同好圈。
+- 🍃 **锦鲤饲育与品评** _Koi Keeping & Showing_ — 养「锦鲤饲育与品评」的同好圈。
+- 🍃 **英国养蜂人协会BBKA** _British Beekeepers Association_ — 养「英国养蜂人协会BBKA」的同好圈。
+- 🍃 **加拿大养鸽爱好协会** _Canadian Pigeon Fanciers Association_ — 养「加拿大养鸽爱好协会」的同好圈。
+- 📁 **口传与行会技艺** _Oral Tradition & Guild Crafts_
+  - 📁 **乐舞传习**
+    - 🍃 **保加利亚女声开放喉合唱** _Bulgarian Open-throat Women Choir Hobby_ — 学艺「保加利亚女声开放喉合唱」的同好圈。
+    - 🍃 **印尼佳美兰村社合奏学徒** _Village Gamelan Apprentice Seats_ — 学艺「印尼佳美兰村社合奏学徒」的同好圈。
+    - 🍃 **巴厘 Kecak 人声节奏合唱** _Balinese Kecak Chorus Practice_ — 学艺「巴厘 Kecak 人声节奏合唱」的同好圈。
+    - 🍃 **格鲁吉亚复调合唱村社** _Georgian Polyphonic Village Choirs_ — 学艺「格鲁吉亚复调合唱村社」的同好圈。
+    - 🍃 **科西嘉多声部Paghjella** _Corsican Paghjella Polyphony Circles_ — 学艺「科西嘉多声部Paghjella」的同好圈。
+  - 📁 **口传叙事**
+    - 🍃 **中国评书鼓书票友社** _Chinese Pingshu & Drum-song Ticket Clubs_ — 学艺「中国评书鼓书票友社」的同好圈。
+    - 🍃 **夏威夷奥利颂诗业余班** _Hawaiian Oli Chant Classes_ — 学艺「夏威夷奥利颂诗业余班」的同好圈。
+    - 🍃 **意第绪讲古Tisch聚会** _Yiddish Tisch Story Gatherings_ — 学艺「意第绪讲古Tisch聚会」的同好圈。
+    - 🍃 **日本讲谈落语业余寄席** _Japanese Kōdan & Rakugo Amateur Yose_ — 学艺「日本讲谈落语业余寄席」的同好圈。
+    - 🍃 **朝鲜盘索里清唱社** _Korean Pansori Amateur Circles_ — 学艺「朝鲜盘索里清唱社」的同好圈。
+    - 🍃 **毛利Whaikōrero演说研习** _Māori Whaikōrero Oratory Practice_ — 学艺「毛利Whaikōrero演说研习」的同好圈。
+    - 🍃 **爱尔兰Seanachaí讲古会** _Irish Seanachaí Story Circles_ — 学艺「爱尔兰Seanachaí讲古会」的同好圈。
+    - 🍃 **藏族折嘎说唱业余** _Tibetan Zhé-ga Comic Oratory Hobby_ — 学艺「藏族折嘎说唱业余」的同好圈。
+    - 🍃 **西非Griot史诗鼓语传习** _West African Griot Drum-speech Apprenticeship_ — 学艺「西非Griot史诗鼓语传习」的同好圈。
+  - 📁 **史诗说唱** _史诗说唱_
+    - 📁 **师徒线** _师徒线_
+      - 🍃 **格萨尔说唱业余** _Gesar Epic Recitation Amateur_ — 学艺「格萨尔说唱业余」的同好圈。
+      - 🍃 **江永女书传习** _Nüshu Script Transmission Circles_ — 学艺「江永女书传习」的同好圈。
+  - 📁 **满师漫游**
+    - 🍃 **德语区Wanderjahre工具箱仪式观摩** _German Wanderjahre Toolbox Ritual Observation_ — 学艺「德语区Wanderjahre工具箱仪式观摩」的同好圈。
+    - 🍃 **日本徒弟出师披露会参与** _Japanese Deshi Graduation Recitals_ — 学艺「日本徒弟出师披露会参与」的同好圈。
+  - 📁 **行会手艺**
+    - 🍃 **中国景泰蓝掐丝业余工坊** _Chinese Cloisonné Wire Workshop Hobby_ — 学艺「中国景泰蓝掐丝业余工坊」的同好圈。
+    - 🍃 **印度细木镶嵌Sadeli业余** _Indian Sadeli Micro-mosaic Hobby_ — 学艺「印度细木镶嵌Sadeli业余」的同好圈。
+    - 🍃 **奥斯曼纸上泥金彩绘** _Ottoman Tezhip Illumination Circles_ — 学艺「奥斯曼纸上泥金彩绘」的同好圈。
+    - 🍃 **摩洛哥Zellige瓷片切割学徒** _Moroccan Zellige Tile-cutting Apprenticeship_ — 学艺「摩洛哥Zellige瓷片切割学徒」的同好圈。
+    - 🍃 **日本左官土壁涂抹研习** _Japanese Sakan Plaster Workshop Circles_ — 学艺「日本左官土壁涂抹研习」的同好圈。
+    - 🍃 **日本金箔贴箔研习** _Japanese Kanazawa Gold-leaf Application_ — 学艺「日本金箔贴箔研习」的同好圈。
+    - 🍃 **波斯细密画工笔研习班** _Persian Miniature Painting Ateliers_ — 学艺「波斯细密画工笔研习班」的同好圈。
+    - 🍃 **石匠干垒认证周末班** _Dry-stone Waller Certification Weekends_ — 学艺「石匠干垒认证周末班」的同好圈。
+    - 🍃 **英国茅草屋顶Thatching学徒周末** _English Thatching Apprentice Weekends_ — 学艺「英国茅草屋顶Thatching学徒周末」的同好圈。
+    - 🍃 **荷兰木鞋车旋工坊** _Dutch Klomp Turning Workshops_ — 学艺「荷兰木鞋车旋工坊」的同好圈。
+  - 📁 **行会满师** _行会满师_
+    - 📁 **学徒年历** _学徒年历_
+- 🍃 **伊斯兰书法Ijaza传习** _Islamic Calligraphy Ijaza Lineages_ — 学艺「伊斯兰书法Ijaza传习」的同好圈。
+- 🍃 **车旋同业公会Wizardry展** _Turners Company Wizardry in Wood_ — 学艺「车旋同业公会Wizardry展」的同好圈。
+- 🍃 **钟表同业公会博物馆研习** _Clockmakers Company Museum Study_ — 学艺「钟表同业公会博物馆研习」的同好圈。
+- 🍃 **伦敦手套匠公会研习** _Worshipful Company of Glovers Study Circles_ — 学艺「伦敦手套匠公会研习」的同好圈。
+- 🍃 **伦敦织工公会研习** _Worshipful Company of Weavers Study Circles_ — 学艺「伦敦织工公会研习」的同好圈。
+- 🍃 **伦敦鞋匠公会业余研修** _Worshipful Company of Cordwainers Amateur Study_ — 学艺「伦敦鞋匠公会业余研修」的同好圈。
+- 🍃 **制扇同业公会研习** _Worshipful Company of Fan Makers Study_ — 学艺「制扇同业公会研习」的同好圈。
+- 🍃 **编篮同业公会学徒演示** _Worshipful Company of Basketmakers Craft Demonstrations_ — 学艺「编篮同业公会学徒演示」的同好圈。
+- 🍃 **书籍装订行会Designer Bookbinders** _Designer Bookbinders_ — 学艺「书籍装订行会Designer Bookbinders」的同好圈。
+- 🍃 **靴匠Cordwainer行会** _Cordwainers Company Craft_ — 学艺「靴匠Cordwainer行会」的同好圈。
+- 🍃 **琼斯伯勒全国讲故事节听讲** _National Storytelling Festival_ — 学艺「琼斯伯勒全国讲故事节听讲」的同好圈。
+- 🍃 **美国全国讲故事网络年会** _National Storytelling Network_ — 学艺「美国全国讲故事网络年会」的同好圈。
+- 🍃 **吉尔吉斯玛纳斯说唱** _Manaschi Epic Reciters_ — 学艺「吉尔吉斯玛纳斯说唱」的同好圈。
+- 🍃 **突厥江格尔说唱** _Jangar Epic Recitation_ — 学艺「突厥江格尔说唱」的同好圈。
+- 🍃 **芬兰卡勒瓦拉吟唱会** _Kalevala Rune-singing Circles_ — 学艺「芬兰卡勒瓦拉吟唱会」的同好圈。
+- 🍃 **德奥Gesellenwanderung漫游满师** _German Journeyman Wanderjahre_ — 学艺「德奥Gesellenwanderung漫游满师」的同好圈。
+- 🍃 **宫大工业余研习会** _Miyadaiku Temple-carpenter Study_ — 学艺「宫大工业余研习会」的同好圈。
+- 🍃 **木构Timber Framers Guild** _Timber Framers Guild_ — 学艺「木构Timber Framers Guild」的同好圈。
+- 🍃 **林间车旋Bodging** _Bodging Pole-lathe Turning_ — 学艺「林间车旋Bodging」的同好圈。
+- 🍃 **Compagnonnage杰作呈交** _Compagnonnage Masterpiece Reception_ — 学艺「Compagnonnage杰作呈交」的同好圈。
+- 🍃 **伴侣匠会旅居学艺** _Compagnons du Devoir Tour Apprenticeship_ — 学艺「伴侣匠会旅居学艺」的同好圈。
+- 🍃 **穆拉诺玻璃maestro传习** _Murano Glass Maestro Lineages_ — 学艺「穆拉诺玻璃maestro传习」的同好圈。
+- 🍃 **能乐观世流业余仕舞** _Kanze-ryu Noh Amateur Shimai_ — 学艺「能乐观世流业余仕舞」的同好圈。
+- 🍃 **法兰德斯钟琴行会** _Flemish Carillon Guild Practice_ — 学艺「法兰德斯钟琴行会」的同好圈。
+- 📁 **嗅觉与气味实践** _Olfaction & Scent Practice_
+  - 📁 **动物协作嗅觉**
+    - 🍃 **人犬搜索气味源训练志愿** _Civilian K9 Scent-source Volunteer Drills_ — 闻香「人犬搜索气味源训练志愿」的同好圈。
+    - 🍃 **真菌嗅探犬训练观摩** _Truffle Dog Training Observation_ — 闻香「真菌嗅探犬训练观摩」的同好圈。
+  - 📁 **原料与提取**
+    - 🍃 **依兰依兰花精油蒸馏** _Ylang-Ylang Distillation Hobby_ — 闻香「依兰依兰花精油蒸馏」的同好圈。
+    - 🍃 **安息香树脂熏香研磨** _Benzoin Resin Incense Grinding_ — 闻香「安息香树脂熏香研磨」的同好圈。
+    - 🍃 **柑橘冷压精油手作** _Citrus Cold-Press Essential Oil Craft_ — 闻香「柑橘冷压精油手作」的同好圈。
+    - 🍃 **树苔橡苔酊自制** _Oakmoss Absolute Tincturing_ — 闻香「树苔橡苔酊自制」的同好圈。
+    - 🍃 **超临界二氧化碳取香业余观摩** _Hobby CO2 Supercritical Scent Extraction_ — 闻香「超临界二氧化碳取香业余观摩」的同好圈。
+    - 🍃 **龙涎香替代品调香研习** _Ambroxan & Ambergris-analogue Study_ — 闻香「龙涎香替代品调香研习」的同好圈。
+  - 📁 **季节香气** _季节香气_
+    - 📁 **年历闻香** _年历闻香_
+  - 📁 **文化香事**
+    - 🍃 **中国线香拼配手作** _Chinese Stick Incense Blending_ — 闻香「中国线香拼配手作」的同好圈。
+    - 🍃 **印度Attar真露油研习** _Indian Attar Distillate Study_ — 闻香「印度Attar真露油研习」的同好圈。
+    - 🍃 **埃及茉莉花环夜市熏习** _Egyptian Jasmine Garland Night Markets_ — 闻香「埃及茉莉花环夜市熏习」的同好圈。
+    - 🍃 **日本练香炼香丸制作** _Japanese Nerikō Kneaded Incense_ — 闻香「日本练香炼香丸制作」的同好圈。
+    - 🍃 **朝鲜焚香合香传统研习** _Korean Traditional Incense Blending_ — 闻香「朝鲜焚香合香传统研习」的同好圈。
+    - 🍃 **波斯玫瑰水蒸馏日** _Persian Rosewater Distilling Days_ — 闻香「波斯玫瑰水蒸馏日」的同好圈。
+    - 🍃 **西藏煨桑草药烟祭业余** _Tibetan Sang Smoke Offering Hobby_ — 闻香「西藏煨桑草药烟祭业余」的同好圈。
+    - 🍃 **阿拉伯乌德木熏香Majlis** _Oud Bakhoor Majlis Circles_ — 闻香「阿拉伯乌德木熏香Majlis」的同好圈。
+  - 📁 **气味艺术**
+    - 🍃 **气味地图城市漂流** _City Smell-map Derive Walks_ — 闻香「气味地图城市漂流」的同好圈。
+    - 🍃 **气味戏剧舞台装置业余** _Amateur Olfactory Theatre Sets_ — 闻香「气味戏剧舞台装置业余」的同好圈。
+    - 🍃 **气味诗与嗅觉写作工作坊** _Scent-poetry Writing Workshops_ — 闻香「气味诗与嗅觉写作工作坊」的同好圈。
+  - 📁 **闻香训练**
+    - 🍃 **Le Nez du Vin式通用香料瓶训练** _Generic Aroma-kit Blind Smelling Drills_ — 闻香「Le Nez du Vin式通用香料瓶训练」的同好圈。
+    - 🍃 **土壤与落叶气味日记** _Soil & Leaf-litter Scent Journaling_ — 闻香「土壤与落叶气味日记」的同好圈。
+    - 🍃 **城市巷弄气味速写** _Urban Alleyway Smell Sketching_ — 闻香「城市巷弄气味速写」的同好圈。
+    - 🍃 **皮革与烟草香基对照** _Leather & Tobacco Base Pair Drills_ — 闻香「皮革与烟草香基对照」的同好圈。
+    - 🍃 **香水家族分类盲测** _Fragrance Family Blind Taxonomy Drills_ — 闻香「香水家族分类盲测」的同好圈。
+  - 📁 **食物嗅觉**
+    - 🍃 **咖啡生豆缺陷嗅辨** _Green Coffee Defect Cupping by Nose_ — 闻香「咖啡生豆缺陷嗅辨」的同好圈。
+    - 🍃 **奶酪外表气味成熟度判断** _Cheese Rind Aroma Ripeness Reading_ — 闻香「奶酪外表气味成熟度判断」的同好圈。
+    - 🍃 **白酒酒花香气拆解训练** _Baijiu Aroma Component Drills_ — 闻香「白酒酒花香气拆解训练」的同好圈。
+    - 🍃 **酱油曲香阶段闻辨** _Soy Koji Stage Smelling_ — 闻香「酱油曲香阶段闻辨」的同好圈。
+- 🍃 **冷浸Enfleurage取香** _Enfleurage Cold Fat Extraction_ — 闻香「冷浸Enfleurage取香」的同好圈。
+- 🍃 **印度线香Agarbatti自制** _Agarbatti Stick Making Amateur_ — 闻香「印度线香Agarbatti自制」的同好圈。
+- 🍃 **博物馆嗅觉策展体验圈** _Museum Olfactory Curation Circles_ — 闻香「博物馆嗅觉策展体验圈」的同好圈。
+- 🍃 **古埃及Kyphi香方复原** _Kyphi Historical Incense Recreation_ — 闻香「古埃及Kyphi香方复原」的同好圈。
+- 🍃 **可可感官杯测圈** _Cacao Sensory Cupping Circles_ — 闻香「可可感官杯测圈」的同好圈。
+- 🍃 **艺术与嗅觉研究所公开课** _Institute for Art and Olfaction Programs_ — 闻香「艺术与嗅觉研究所公开课」的同好圈。
+- 🍃 **固态香膏配制** _Solid Perfume Formulation_ — 闻香「固态香膏配制」的同好圈。
+- 🍃 **植物酊剂Tincture调香** _Botanical Tincture Perfumery_ — 闻香「植物酊剂Tincture调香」的同好圈。
+- 🍃 **闻香Monkoh茶会式** _Monkoh Incense Appreciation_ — 闻香「闻香Monkoh茶会式」的同好圈。
+- 🍃 **格拉斯国际香水博物馆工坊** _Grasse International Perfume Museum Workshops_ — 闻香「格拉斯国际香水博物馆工坊」的同好圈。
+- 🍃 **铜甁蒸馏花精业余** _Alembic Floral Distillation Hobby_ — 闻香「铜甁蒸馏花精业余」的同好圈。
+- 🍃 **嗅觉地图Smellwalk实践** _Smellwalking Sensory Mapping_ — 闻香「嗅觉地图Smellwalk实践」的同好圈。
+- 🍃 **博洛尼亚Smell气味节** _Smell Festival Bologna_ — 闻香「博洛尼亚Smell气味节」的同好圈。
+- 🍃 **AKC气味工作赛训圈** _AKC Scent Work Trial Circles_ — 闻香「AKC气味工作赛训圈」的同好圈。
+- 🍃 **Sadakichi实验嗅觉奖圈** _Sadakichi Award Experimental Scent Circles_ — 闻香「Sadakichi实验嗅觉奖圈」的同好圈。
+- 🍃 **艺术与嗅觉奖参评社群** _Art and Olfaction Awards Contender Circles_ — 闻香「艺术与嗅觉奖参评社群」的同好圈。
+- 🍃 **茶叶审评嗅香杯评** _Tea Cupping Aroma Evaluation_ — 闻香「茶叶审评嗅香杯评」的同好圈。
+- 🍃 **美国调香师学会ASP** _American Society of Perfumers_ — 闻香「美国调香师学会ASP」的同好圈。
+- 🍃 **英国调香师学会BSP业余** _British Society of Perfumers_ — 闻香「英国调香师学会BSP业余」的同好圈。
+- 🍃 **雨后Petrichor嗅觉记录** _Petrichor Smell Recording Walks_ — 闻香「雨后Petrichor嗅觉记录」的同好圈。
+- 🍃 **英国香氛基金会公共教育** _The Fragrance Foundation UK_ — 闻香「英国香氛基金会公共教育」的同好圈。
+- 🍃 **Esxence米兰香氛展观摩** _Esxence Milan Artistic Perfumery Fair Circles_ — 闻香「Esxence米兰香氛展观摩」的同好圈。
+- 🍃 **香水协会品鉴社** _The Perfume Society Discovery Circles_ — 闻香「香水协会品鉴社」的同好圈。
+- 🍃 **凡尔赛Osmothèque香水分馆研习** _Osmothèque Perfume Archive Study_ — 闻香「凡尔赛Osmothèque香水分馆研习」的同好圈。
+- 🍃 **香水风琴原料库实践** _Perfume Organ Raw-material Practice_ — 闻香「香水风琴原料库实践」的同好圈。
+- 📁 **影视剧综** _Film, TV & Variety_
+  - 📁 **业余剧社**
+    - 🍃 **黑色盒子小剧场通宵装台** _Black-box Theatre All-night Load-in_ — 看「黑色盒子小剧场通宵装台」的同好圈。
+  - 📁 **传统戏剧与影偶观演** _传统戏剧与影偶观演_
+    - 🍃 **中国皮影戏观演与传习** _Chinese Shadow Puppetry Appreciation_ — 看「中国皮影戏观演与传习」的同好圈。
+    - 📁 **传习戏台** _传习戏台_
+    - 📁 **历史复活戏** _历史复活戏_
+      - 🍃 **傩戏面具复原演** _Nuo-mask Revival Performance_ — 看「傩戏面具复原演」的同好圈。
+    - 🍃 **哇扬皮影偶戏观演会** _Wayang Puppet Theatre Appreciation_ — 看「哇扬皮影偶戏观演会」的同好圈。
+    - 🍃 **尼日利亚约鲁巴阿兰吉拉剧场** _Yoruba Alarinjo Travelling Theatre Troupe_ — 看「尼日利亚约鲁巴阿兰吉拉剧场」的同好圈。
+    - 🍃 **库提亚坦梵剧观演传习** _Kutiyattam Sanskrit Theatre Appreciation_ — 看「库提亚坦梵剧观演传习」的同好圈。
+    - 📁 **戏补2** _戏补2_
+    - 🍃 **拉比纳尔阿奇舞剧观演** _Rabinal Achí Dance Drama Appreciation_ — 看「拉比纳尔阿奇舞剧观演」的同好圈。
+    - 🍃 **柬埔寨斯贝克托皮影社** _Cambodian Sbek Thom Shadow Troupe_ — 看「柬埔寨斯贝克托皮影社」的同好圈。
+    - 🍃 **歌舞伎定期观演** _Kabuki Theatre Appreciation_ — 看「歌舞伎定期观演」的同好圈。
+    - 📁 **票友与影偶** _票友与影偶_
+    - 🍃 **穆迪耶图仪式剧社群观演** _Mudiyettu Ritual Theatre Participation_ — 看「穆迪耶图仪式剧社群观演」的同好圈。
+    - 🍃 **能乐面具剧观演** _Nôgaku Theatre Appreciation_ — 看「能乐面具剧观演」的同好圈。
+    - 🍃 **西西里木偶剧社季演** _Sicilian Opera dei Pupi Troupe Season_ — 看「西西里木偶剧社季演」的同好圈。
+  - 📁 **剧集与番剧圈** _剧集与番剧圈_
+    - 📁 **剧种圈补** _Series Circles Fill_
+      - 🍃 **广播黄金时代剧迷** _Golden-age Radio-drama Fandom_ — 看「广播黄金时代剧迷」的同好圈。
+    - 📁 **剧种补2** _剧种补2_
+    - 📁 **剧补3** _剧补3_
+    - 🍃 **影迷马拉松接力夜** _TV Fandom Marathon Relay Night_ — 看「影迷马拉松接力夜」的同好圈。
+    - 📁 **档案与地点** _档案与地点_
+      - 🍃 **电视测试卡收藏研究** _Test-card Ephemera Research_ — 看「电视测试卡收藏研究」的同好圈。
+    - 🍃 **特摄公式书收藏** _Tokusatsu Artbook Collecting_ — 看「特摄公式书收藏」的同好圈。
+    - 📁 **被误认为广播台** _Broadcast Mistaken for Station_
+    - 📁 **认证路径字幕** _Credentialed Sub_
+  - 📁 **山地与动作影像鉴赏** _Mountain and Action Cinema Appreciation_
+  - 📁 **影迷社与类型片社群** _Film Societies & Genre Fan Circles_
+    - 🍃 **英国业余电影学会IAC** _Institute of Amateur Cinematographers_ — 看「英国业余电影学会IAC」的同好圈。
+  - 📁 **电影鉴赏** _电影鉴赏_
+    - 🍃 **G-FEST怪兽影迷大会** _G-FEST Kaiju Fan Convention_ — 看「G-FEST怪兽影迷大会」的同好圈。
+    - 🍃 **NOIR CITY黑色电影节参与** _NOIR CITY Film Festival Participation_ — 看「NOIR CITY黑色电影节参与」的同好圈。
+    - 🍃 **Reel Rock巡回放映** _Reel Rock_ — 看「Reel Rock巡回放映」（Reel Rock）。
+    - 🍃 **SAFD舞台格斗** _SAFD stage combat_ — 看「SAFD舞台格斗」（SAFD stage combat）。
+    - 🍃 **SHAFF探险电影节** _Sheffield Adventure Film Festival_ — 看「SHAFF探险电影节」的同好圈。
+    - 🍃 **TCM经典电影节影迷聚会** _TCM Classic Film Festival Participation_ — 看「TCM经典电影节影迷聚会」的同好圈。
+    - 🍃 **Wavescape冲浪电影节** _Wavescape Surf Film Festival_ — 看「Wavescape冲浪电影节」的同好圈。
+    - 📁 **传习放映地** _传习放映地_
+    - 🍃 **冲浪电影文化鉴赏** _Surf Film Culture Appreciation_ — 看「冲浪电影文化鉴赏」的同好圈。
+    - 📁 **历史复活放映** _历史复活放映_
+    - 📁 **反主流放映** _反主流放映_
+    - 🍃 **四十八小时短片马拉松** _Indie Short-film Weekend Marathons_ — 看「四十八小时短片马拉松」的同好圈。
+    - 🍃 **夏季草坪露天放映会** _Summer Outdoor Lawn Cinema Collectives_ — 看「夏季草坪露天放映会」的同好圈。
+    - 🍃 **宝莱坞歌舞跟跳场** _Bollywood Dance-along Screening Nights_ — 看「宝莱坞歌舞跟跳场」的同好圈。
+    - 🍃 **家庭电影日社区放映** _Home Movie Day Community Screenings_ — 看「家庭电影日社区放映」的同好圈。
+    - 🍃 **房间电影互动午夜场** _The Room Interactive Screening Community_ — 看「房间电影互动午夜场」的同好圈。
+    - 📁 **欧美放映社** _Euro-NA Screening Societies_
+      - 🍃 **电影协会季节卡** _Film-society Season-ticket Circles_ — 看「电影协会季节卡」的同好圈。
+    - 🍃 **气味电影与嗅觉展映** _Olfactory Cinema Screenings_ — 看「气味电影与嗅觉展映」的同好圈。
+    - 🍃 **泰莱德山地电影节** _Mountainfilm Telluride_ — 看「泰莱德山地电影节」的同好圈。
+    - 🍃 **洛基恐怖秀影子卡司互动场** _Rocky Horror Shadow Cast Participation_ — 看「洛基恐怖秀影子卡司互动场」的同好圈。
+    - 🍃 **温哥华国际山地电影节** _VIMFF_ — 看「温哥华国际山地电影节」（VIMFF）。
+    - 📁 **片史传习** _Filmography Transmission_
+    - 📁 **片种圈补** _Genre Circles Fill_
+      - 🍃 **结构电影放映社** _Structural Film Screening Clubs_ — 看「结构电影放映社」的同好圈。
+    - 📁 **片种补2** _片种补2_
+    - 📁 **片种补3** _片种补3_
+    - 🍃 **特伦托山地电影节** _Trento Film Festival_ — 看「特伦托山地电影节」的同好圈。
+    - 🍃 **班夫山地电影节** _Banff Mountain Film Festival_ — 看「班夫山地电影节」的同好圈。
+    - 🍃 **硝酸片电影节观影** _Nitrate Picture Show Participation_ — 看「硝酸片电影节观影」的同好圈。
+    - 📁 **类型片补** _类型片补_
+    - 📁 **类型片邪典圈** _Cult & Genre Film Circles_
+      - 🍃 **Giallo黄线恐怖迷** _Giallo Fandom_ — 看「Giallo黄线恐怖迷」（Giallo Fandom）。
+      - 🍃 **邪典午夜场文化** _Midnight Movie Culture_ — 看「邪典午夜场文化」的同好圈。
+    - 🍃 **肯德尔山地电影节** _Kendal Mountain Festival_ — 看「肯德尔山地电影节」的同好圈。
+    - 📁 **胶片放映与活弁** _Small-gauge Projection and Benshi_
+      - 🍃 **Super8胶片复兴** _Super 8 Revival_ — 看「Super8胶片复兴」（Super 8 Revival）。
+      - 🍃 **公共频道PEG制作** _PEG Public-access Production_ — 看「公共频道PEG制作」的同好圈。
+      - 🍃 **活動弁士** _Katsudo Benshi Narration_ — 看「活動弁士」的同好圈。
+    - 📁 **胶片材料保存** _Film-stock Material Care_
+    - 📁 **被误认为档案馆** _Archives Mistaken for Jobs_
+      - 🍃 **硝酸片基放映会** _Nitrate Film Projection Societies_ — 看「硝酸片基放映会」的同好圈。
+    - 📁 **认证路径影评** _Credentialed Critique_
+    - 🍃 **邪典通宵场志愿检票** _Cult Midnight Screening Door Volunteering_ — 看「邪典通宵场志愿检票」的同好圈。
+    - 📁 **默片与实验** _默片与实验_
+      - 🍃 **刮擦胶片直接动画** _Cameraless Scratch-film Animation_ — 看「刮擦胶片直接动画」的同好圈。
+  - 📁 **综艺与真人秀** _综艺与真人秀_
+    - 🍃 **业余剧社季演通宵装台** _Community Theatre Season Load-in Night_ — 看「业余剧社季演通宵装台」的同好圈。
+    - 📁 **反主流综** _反主流综_
+    - 📁 **真人秀观众研究** _Reality Audience Study_
+    - 📁 **综补2** _综补2_
+    - 📁 **综补3** _综补3_
+    - 📁 **题库与剪辑伦理补** _题库与剪辑伦理补_
+  - 📁 **舞台动作与武戏** _Stage combat and fight choreography_
+- 🍃 **16mm家庭放映俱乐部** _16mm Home Cinema Clubs_ — 看「16mm家庭放映俱乐部」的同好圈。
+- 🍃 **9.5mm Pathé放映** _Pathe 9.5mm Projection_ — 看「9.5mm Pathé放映」的同好圈。
+- 🍃 **神秘博士鉴赏协会** _Doctor Who Appreciation Society_ — 看「神秘博士鉴赏协会」的同好圈。
+- 🍃 **墨尔本电影资料馆影迷** _Melbourne Cinémathèque_ — 看「墨尔本电影资料馆影迷」的同好圈。
+- 🍃 **澳洲电影学会理事会ACOFS** _Australian Council of Film Societies_ — 看「澳洲电影学会理事会ACOFS」的同好圈。
+- 🍃 **美国社区剧社AACT** _American Association of Community Theatre_ — 看「美国社区剧社AACT」的同好圈。
+- 🍃 **魁北克电影资料馆影迷** _Cinémathèque québécoise_ — 看「魁北克电影资料馆影迷」的同好圈。
+- 🍃 **Frameline旧金山酷儿影展** _Frameline San Francisco LGBTQ+ Film Festival_ — 看「Frameline旧金山酷儿影展」的同好圈。
+- 🍃 **Hammer恐怖片迷地方俱乐部** _Hammer Horror Local Fan Clubs_ — 看「Hammer恐怖片迷地方俱乐部」的同好圈。
+- 🍃 **想象NATIVE原住民影展** _imagineNATIVE Film Festival_ — 看「想象NATIVE原住民影展」的同好圈。
+- 🍃 **OGAE欧视粉丝社** _OGAE Eurovision Fan Clubs_ — 看「OGAE欧视粉丝社」的同好圈。
+- 🍃 **CAAMFest亚裔美国电影社** _CAAMFest_ — 看「CAAMFest亚裔美国电影社」（CAAMFest）。
+- 🍃 **Māoriland毛利电影节社群** _Māoriland Film Festival_ — 看「Māoriland毛利电影节社群」的同好圈。
+- 🍃 **UK Jewish Film观影社群** _UK Jewish Film_ — 看「UK Jewish Film观影社群」的同好圈。
+- 📁 **成人合意兴趣圈子** _Adult Consensual Interest Communities_
+  - 📁 **BDSM与权力交换社群** _BDSM与权力交换社群_
+    - 🍃 **东南皮革节教育轨道** _Southeast Leatherfest Education Track_ — 合意练「东南皮革节教育轨道」的同好圈。
+    - 🍃 **中大西洋皮革周末教育** _CLAW Mid-Atlantic Leather Weekend Education_ — 合意练「中大西洋皮革周末教育」的同好圈。
+    - 📁 **传习场馆教育** _传习场馆教育_
+    - 📁 **公开教育档案** _公开教育档案_
+      - 🍃 **Eulenspiegel学会教育讲座** _The Eulenspiegel Society Education Talks_ — 合意练「Eulenspiegel学会教育讲座」的同好圈。
+      - 🍃 **SSC与RACK对照研讨** _SSC versus RACK Study Seminars_ — 合意练「SSC与RACK对照研讨」的同好圈。
+      - 🍃 **国际皮革协会教育年会** _National Leather Association International Education_ — 合意练「国际皮革协会教育年会」的同好圈。
+      - 🍃 **皮革档案博物馆志愿编目** _Leather Archives and Museum Cataloguing_ — 合意练「皮革档案博物馆志愿编目」的同好圈。
+      - 🍃 **芝加哥皮革CLAW教育轨** _CLAW Chicago Leather Education Track_ — 合意练「芝加哥皮革CLAW教育轨」的同好圈。
+    - 🍃 **国际皮革小姐公开典礼** _International Ms Leather Public Pageant_ — 合意练「国际皮革小姐公开典礼」的同好圈。
+    - 🍃 **尤伦施皮格尔学会教育夜** _The Eulenspiegel Society Education Night_ — 合意练「尤伦施皮格尔学会教育夜」的同好圈。
+    - 🍃 **山地雷声皮革聚会教育** _Thunder in the Mountains Leather Education_ — 合意练「山地雷声皮革聚会教育」的同好圈。
+    - 📁 **教育补3** _教育补3_
+    - 📁 **材料安全教育** _Material Safety Education_
+    - 📁 **欧美皮革教育** _Euro-NA Leather Education_
+    - 📁 **皮革与公开社群活动** _Leather & Public Kink Events_
+      - 🍃 **Folsom街头皮革节** _Folsom Street Fair_ — 合意练「Folsom街头皮革节」的同好圈。
+    - 🍃 **皮革领导力会议参与** _Leather Leadership Conference Attendance_ — 合意练「皮革领导力会议参与」的同好圈。
+    - 📁 **绳缚与技法教育** _Rope Bondage Education_
+    - 🍃 **绳缚安全公开演示课** _Public Rope Safety Demonstration Class_ — 合意练「绳缚安全公开演示课」的同好圈。
+    - 🍃 **西北皮革庆典工作坊** _Northwest Leather Celebration Workshops_ — 合意练「西北皮革庆典工作坊」的同好圈。
+    - 📁 **认证路径教育** _Credentialed Education_
+    - 📁 **风险边缘教育** _风险边缘教育_
+  - 📁 **合意角色与生活方式** _合意角色与生活方式_
+    - 🍃 **PolyLiving合意关系教育会** _Poly Living Relationship Education Conference_ — 合意练「PolyLiving合意关系教育会」的同好圈。
+    - 📁 **公开礼仪教育** _公开礼仪教育_
+      - 🍃 **TNG十八至卅五皮革教育** _TNG Leather Education 18-35_ — 合意练「TNG十八至卅五皮革教育」的同好圈。
+      - 🍃 **皮革旗史读书会** _Leather Pride Flag History Circles_ — 合意练「皮革旗史读书会」的同好圈。
+      - 🍃 **靴墨竞赛教育侧写** _Bootblack Contest Education Sidecars_ — 合意练「靴墨竞赛教育侧写」的同好圈。
+    - 🍃 **关系无政府主义研讨** _Relationship Anarchy Seminars_ — 合意练「关系无政府主义研讨」的同好圈。
+    - 📁 **反主流教育** _反主流教育_
+    - 📁 **合意关系结构探索** _Consensual Relationship Structures_
+      - 🍃 **多元之爱教育社群** _Polyamory Education_ — 合意练「多元之爱教育社群」（Polyamory Education）。
+      - 🍃 **皮革生活方式俱乐部** _Leather Lifestyle Clubs_ — 合意练「皮革生活方式俱乐部」的同好圈。
+    - 🍃 **咖啡闲聊合意社群聚会** _Vanilla Munch Social Meetup Organizing_ — 合意练「咖啡闲聊合意社群聚会」的同好圈。
+    - 🍃 **多元关系教育读书会** _CNM Education Reading Circle_ — 合意练「多元关系教育读书会」的同好圈。
+    - 🍃 **多边关系教育读书会** _Polyamory Education Reading Circles_ — 合意练「多边关系教育读书会」的同好圈。
+    - 📁 **教育补2** _教育补2_
+    - 📁 **社交形态教育** _社交形态教育_
+    - 📁 **补洞教育** _Gap Education_
+    - 📁 **被误认为婚姻登记** _Roles Mistaken for Registry_
+  - 📁 **成人情趣用品与教育** _成人情趣用品与教育_
+    - 📁 **产品安全教育** _产品安全教育_
+      - 🍃 **成人产品材料安全课** _Adult-product Material Safety Classes_ — 合意练「成人产品材料安全课」的同好圈。
+      - 🍃 **知情同意话术夜校** _Informed-consent Language Night Classes_ — 合意练「知情同意话术夜校」的同好圈。
+    - 🍃 **合意性教育媒体评测** _Consent-focused Sex Ed Media_ — 合意练「合意性教育媒体评测」的同好圈。
+    - 📁 **合意性教育社群** _Consent-based Sex Education_
+      - 🍃 **合意性教育与评测媒体** _Consent-forward Sex Ed Media_ — 合意练「合意性教育与评测媒体」的同好圈。
+    - 📁 **安全传习** _Safety Transmission_
+    - 📁 **教育补** _教育补_
+  - 📁 **皮革与协议社群** _Leather & Protocol Communities_
+    - 🍃 **Arizona Power Exchange** _Arizona Power Exchange_ — 合意练「Arizona Power Exchange」的同好圈。
+    - 🍃 **Black Rose华盛顿特区** _Black Rose_ — 合意练「Black Rose华盛顿特区」（Black Rose）。
+    - 🍃 **CLAW克利夫兰皮革周** _Cleveland Leather Awareness Weekend_ — 合意练「CLAW克利夫兰皮革周」的同好圈。
+    - 🍃 **Dark Odyssey融合营** _Dark Odyssey_ — 合意练「Dark Odyssey融合营」（Dark Odyssey）。
+    - 🍃 **International Mr Leather** _International Mr Leather_ — 合意练「International Mr Leather」的同好圈。
+    - 🍃 **Leather Archives and Museum** _Leather Archives & Museum_ — 合意练「Leather Archives and Museum」的同好圈。
+    - 🍃 **Master slave Conference** _Master/slave Conference_ — 合意练「Master slave Conference」的同好圈。
+    - 🍃 **NELA跳蚤市集教育工作坊** _NELA Fetish Fair Fleamarket Workshops_ — 合意练「NELA跳蚤市集教育工作坊」的同好圈。
+    - 🍃 **Northwest Leather Celebration** _Northwest Leather Celebration_ — 合意练「Northwest Leather Celebration」的同好圈。
+    - 🍃 **South Plains Leatherfest** _South Plains Leatherfest_ — 合意练「South Plains Leatherfest」的同好圈。
+    - 🍃 **Threshold Society洛杉矶** _Threshold Society_ — 合意练「Threshold Society洛杉矶」的同好圈。
+    - 🍃 **皮革亚文化史公开课** _Leather Subculture History Public Classes_ — 合意练「皮革亚文化史公开课」的同好圈。
+  - 📁 **绳缚与身体艺术教育** _Rope & Body Art Education_
+    - 🍃 **BoundCon慕尼黑教育工作坊** _BoundCon Munich Educational Workshops_ — 合意练「BoundCon慕尼黑教育工作坊」的同好圈。
+    - 🍃 **Kink Aware Professionals名录实践** _Kink Aware Professionals_ — 合意练「Kink Aware Professionals名录实践」的同好圈。
+    - 🍃 **The Floating World绳艺节** _The Floating World_ — 合意练「The Floating World绳艺节」的同好圈。
+    - 🍃 **Tokyo Bound公开工作坊谱系** _Tokyo Bound Workshops_ — 合意练「Tokyo Bound公开工作坊谱系」的同好圈。
+    - 🍃 **绳缚艺术史公开研讨** _Shibari Art-History Public Seminars_ — 合意练「绳缚艺术史公开研讨」的同好圈。
+  - 📁 **绳艺与身体实践**
+    - 🍃 **绳缚安全悬吊认证周末** _Shibari Safety Suspension Cert Weekends_ — 合意练「绳缚安全悬吊认证周末」的同好圈。
+- 🍃 **NCSF权益教育** _NCSF Education_ — 合意练「NCSF权益教育」（NCSF Education）。
+- 🍃 **Society of Janus教育活动** _Society of Janus_ — 合意练「Society of Janus教育活动」的同好圈。
+- 🍃 **CatalystCon性教育大会** _CatalystCon Sexuality Education Conference_ — 合意练「CatalystCon性教育大会」的同好圈。
+- 🍃 **北美成人LARP协商社群** _Adult LARP Consent Networks_ — 合意练「北美成人LARP协商社群」的同好圈。
+- 🍃 **合意协商工作坊公开课** _Consent Negotiation Public Workshops_ — 合意练「合意协商工作坊公开课」的同好圈。
+- 🍃 **英国合意绳缚教育集体** _UK Consensual Rope Education Collectives_ — 合意练「英国合意绳缚教育集体」的同好圈。
+- 🍃 **北美TES绳缚教育社群** _The Eulenspiegel Society_ — 合意练「北美TES绳缚教育社群」的同好圈。
+- 🍃 **北欧Knutepunkt LARP年会** _Knutepunkt LARP_ — 合意练「北欧Knutepunkt LARP年会」的同好圈。
+- 🍃 **北美LARP社群网络** _LARP Alliance / US LARP Orgs_ — 合意练「北美LARP社群网络」的同好圈。
+- 📁 **户外与探险** _Outdoors & Expedition_
+  - 📁 **徒步探险与导航** _徒步探险与导航_
+    - 🍃 **Bushcraft 野外技艺** _Bushcraft_ — 探「Bushcraft 野外技艺」（Bushcraft）。
+    - 🍃 **包筏漂流（Packrafting）** _Packrafting_ — 探「包筏漂流（Packrafting）」的同好圈。
+    - 🍃 **奥地利山岳协会小屋志愿** _Austrian Alpine Club Hut Volunteering_ — 探「奥地利山岳协会小屋志愿」的同好圈。
+    - 📁 **导航传习** _Nav Transmission_
+    - 📁 **导航补** _导航补_
+    - 🍃 **山友救援队值周演练** _Mountain Rescue Team Weekly Drill_ — 探「山友救援队值周演练」的同好圈。
+    - 📁 **探险补2** _探险补2_
+    - 📁 **欧美步道** _Euro-NA Trails_
+      - 🍃 **奔宁步道志愿** _Pennine Way Volunteer Rangers_ — 探「奔宁步道志愿」的同好圈。
+      - 🍃 **阿巴拉契亚小径志愿维护** _Appalachian Trail Volunteer Maintainers_ — 探「阿巴拉契亚小径志愿维护」的同好圈。
+    - 📁 **气候地带远征** _气候地带远征_
+    - 📁 **认证路径导** _Credentialed Nav_
+    - 📁 **身器地导航** _身器地导航_
+    - 📁 **长线与导航赛** _Long Trails & Nav Sports_
+      - 🍃 **苏格兰 Munro 登顶收集** _Munro Bagging_ — 探「苏格兰 Munro 登顶收集」（Munro Bagging）。
+      - 🍃 **PCT 等长距步道全程** _PCT Thru-hiking_ — 探「PCT 等长距步道全程」（PCT Thru-hiking）。
+      - 🍃 **长时定向 Rogaining** _Rogaining_ — 探「长时定向 Rogaining」（Rogaining）。
+      - 🍃 **定向越野（IOF）** _Orienteering_ — 探「定向越野（IOF）」（Orienteering）。
+    - 🍃 **高山小屋轮值看守** _Alpine Hut Warden Seasonal Rota_ — 探「高山小屋轮值看守」的同好圈。
+  - 📁 **水上与水下** _水上与水下_
+    - 🍃 **GUE / 技术潜水** _GUE Technical Diving_ — 探「GUE / 技术潜水」的同好圈。
+    - 🍃 **Tenkara 手竿飞蝇钓** _Tenkara Fishing_ — 探「Tenkara 手竿飞蝇钓」的同好圈。
+    - 🍃 **冬泳 / 冰泳** _Winter / Ice Swimming_ — 探「冬泳 / 冰泳」的同好圈。
+    - 📁 **水下补2** _水下补2_
+    - 📁 **激流与海** _激流与海_
+      - 🍃 **官方悬崖跳水** _Official Cliff-diving Amateur Meets_ — 探「官方悬崖跳水」的同好圈。
+      - 🍃 **海洋皮划艇远征** _Sea-kayak Expedition Clubs_ — 探「海洋皮划艇远征」的同好圈。
+      - 🍃 **激流皮划艇WW业余** _Whitewater Kayaking Amateur Clubs_ — 探「激流皮划艇WW业余」的同好圈。
+    - 🍃 **自由潜水（AIDA）** _Freediving (AIDA)_ — 探「自由潜水（AIDA）」（Freediving (AIDA)）。
+    - 📁 **认证路径技术潜** _Credentialed Tech Dive_
+    - 🍃 **赛舟俱乐部季节下水礼** _Rowing Club Seasonal Boat Blessing_ — 探「赛舟俱乐部季节下水礼」的同好圈。
+    - 📁 **身器地水** _身器地水_
+  - 📁 **登山攀岩与垂直运动** _登山攀岩与垂直运动_
+    - 📁 **冰雪传习** _Ice-snow Transmission_
+    - 📁 **冰雪救援礼仪** _冰雪救援礼仪_
+      - 🍃 **雪崩信标搜救练习** _Avalanche Transceiver Practice Circles_ — 探「雪崩信标搜救练习」的同好圈。
+    - 📁 **垂直补2** _垂直补2_
+    - 🍃 **峡谷穿越（Canyoning）** _Canyoning / Canyoneering_ — 探「峡谷穿越（Canyoning）」的同好圈。
+    - 📁 **攀岩细分** _Climbing Specialties_
+      - 🍃 **干冰工具攀（Dry Tooling）** _Dry Tooling_ — 探「干冰工具攀（Dry Tooling）」的同好圈。
+      - 🍃 **洞穴探险（Speleology）** _Caving / Speleology_ — 探「洞穴探险（Speleology）」的同好圈。
+    - 📁 **绳降与崖** _绳降与崖_
+      - 🍃 **绳降俱乐部Rapelling** _Rappelling Club Practice_ — 探「绳降俱乐部Rapelling」的同好圈。
+    - 📁 **身器地垂** _身器地垂_
+    - 🍃 **阿尔卑斯俱乐部绳队年训** _Alpine Club Rope-Team Annual Training_ — 探「阿尔卑斯俱乐部绳队年训」的同好圈。
+    - 📁 **风险边缘** _风险边缘_
+    - 🍃 **高空走扁带（Highline）** _Highlining_ — 探「高空走扁带（Highline）」（Highlining）。
+  - 📁 **空中与滑翔** _空中与滑翔_
+    - 📁 **动力与精确** _动力与精确_
+      - 🍃 **动力伞Paramotor业余** _Paramotor Powered-paragliding Clubs_ — 探「动力伞Paramotor业余」的同好圈。
+      - 🍃 **定点跳伞精度着陆** _Accuracy-landing Parachute Clubs_ — 探「定点跳伞精度着陆」的同好圈。
+      - 🍃 **热气球运动FAI业余** _FAI Hot-air Ballooning Amateur_ — 探「热气球运动FAI业余」的同好圈。
+    - 🍃 **悬挂式滑翔** _Hang Gliding_ — 探「悬挂式滑翔」（Hang Gliding）。
+    - 📁 **欧美滑翔** _Euro-NA Soaring_
+      - 🍃 **英国滑翔协会BGA** _BGA Gliding Clubs_ — 探「英国滑翔协会BGA」（BGA Gliding Clubs）。
+    - 🍃 **滑翔伞飞行** _Paragliding_ — 探「滑翔伞飞行」（Paragliding）。
+    - 🍃 **滑翔俱乐部年赛执裁志愿** _Gliding Club Championship Stewarding_ — 探「滑翔俱乐部年赛执裁志愿」的同好圈。
+    - 📁 **空中补2** _空中补2_
+    - 📁 **航空补2** _航空补2_
+    - 📁 **认证路径空** _Credentialed Air_
+    - 📁 **身器地空** _身器地空_
+  - 📁 **自然观察与寻宝** _自然观察与寻宝_
+    - 🍃 **地理寻宝 Geocaching** _Geocaching_ — 探「地理寻宝 Geocaching」（Geocaching）。
+    - 🍃 **业余淘金 / 探矿** _Recreational Gold Panning_ — 探「业余淘金 / 探矿」的同好圈。
+    - 🍃 **采石切磨（Lapidary）** _Rockhounding & Lapidary_ — 探「采石切磨（Lapidary）」的同好圈。
+    - 📁 **反主流寻** _反主流寻_
+    - 📁 **合法猛禽** _合法猛禽_
+      - 🍃 **北美猎鹰者学徒** _NAFA Falconry Apprenticeship_ — 探「北美猎鹰者学徒」的同好圈。
+      - 🍃 **英国猎鹰者俱乐部放飞** _British Falconers Club Field Days_ — 探「英国猎鹰者俱乐部放飞」的同好圈。
+      - 🍃 **阿联酋猎鹰传统放飞** _UAE Falcons Heritage Field Practice_ — 探「阿联酋猎鹰传统放飞」的同好圈。
+    - 🍃 **国际观鸟年赛志愿站** _Global Big Day Bird Count Station Volunteering_ — 探「国际观鸟年赛志愿站」的同好圈。
+    - 🍃 **夜观星空公园志愿解说** _Dark-Sky Park Night Sky Interpretation_ — 探「夜观星空公园志愿解说」的同好圈。
+    - 🍃 **夜间诱蛾（Mothing）** _Mothing_ — 探「夜间诱蛾（Mothing）」（Mothing）。
+    - 📁 **寻宝补** _寻宝补_
+    - 📁 **寻宝补2** _寻宝补2_
+    - 🍃 **生物闪电普查志愿队** _BioBlitz Community Survey Crew_ — 探「生物闪电普查志愿队」的同好圈。
+  - 📁 **长途步道与高峰收集** _Long Trails & Peak Bagging_
+    - 🍃 **Adventure Cycling自行车长途** _Adventure Cycling Association_ — 探「Adventure Cycling自行车长途」的同好圈。
+    - 🍃 **Appalachian Long Distance Hikers Association** _Appalachian Long Distance Hikers Association_ — 「Appalachian Long Distance Hikers Associ
+    - 🍃 **Bushwalking Australia** _Bushwalking Australia_ — 探「Bushwalking Australia」的同好圈。
+    - 🍃 **Continental Divide Trail Coalition** _Continental Divide Trail Coalition_ — 探「Continental Divide Trail Coalition」。
+    - 🍃 **County Highpointers协会** _County Highpointers Association_ — 探「County Highpointers协会」的同好圈。
+    - 🍃 **Orienteering USA定向** _Orienteering USA_ — 探「Orienteering USA定向」的同好圈。
+    - 🍃 **Pacific Crest Trail Association** _Pacific Crest Trail Association_ — 探「Pacific Crest Trail Association」的同好圈。
+    - 🍃 **Te Araroa全程徒步新西兰** _Te Araroa Trail Thru-Hiking_ — 探「Te Araroa全程徒步新西兰」的同好圈。
+    - 🍃 **Wainwrights峰表收集** _Wainwright Bagging_ — 探「Wainwrights峰表收集」的同好圈。
+  - 📁 **长途步道穿越**
+    - 🍃 **冰岛Laugavegur季节穿越** _Laugavegur Seasonal Thru-hikes_ — 探「冰岛Laugavegur季节穿越」的同好圈。
+- 🍃 **Hash House Harriers哈希跑社** _Hash House Harriers_ — 探「Hash House Harriers哈希跑社」的同好圈。
+- 🍃 **北美Letterboxing寻盒** _North American Letterboxing_ — 探「北美Letterboxing寻盒」的同好圈。
+- 🍃 **美国峡谷者联盟** _Coalition of American Canyoneers_ — 探「美国峡谷者联盟」的同好圈。
+- 🍃 **英国长途步道协会LDWA** _Long Distance Walkers Association_ — 探「英国长途步道协会LDWA」的同好圈。
+- 🍃 **American Packrafting Association** _American Packrafting Association_ — 探「American Packrafting Association」的同好圈。
+- 🍃 **Outdoor Swimming Society** _Outdoor Swimming Society_ — 探「Outdoor Swimming Society」的同好圈。
+- 🍃 **TrigpointingUK三角点收集** _TrigpointingUK_ — 探「TrigpointingUK三角点收集」的同好圈。
+- 🍃 **American Canyoneering Association** _American Canyoneering Association_ — 探「American Canyoneering Association」。
+- 🍃 **Australian Speleological Federation** _Australian Speleological Federation_ — 探「Australian Speleological Federation」。
+- 🍃 **British Caving Association** _British Caving Association_ — 探「British Caving Association」的同好圈。
+- 🍃 **National Association for Cave Diving** _National Association for Cave Diving_ — 探「National Association for Cave Diving」。
+- 🍃 **National Speleological Society洞穴** _National Speleological Society_ — 探「National Speleological Society洞穴」的同好圈。
+- 🍃 **美国各州最高点俱乐部** _Highpointers Club_ — 探「美国各州最高点俱乐部」（Highpointers Club）。
+- 🍃 **阿迪朗达克四十六峰会** _Adirondack Forty-Sixers_ — 探「阿迪朗达克四十六峰会」的同好圈。
+- 🍃 **单绳技术SRT竖井** _Single Rope Technique Caving_ — 探「单绳技术SRT竖井」的同好圈。
+- 🍃 **洞穴潜水NSS-CDS** _Cave Diving NSS-CDS_ — 探「洞穴潜水NSS-CDS」的同好圈。
+- 🍃 **矿山探险Mine exploration** _Mine Exploration_ — 探「矿山探险Mine exploration」的同好圈。
+- 🍃 **奥发堤步道协会** _Offa's Dyke Association_ — 探「奥发堤步道协会」的同好圈。
+- 🍃 **拉腊平塔步道徒步** _Larapinta Trail_ — 探「拉腊平塔步道徒步」（Larapinta Trail）。
+- 🍃 **阿尔卑斯穿越Via Alpina** _Via Alpina_ — 探「阿尔卑斯穿越Via Alpina」（Via Alpina）。
+- 🍃 **阿巴拉契亚小径协会穿越** _Appalachian Trail Conservancy thru-hiking_ — 探「阿巴拉契亚小径协会穿越」的同好圈。
+- 🍃 **长骑者公会** _The Long Riders' Guild_ — 探「长骑者公会」（The Long Riders' Guild）。
+- 📁 **户外运动** _Outdoor Sports_
+  - 📁 **传统球类与民族竞技** _传统球类与民族竞技_
+    - 🍃 **卡巴迪Kabaddi** _Kabaddi_ — 练「卡巴迪Kabaddi」（Kabaddi）。
+    - 🍃 **墨西哥Charrería骑术竞技** _Mexican Charrería_ — 练「墨西哥Charrería骑术竞技」的同好圈。
+    - 🍃 **波斯马球Chovgan爱好再现** _Chovgan / Persian Polo Heritage Play_ — 练「波斯马球Chovgan爱好再现」的同好圈。
+    - 🍃 **藤球Sepak Takraw** _Sepak Takraw_ — 练「藤球Sepak Takraw」（Sepak Takraw）。
+    - 📁 **风险边缘球** _风险边缘球_
+    - 🍃 **骆驼竞速爱好观赛与训养圈** _Camel Racing Enthusiast Circles_ — 练「骆驼竞速爱好观赛与训养圈」的同好圈。
+  - 📁 **传统节庆竞技** _传统节庆竞技_
+    - 📁 **季节赛会** _季节赛会_
+      - 🍃 **朝鲜秋夕摔跤** _Chuseok Ssireum Amateur_ — 练「朝鲜秋夕摔跤」的同好圈。
+      - 🍃 **那达慕业余摔跤** _Naadam Amateur Wrestling Circles_ — 练「那达慕业余摔跤」的同好圈。
+    - 🍃 **弗洛勒斯卡奇鞭斗观演参与** _Flores Caci Whip Fight Spectating Practice_ — 练「弗洛勒斯卡奇鞭斗观演参与」的同好圈。
+    - 🍃 **拔河神社祭对抗赛** _Shrine Festival Tug-of-War Match_ — 练「拔河神社祭对抗赛」的同好圈。
+    - 🍃 **摩洛哥马上火枪冲锋演练** _Moroccan Tbourida Cavalry Charge Practice_ — 练「摩洛哥马上火枪冲锋演练」的同好圈。
+    - 🍃 **柯克博鲁传统马队赛** _Kok Boru Team Horse Game_ — 练「柯克博鲁传统马队赛」的同好圈。
+    - 🍃 **沃达贝选美节骑驼巡游** _Wodaabe Gerewol Camel Parade Participation_ — 练「沃达贝选美节骑驼巡游」的同好圈。
+    - 🍃 **稻作社群拔河仪式赛** _Tugging Rituals and Games_ — 练「稻作社群拔河仪式赛」的同好圈。
+    - 🍃 **端午龙舟社群竞渡** _Dragon Boat Festival Racing_ — 练「端午龙舟社群竞渡」的同好圈。
+    - 🍃 **苏门答腊帕索拉标枪赛马** _Sumba Pasola Ritual Javelin Race_ — 练「苏门答腊帕索拉标枪赛马」的同好圈。
+    - 🍃 **蒙古那达慕成人摔跤射箭** _Naadam Adult Wrestling and Archery_ — 练「蒙古那达慕成人摔跤射箭」的同好圈。
+    - 🍃 **锡耶纳对社赛马训练** _Siena Contrada Palio Horse Training_ — 练「锡耶纳对社赛马训练」的同好圈。
+    - 🍃 **锡耶纳棕榈赛街区对社协作** _Siena Palio Contrada Participation_ — 练「锡耶纳棕榈赛街区对社协作」的同好圈。
+    - 🍃 **韩式腰带摔跤节赛** _Ssireum Festival Wrestling_ — 练「韩式腰带摔跤节赛」的同好圈。
+  - 📁 **传统草地与滚球运动** _传统草地与滚球运动_
+    - 📁 **历史复活球** _历史复活球_
+      - 🍃 **木球PallMall复原** _Pall-mall Revival Play_ — 练「木球PallMall复原」的同好圈。
+    - 📁 **草地与滚球** _Lawn & Boules_
+      - 🍃 **槌球WCF** _WCF Croquet Clubs_ — 练「槌球WCF」（WCF Croquet Clubs）。
+      - 🍃 **法式滚球FIPJP** _FIPJP Pétanque Clubs_ — 练「法式滚球FIPJP」的同好圈。
+      - 🍃 **芬兰木柱Molkky** _Mölkky Skittle Clubs_ — 练「芬兰木柱Molkky」的同好圈。
+      - 🍃 **门球Gateball** _Gateball Union Clubs_ — 练「门球Gateball」的同好圈。
+    - 📁 **草地补** _草地补_
+      - 🍃 **马蹄铁投掷** _Horseshoe Pitching Clubs_ — 练「马蹄铁投掷」的同好圈。
+  - 📁 **农牧与场地技术竞技** _农牧与场地技术竞技_
+    - 🍃 **ISDS国际牧羊犬试验** _ISDS Sheepdog Trials_ — 练「ISDS国际牧羊犬试验」的同好圈。
+    - 🍃 **巴斯克乡村运动举石Harri-jasotzea** _Basque Harri-jasotzea_ — 练「巴斯克乡村运动举石Harri-jasotzea」的同好圈。
+    - 🍃 **澳洲斧手协会砍树锯木赛** _Australian Axemen's Association Woodchop_ — 练「澳洲斧手协会砍树锯木赛」的同好圈。
+    - 🍃 **瑞士Hornussen击板球** _Hornussen_ — 练「瑞士Hornussen击板球」（Hornussen）。
+  - 📁 **农牧技术竞技** _Agrarian Skill Contests_
+    - 🍃 **新西兰田间日农技赛** _New Zealand Fieldays Contests_ — 练「新西兰田间日农技赛」的同好圈。
+    - 🍃 **新西兰竞赛犁地** _New Zealand Ploughing Championships_ — 练「新西兰竞赛犁地」的同好圈。
+    - 🍃 **澳洲木砍劈柴竞技** _Australian Woodchopping Contests_ — 练「澳洲木砍劈柴竞技」的同好圈。
+    - 🍃 **英国犁耕锦标赛** _British National Ploughing Championships_ — 练「英国犁耕锦标赛」的同好圈。
+  - 📁 **场地竞技** _场地竞技_
+    - 🍃 **庭网球Real Tennis** _Real Tennis Court Clubs_ — 练「庭网球Real Tennis」的同好圈。
+    - 🍃 **新英格兰烛瓶保龄** _Candlepin Bowling New England_ — 练「新英格兰烛瓶保龄」的同好圈。
+    - 🍃 **爱尔兰公路滚球** _Irish Road Bowling_ — 练「爱尔兰公路滚球」（Irish Road Bowling）。
+    - 🍃 **苏格兰Shinty曲棍** _Camanachd Association Shinty_ — 练「苏格兰Shinty曲棍」的同好圈。
+    - 🍃 **英格兰铁环Quoits** _English Quoits_ — 练「英格兰铁环Quoits」（English Quoits）。
+  - 📁 **场地靶场与飞钓** _场地靶场与飞钓_
+    - 🍃 **国际飞钓者协会FFI** _Fly Fishers International_ — 练「国际飞钓者协会FFI」的同好圈。
+    - 🍃 **巴斯克回力球pelota** _Basque Pelota_ — 练「巴斯克回力球pelota」（Basque Pelota）。
+    - 🍃 **意大利Bocce滚球** _Bocce_ — 练「意大利Bocce滚球」（Bocce）。
+    - 🍃 **英格兰槌球** _Croquet England_ — 练「英格兰槌球」（Croquet England）。
+    - 📁 **身器地钓** _身器地钓_
+    - 📁 **靶场补** _靶场补_
+      - 🍃 **场外射箭** _Field Archery Amateur_ — 练「场外射箭」（Field Archery Amateur）。
+      - 🍃 **飞靶射击业余** _Clay-pigeon Amateur Clubs_ — 练「飞靶射击业余」的同好圈。
+    - 📁 **风险边缘靶** _风险边缘靶_
+  - 📁 **定向变体**
+    - 🍃 **夜间荧光定向** _Night Glowstick Orienteering_ — 练「夜间荧光定向」的同好圈。
+  - 📁 **徒步与露营** _徒步与露营_
+    - 📁 **反主流徒** _反主流徒_
+    - 🍃 **特霍投掷运动** _Tejo_ — 练「特霍投掷运动」（Tejo）。
+    - 🍃 **国际独轮车越野** _IUF unicycle touring_ — 练「国际独轮车越野」（IUF unicycle touring）。
+    - 📁 **徒步补** _徒步补_
+    - 🍃 **朝圣长途分段年走** _Camino Section Hiking Annual Practice_ — 练「朝圣长途分段年走」的同好圈。
+    - 📁 **材料庇护** _Material Shelter_
+      - 🍃 **桦树皮舟复原** _Birch-bark Canoe Recreation_ — 练「桦树皮舟复原」的同好圈。
+      - 🍃 **毛毡蒙古包自建** _Felt Yurt Self-building Circles_ — 练「毛毡蒙古包自建」的同好圈。
+      - 🍃 **雪屋Quinzee建造** _Quinzee Snow-shelter Building_ — 练「雪屋Quinzee建造」的同好圈。
+    - 📁 **民俗极限与野泳** _Folk Extreme and Wild Swimming_
+      - 🍃 **山地跑Fell Running** _Fell Running_ — 练「山地跑Fell Running」（Fell Running）。
+      - 🍃 **极限熨衣** _Extreme Ironing_ — 练「极限熨衣」（Extreme Ironing）。
+      - 🍃 **法式滚球Petanque** _Petanque_ — 练「法式滚球Petanque」（Petanque）。
+      - 🍃 **野泳OSS** _Outdoor Swimming Society Wild Swimming_ — 练「野泳OSS」的同好圈。
+    - 📁 **气候塑造的气味行走** _Climate-shaped Scent Walks_
+      - 🍃 **雨后森林嗅觉徒步** _Petrichor Forest Scent Walks_ — 练「雨后森林嗅觉徒步」的同好圈。
+    - 🍃 **滑雪登山** _Ski mountaineering_ — 练「滑雪登山」（Ski mountaineering）。
+    - 📁 **补洞徒** _Gap Hike_
+    - 📁 **认证路径徒** _Credentialed Trek_
+    - 📁 **轮与单轨** _Wheels & One-track_
+      - 🍃 **独轮车IUF** _IUF Unicycling Trials and Hockey_ — 练「独轮车IUF」的同好圈。
+      - 🍃 **硬地自行车马球** _Hardcourt Bike Polo_ — 练「硬地自行车马球」（Hardcourt Bike Polo）。
+      - 🍃 **艺术自行车** _Artistic Cycling Indoor_ — 练「艺术自行车」的同好圈。
+    - 🍃 **轻装徒步UL** _Ultralight Backpacking_ — 练「轻装徒步UL」的同好圈。
+    - 🍃 **陆地风帆** _Land sailing_ — 练「陆地风帆」（Land sailing）。
+    - 📁 **马与雪气候** _Horse & Snow Climate_
+      - 🍃 **滑雪牵引Skijoring** _Skijoring Horse-or-dog_ — 练「滑雪牵引Skijoring」的同好圈。
+      - 🍃 **肥胎自行车Fatbike** _Fatbike Snow-sand Riding_ — 练「肥胎自行车Fatbike」的同好圈。
+      - 🍃 **雪鞋竞走** _Snowshoe Racing Federations_ — 练「雪鞋竞走」的同好圈。
+  - 📁 **水上与潜水** _水上与潜水_
+    - 🍃 **TDI技术潜水训练** _TDI technical diving_ — 练「TDI技术潜水训练」的同好圈。
+    - 🍃 **冰潜** _Ice diving_ — 练「冰潜」（Ice diving）。
+    - 📁 **减压传习** _Deco Transmission_
+    - 📁 **呼吸与深度礼仪** _Breath & Depth Etiquette_
+      - 🍃 **CMAS水肺业余** _CMAS Sport Diving Amateur_ — 练「CMAS水肺业余」的同好圈。
+    - 🍃 **国际龙舟俱乐部赛** _International Dragon Boat Club Crew Racing_ — 练「国际龙舟俱乐部赛」的同好圈。
+    - 📁 **太平洋舟艇运动** _Pacific Canoe & Outrigger Sports_
+      - 🍃 **撑架独木舟竞速** _Va'a / Outrigger Canoe Racing_ — 练「撑架独木舟竞速」的同好圈。
+      - 🍃 **波利尼西亚传统航海** _Polynesian Voyaging Revival_ — 练「波利尼西亚传统航海」的同好圈。
+    - 🍃 **奥斯特敦刻尔克骑马捕虾** _Horseback Shrimp Fishing in Oostduinkerke_ — 练「奥斯特敦刻尔克骑马捕虾」的同好圈。
+    - 🍃 **威尼斯历史赛船备赛** _Venice Regata Storica Training Clubs_ — 练「威尼斯历史赛船备赛」的同好圈。
+    - 🍃 **循环呼吸器潜水** _Rebreather Diving_ — 练「循环呼吸器潜水」（Rebreather Diving）。
+    - 📁 **无人机与航模** _UAV & RC Aircraft_
+      - 🍃 **固定翼航模滑翔** _RC Glider Slope Soaring_ — 练「固定翼航模滑翔」的同好圈。
+    - 📁 **欧美桨社** _Euro-NA Paddle Clubs_
+      - 🍃 **英国皮划艇俱乐部赛** _British Canoeing Club Racing_ — 练「英国皮划艇俱乐部赛」的同好圈。
+    - 📁 **水上补** _水上补_
+      - 🍃 **水橇业余** _Water-skiing Amateur Clubs_ — 练「水橇业余」的同好圈。
+    - 📁 **水下曲棍球运动** _Underwater Hockey Branch_
+    - 🍃 **洞穴潜水** _Cave diving_ — 练「洞穴潜水」（Cave diving）。
+    - 🍃 **荷兰十一城冰上马拉松** _Elfstedentocht Ice-skating Circuit Community_ — 练「荷兰十一城冰上马拉松」的同好圈。
+    - 📁 **补洞水** _Gap Water_
+    - 📁 **被误认为渔业的网** _Nets Mistaken for Fishery_
+    - 📁 **认证路径桨** _Credentialed Paddle_
+    - 📁 **认证路径水** _Credentialed Water_
+      - 🍃 **BSAC俱乐部教练** _BSAC Club Instructor Pathway_ — 练「BSAC俱乐部教练」的同好圈。
+      - 🍃 **PADI潜水长路径** _PADI Divemaster Pathway Adult_ — 练「PADI潜水长路径」的同好圈。
+    - 📁 **身器地三元组** _身器地三元组_
+    - 📁 **风与翼** _Wind & Wing_
+      - 🍃 **冰上冰帆IceYachting** _Ice Yachting Hard-water Sailing_ — 练「冰上冰帆IceYachting」的同好圈。
+      - 🍃 **风浪板竞赛业余** _Windsurfing Racing Amateur_ — 练「风浪板竞赛业余」的同好圈。
+      - 🍃 **风筝冲浪IKA** _IKA Kiteboarding Racing_ — 练「风筝冲浪IKA」的同好圈。
+    - 🍃 **龙舟队旱地拉桨冬训** _Dragon Boat Land-Paddle Winter Training_ — 练「龙舟队旱地拉桨冬训」的同好圈。
+  - 📁 **洞穴探勘** _Speleology and dry caving_
+  - 📁 **猛禽与传统球戏** _猛禽与传统球戏_
+    - 🍃 **毽球Jianzi** _Jianzi / shuttlecock_ — 练「毽球Jianzi」的同好圈。
+    - 🍃 **缅甸Chinlone** _Chinlone cane-ball play_ — 练「缅甸Chinlone」的同好圈。
+    - 📁 **身器地猛禽** _身器地猛禽_
+  - 📁 **球类与传统竞技** _球类与传统竞技_
+    - 📁 **球戏补** _球戏补_
+      - 🍃 **凳球Stoolball** _Stoolball Amateur Clubs_ — 练「凳球Stoolball」的同好圈。
+      - 🍃 **匹克球业余** _Pickleball Amateur Clubs_ — 练「匹克球业余」的同好圈。
+      - 🍃 **圆场球Rounders** _Rounders Amateur Clubs_ — 练「圆场球Rounders」的同好圈。
+      - 🍃 **板网球Padel业余** _Padel Amateur Clubs_ — 练「板网球Padel业余」的同好圈。
+      - 🍃 **软式网球** _Soft Tennis Amateur_ — 练「软式网球」（Soft Tennis Amateur）。
+  - 📁 **登山攀岩** _登山攀岩_
+    - 🍃 **UIAA攀登安全实践** _UIAA climbing safety practice_ — 练「UIAA攀登安全实践」的同好圈。
+    - 🍃 **传统攀岩** _Traditional Climbing_ — 练「传统攀岩」（Traditional Climbing）。
+    - 📁 **保护传习** _Belay Transmission_
+    - 🍃 **克尔克普纳油摔节训练** _Kırkpınar Oil Wrestling Festival Practice_ — 练「克尔克普纳油摔节训练」的同好圈。
+    - 🍃 **冰壁攀登** _Ice climbing_ — 练「冰壁攀登」（Ice climbing）。
+    - 🍃 **娱乐树木攀爬** _Recreational tree climbing_ — 练「娱乐树木攀爬」的同好圈。
+    - 📁 **攀补** _攀补_
+    - 📁 **欧美攀社** _Euro-NA Climb Clubs_
+      - 🍃 **BMC地方攀岩俱乐部** _BMC Local Climbing Clubs_ — 练「BMC地方攀岩俱乐部」的同好圈。
+    - 🍃 **水上扁带** _Waterlining_ — 练「水上扁带」（Waterlining）。
+    - 🍃 **流镝马奉射训练** _Yabusame Ritual Archery Practice_ — 练「流镝马奉射训练」的同好圈。
+    - 🍃 **混合攀登** _Mixed Climbing_ — 练「混合攀登」（Mixed Climbing）。
+    - 📁 **绳索与岩面细分** _Rope & Rock Subtypes_
+      - 🍃 **抱石IFSC业余** _IFSC Bouldering Amateur Circuits_ — 练「抱石IFSC业余」的同好圈。
+      - 🍃 **深水Solo攀** _Deep-water Soloing DWS_ — 练「深水Solo攀」的同好圈。
+      - 🍃 **速度攀岩业余计时** _Speed-climbing Amateur Timing_ — 练「速度攀岩业余计时」的同好圈。
+    - 📁 **补洞攀** _Gap Climb_
+    - 📁 **被误认为测绘的绳** _Ropes Mistaken for Survey_
+      - 🍃 **洞穴测绘制图社** _Cave Cartography Clubs_ — 练「洞穴测绘制图社」的同好圈。
+    - 📁 **认证路径垂** _Credentialed Vertical_
+      - 🍃 **AMGA攀岩向导路径** _AMGA Rock-guide Pathway_ — 练「AMGA攀岩向导路径」的同好圈。
+    - 🍃 **辅助攀登** _Aid climbing_ — 练「辅助攀登」（Aid climbing）。
+    - 🍃 **那达慕传统射箭训练** _Naadam Traditional Archery Practice_ — 练「那达慕传统射箭训练」的同好圈。
+    - 🍃 **那达慕蒙古式摔跤训练** _Naadam Mongolian Wrestling Practice_ — 练「那达慕蒙古式摔跤训练」的同好圈。
+    - 🍃 **铁索攀登** _Via ferrata_ — 练「铁索攀登」（Via ferrata）。
+    - 🍃 **阿尔卡骑枪赛训练** _Sinjska Alka Knight Tournament Training_ — 练「阿尔卡骑枪赛训练」的同好圈。
+    - 📁 **风险边缘礼仪** _风险边缘礼仪_
+  - 📁 **航空与滑翔** _航空与滑翔_
+    - 🍃 **动力伞** _Paramotoring_ — 练「动力伞」（Paramotoring）。
+    - 🍃 **滑翔伞越野飞行** _Paragliding cross-country_ — 练「滑翔伞越野飞行」的同好圈。
+    - 🍃 **特技飞行** _Aerobatics_ — 练「特技飞行」（Aerobatics）。
+    - 📁 **航空补** _航空补_
+    - 🍃 **速度飞行** _Speed flying_ — 练「速度飞行」（Speed flying）。
+  - 📁 **风筝空竹与赤足** _风筝空竹与赤足_
+    - 📁 **反主流足** _反主流足_
+    - 🍃 **潍坊国际风筝** _Weifang International Kite Festival practice_ — 练「潍坊国际风筝」的同好圈。
+    - 🍃 **空竹抖耍** _Chinese diabolo / kongzhu_ — 练「空竹抖耍」的同好圈。
+    - 🍃 **赤足徒步** _Barefoot hiking_ — 练「赤足徒步」（Barefoot hiking）。
+- 🍃 **皇家墨尔本农业展** _Royal Melbourne Show_ — 练「皇家墨尔本农业展」的同好圈。
+- 🍃 **爱尔兰国家犁地锦标赛** _National Ploughing Championships Ireland_ — 练「爱尔兰国家犁地锦标赛」的同好圈。
+- 🍃 **皇家威尔士农业展专项** _Royal Welsh Show_ — 练「皇家威尔士农业展专项」（Royal Welsh Show）。
+- 🍃 **金剪羊毛公开赛** _Golden Shears Open Shearing_ — 练「金剪羊毛公开赛」的同好圈。
+- 🍃 **魁北克冰上独木舟巡回赛** _Circuit québécois de canot à glace_ — 练「魁北克冰上独木舟巡回赛」的同好圈。
+- 🍃 **加拿大冰壶俱乐部** _Curling Canada Clubs_ — 练「加拿大冰壶俱乐部」的同好圈。
+- 🍃 **山地自行车定向MTBO** _Mountain Bike Orienteering_ — 练「山地自行车定向MTBO」的同好圈。
+- 🍃 **皮划定向Canoe orienteering** _Canoe Orienteering_ — 练「皮划定向Canoe orienteering」的同好圈。
+- 🍃 **追踪赛Trail orienteering** _Trail Orienteering_ — 练「追踪赛Trail orienteering」的同好圈。
+- 🍃 **南加州支腿独木舟联赛** _Southern California Outrigger Racing Association_ — 练「南加州支腿独木舟联赛」的同好圈。
+- 🍃 **英国Octopush水下曲棍** _British Octopush Association_ — 练「英国Octopush水下曲棍」的同好圈。
+- 🍃 **水下美式足球** _Underwater American Football_ — 练「水下美式足球」的同好圈。
+- 🍃 **康沃尔引水艇六桨赛** _Cornish Pilot Gig Racing_ — 练「康沃尔引水艇六桨赛」的同好圈。
+- 🍃 **荷兰运河撑杆跃远Fierljeppen** _Fierljeppen_ — 练「荷兰运河撑杆跃远Fierljeppen」的同好圈。
+- 🍃 **伞翼操控飞行** _Canopy Piloting Swooping_ — 练「伞翼操控飞行」的同好圈。
+- 🍃 **室内风洞体感飞行** _Indoor Skydiving Bodyflight_ — 练「室内风洞体感飞行」的同好圈。
+- 🍃 **独轮曲棍Unicycle hockey** _Unicycle Hockey_ — 练「独轮曲棍Unicycle hockey」的同好圈。
+- 🍃 **独轮篮球** _Unicycle Basketball_ — 练「独轮篮球」（Unicycle Basketball）。
+- 🍃 **自行车马球Cycle polo** _Cycle Polo_ — 练「自行车马球Cycle polo」（Cycle Polo）。
+- 📁 **手作与工艺** _Handcraft & Making_
+  - 📁 **乡土生态手作** _Rural Ecological Craft_
+    - 🍃 **伦敦金匠厅业余金工** _Goldsmiths' Company Amateur Courses_ — 做「伦敦金匠厅业余金工」的同好圈。
+    - 🍃 **北美波兰剪纸社群** _Polish-American Wycinanki Circles_ — 做「北美波兰剪纸社群」的同好圈。
+    - 🍃 **绿木脚踏车床协会** _Association of Polelathe Turners_ — 做「绿木脚踏车床协会」的同好圈。
+  - 📁 **土石与生土营造** _土石与生土营造_
+    - 📁 **历史复活土** _历史复活土_
+    - 🍃 **干砌石墙** _Dry-stone construction craft_ — 做「干砌石墙」的同好圈。
+    - 📁 **材料土** _材料土_
+      - 🍃 **生土夯筑业余** _Rammed-earth Building Amateur_ — 做「生土夯筑业余」的同好圈。
+    - 🍃 **生土建筑** _Earth building / adobe & cob_ — 做「生土建筑」的同好圈。
+  - 📁 **木作与装订** _木作与装订_
+    - 🍃 **木车旋（Woodturning）** _Woodturning (AAW)_ — 做「木车旋（Woodturning）」的同好圈。
+    - 📁 **书补2** _书补2_
+      - 🍃 **藏书票制作** _Ex-libris Printmaking Circles_ — 做「藏书票制作」的同好圈。
+    - 📁 **传习木** _传习木_
+    - 🍃 **制桶工艺（Cooperage）** _Cooperage / Barrel Making_ — 做「制桶工艺（Cooperage）」的同好圈。
+    - 📁 **印刷传习** _Print Transmission_
+      - 🍃 **木口木刻雕版** _Wood-engraving Block Circles_ — 做「木口木刻雕版」的同好圈。
+      - 🍃 **石印石版业余** _Amateur Lithographic Stone Work_ — 做「石印石版业余」的同好圈。
+      - 🍃 **铜版凹刻业余** _Amateur Intaglio Copperplate_ — 做「铜版凹刻业余」的同好圈。
+    - 📁 **历史复活书** _历史复活书_
+      - 🍃 **羊皮纸自制复原** _Parchment-making Revival_ — 做「羊皮纸自制复原」的同好圈。
+      - 🍃 **铁胆墨水复原** _Iron-gall Ink Revival_ — 做「铁胆墨水复原」（Iron-gall Ink Revival）。
+    - 🍃 **和纸祭礼工艺社群** _Washi Community Papermaking_ — 做「和纸祭礼工艺社群」的同好圈。
+    - 🍃 **圣诞市集木工摊协作** _Christmas Market Woodcraft Stall Collectives_ — 做「圣诞市集木工摊协作」的同好圈。
+    - 🍃 **手工书籍装订** _Bookbinding_ — 做「手工书籍装订」（Bookbinding）。
+    - 📁 **木与纸复兴** _Wood-paper Revivals_
+      - 🍃 **摇椅Windsor椅** _Windsor Chairmaking Guilds_ — 做「摇椅Windsor椅」的同好圈。
+      - 🍃 **日式指物Sashimono** _Sashimono Joinery Practice_ — 做「日式指物Sashimono」的同好圈。
+    - 🍃 **活版印刷（Letterpress）** _Letterpress Printing_ — 做「活版印刷（Letterpress）」的同好圈。
+    - 🍃 **灯会绸扎灯彩作坊** _Silk-frame Lantern Craft Workshops_ — 做「灯会绸扎灯彩作坊」的同好圈。
+    - 📁 **被误认为印刷厂的纸** _Paper Mistaken for Industry_
+      - 🍃 **手工抄纸水印** _Hand-papermaking Watermarks_ — 做「手工抄纸水印」的同好圈。
+      - 🍃 **科普特装订缝法** _Coptic Stitch Bookbinding_ — 做「科普特装订缝法」的同好圈。
+    - 📁 **认证路径木** _Credentialed Wood_
+  - 📁 **木工金工陶艺** _木工金工陶艺_
+    - 📁 **全球南雕刻彩绘** _Global South Carving & Painted Crafts_
+      - 🍃 **吉普尼彩绘** _Jeepney Art_ — 做「吉普尼彩绘」（Jeepney Art）。
+      - 🍃 **阿莱布里赫斯木雕** _Alebrijes Wood Carving_ — 做「阿莱布里赫斯木雕」的同好圈。
+    - 📁 **地域陶土传统** _Regional Clay Traditions_
+      - 🍃 **塔德拉科特灰泥** _Tadelakt_ — 做「塔德拉科特灰泥」（Tadelakt）。
+      - 🍃 **宜兴紫砂壶** _Yixing Zisha Teapots_ — 做「宜兴紫砂壶」（Yixing Zisha Teapots）。
+      - 🍃 **建盏** _Jianzhan Tenmoku_ — 做「建盏」（Jianzhan Tenmoku）。
+      - 🍃 **瓦哈卡黑陶** _Barro Negro of Oaxaca_ — 做「瓦哈卡黑陶」（Barro Negro of Oaxaca）。
+      - 🍃 **韩国甕器** _Onggi_ — 做「韩国甕器」（Onggi）。
+    - 🍃 **美式古典家具复作** _American Period Furniture Making_ — 做「美式古典家具复作」的同好圈。
+    - 📁 **行会残存欧美** _Euro Guild Remnants_
+      - 🍃 **伦敦金匠行会业余见习** _London Goldsmiths Amateur Assay Interest_ — 做「伦敦金匠行会业余见习」的同好圈。
+    - 📁 **被误认为建筑工的石** _Stone Mistaken for Trade_
+      - 🍃 **柴窑木炭烧制** _Charcoal-burning Kiln Craft_ — 做「柴窑木炭烧制」的同好圈。
+      - 🍃 **轮伐Coppicing** _Coppicing Woodland Craft_ — 做「轮伐Coppicing」的同好圈。
+    - 📁 **釉砖水拓与皂作** _Zellij Ebru and Soapcraft_
+      - 🍃 **手工皂HSCG** _Handcrafted Soap Guild Practice_ — 做「手工皂HSCG」的同好圈。
+    - 🍃 **金缮修复实践圈** _Kintsugi Repair Practice Circles_ — 做「金缮修复实践圈」的同好圈。
+    - 📁 **陶补2** _陶补2_
+    - 🍃 **非洲乌木雕刻业余** _African Ebony Woodcarving Hobby_ — 做「非洲乌木雕刻业余」的同好圈。
+    - 🍃 **面具雕刻兄弟会工坊** _Ritual Mask Carving Confraternity Workshop_ — 做「面具雕刻兄弟会工坊」的同好圈。
+    - 🍃 **黑陶与柴烧** _Wood-fired Ceramics_ — 做「黑陶与柴烧」（Wood-fired Ceramics）。
+  - 📁 **材料身体技艺** _材料身体技艺_
+    - 🍃 **木勺刀削雕刻** _Spoon carving_ — 做「木勺刀削雕刻」（Spoon carving）。
+    - 🍃 **燧石打制** _Flintknapping_ — 做「燧石打制」（Flintknapping）。
+    - 🍃 **生木木作** _Green woodworking_ — 做「生木木作」（Green woodworking）。
+    - 🍃 **皮革马鞍针缝** _Saddle stitching leather_ — 做「皮革马鞍针缝」的同好圈。
+    - 🍃 **石块平衡造型** _Rock balancing_ — 做「石块平衡造型」（Rock balancing）。
+    - 🍃 **竹篾编织** _Bamboo weaving_ — 做「竹篾编织」（Bamboo weaving）。
+    - 📁 **身器地材** _身器地材_
+      - 🍃 **腰机织带山地** _Backstrap-loom Mountain Weaving_ — 做「腰机织带山地」的同好圈。
+  - 📁 **模型与微缩** _模型与微缩_
+    - 🍃 **G1MRA庭院铁路** _Gauge One Model Railway Association_ — 做「G1MRA庭院铁路」的同好圈。
+    - 🍃 **亡灵节巨型风筝共作** _Giant Kite Festival Making_ — 做「亡灵节巨型风筝共作」的同好圈。
+    - 📁 **人偶与关节人形** _Ball-jointed Dolls_
+      - 🍃 **Dollfie梦人形** _Dollfie Dream_ — 做「Dollfie梦人形」（Dollfie Dream）。
+    - 🍃 **巨型阿莱布里赫巡游模型制作** _Monumental Alebrije Parade Making_ — 做「巨型阿莱布里赫巡游模型制作」的同好圈。
+    - 🍃 **新西兰模型工程MEANZ活蒸汽** _MEANZ Live Steam_ — 做「新西兰模型工程MEANZ活蒸汽」的同好圈。
+    - 📁 **材料微缩** _Material Miniatures_
+      - 🍃 **船舶模型静态** _Static Ship-model Guilds_ — 做「船舶模型静态」的同好圈。
+    - 🍃 **杜尔迦普迦泥塑神像共作** _Durga Puja Clay Idol Making_ — 做「杜尔迦普迦泥塑神像共作」的同好圈。
+    - 📁 **模补2** _模补2_
+    - 📁 **欧美微缩社** _Euro-NA Miniatures_
+      - 🍃 **历史模型IPMS分会** _IPMS Local Chapters_ — 做「历史模型IPMS分会」的同好圈。
+    - 🍃 **法雅节尼诺特偶像制作** _Fallas Ninot Making_ — 做「法雅节尼诺特偶像制作」的同好圈。
+    - 🍃 **花车纸塑泡沫雕塑队** _Parade Float Papier-mâché Sculpture Crews_ — 做「花车纸塑泡沫雕塑队」的同好圈。
+    - 📁 **认证路径模** _Credentialed Model_
+  - 📁 **气味与香料工艺** _气味与香料工艺_
+    - 📁 **材料香反** _材料香反_
+    - 📁 **闻香与制香** _Incense Listening & Making_
+      - 🍃 **巴克霍木屑焚香** _Bukhoor Woodchip Fumigation_ — 做「巴克霍木屑焚香」的同好圈。
+      - 🍃 **御家流组香竞技** _Oie-ryu Kumiko Incense Game_ — 做「御家流组香竞技」的同好圈。
+      - 🍃 **柯巴脂香炉实践** _Copal Copalera Practice_ — 做「柯巴脂香炉实践」的同好圈。
+      - 🍃 **格拉斯业余调香工坊** _Grasse Amateur Perfumery Workshops_ — 做「格拉斯业余调香工坊」的同好圈。
+      - 🍃 **沉香品香会** _Agarwood Oud Appreciation Circles_ — 做「沉香品香会」的同好圈。
+      - 🍃 **独立天然调香** _Indie Natural Perfumery_ — 做「独立天然调香」的同好圈。
+      - 🍃 **线香手卷制香** _Hand-rolled Incense Craft_ — 做「线香手卷制香」的同好圈。
+    - 📁 **香补2** _香补2_
+  - 📁 **漆艺与螺钿** _Lacquer & Shell Inlay_
+    - 🍃 **墨西哥Olinala漆** _Olinalá Lacquer_ — 做「墨西哥Olinala漆」（Olinalá Lacquer）。
+    - 🍃 **日本漆艺Urushi** _Urushi Lacquerwork_ — 做「日本漆艺Urushi」的同好圈。
+    - 🍃 **沉金Chinkin** _Chinkin Lacquer Engraving_ — 做「沉金Chinkin」的同好圈。
+    - 🍃 **莳绘** _Maki-e_ — 做「莳绘」（Maki-e）。
+    - 🍃 **越南磨漆画** _Vietnamese Sơn Mài_ — 做「越南磨漆画」（Vietnamese Sơn Mài）。
+    - 🍃 **轮岛涂** _Wajima-nuri_ — 做「轮岛涂」（Wajima-nuri）。
+    - 🍃 **镰仓雕** _Kamakura-bori_ — 做「镰仓雕」（Kamakura-bori）。
+  - 📁 **漆艺螺钿与修复** _漆艺螺钿与修复_
+    - 📁 **历史复活漆** _历史复活漆_
+    - 🍃 **日本漆艺** _Japanese urushi lacquer craft_ — 做「日本漆艺」的同好圈。
+    - 📁 **漆层时间** _漆层时间_
+      - 🍃 **沈金漆绘业余** _Chinkin Gold-inlay Lacquer Amateur_ — 做「沈金漆绘业余」的同好圈。
+      - 🍃 **雕漆剔红业余** _Tixi Carved-lacquer Amateur_ — 做「雕漆剔红业余」的同好圈。
+    - 🍃 **螺钿镶嵌** _Mother-of-pearl lacquer inlay_ — 做「螺钿镶嵌」的同好圈。
+  - 📁 **玻璃陶泥与石艺** _玻璃陶泥与石艺_
+    - 📁 **传习陶** _传习陶_
+    - 🍃 **冰雪雕塑** _Snow & ice sculpture_ — 做「冰雪雕塑」（Snow & ice sculpture）。
+    - 📁 **历史复活陶** _历史复活陶_
+    - 📁 **反主流陶** _反主流陶_
+    - 🍃 **工作室吹制玻璃** _Studio Glassblowing_ — 做「工作室吹制玻璃」（Studio Glassblowing）。
+    - 🍃 **圣体节花毯共作** _Corpus Christi Flower Carpet Making_ — 做「圣体节花毯共作」的同好圈。
+    - 🍃 **坎波马约尔纸花街饰共作** _Campo Maior Paper Flower Street Decorating_ — 做「坎波马约尔纸花街饰共作」的同好圈。
+    - 🍃 **墨西哥Talavera塔拉维拉陶** _Mexican Talavera Pottery_ — 做「墨西哥Talavera塔拉维拉陶」的同好圈。
+    - 🍃 **泽利格镶嵌** _Zellige Mosaic_ — 做「泽利格镶嵌」（Zellige Mosaic）。
+    - 📁 **玻璃热塑** _Hot Glass_
+      - 🍃 **熔融玻璃窑铸** _Kiln-cast Glass Sculpture Hobby_ — 做「熔融玻璃窑铸」的同好圈。
+    - 📁 **玻补2** _玻补2_
+    - 🍃 **盆石Bonseki沙画** _Bonseki Tray Landscape_ — 做「盆石Bonseki沙画」的同好圈。
+    - 📁 **石与骨角** _Stone Bone Horn_
+      - 🍃 **玉雕砣机业余** _Jade Rotary-tool Carving Amateur_ — 做「玉雕砣机业余」的同好圈。
+    - 🍃 **维乔尔珠饰** _Huichol Bead Art_ — 做「维乔尔珠饰」（Huichol Bead Art）。
+    - 🍃 **花与棕榈兄弟会编饰** _Confraternity of Flowers and Palms Crafting_ — 做「花与棕榈兄弟会编饰」的同好圈。
+    - 🍃 **蜡画Encaustic** _Encaustic wax painting_ — 做「蜡画Encaustic」的同好圈。
+    - 🍃 **西非赤陶与陶塑** _West African Terracotta Pottery_ — 做「西非赤陶与陶塑」的同好圈。
+    - 📁 **认证路径玻** _Credentialed Glass_
+    - 📁 **陶与釉的行会** _Clay-glaze Guilds_
+      - 🍃 **乐烧Raku户外** _Raku Outdoor Firing Circles_ — 做「乐烧Raku户外」的同好圈。
+      - 🍃 **玛吉卡Majolica彩绘** _Maiolica Tin-glaze Painting_ — 做「玛吉卡Majolica彩绘」的同好圈。
+      - 🍃 **青瓷还原釉试验** _Celadon Reduction-glaze Trials_ — 做「青瓷还原釉试验」的同好圈。
+    - 📁 **风险边缘火** _风险边缘火_
+    - 🍃 **马赛克干砌镜框** _Mosaic Dry-set Mirror Frames_ — 做「马赛克干砌镜框」的同好圈。
+    - 🍃 **马赛克镶嵌** _Mosaic Arts_ — 做「马赛克镶嵌」（Mosaic Arts）。
+  - 📁 **皮革鱼皮与软材料** _Leather Fishskin & Soft Materials_
+    - 🍃 **珍珠鱼皮Galuchat** _Galuchat Shagreen_ — 做「珍珠鱼皮Galuchat」的同好圈。
+    - 🍃 **鱼皮鞣制** _Fish-Leather Tanning_ — 做「鱼皮鞣制」（Fish-Leather Tanning）。
+  - 📁 **纤维与织染** _Fiber & Dye Crafts_
+  - 📁 **纤维染色与编织** _纤维染色与编织_
+    - 🍃 **组纽（Kumihimo）** _Kumihimo Braiding_ — 做「组纽（Kumihimo）」的同好圈。
+    - 🍃 **Nålbinding 单针编织** _Nålbinding_ — 做「Nålbinding 单针编织」（Nålbinding）。
+    - 🍃 **Shibori 绞染** _Shibori_ — 做「Shibori 绞染」（Shibori）。
+    - 🍃 **乌干达树皮布** _Ugandan barkcloth making_ — 做「乌干达树皮布」的同好圈。
+    - 📁 **传习纺** _传习纺_
+    - 📁 **全球南纺织与印染** _Global South Textiles & Resist Dyeing_
+      - 🍃 **中亚Ikat扎经染织** _Central Asian Ikat Weaving_ — 做「中亚Ikat扎经染织」的同好圈。
+      - 🍃 **加纳Kente肯特织布** _Ghanaian Kente Weaving_ — 做「加纳Kente肯特织布」的同好圈。
+      - 🍃 **印度Bandhani扎染** _Bandhani Tie-Dye_ — 做「印度Bandhani扎染」的同好圈。
+      - 🍃 **印度Kalamkari手绘染** _Kalamkari Hand-Painted Cloth_ — 做「印度Kalamkari手绘染」的同好圈。
+      - 🍃 **印度巴基斯坦Ajrakh块印** _Ajrakh Block Printing_ — 做「印度巴基斯坦Ajrakh块印」的同好圈。
+      - 🍃 **墨西哥Rebozo披肩织造** _Mexican Rebozo Weaving_ — 做「墨西哥Rebozo披肩织造」的同好圈。
+      - 🍃 **安第斯背带织机织造** _Andean Backstrap Loom Weaving_ — 做「安第斯背带织机织造」的同好圈。
+      - 🍃 **巴拿马Guna Mola莫拉贴布** _Guna Mola Appliqué_ — 做「巴拿马Guna Mola莫拉贴布」的同好圈。
+      - 🍃 **菲律宾Tnalak织梦布** _Tnalak Dream Weaving_ — 做「菲律宾Tnalak织梦布」的同好圈。
+      - 🍃 **西非Bogolan泥染布** _Bogolan / Mudcloth Making_ — 做「西非Bogolan泥染布」的同好圈。
+    - 📁 **全球南纺织传统** _Global South Textile Traditions_
+      - 🍃 **乳木果传统加工** _Traditional Shea Butter Processing_ — 做「乳木果传统加工」的同好圈。
+      - 🍃 **康吉瓦拉姆丝织** _Kanchipuram Silk Weaving_ — 做「康吉瓦拉姆丝织」的同好圈。
+      - 🍃 **松吉织** _Songket Weaving_ — 做「松吉织」（Songket Weaving）。
+      - 🍃 **树皮布制作** _Tapa Cloth Making_ — 做「树皮布制作」（Tapa Cloth Making）。
+      - 🍃 **米提拉/马杜巴尼画** _Madhubani Painting_ — 做「米提拉/马杜巴尼画」（Madhubani Painting）。
+      - 🍃 **阿丁克拉印染** _Adinkra Cloth Stamping_ — 做「阿丁克拉印染」的同好圈。
+      - 🍃 **马来大风筝 Wau Bulan 制作** _Wau Bulan Kite Making_ — 做「马来大风筝 Wau Bulan 制作」的同好圈。
+    - 🍃 **印度尼西亚蜡染社群展作** _Indonesian Batik Community Making_ — 做「印度尼西亚蜡染社群展作」的同好圈。
+    - 🍃 **墨西哥纸扎剪纸作坊** _Papel Picado Festival Workshops_ — 做「墨西哥纸扎剪纸作坊」的同好圈。
+    - 🍃 **天然染色季节共染坊** _Seasonal Natural Dye Collective Vat_ — 做「天然染色季节共染坊」的同好圈。
+    - 🍃 **天然植物染色** _Natural Dyeing_ — 做「天然植物染色」（Natural Dyeing）。
+    - 📁 **染补2** _染补2_
+    - 🍃 **柳编 / 篮筐编织** _Basket Weaving_ — 做「柳编 / 篮筐编织」（Basket Weaving）。
+    - 📁 **植物纤维复兴** _Plant-fiber Revivals_
+      - 🍃 **椰壳纤维绳** _Coir Rope-making Hobby_ — 做「椰壳纤维绳」（Coir Rope-making Hobby）。
+      - 🍃 **苎麻绩麻织** _Ramie Degumming and Weaving_ — 做「苎麻绩麻织」的同好圈。
+      - 🍃 **荨麻纤维提取** _Nettle-fiber Extraction Craft_ — 做「荨麻纤维提取」的同好圈。
+      - 🍃 **菠萝纤维Piña** _Piña Pineapple-fiber Weaving_ — 做「菠萝纤维Piña」的同好圈。
+      - 🍃 **蕉纤维织布** _Banana-fiber Cloth Weaving_ — 做「蕉纤维织布」的同好圈。
+    - 🍃 **狂欢节羽毛装束作坊** _Carnival Feather Costume Ateliers_ — 做「狂欢节羽毛装束作坊」的同好圈。
+    - 🍃 **约鲁巴Adire** _Yoruba adire indigo resist dyeing_ — 做「约鲁巴Adire」的同好圈。
+    - 🍃 **节庆中国剪纸共作** _Festival Chinese Paper-cutting_ — 做「节庆中国剪纸共作」的同好圈。
+    - 📁 **认证路径染** _Credentialed Dye_
+    - 🍃 **诺肯结袋社群实践** _Noken Knot-bag Making_ — 做「诺肯结袋社群实践」的同好圈。
+    - 🍃 **阿尔萨杜织造聚会** _Al Sadu Weaving Gatherings_ — 做「阿尔萨杜织造聚会」的同好圈。
+    - 🍃 **阿波蓝染蓝瓮** _Aizome Japanese indigo vat dyeing_ — 做「阿波蓝染蓝瓮」的同好圈。
+    - 📁 **非西方染织** _Non-Western Dye & Textile Crafts_
+      - 🍃 **冲绳红型Bingata染** _Okinawan Bingata Dyeing_ — 做「冲绳红型Bingata染」的同好圈。
+      - 🍃 **南通蓝印花布印染** _Nantong Blue Calico Printing_ — 做「南通蓝印花布印染」的同好圈。
+      - 🍃 **土耳其水拓Ebru艺术** _Turkish Ebru Marbling_ — 做「土耳其水拓Ebru艺术」的同好圈。
+      - 🍃 **毛利亚麻编织Raranga** _Māori Harakeke Raranga Weaving_ — 做「毛利亚麻编织Raranga」的同好圈。
+      - 🍃 **韩纸Hanji工艺** _Korean Hanji Papermaking_ — 做「韩纸Hanji工艺」的同好圈。
+  - 📁 **纸艺与型纸** _Paper Craft & Stencils_
+    - 🍃 **型纸Katagami** _Katagami Stencil Making_ — 做「型纸Katagami」的同好圈。
+    - 🍃 **墨流し** _Suminagashi_ — 做「墨流し」（Suminagashi）。
+    - 🍃 **宣纸制作** _Xuan Paper Making_ — 做「宣纸制作」（Xuan Paper Making）。
+  - 📁 **纸艺与水拓** _纸艺与水拓_
+    - 📁 **传习水纸** _传习水纸_
+    - 📁 **反主流纸** _反主流纸_
+    - 🍃 **和纸抄纸** _Washi handmade papermaking_ — 做「和纸抄纸」的同好圈。
+  - 📁 **织物与编织** _织物与编织_
+    - 🍃 **Handweavers Guild of America** _Handweavers Guild of America_ — 做「Handweavers Guild of America」的同好圈。
+    - 📁 **传习织地** _传习织地_
+    - 🍃 **加拿大绗缝公会** _Canadian Quilters' Association_ — 做「加拿大绗缝公会」的同好圈。
+    - 📁 **历史复活织** _历史复活织_
+    - 📁 **反主流织** _反主流织_
+    - 🍃 **国际实用装饰绳结** _International Guild of Knot Tyers_ — 做「国际实用装饰绳结」的同好圈。
+    - 🍃 **夏威夷拼布** _Hawaiian Quilting_ — 做「夏威夷拼布」（Hawaiian Quilting）。
+    - 🍃 **安德岛花边业余** _Åland Bobbin Lace Hobby_ — 做「安德岛花边业余」的同好圈。
+    - 🍃 **巡游服装缝制工棚** _Mas Camp Costume Sewing Crew_ — 做「巡游服装缝制工棚」的同好圈。
+    - 🍃 **梭织与桌面织机** _Handweaving_ — 做「梭织与桌面织机」（Handweaving）。
+    - 🍃 **毛利Taniko** _Māori tāniko finger weaving_ — 做「毛利Taniko」的同好圈。
+    - 📁 **毡与纺** _Felt & Spin_
+      - 🍃 **手纺轮DropSpindle** _Drop-spindle Handspinning_ — 做「手纺轮DropSpindle」的同好圈。
+      - 🍃 **湿毡蒙古包饰** _Wet-felted Yurt Ornament Craft_ — 做「湿毡蒙古包饰」的同好圈。
+      - 🍃 **纳毡NunoFelting** _Nuno Felting Scarf Circles_ — 做「纳毡NunoFelting」的同好圈。
+    - 🍃 **秘鲁背带织机业余** _Peruvian Backstrap Loom Hobby_ — 做「秘鲁背带织机业余」的同好圈。
+    - 📁 **移民飞地织** _Diaspora Weaves_
+      - 🍃 **冰岛羊毛Lopi编织** _Icelandic Lopi Knitting Guilds_ — 做「冰岛羊毛Lopi编织」的同好圈。
+      - 🍃 **阿米什拼布传统** _Amish Quilt Tradition Circles_ — 做「阿米什拼布传统」的同好圈。
+    - 🍃 **英国篮筐公会** _Basketmakers Association_ — 做「英国篮筐公会」的同好圈。
+    - 📁 **织补2** _织补2_
+    - 🍃 **苏格兰花呢格子织补** _Scottish Tartan Darning Circles_ — 做「苏格兰花呢格子织补」的同好圈。
+    - 🍃 **英国花边公会** _The Lace Guild_ — 做「英国花边公会」（The Lace Guild）。
+    - 📁 **认证路径织** _Credentialed Weave_
+    - 🍃 **设得兰羊毛周编织** _Shetland Wool Week_ — 做「设得兰羊毛周编织」（Shetland Wool Week）。
+    - 📁 **针法与结** _Stitches & Knots_
+      - 🍃 **日本刺绣NihonShishu** _Nihon Shishu Silk Embroidery_ — 做「日本刺绣NihonShishu」的同好圈。
+      - 🍃 **水手绳结装饰** _Decorative Sailor Knotwork_ — 做「水手绳结装饰」的同好圈。
+      - 🍃 **玛克拉Macramé结构** _Structural Macramé Furniture Knots_ — 做「玛克拉Macramé结构」的同好圈。
+      - 🍃 **金线绣OrNué** _Or Nué Goldwork Embroidery_ — 做「金线绣OrNué」的同好圈。
+    - 📁 **非西方纤维范畴** _Non-Western Fiber Categories_
+      - 🍃 **刺し子可见缝补** _Sashiko Visible Mending_ — 做「刺し子可见缝补」的同好圈。
+    - 📁 **非西方织绣材料** _Non-Western Weave & Embroidery Materials_
+      - 🍃 **云锦Yunjin** _Nanjing Yunjin Brocade_ — 做「云锦Yunjin」的同好圈。
+      - 🍃 **友禅染** _Yūzen_ — 做「友禅染」（Yūzen）。
+      - 🍃 **结城紬** _Yūki-tsumugi_ — 做「结城紬」（Yūki-tsumugi）。
+      - 🍃 **缂丝** _Kesi Tapestry_ — 玩「缂丝」的同好圈。
+  - 📁 **蜡蛋香与绒花** _Wax Egg Incense & Silk Floss_
+    - 🍃 **乌克兰蜡绘蛋** _Pysanky_ — 做「乌克兰蜡绘蛋」（Pysanky）。
+    - 🍃 **绒花Ronghua** _Ronghua Silk Floss Flowers_ — 做「绒花Ronghua」的同好圈。
+  - 📁 **行会残存与乡土工艺** _行会残存与乡土工艺_
+    - 🍃 **加州印第安篮编协会** _California Indian Basketweavers Association_ — 做「加州印第安篮编协会」的同好圈。
+    - 🍃 **法国工艺旅伴会Compagnons** _Compagnons du Devoir_ — 做「法国工艺旅伴会Compagnons」的同好圈。
+    - 🍃 **纽约钟表学会工坊** _Horological Society of New York_ — 做「纽约钟表学会工坊」的同好圈。
+    - 🍃 **美国彩绘玻璃协会** _Stained Glass Association of America_ — 做「美国彩绘玻璃协会」的同好圈。
+    - 🍃 **英国彩绘玻璃大师协会** _British Society of Master Glass Painters_ — 做「英国彩绘玻璃大师协会」的同好圈。
+    - 🍃 **英国装帧协会SoB** _Society of Bookbinders_ — 做「英国装帧协会SoB」的同好圈。
+    - 🍃 **英国钟表学院修表实践** _British Horological Institute_ — 做「英国钟表学院修表实践」的同好圈。
+    - 🍃 **西北原住民篮编协会** _Northwest Native American Basketweavers Association_ — 做「西北原住民篮编协会」的同好圈。
+  - 📁 **角骨羽壳工艺** _角骨羽壳工艺_
+    - 📁 **历史复活材** _历史复活材_
+    - 📁 **反主流材** _反主流材_
+    - 🍃 **因纽特Kamik缝制** _Inuit kamik / sealskin sewing_ — 做「因纽特Kamik缝制」的同好圈。
+    - 🍃 **夏威夷羽作Hulu** _Hawaiian featherwork (hulu)_ — 做「夏威夷羽作Hulu」的同好圈。
+    - 🍃 **船民Scrimshaw** _Scrimshaw craft practice_ — 做「船民Scrimshaw」的同好圈。
+  - 📁 **金属与刃物** _金属与刃物_
+    - 📁 **传习铁** _传习铁_
+    - 📁 **历史复活金属** _历史复活金属_
+      - 🍃 **块炼铁复原炉** _Bloomery Iron Revival Furnaces_ — 做「块炼铁复原炉」的同好圈。
+    - 📁 **反主流金工** _反主流金工_
+    - 🍃 **大马士革钢花纹焊业余** _Damascus Pattern-weld Hobby_ — 做「大马士革钢花纹焊业余」的同好圈。
+    - 🍃 **日本玉钢锻刀体验工坊** _Japanese Tamahagane Forging Workshops_ — 做「日本玉钢锻刀体验工坊」的同好圈。
+    - 📁 **热处理传习** _Heat-treat Transmission_
+    - 📁 **行会残存金属** _Guild-remnant Metals_
+      - 🍃 **乌银Niello镶嵌** _Niello Inlay Metalwork_ — 做「乌银Niello镶嵌」的同好圈。
+      - 🍃 **日本玉钢tatara业余观摩** _Tatara Tamahagane Observation Circles_ — 做「日本玉钢tatara业余观摩」的同好圈。
+      - 🍃 **景泰蓝掐丝珐琅** _Cloisonné Enamel Wirework_ — 做「景泰蓝掐丝珐琅」的同好圈。
+      - 🍃 **金工錾花Chasing** _Chasing and Repoussé Metalwork_ — 做「金工錾花Chasing」的同好圈。
+      - 🍃 **锡镴Pewter旋压** _Pewter Spinning and Casting_ — 做「锡镴Pewter旋压」的同好圈。
+    - 📁 **认证路径刃** _Credentialed Blades_
+    - 📁 **金补2** _金补2_
+    - 📁 **锻造与铁艺** _Forging & Ironwork_
+      - 🍃 **ABS 刃匠 / 刀剑锻造** _ABS Bladesmithing_ — 做「ABS 刃匠 / 刀剑锻造」的同好圈。
+      - 🍃 **艺术铁匠 / 锻造雕塑** _Artistic Blacksmithing_ — 做「艺术铁匠 / 锻造雕塑」的同好圈。
+    - 🍃 **飞蝇绑饵（Fly Tying）** _Fly Tying_ — 做「飞蝇绑饵（Fly Tying）」（Fly Tying）。
+  - 📁 **金属镶嵌与木细工** _Metal Inlay & Wood Lattice_
+    - 🍃 **寄木细工Yosegi** _Yosegi-zaiku_ — 做「寄木细工Yosegi」（Yosegi-zaiku）。
+    - 🍃 **开窗珐琅Plique** _Plique-à-jour_ — 做「开窗珐琅Plique」（Plique-à-jour）。
+    - 🍃 **托莱多嵌金** _Toledo Damascening_ — 做「托莱多嵌金」（Toledo Damascening）。
+    - 🍃 **木目金** _Mokume-gane_ — 做「木目金」（Mokume-gane）。
+    - 🍃 **比德里合金** _Bidriware_ — 做「比德里合金」（Bidriware）。
+    - 🍃 **江户切子** _Edo Kiriko_ — 做「江户切子」（Edo Kiriko）。
+    - 🍃 **波斯细木嵌Khatam** _Khatamkari_ — 做「波斯细木嵌Khatam」（Khatamkari）。
+    - 🍃 **组子Kumiko** _Kumiko_ — 做「组子Kumiko」（Kumiko）。
+  - 📁 **韧皮草编与树皮布** _Bast Leaf Straw & Barkcloth_
+    - 🍃 **库巴拉菲亚织** _Kuba Raffia Textiles_ — 做「库巴拉菲亚织」（Kuba Raffia Textiles）。
+    - 🍃 **特纳拉克Tnalak** _T'nalak Weaving_ — 做「特纳拉克Tnalak」（T'nalak Weaving）。
+    - 🍃 **露兜叶编Lauhala** _Lauhala Weaving_ — 做「露兜叶编Lauhala」（Lauhala Weaving）。
+- 🍃 **英式活篱编筑锦标赛** _National Hedgelaying Championship_ — 做「英式活篱编筑锦标赛」的同好圈。
+- 🍃 **英格兰莫里斯舞公会** _The Morris Ring_ — 做「英格兰莫里斯舞公会」（The Morris Ring）。
+- 🍃 **芬兰萨米杜奥吉认证手工艺** _Finnish Sámi Duodji Certified Craft_ — 做「芬兰萨米杜奥吉认证手工艺」的同好圈。
+- 🍃 **泥染Dorozome** _Dorozome Mud Dyeing_ — 做「泥染Dorozome」的同好圈。
+- 🍃 **英国干石墙协会** _Dry Stone Walling Association_ — 做「英国干石墙协会」的同好圈。
+- 🍃 **英国草顶茅屋工匠协会** _National Society of Master Thatchers_ — 做「英国草顶茅屋工匠协会」的同好圈。
+- 🍃 **缅甸漆器Yun业余** _Burmese Yun Lacquerware_ — 做「缅甸漆器Yun业余」的同好圈。
+- 🍃 **越南磨漆画Son mai业余** _Vietnamese Son mai Lacquer Painting_ — 做「越南磨漆画Son mai业余」的同好圈。
+- 🍃 **工作室玻璃艺术** _Studio Glass Art Practice_ — 做「工作室玻璃艺术」的同好圈。
+- 🍃 **玻璃珠火焰加工** _Flameworked Glass Beadmaking_ — 做「玻璃珠火焰加工」的同好圈。
+- 🍃 **二风谷阿伊努attus树皮织** _Nibutani Ainu Attus Bark Cloth Weaving_ — 做「二风谷阿伊努attus树皮织」的同好圈。
+- 🍃 **京都型染katazome** _Kyoto Katazome Stencil Dyeing_ — 做「京都型染katazome」的同好圈。
+- 🍃 **印度Kantha拼缝** _Kantha Embroidery_ — 做「印度Kantha拼缝」（Kantha Embroidery）。
+- 🍃 **日本Boro拼缀实践** _Boro Mending Practice_ — 做「日本Boro拼缀实践」的同好圈。
+- 🍃 **日本Sakiori裂织** _Sakiori Rag Weaving_ — 做「日本Sakiori裂织」的同好圈。
+- 🍃 **埃及纸莎草复原** _Papyrus Making Revival_ — 做「埃及纸莎草复原」的同好圈。
+- 🍃 **日本水引Mizuhiki** _Mizuhiki Knotted Cord_ — 做「日本水引Mizuhiki」的同好圈。
+- 🍃 **金银细丝Filigree** _Filigree Metalwork_ — 做「金银细丝Filigree」的同好圈。
+- 📁 **摄影影像** _Photography & Imaging_
+  - 📁 **器材与技法** _器材与技法_
+    - 📁 **反主流感光** _反主流感光_
+    - 📁 **古典与针孔印相** _Alt-process and Pinhole Printing_
+      - 🍃 **针孔摄影日** _Worldwide Pinhole Photography Day_ — 拍「针孔摄影日」的同好圈。
+    - 📁 **古典感光工艺** _Historical Photographic Processes_
+      - 🍃 **湿版火棉胶摄影** _Wet Plate Collodion Photography_ — 拍「湿版火棉胶摄影」的同好圈。
+      - 🍃 **达盖尔银版摄影社群** _Daguerreotype Practice Community_ — 拍「达盖尔银版摄影社群」的同好圈。
+    - 📁 **古典感光材料工艺** _Historic Photosensitive Materials_
+      - 🍃 **凡戴克棕印** _Van Dyke Brown_ — 拍「凡戴克棕印」（Van Dyke Brown）。
+      - 🍃 **植物显影Anthotype** _Anthotype_ — 拍「植物显影Anthotype」（Anthotype）。
+      - 🍃 **盐纸印相** _Salt Print_ — 拍「盐纸印相」（Salt Print）。
+      - 🍃 **腐蚀漂白Mordancage** _Mordançage_ — 拍「腐蚀漂白Mordancage」（Mordançage）。
+      - 🍃 **铁版邻项Ferrotype化学** _Ferrotype Plate Chemistry_ — 拍「铁版邻项Ferrotype化学」的同好圈。
+      - 🍃 **锡版照相Tintype** _Tintype Ferrotype_ — 拍「锡版照相Tintype」的同好圈。
+    - 🍃 **固定绳攀登摄影** _Fixed-rope climbing photography_ — 拍「固定绳攀登摄影」的同好圈。
+    - 🍃 **夜间定向摄影记录** _Night-orienteering photography_ — 拍「夜间定向摄影记录」的同好圈。
+    - 📁 **大画幅** _Large Format_
+    - 📁 **技法补2** _技法补2_
+    - 🍃 **摄影协会月赛点评夜** _Camera Club Monthly Critique Night_ — 拍「摄影协会月赛点评夜」的同好圈。
+    - 📁 **材料感光反** _材料感光反_
+      - 🍃 **蛋白印相业余** _Albumen Print Practice_ — 拍「蛋白印相业余」的同好圈。
+    - 📁 **材料感光实验** _Material Photoscience_
+      - 🍃 **树胶油画感光** _Oil-print Photographic Process_ — 拍「树胶油画感光」的同好圈。
+      - 🍃 **碳印CarbonTransfer** _Carbon Transfer Printing_ — 拍「碳印CarbonTransfer」的同好圈。
+    - 📁 **欧美摄影学会** _Euro-American Photographic Societies_
+      - 🍃 **美国摄影学会PSA** _Photographic Society of America_ — 拍「美国摄影学会PSA」的同好圈。
+      - 🍃 **英国摄影收藏家俱乐部** _Photographic Collectors Club of GB_ — 拍「英国摄影收藏家俱乐部」的同好圈。
+    - 📁 **欧美暗房社** _Euro-NA Darkroom_
+    - 📁 **测光传习** _Metering Transmission_
+      - 🍃 **区域曝光ZoneSystem** _Zone System Exposure Circles_ — 拍「区域曝光ZoneSystem」的同好圈。
+    - 📁 **立体与乐模光学** _Stereo and Toy-camera Optics_
+      - 🍃 **NSA立体摄影** _NSA Stereoscopy_ — 拍「NSA立体摄影」（NSA Stereoscopy）。
+    - 🍃 **红外胶片摄影实践** _Infrared Film Photography_ — 拍「红外胶片摄影实践」的同好圈。
+    - 📁 **被误认为实验室** _Labs Mistaken for Employment_
+      - 🍃 **针孔相机自制** _Pinhole Camera Building Clubs_ — 拍「针孔相机自制」的同好圈。
+    - 📁 **认证路径冲洗** _Credentialed Process_
+    - 📁 **认证路径影** _Credentialed Photo_
+      - 🍃 **RPS皇家摄影协会勋衔** _RPS Distinction Pathway_ — 拍「RPS皇家摄影协会勋衔」的同好圈。
+    - 🍃 **针孔摄影鞋盒社** _Shoebox Pinhole Camera Clubs_ — 拍「针孔摄影鞋盒社」的同好圈。
+    - 🍃 **高角度绳索摄影** _High-angle Rope Access Photography_ — 拍「高角度绳索摄影」的同好圈。
+  - 📁 **地方摄影社与替代工艺** _地方摄影社与替代工艺_
+    - 🍃 **加拿大摄影史学会PHSC** _Photographic Historical Society of Canada_ — 拍「加拿大摄影史学会PHSC」的同好圈。
+    - 🍃 **英国幻灯学会** _The Magic Lantern Society_ — 拍「英国幻灯学会」的同好圈。
+    - 🍃 **风筝航拍KAP实践** _Kite Aerial Photography_ — 拍「风筝航拍KAP实践」的同好圈。
+  - 📁 **极限题材摄影** _Extreme-Subject Photography_
+    - 🍃 **UIS洞穴影像交流** _UIS Speleo Imaging Exchange_ — 拍「UIS洞穴影像交流」的同好圈。
+    - 🍃 **航空运动摄影** _Air Sports Photography_ — 拍「航空运动摄影」的同好圈。
+  - 📁 **矿物与科学摄影** _Mineral & Scientific Photography_
+  - 📁 **社群身份影像实践** _社群身份影像实践_
+    - 🍃 **Autograph黑人影像社群** _Autograph ABP_ — 拍「Autograph黑人影像社群」的同好圈。
+    - 🍃 **En Foco拉丁裔摄影社群** _En Foco Latino Photography Community_ — 拍「En Foco拉丁裔摄影社群」的同好圈。
+    - 🍃 **Film Shooters Collective胶片社** _Film Shooters Collective_ — 拍「Film Shooters Collective胶片社」的同好圈。
+    - 🍃 **Kamoinge黑人摄影工作坊** _Kamoinge Workshop_ — 拍「Kamoinge黑人摄影工作坊」的同好圈。
+  - 📁 **视频与剪辑** _视频与剪辑_
+    - 📁 **传习剪地** _传习剪地_
+    - 📁 **剪辑补** _剪辑补_
+    - 📁 **剪辑补2** _剪辑补2_
+    - 📁 **反主流剪** _反主流剪_
+    - 📁 **影像传习** _Image Transmission_
+    - 🍃 **攀岩纪录片制作工艺** _Climbing Documentary Craft_ — 拍「攀岩纪录片制作工艺」的同好圈。
+    - 📁 **模拟视频** _Analogue Video_
+    - 📁 **欧美胶片社** _Euro-NA Film Clubs_
+    - 🍃 **胶片冲洗暗房** _Film Developing & Darkroom_ — 拍「胶片冲洗暗房」的同好圈。
+    - 🍃 **节庆纪录片志愿摄制组** _Community Festival Doc Volunteer Crew_ — 拍「节庆纪录片志愿摄制组」的同好圈。
+    - 📁 **认证路径剪** _Credentialed Edit_
+  - 📁 **题材专项** _题材专项_
+    - 🍃 **CMAS水下摄影竞赛** _CMAS underwater photography competition_ — 拍「CMAS水下摄影竞赛」的同好圈。
+    - 🍃 **Chobi Mela摄影节参与** _Chobi Mela Photography Festival Participation_ — 拍「Chobi Mela摄影节参与」的同好圈。
+    - 🍃 **FIAP摄影双年展参赛** _FIAP Biennials Participation_ — 拍「FIAP摄影双年展参赛」的同好圈。
+    - 🍃 **LagosPhoto摄影节参与** _LagosPhoto Festival Participation_ — 拍「LagosPhoto摄影节参与」的同好圈。
+    - 🍃 **NSS洞穴摄影沙龙** _NSS Photo Salon_ — 拍「NSS洞穴摄影沙龙」（NSS Photo Salon）。
+    - 🍃 **PSA摄影节交流** _PSA Photo Festival Participation_ — 拍「PSA摄影节交流」的同好圈。
+    - 🍃 **Photo Kathmandu影像节参与** _Photo Kathmandu Festival Participation_ — 拍「Photo Kathmandu影像节参与」的同好圈。
+    - 🍃 **Rencontres de Bamako摄影双年展参与** _Bamako Encounters Biennale Participation_ — 拍「Rencontres de Bamako摄影双年展参与」的同好圈。
+    - 🍃 **Wiki Loves Africa仪式摄影赛** _Wiki Loves Africa Rites and Rituals Contest_ — 拍「Wiki Loves Africa仪式摄影赛」的同好圈。
+    - 🍃 **Wiki Loves Earth自然遗产摄影赛** _Wiki Loves Earth Photography Contest_ — 拍「Wiki Loves Earth自然遗产摄影赛」的同好圈。
+    - 🍃 **Wiki Loves Folklore民俗摄影赛** _Wiki Loves Folklore Photography Contest_ — 拍「Wiki Loves Folklore民俗摄影赛」的同好圈。
+    - 🍃 **Wiki Loves Food食俗摄影赛** _Wiki Loves Food Photography Contest_ — 拍「Wiki Loves Food食俗摄影赛」的同好圈。
+    - 🍃 **Wiki Loves Monuments遗产摄影赛** _Wiki Loves Monuments Photography Contest_ — 拍「Wiki Loves Monuments遗产摄影赛」的同好圈。
+    - 🍃 **Wiki Loves Ramadan节俗摄影赛** _Wiki Loves Ramadan Photography Contest_ — 拍「Wiki Loves Ramadan节俗摄影赛」的同好圈。
+    - 📁 **专项题材圈** _Specialty Genre Circles_
+    - 🍃 **世界摄影日同题快闪** _World Photography Day Global Shootouts_ — 拍「世界摄影日同题快闪」的同好圈。
+    - 🍃 **亡灵节祭坛纪实摄影社** _Dia de Muertos Ofrenda Photo Collective_ — 拍「亡灵节祭坛纪实摄影社」的同好圈。
+    - 📁 **传习镜头地** _传习镜头地_
+    - 🍃 **光绘摄影节社群** _Light Painting Night Festival Communities_ — 拍「光绘摄影节社群」的同好圈。
+    - 🍃 **冰攀摄影** _Ice-climbing photography_ — 拍「冰攀摄影」的同好圈。
+    - 🍃 **冲浪水中摄影** _Surf water photography_ — 拍「冲浪水中摄影」的同好圈。
+    - 🍃 **北美自然摄影师协会NANPA** _North American Nature Photography Association_ — 拍「北美自然摄影师协会NANPA」的同好圈。
+    - 📁 **反主流题材** _反主流题材_
+    - 🍃 **吴哥摄影节工作坊参与** _Angkor Photo Festival Participation_ — 拍「吴哥摄影节工作坊参与」的同好圈。
+    - 📁 **季节光** _季节光_
+    - 🍃 **山地探险静物摄影** _Alpine Adventure Still Photography_ — 拍「山地探险静物摄影」的同好圈。
+    - 🍃 **新加坡国际摄影节参与** _Singapore International Photography Festival Participation_ — 拍「新加坡国际摄影节参与」的同好圈。
+    - 🍃 **极光季节追逐摄影团** _Aurora Chasing Seasonal Photo Clubs_ — 拍「极光季节追逐摄影团」的同好圈。
+    - 🍃 **极限运动静物摄影** _Red Bull Illume_ — 拍「极限运动静物摄影」（Red Bull Illume）。
+    - 📁 **欧美专题影** _Euro-NA Genre Photo_
+    - 📁 **水下与洞穴影像** _Underwater & Cave Imaging_
+      - 🍃 **水下摄影社群** _Underwater Photography_ — 拍「水下摄影社群」的同好圈。
+    - 🍃 **浪区水中摄影** _In-water surf photography_ — 拍「浪区水中摄影」的同好圈。
+    - 🍃 **深水抱石摄影** _Deep-water solo photography_ — 拍「深水抱石摄影」的同好圈。
+    - 🍃 **翼装与跳伞摄影** _Skydiving and wingsuit photography_ — 拍「翼装与跳伞摄影」的同好圈。
+    - 🍃 **自由潜水摄影** _Freediving photography_ — 拍「自由潜水摄影」的同好圈。
+    - 🍃 **节庆摄影节志愿导引** _Festival of Photography Volunteer Guiding_ — 拍「节庆摄影节志愿导引」的同好圈。
+    - 🍃 **花灯节夜间纪实队** _Lantern Festival Night Documentary Crews_ — 拍「花灯节夜间纪实队」的同好圈。
+    - 🍃 **荧光矿物紫外摄影** _Fluorescent Mineral UV Photography_ — 拍「荧光矿物紫外摄影」的同好圈。
+    - 📁 **被误认为侦探的光** _Light Mistaken for Detection_
+      - 🍃 **基尔利安电晕摄影** _Kirlian Corona Photography_ — 拍「基尔利安电晕摄影」的同好圈。
+      - 🍃 **施利伦气流摄影** _Schlieren Airflow Photography_ — 拍「施利伦气流摄影」的同好圈。
+    - 📁 **身体与风险镜头** _Body-risk Lenses_
+    - 🍃 **野生动物田野录音** _Wildlife field recording_ — 拍「野生动物田野录音」的同好圈。
+    - 📁 **题材补** _题材补_
+    - 📁 **题材补2** _题材补2_
+    - 📁 **风险边缘影** _风险边缘影_
+- 📁 **铁盐与银盐工艺** _Iron-salt & Silver Processes_
+  - 🍃 **日影超长曝光** _Solargraphy Pinhole Exposures_ — 拍「日影超长曝光」的同好圈。
+  - 🍃 **树胶重铬酸盐** _Gum Bichromate Printers_ — 拍「树胶重铬酸盐」的同好圈。
+  - 🍃 **溴油bromoil工艺** _Bromoil Process Printers_ — 拍「溴油bromoil工艺」的同好圈。
+- 🍃 **蓝晒Cyanotype实践圈** _Cyanotype Practice Circles_ — 拍「蓝晒Cyanotype实践圈」的同好圈。
+- 🍃 **铂钯印相工作室社群** _Platinum Palladium Print Workshops_ — 拍「铂钯印相工作室社群」的同好圈。
+- 🍃 **安布罗版Ambrotype** _Ambrotype Wet-collodion Positives_ — 拍「安布罗版Ambrotype」的同好圈。
+- 🍃 **乐摩LOMO实践** _Lomography_ — 拍「乐摩LOMO实践」（Lomography）。
+- 📁 **收藏** _Collecting_
+  - 📁 **卡牌与周边** _卡牌与周边_
+    - 📁 **卡补2** _卡补2_
+    - 📁 **反主流介质** _反主流介质_
+    - 📁 **实体介质与周边收藏** _Physical Media & Merch Collecting_
+      - 🍃 **卡带与磁带交易圈** _Cassette Tape Collecting_ — 藏「卡带与磁带交易圈」的同好圈。
+      - 🍃 **变形金刚玩具考据收藏** _Transformers Toy Collecting_ — 藏「变形金刚玩具考据收藏」的同好圈。
+      - 🍃 **同人音声与广播剧CD收藏** _Doujin Drama CD Collecting_ — 藏「同人音声与广播剧CD收藏」的同好圈。
+      - 🍃 **绝版CD收藏** _Out-of-print CD Collecting_ — 藏「绝版CD收藏」的同好圈。
+      - 🍃 **黑胶唱片Discogs编目** _Vinyl Collecting via Discogs_ — 藏「黑胶唱片Discogs编目」的同好圈。
+    - 🍃 **展会徽章交换典礼** _Convention Pin Trading Ceremony Circles_ — 藏「展会徽章交换典礼」的同好圈。
+    - 📁 **欧美周边会** _Euro-NA Merch Clubs_
+    - 📁 **纸品专项** _纸品专项_
+      - 🍃 **火柴盒贴标** _Phillumeny Matchbox-label Collecting_ — 藏「火柴盒贴标」的同好圈。
+    - 📁 **补洞收藏** _Gap Collect_
+    - 📁 **认证路径卡** _Credentialed Card_
+  - 📁 **文玩古董** _文玩古董_
+    - 📁 **书写与文具收藏** _Writing Instruments Collecting_
+      - 🍃 **钢笔收藏与评测论坛** _Fountain Pen Collecting_ — 藏「钢笔收藏与评测论坛」的同好圈。
+    - 📁 **传习器物地** _传习器物地_
+    - 📁 **全球南器物与纺织收藏** _Global South Objects & Textile Collecting_
+      - 🍃 **加勒比嘉年华服装配件收藏** _Caribbean Carnival Costume Collecting_ — 藏「加勒比嘉年华服装配件收藏」的同好圈。
+      - 🍃 **印尼Batik布收藏考据** _Indonesian Batik Cloth Collecting_ — 藏「印尼Batik布收藏考据」的同好圈。
+      - 🍃 **印度细密画版画收藏** _Indian Miniature & Print Collecting_ — 藏「印度细密画版画收藏」的同好圈。
+      - 🍃 **安第斯纺织品收藏** _Andean Textile Collecting_ — 藏「安第斯纺织品收藏」的同好圈。
+      - 🍃 **非洲传统货币器物收藏** _African Traditional Currency Object Collecting_ — 藏「非洲传统货币器物收藏」的同好圈。
+    - 🍃 **加拿大老式摩托车保存** _Canadian Vintage Motorcycle Group_ — 藏「加拿大老式摩托车保存」的同好圈。
+    - 📁 **历史复活器用** _历史复活器用_
+      - 🍃 **幻灯魔术灯操作** _Magic-lantern Revival Projection_ — 藏「幻灯魔术灯操作」的同好圈。
+      - 🍃 **机械计算器复原操作** _Mechanical-calculator Revival Ops_ — 藏「机械计算器复原操作」的同好圈。
+    - 📁 **反主流器物** _反主流器物_
+    - 🍃 **古玩集市开市敲锣礼** _Antiques Fair Opening Gong Ritual_ — 藏「古玩集市开市敲锣礼」的同好圈。
+    - 📁 **嗅觉器物收藏** _Scent Object Collecting_
+      - 🍃 **烟斗石楠根收藏** _Briar Pipe Collecting_ — 藏「烟斗石楠根收藏」的同好圈。
+      - 🍃 **鼻烟壶收藏鉴赏** _Snuff Bottle Collecting_ — 藏「鼻烟壶收藏鉴赏」的同好圈。
+      - 🍃 **鼻烟盒与鼻烟** _Snuffbox and Snuff Collecting_ — 藏「鼻烟盒与鼻烟」的同好圈。
+    - 📁 **器物与民俗小品收藏** _Folk Objects Collecting_
+      - 🍃 **Zippo打火机专项收藏** _Zippo Collecting_ — 藏「Zippo打火机专项收藏」的同好圈。
+      - 🍃 **打字机收藏与维修** _Typewriter Collecting_ — 藏「打字机收藏与维修」的同好圈。
+      - 🍃 **根付收藏** _Netsuke Collecting_ — 藏「根付收藏」（Netsuke Collecting）。
+    - 📁 **文具专项** _文具专项_
+    - 📁 **文玩补2** _文玩补2_
+    - 📁 **时间包浆** _时间包浆_
+    - 📁 **材料标本收藏** _Material Specimen Collecting_
+    - 📁 **欧美器物** _Euro-NA Objects_
+      - 🍃 **舒格拉斯Shaker家具研究** _Shaker Furniture Study Circles_ — 藏「舒格拉斯Shaker家具研究」的同好圈。
+      - 🍃 **艺术与手工艺运动家具** _Arts-and-Crafts Furniture Collectors_ — 藏「艺术与手工艺运动家具」的同好圈。
+    - 🍃 **美国纸品收藏协会** _Ephemera Society of America_ — 藏「美国纸品收藏协会」的同好圈。
+    - 📁 **被误认为钟表店** _Horology Mistaken for Trade_
+    - 📁 **认证路径文** _Credentialed Antique_
+    - 📁 **面具与民俗器物收藏** _Mask & Folk Object Collecting_
+      - 🍃 **自由式摔角面具收藏** _Lucha Libre Mask Collecting_ — 藏「自由式摔角面具收藏」的同好圈。
+    - 📁 **香木与陨石矿物** _Agarwood and Meteorite Collecting_
+      - 🍃 **伽罗香木收藏** _Kyara Agarwood Collecting_ — 藏「伽罗香木收藏」的同好圈。
+  - 📁 **机械声响**
+    - 🍃 **八音盒滚筒打孔自制** _Music-box Disc Punching Hobby_ — 藏「八音盒滚筒打孔自制」的同好圈。
+  - 📁 **矿物与岩石鉴赏** _Mineral & Rock Appreciation_
+  - 📁 **矿物宝石与雅石** _矿物宝石与雅石_
+    - 🍃 **IMCA陨石收藏伦理实践** _IMCA Meteorite Collecting_ — 藏「IMCA陨石收藏伦理实践」的同好圈。
+    - 🍃 **中国观赏石协会雅石鉴赏** _Chinese Viewing-Stone Appreciation_ — 藏「中国观赏石协会雅石鉴赏」的同好圈。
+    - 📁 **传习石地** _传习石地_
+    - 🍃 **图森宝石矿物展社群** _Tucson Gem and Mineral Show Community_ — 藏「图森宝石矿物展社群」的同好圈。
+    - 📁 **宝石专项** _宝石专项_
+    - 🍃 **日本水石鉴赏** _Japanese Suiseki Appreciation_ — 藏「日本水石鉴赏」的同好圈。
+    - 🍃 **欧洲水石协会鉴赏** _European Suiseki Association_ — 藏「欧洲水石协会鉴赏」的同好圈。
+    - 🍃 **美国切磨师公会宝石切面** _US Faceters Guild Faceting_ — 藏「美国切磨师公会宝石切面」的同好圈。
+    - 🍃 **雨花石鉴赏收藏** _Yuhua Stone Appreciation_ — 藏「雨花石鉴赏收藏」的同好圈。
+  - 📁 **钱币邮票与徽章** _钱币邮票与徽章_
+    - 📁 **专项邮学** _专项邮学_
+    - 📁 **专项钱币** _专项钱币_
+      - 🍃 **代用币Token专社** _Exonumia Token Societies_ — 藏「代用币Token专社」的同好圈。
+      - 🍃 **紧急货币Notgeld** _Notgeld Emergency-money Collecting_ — 藏「紧急货币Notgeld」的同好圈。
+    - 📁 **历史复活通信** _历史复活通信_
+      - 🍃 **气动邮管爱好操作** _Pneumatic-tube Mail Hobby Ops_ — 藏「气动邮管爱好操作」的同好圈。
+    - 📁 **反主流票** _反主流票_
+    - 🍃 **地铁票卡收藏交换会** _Transit Ticket & Card Swap Meets_ — 藏「地铁票卡收藏交换会」的同好圈。
+    - 📁 **欧美徽章会** _Euro-NA Badge Societies_
+      - 🍃 **美国军团纪念章** _American Legion Badge Collectors_ — 藏「美国军团纪念章」的同好圈。
+    - 📁 **目录传习** _Catalogue Transmission_
+    - 📁 **补洞票证** _Gap Paper_
+    - 📁 **被误认为邮局** _Posts Mistaken for Office_
+      - 🍃 **税票Fiscal集邮** _Fiscal Stamp Collecting_ — 藏「税票Fiscal集邮」的同好圈。
+    - 📁 **认证路径藏** _Credentialed Collect_
+    - 📁 **通信与票证收藏** _Telecom & Ephemera Collecting_
+      - 🍃 **珐琅徽章交易** _Enamel Pin Trading_ — 藏「珐琅徽章交易」（Enamel Pin Trading）。
+      - 🍃 **电话卡收藏** _Phonecard Collecting_ — 藏「电话卡收藏」（Phonecard Collecting）。
+      - 🍃 **国际电话卡藏家会** _WPC Club_ — 藏「国际电话卡藏家会」（WPC Club）。
+      - 🍃 **铁路票证与Railwayana** _Railwayana_ — 藏「铁路票证与Railwayana」（Railwayana）。
+    - 📁 **邮补2** _邮补2_
+    - 🍃 **非洲独立题材邮票专题收藏** _African Independence Thematic Philately_ — 藏「非洲独立题材邮票专题收藏」的同好圈。
+- 🍃 **加拿大古董雪地摩托修复圈** _Antique & Classic Snowmobile Club of Canada_ — 藏「加拿大古董雪地摩托修复圈」的同好圈。
+- 🍃 **万智牌旧框收藏** _MTG Reserved List Collecting_ — 藏「万智牌旧框收藏」的同好圈。
+- 🍃 **无线电解码QSL卡片收藏** _QSL Card Collecting_ — 藏「无线电解码QSL卡片收藏」的同好圈。
+- 🍃 **矿石收音机自制与收藏** _Crystal Radio Building_ — 藏「矿石收音机自制与收藏」的同好圈。
+- 🍃 **MG车主俱乐部** _MG Car Club_ — 藏「MG车主俱乐部」（MG Car Club）。
+- 🍃 **英国古董运动车俱乐部** _Vintage Sports-Car Club_ — 藏「英国古董运动车俱乐部」的同好圈。
+- 🍃 **美国国家纽扣学会** _National Button Society_ — 藏「美国国家纽扣学会」的同好圈。
+- 🍃 **英国纽扣收藏俱乐部** _British Button Society_ — 藏「英国纽扣收藏俱乐部」的同好圈。
+- 🍃 **法国机械音乐器协会AAIMM** _AAIMM Mechanical Music_ — 藏「法国机械音乐器协会AAIMM」的同好圈。
+- 🍃 **自动乐器滚筒修复实践** _Mechanical Music Restoration Practice_ — 藏「自动乐器滚筒修复实践」的同好圈。
+- 🍃 **自动钢琴滚筒修复** _Player Piano Roll Restoration_ — 藏「自动钢琴滚筒修复」的同好圈。
+- 🍃 **Curta计算器收藏圈** _Curta Calculator Collectors_ — 藏「Curta计算器收藏圈」的同好圈。
+- 🍃 **计算尺收藏会Oughtred** _Oughtred Society Slide Rules_ — 藏「计算尺收藏会Oughtred」的同好圈。
+- 🍃 **古董缝纫机收藏修复** _Antique Sewing Machine Collecting_ — 藏「古董缝纫机收藏修复」的同好圈。
+- 🍃 **美国古董收音机俱乐部** _Antique Radio Club Networks USA_ — 藏「美国古董收音机俱乐部」的同好圈。
+- 🍃 **美国古董电扇协会AFCA** _Antique Fan Collectors Association_ — 藏「美国古董电扇协会AFCA」的同好圈。
+- 🍃 **手拣铅字与字柜** _Hand Typesetting California Job Case_ — 藏「手拣铅字与字柜」的同好圈。
+- 🍃 **热金属排铸机操作** _Hot Metal Typesetting Operation_ — 藏「热金属排铸机操作」的同好圈。
+- 🍃 **航海六分仪使用俱乐部** _Sextant Celestial Navigation Clubs_ — 藏「航海六分仪使用俱乐部」的同好圈。
+- 🍃 **北美雅石鉴赏** _North American Viewing Stone Appreciation_ — 藏「北美雅石鉴赏」的同好圈。
+- 🍃 **欧洲水石爱好者实践** _European Suiseki Hobby Practice_ — 藏「欧洲水石爱好者实践」的同好圈。
+- 📁 **旅行探索** _Travel & Exploration_
+  - 📁 **交通工具旅行** _交通工具旅行_
+    - 📁 **交通专题补** _Transit Theme Fills_
+    - 📁 **交通补** _交通补_
+    - 📁 **交通补2** _交通补2_
+    - 📁 **人力长途** _Human-powered Longways_
+      - 🍃 **人力车环球记录圈** _Human-powered Circumnavigation Circles_ — 走访「人力车环球记录圈」的同好圈。
+    - 📁 **反主流交通** _反主流交通_
+    - 📁 **时刻表学** _Timetable Scholarship_
+    - 📁 **欧美铁路迷** _Euro-NA Railfans_
+    - 🍃 **激流水橇漂流** _Hydrospeed river travel_ — 走访「激流水橇漂流」的同好圈。
+    - 📁 **火车旅与铁路迷** _Railfanning & Train Travel_
+      - 🍃 **洲际火车通票旅行** _Eurail Interrail Travel_ — 走访「洲际火车通票旅行」的同好圈。
+    - 🍃 **瓦阿独木舟航行** _Va’a voyaging_ — 走访「瓦阿独木舟航行」（Va’a voyaging）。
+    - 🍃 **皇家地理学会田野旅行传统** _RGS Field Travel Tradition_ — 走访「皇家地理学会田野旅行传统」的同好圈。
+    - 🍃 **蒸汽火车志愿者值乘日** _Heritage Railway Volunteer Roster Day_ — 走访「蒸汽火车志愿者值乘日」的同好圈。
+    - 📁 **认证路径交通** _Credentialed Transit_
+    - 📁 **认证路径航** _Credentialed Flight_
+    - 📁 **身器地交通** _身器地交通_
+    - 📁 **运河与朝圣步行** _Canal Craft and Pilgrim Walking_
+      - 🍃 **四国お遍路** _Shikoku Henro Pilgrimage_ — 走访「四国お遍路」的同好圈。
+      - 🍃 **运河窄船IWA** _IWA Narrowboat Canal Cruising_ — 走访「运河窄船IWA」的同好圈。
+    - 🍃 **雪地风筝远征** _Snowkite expedition travel_ — 走访「雪地风筝远征」的同好圈。
+    - 📁 **风险边缘交通** _风险边缘交通_
+  - 📁 **城市探索与遗产** _城市探索与遗产_
+    - 🍃 **世界遗产志愿讲解** _World Heritage Volunteering_ — 走访「世界遗产志愿讲解」的同好圈。
+    - 📁 **反主流遗产** _反主流遗产_
+    - 📁 **墓碑与灯塔** _Gravestone and Lighthouse Heritage_
+      - 🍃 **墓碑研究AGS** _Association for Gravestone Studies_ — 走访「墓碑研究AGS」的同好圈。
+      - 🍃 **灯塔打卡ALK** _Lighthouse Bagging ALK_ — 走访「灯塔打卡ALK」的同好圈。
+    - 📁 **废弃与工业遗产探访** _Ruins & Industrial Heritage_
+      - 🍃 **工业考古业余记录** _Industrial Archaeology Hobby_ — 走访「工业考古业余记录」的同好圈。
+    - 🍃 **开放古迹日志愿讲解** _Heritage Open Days Volunteer Guiding_ — 走访「开放古迹日志愿讲解」的同好圈。
+    - 📁 **欧美工业遗产** _Euro-NA Industrial Heritage_
+    - 📁 **测绘传习** _Survey Transmission_
+    - 🍃 **英国工业考古协会AIA** _Association for Industrial Archaeology_ — 走访「英国工业考古协会AIA」的同好圈。
+    - 📁 **被误认为物业的井** _Wells Mistaken for Utilities_
+    - 📁 **认证路径遗产** _Credentialed Heritage_
+    - 📁 **身器地遗产** _身器地遗产_
+    - 📁 **遗产补** _遗产补_
+    - 📁 **遗产补2** _遗产补2_
+    - 📁 **遗产补洞** _Heritage Gap Fills_
+    - 📁 **风险边缘遗产** _风险边缘遗产_
+  - 📁 **深度目的地** _深度目的地_
+    - 📁 **专题旅行补** _Thematic Travel Fills_
+    - 🍃 **修验道大峰奥駈** _Shugendō Ōmine okugake_ — 走访「修验道大峰奥駈」的同好圈。
+    - 🍃 **克罗帕特里克山朝圣** _Croagh Patrick pilgrimage_ — 走访「克罗帕特里克山朝圣」的同好圈。
+    - 🍃 **冈仁波齐转山** _Kailash kora_ — 走访「冈仁波齐转山」（Kailash kora）。
+    - 🍃 **出羽三山修验** _Dewa Sanzan yamabushi_ — 走访「出羽三山修验」（Dewa Sanzan yamabushi）。
+    - 🍃 **副朝朝觐互助团** _Umrah and Hajj Mutual-aid Travel Circles_ — 走访「副朝朝觐互助团」的同好圈。
+    - 🍃 **加尔各答杜尔迦普迦观礼** _Durga Puja Cultural Visit_ — 走访「加尔各答杜尔迦普迦观礼」的同好圈。
+    - 📁 **反主流目的** _反主流目的_
+    - 🍃 **古巴帕兰达斯巡游参与** _Las Parrandas Cultural Participation_ — 走访「古巴帕兰达斯巡游参与」的同好圈。
+    - 🍃 **四国遍路徒步** _Shikoku Henro walking pilgrimage_ — 走访「四国遍路徒步」的同好圈。
+    - 🍃 **国民信托庄园探访** _National Trust House Visiting_ — 走访「国民信托庄园探访」的同好圈。
+    - 🍃 **圣地亚哥之路徒步朝圣** _Camino de Santiago walking pilgrimage_ — 走访「圣地亚哥之路徒步朝圣」的同好圈。
+    - 🍃 **埃尔卡亚俄狂欢节参与** _El Callao Carnival Participation_ — 走访「埃尔卡亚俄狂欢节参与」的同好圈。
+    - 🍃 **太平洋山脊步道全程徒步** _Pacific Crest Trail thru-hiking_ — 走访「太平洋山脊步道全程徒步」的同好圈。
+    - 📁 **季节朝圣** _季节朝圣_
+      - 🍃 **雨季寺院壁画临摹旅** _Monsoon Mural-copying Travel_ — 走访「雨季寺院壁画临摹旅」的同好圈。
+    - 🍃 **安第斯高原火车与遗产旅** _Andean Highland Rail & Heritage Travel_ — 走访「安第斯高原火车与遗产旅」的同好圈。
+    - 🍃 **宋干节泼水文化参与** _Songkran Water Festival Participation_ — 走访「宋干节泼水文化参与」的同好圈。
+    - 🍃 **富士讲登山巡礼** _Fuji-kō mountain pilgrimage_ — 走访「富士讲登山巡礼」的同好圈。
+    - 🍃 **巴兰基亚狂欢节文化参与** _Barranquilla Carnival Participation_ — 走访「巴兰基亚狂欢节文化参与」的同好圈。
+    - 🍃 **库姆布梅拉文化观礼旅行** _Kumbh Mela Cultural Visit_ — 走访「库姆布梅拉文化观礼旅行」的同好圈。
+    - 🍃 **庙会志愿向导轮值** _Temple Fair Volunteer Guide Rota_ — 走访「庙会志愿向导轮值」的同好圈。
+    - 🍃 **弗兰奇杰纳之路** _Via Francigena_ — 走访「弗兰奇杰纳之路」（Via Francigena）。
+    - 🍃 **探险家俱乐部式远征旅行** _Explorers Club Expedition Travel_ — 走访「探险家俱乐部式远征旅行」的同好圈。
+    - 🍃 **提姆卡特巡游观礼旅行** _Timkat Procession Cultural Visit_ — 走访「提姆卡特巡游观礼旅行」的同好圈。
+    - 🍃 **斯里帕达夜登** _Adam's Peak night climb_ — 走访「斯里帕达夜登」的同好圈。
+    - 📁 **材料产地朝圣** _Material-origin Pilgrimage_
+    - 🍃 **梅斯克尔篝火节文化观礼** _Meskel Bonfire Cultural Visit_ — 走访「梅斯克尔篝火节文化观礼」的同好圈。
+    - 🍃 **梅西尔糖膏节文化旅行** _Mesir Macunu Festival Travel_ — 走访「梅西尔糖膏节文化旅行」的同好圈。
+    - 🍃 **海岸穿越** _Coasteering_ — 走访「海岸穿越」（Coasteering）。
+    - 🍃 **熊野古道参诣步行会** _Kumano Kodo Pilgrimage Walking Groups_ — 走访「熊野古道参诣步行会」的同好圈。
+    - 🍃 **熊野古道徒步朝圣** _Kumano Kodo walking pilgrimage_ — 走访「熊野古道徒步朝圣」的同好圈。
+    - 📁 **目的补** _目的补_
+    - 📁 **目的补2** _目的补2_
+    - 🍃 **科伊尤里蒂高地巡礼徒步** _Qoyllurit'i Pilgrimage Trek_ — 走访「科伊尤里蒂高地巡礼徒步」的同好圈。
+    - 🍃 **纳扎雷圣烛巡游文化旅行** _Círio de Nazaré Cultural Visit_ — 走访「纳扎雷圣烛巡游文化旅行」的同好圈。
+    - 📁 **认证路径向导** _Credentialed Guide_
+    - 🍃 **贾格纳特车节巡游参与** _Rath Yatra Temple-car Procession Participation_ — 走访「贾格纳特车节巡游参与」的同好圈。
+    - 🍃 **跨撒哈拉商路文化旅行** _Trans-Saharan Cultural Route Travel_ — 走访「跨撒哈拉商路文化旅行」的同好圈。
+    - 🍃 **阿巴拉契亚步道全程徒步** _Appalachian Trail thru-hiking_ — 走访「阿巴拉契亚步道全程徒步」的同好圈。
+    - 🍃 **阿鲁纳查拉转山** _Arunachala girivalam_ — 走访「阿鲁纳查拉转山」（Arunachala girivalam）。
+    - 📁 **香料与市集路线** _Spice & Bazaar Routes_
+    - 🍃 **高野山巡礼** _Kōyasan pilgrimage_ — 走访「高野山巡礼」（Kōyasan pilgrimage）。
+  - 📁 **深度目的地与遗产** _深度目的地与遗产_
+    - 🍃 **AIANTA部落目的地旅行** _AIANTA American Indian Tourism_ — 走访「AIANTA部落目的地旅行」的同好圈。
+    - 🍃 **Gullah Geechee遗产走廊探访** _Gullah Geechee Cultural Heritage Corridor_ — 走访「Gullah Geechee遗产走廊探访」的同好圈。
+    - 🍃 **加拿大原住民旅游路线** _Indigenous Tourism Association of Canada_ — 走访「加拿大原住民旅游路线」的同好圈。
+    - 🍃 **工业遗产夜游讲解志愿** _Industrial-heritage Night Tour Docents_ — 走访「工业遗产夜游讲解志愿」的同好圈。
+    - 🍃 **新罕布什尔黑人遗产步道** _Black Heritage Trail of New Hampshire_ — 走访「新罕布什尔黑人遗产步道」的同好圈。
+    - 🍃 **欧洲犹太遗产路线旅行** _European Route of Jewish Heritage_ — 走访「欧洲犹太遗产路线旅行」的同好圈。
+    - 🍃 **澳新遗产铁路志愿** _Heritage Railway Volunteering ANZ_ — 走访「澳新遗产铁路志愿」的同好圈。
+    - 🍃 **美国国家公园护照盖章** _National Park Passport Cancellation_ — 走访「美国国家公园护照盖章」的同好圈。
+    - 📁 **身器地朝圣** _身器地朝圣_
+  - 📁 **身体朝圣与极地** _Bodily Pilgrimage and Polar Travel_
+    - 🍃 **极地滑雪远征** _Polar Ski Expedition Travel_ — 走访「极地滑雪远征」的同好圈。
+    - 🍃 **火山实地旅行** _Volcano Field Travel_ — 走访「火山实地旅行」（Volcano Field Travel）。
+  - 📁 **遗产路线与工业探访** _遗产路线与工业探访_
+    - 🍃 **Camino Frances成年朝圣者** _Camino de Santiago Pilgrims_ — 走访「Camino Frances成年朝圣者」的同好圈。
+    - 🍃 **哈德良长城国家步道** _Hadrian's Wall Path_ — 走访「哈德良长城国家步道」的同好圈。
+    - 🍃 **塔利林铁路保存会志愿** _Talyllyn Railway Preservation Society_ — 走访「塔利林铁路保存会志愿」的同好圈。
+    - 🍃 **林肯公路协会探访** _Lincoln Highway Association_ — 走访「林肯公路协会探访」的同好圈。
+    - 🍃 **比布鲁门步道基金会徒步** _Bibbulmun Track_ — 走访「比布鲁门步道基金会徒步」（Bibbulmun Track）。
+- 🍃 **北美房车俱乐部FMCA** _Family Motor Coach Association_ — 走访「北美房车俱乐部FMCA」的同好圈。
+- 🍃 **大地基准点Benchmark hunting** _Benchmark Hunting_ — 走访「大地基准点Benchmark hunting」的同好圈。
+- 🍃 **经纬度会合点Degree confluence** _Degree Confluence Project_ — 走访「经纬度会合点Degree confluence」的同好圈。
+- 🍃 **香料产地嗅觉旅行** _Fragrance Material Origin Travel_ — 走访「香料产地嗅觉旅行」的同好圈。
+- 🍃 **香料之路嗅觉旅行** _Spice Route Olfactory Travel_ — 走访「香料之路嗅觉旅行」的同好圈。
+- 🍃 **西国三十三所观音巡礼** _Saigoku Kannon Pilgrimage_ — 走访「西国三十三所观音巡礼」的同好圈。
+- 🍃 **玛丽莲山峰袋Marilyns** _Marilyn Bagging_ — 走访「玛丽莲山峰袋Marilyns」的同好圈。
+- 🍃 **科罗拉多十四座** _Colorado Fourteener Climbing_ — 走访「科罗拉多十四座」的同好圈。
+- 📁 **棋牌桌游** _Board, Card & Tabletop_
+  - 📁 **传统棋类** _传统棋类_
+    - 📁 **一生棋轨** _一生棋轨_
+    - 📁 **传习棋地** _传习棋地_
+    - 🍃 **北美竞赛拼字NASPA** _NASPA Club Scrabble_ — 玩「北美竞赛拼字NASPA」的同好圈。
+    - 📁 **区域棋规** _区域棋规_
+      - 🍃 **加拿大跳棋** _Canadian Draughts Circles_ — 玩「加拿大跳棋」的同好圈。
+      - 🍃 **北欧塔夫棋Hnefatafl** _Hnefatafl Tafl Revival Circles_ — 玩「北欧塔夫棋Hnefatafl」的同好圈。
+      - 🍃 **土耳其跳棋Dama** _Turkish Dama Draughts Circles_ — 玩「土耳其跳棋Dama」的同好圈。
+      - 🍃 **埃塞俄比亚Senterej** _Senterej Ethiopian Chess Circles_ — 玩「埃塞俄比亚Senterej」的同好圈。
+      - 🍃 **泰国象棋Makruk** _Makruk Thai Chess Circles_ — 玩「泰国象棋Makruk」的同好圈。
+      - 🍃 **缅甸象棋Sittuyin** _Sittuyin Burmese Chess Circles_ — 玩「缅甸象棋Sittuyin」的同好圈。
+      - 🍃 **蒙古象棋Shatar** _Shatar Mongolian Chess Circles_ — 玩「蒙古象棋Shatar」的同好圈。
+    - 📁 **历史复活棋** _历史复活棋_
+      - 🍃 **乌尔王族棋复原** _Royal Game of Ur Revival_ — 玩「乌尔王族棋复原」的同好圈。
+      - 🍃 **塞尼特棋复原** _Senet Reconstruction Play_ — 玩「塞尼特棋复原」的同好圈。
+    - 📁 **嗅觉与记忆游戏** _Scent & Memory Games_
+    - 🍃 **将棋业余** _Shogi amateur play_ — 玩「将棋业余」（Shogi amateur play）。
+    - 📁 **播棋与地区传统棋** _Mancala & Regional Traditional Board Games_
+      - 🍃 **双陆棋/舍什贝什** _Backgammon / Shesh Besh_ — 玩「双陆棋/舍什贝什」的同好圈。
+      - 🍃 **莫拉巴拉巴棋** _Morabaraba_ — 玩「莫拉巴拉巴棋」（Morabaraba）。
+    - 📁 **棋补** _棋补_
+      - 🍃 **五子棋连珠** _Renju Gomoku Clubs_ — 玩「五子棋连珠」（Renju Gomoku Clubs）。
+      - 🍃 **黑白棋奥赛罗** _Othello Reversi Clubs_ — 玩「黑白棋奥赛罗」（Othello Reversi Clubs）。
+    - 📁 **棋补2** _棋补2_
+    - 📁 **棋谱传习** _Score Transmission_
+    - 📁 **欧美棋社** _Euro-NA Chess Clubs_
+      - 🍃 **通信国际象棋** _Correspondence Chess ICCF_ — 玩「通信国际象棋」的同好圈。
+      - 🍃 **问题象棋构图** _Chess Problem Composition Circles_ — 玩「问题象棋构图」的同好圈。
+    - 📁 **欧美魔方社** _Euro-NA Cube Clubs_
+      - 🍃 **WCA地方魔方会** _WCA Local Cube Meets_ — 玩「WCA地方魔方会」的同好圈。
+    - 📁 **残局传习** _Endgame Transmission_
+    - 📁 **竞速魔方** _Speedcubing_
+      - 🍃 **少先拧法Roux** _Roux Method_ — 玩「少先拧法Roux」（Roux Method）。
+      - 🍃 **盲拧魔方** _Blindfolded Cubing_ — 玩「盲拧魔方」（Blindfolded Cubing）。
+    - 🍃 **美国围棋协会AGA** _American Go Association_ — 玩「美国围棋协会AGA」的同好圈。
+    - 🍃 **蒙古鹿棋业余** _Mongolian Deer Chess Hobby_ — 玩「蒙古鹿棋业余」的同好圈。
+    - 📁 **被误认为占卜的盘** _Boards Mistaken for Divination_
+      - 🍃 **韩国尤茨Yut** _Yut-nori Board Play_ — 玩「韩国尤茨Yut」（Yut-nori Board Play）。
+    - 📁 **认证路径棋** _Credentialed Board_
+    - 📁 **认证路径魔方** _Credentialed Cube_
+      - 🍃 **WCA裁判认证** _WCA Delegate and Judge Path_ — 玩「WCA裁判认证」的同好圈。
+    - 📁 **身体规则球类边缘** _Body-rule Ball Edges_
+      - 🍃 **自由式飞盘** _Freestyle Frisbee Jamming_ — 玩「自由式飞盘」的同好圈。
+    - 📁 **非洲与亚洲传统棋局** _African & Asian Traditional Board Games_
+      - 🍃 **东南亚Congklak康克拉克** _Congklak / Congkak Mancala_ — 玩「东南亚Congklak康克拉克」的同好圈。
+      - 🍃 **东非Bao四行曼卡拉** _Bao (East African Mancala)_ — 玩「东非Bao四行曼卡拉」的同好圈。
+      - 🍃 **印度Carrom卡罗姆弹棋** _Carrom_ — 玩「印度Carrom卡罗姆弹棋」（Carrom）。
+      - 🍃 **埃塞俄比亚Gebeta曼卡拉** _Gebeta Ethiopian Mancala_ — 玩「埃塞俄比亚Gebeta曼卡拉」的同好圈。
+      - 🍃 **斯里兰卡与南亚Pachisi帕奇西** _Pachisi / Ludo Ancestral Play_ — 玩「斯里兰卡与南亚Pachisi帕奇西」的同好圈。
+      - 🍃 **蒙古Shagai羊踝骨游戏** _Shagai Ankle-Bone Games_ — 玩「蒙古Shagai羊踝骨游戏」的同好圈。
+      - 🍃 **西非Oware曼卡拉** _Oware Mancala_ — 玩「西非Oware曼卡拉」（Oware Mancala）。
+      - 🍃 **越南象棋Cờ tướng业余圈** _Vietnamese Xiangqi (Cờ tướng)_ — 玩「越南象棋Cờ tướng业余圈」的同好圈。
+    - 🍃 **非洲播棋Bao竞赛圈** _East African Bao Mancala Circles_ — 玩「非洲播棋Bao竞赛圈」的同好圈。
+    - 📁 **非西方盘面棋** _Non-Western Board Games_
+      - 🍃 **janggi朝鲜将棋** _Janggi Korean Chess_ — 玩「janggi朝鲜将棋」的同好圈。
+  - 📁 **厅堂与侨民棋戏** _厅堂与侨民棋戏_
+    - 🍃 **北美Mah Jongg联盟牌局** _National Mah Jongg League Play_ — 玩「北美Mah Jongg联盟牌局」的同好圈。
+    - 🍃 **国际桌上冰球联合会赛** _International Table Hockey Federation_ — 玩「国际桌上冰球联合会赛」的同好圈。
+    - 🍃 **欧洲围棋联合会赛事** _European Go Federation Tournaments_ — 玩「欧洲围棋联合会赛事」的同好圈。
+    - 🍃 **芬兰Mölkky木柱世锦赛** _Mölkky World Championship_ — 玩「芬兰Mölkky木柱世锦赛」的同好圈。
+    - 🍃 **英国Carrom弹棋联赛** _UK Carrom Federation League_ — 玩「英国Carrom弹棋联赛」的同好圈。
+    - 🍃 **英美Tiddlywinks翻片赛** _English Tiddlywinks Association_ — 玩「英美Tiddlywinks翻片赛」的同好圈。
+  - 📁 **播棋与传统桌面** _播棋与传统桌面_
+    - 📁 **传习盘地** _传习盘地_
+    - 📁 **南亚与桌面** _南亚与桌面_
+      - 🍃 **克罗基诺Crokinole** _Crokinole Board Clubs_ — 玩「克罗基诺Crokinole」的同好圈。
+      - 🍃 **双陆棋Nard复兴** _Nard Backgammon Revival Circles_ — 玩「双陆棋Nard复兴」的同好圈。
+      - 🍃 **沙盘足球Subbuteo** _Subbuteo Table-soccer Clubs_ — 玩「沙盘足球Subbuteo」的同好圈。
+    - 📁 **历史复活盘** _历史复活盘_
+      - 🍃 **九人莫里斯复原** _Nine-mens-morris Revival Clubs_ — 玩「九人莫里斯复原」的同好圈。
+    - 📁 **反主流盘** _反主流盘_
+    - 📁 **盘补2** _盘补2_
+  - 📁 **现代桌游与卡牌** _现代桌游与卡牌_
+    - 🍃 **德式桌游重度玩家** _Eurogame Enthusiasts_ — 玩「德式桌游重度玩家」的同好圈。
+    - 📁 **桌游补** _桌游补_
+    - 📁 **桌游补2** _桌游补2_
+    - 🍃 **桌游馆赛季联赛执裁** _Board Game Cafe Seasonal League Judging_ — 玩「桌游馆赛季联赛执裁」的同好圈。
+    - 📁 **欧美桌游社** _Euro-NA Board Clubs_
+      - 🍃 **战棋六角棋社** _Hex-and-counter Wargame Clubs_ — 玩「战棋六角棋社」的同好圈。
+    - 📁 **滚轮与冰上规则** _Roller & Ice Rule Sets_
+      - 🍃 **芬兰棒球Pesapallo** _Pesäpallo Finnish Baseball_ — 玩「芬兰棒球Pesapallo」的同好圈。
+    - 📁 **规则变体** _Rule Variants_
+    - 📁 **认证路径德** _Credentialed Euro_
+    - 📁 **认证路径赛** _Credentialed Event_
+    - 📁 **赛制传习** _Format Transmission_
+    - 📁 **集换规则委员会** _集换规则委员会_
+  - 📁 **角色扮演跑团** _角色扮演跑团_
+    - 🍃 **Call of Cthulhu跑团** _Call of Cthulhu TTRPG_ — 玩「Call of Cthulhu跑团」的同好圈。
+    - 📁 **LARP与变体** _LARP与变体_
+      - 🍃 **现场角色扮演LARP社** _LARP Crew and Play Circles_ — 玩「现场角色扮演LARP社」的同好圈。
+    - 📁 **传习规则** _传习规则_
+    - 📁 **反主流规则** _反主流规则_
+    - 📁 **欧美跑团店** _Euro-NA FLGS Tables_
+    - 📁 **社交形态桌** _社交形态桌_
+    - 📁 **规则书与设定书同人** _TTRPG Fan Publishing_
+      - 🍃 **OSR旧学派复兴圈** _Old School Renaissance_ — 玩「OSR旧学派复兴圈」的同好圈。
+      - 🍃 **独立TRPG规则自制** _Indie TTRPG Design_ — 玩「独立TRPG规则自制」的同好圈。
+    - 📁 **规则传习** _Rules Transmission_
+    - 📁 **认证路径跑** _Credentialed Run_
+    - 📁 **跑团补** _跑团补_
+    - 📁 **跑团补2** _跑团补2_
+- 🍃 **原子棋Atomic** _Atomic Chess Circles_ — 玩「原子棋Atomic」的同好圈。
+- 🍃 **棋盘旋转变体** _Progressive Chess Circles_ — 玩「棋盘旋转变体」的同好圈。
+- 🍃 **欧美Whist俱乐部传统** _Whist Club Tradition_ — 玩「欧美Whist俱乐部传统」的同好圈。
+- 🍃 **威斯康星Sheepshead牌戏** _Sheepshead_ — 玩「威斯康星Sheepshead牌戏」（Sheepshead）。
+- 🍃 **瑞士Jass牌戏** _Swiss Jass_ — 玩「瑞士Jass牌戏」（Swiss Jass）。
+- 🍃 **板凳球Bat and trap** _Bat and Trap_ — 玩「板凳球Bat and trap」（Bat and Trap）。
+- 🍃 **瑞典Kubb** _Kubb_ — 玩「瑞典Kubb」（Kubb）。
+- 🍃 **英国Shove ha'penny** _Shove Ha'penny_ — 玩「英国Shove ha'penny」的同好圈。
+- 🍃 **荷兰Sjoelen沙狐木** _Sjoelen_ — 玩「荷兰Sjoelen沙狐木」（Sjoelen）。
+- 🍃 **诺乌斯Novuss** _Novuss_ — 玩「诺乌斯Novuss」（Novuss）。
+- 🍃 **德国Skat地方联赛** _German Skat Local Leagues_ — 玩「德国Skat地方联赛」的同好圈。
+- 🍃 **法国Belote俱乐部** _French Belote Club Play_ — 玩「法国Belote俱乐部」的同好圈。
+- 🍃 **荷兰Klaverjas牌局** _Klaverjas Dutch Card Clubs_ — 玩「荷兰Klaverjas牌局」的同好圈。
+- 🍃 **美国蹄铁投掷NHPA** _NHPA Horseshoe Pitching_ — 玩「美国蹄铁投掷NHPA」的同好圈。
+- 🍃 **香水盲测品鉴局** _Blind Perfume Tasting Games_ — 玩「香水盲测品鉴局」的同好圈。
+- 📁 **材料地形** _Terrain Materials_
+- 🍃 **HMGS历史微缩兵棋** _Historical Miniatures Gaming Society_ — 玩「HMGS历史微缩兵棋」的同好圈。
+- 🍃 **PoweredbyApocalypse变体** _PbtA Hack Circles_ — 玩「PoweredbyApocalypse变体」的同好圈。
+- 📁 **气候塑造的玩耍** _Climate-shaped Play_
+  - 📁 **冰雪季** _冰雪季_
+    - 📁 **冰上规则** _冰上规则_
+    - 🍃 **冰上钓鱼社群** _Ice Fishing Clubs_ — 季节玩「冰上钓鱼社群」（Ice Fishing Clubs）。
+    - 🍃 **冰上风筝滑雪** _Snowkiting on Frozen Lakes_ — 季节玩「冰上风筝滑雪」的同好圈。
+    - 🍃 **冰灯与雪雕街区赛** _Neighborhood Ice-lantern & Snow Sculpture_ — 季节玩「冰灯与雪雕街区赛」的同好圈。
+    - 🍃 **加拿大冰屋构筑周末** _Igloo-building Weekend Clubs_ — 季节玩「加拿大冰屋构筑周末」的同好圈。
+    - 🍃 **芬兰烧桑拿滚雪** _Sauna-to-Snow Rolling Ritual_ — 季节玩「芬兰烧桑拿滚雪」的同好圈。
+    - 🍃 **雪地高尔夫趣味赛** _Snow Golf Novelty Meets_ — 季节玩「雪地高尔夫趣味赛」的同好圈。
+  - 📁 **季节民俗**
+    - 🍃 **仲夏花环河灯夜** _Midsummer Wreath River-lantern Nights_ — 季节玩「仲夏花环河灯夜」的同好圈。
+    - 🍃 **收获季草垛迷宫夜游** _Harvest Hay-maze Night Walks_ — 季节玩「收获季草垛迷宫夜游」的同好圈。
+    - 🍃 **春分蛋立挑战聚会** _Equinox Egg-balancing Meetups_ — 季节玩「春分蛋立挑战聚会」的同好圈。
+    - 🍃 **霜降柿子晒架志愿** _Frost-descent Persimmon Drying Racks_ — 季节玩「霜降柿子晒架志愿」的同好圈。
+  - 📁 **季风与旱季** _季风与旱季_
+    - 🍃 **旱季盐沼结晶观赏徒步** _Dry-season Salt-pan Crystal Walks_ — 季节玩「旱季盐沼结晶观赏徒步」的同好圈。
+    - 🍃 **沙尘暴摄影安全小队** _Dust-storm Photography Safety Teams_ — 季节玩「沙尘暴摄影安全小队」的同好圈。
+    - 🍃 **沙漠星空季露营观星** _Desert Dry-season Stargazing Camps_ — 季节玩「沙漠星空季露营观星」的同好圈。
+    - 🍃 **雨季蛙声识别夜巡** _Monsoon Frog-call Night Walks_ — 季节玩「雨季蛙声识别夜巡」的同好圈。
+    - 📁 **风与沙** _风与沙_
+  - 📁 **水汽与雾**
+    - 🍃 **云海观景季登山社** _Sea-of-clouds Seasonal Hiking Clubs_ — 季节玩「云海观景季登山社」的同好圈。
+    - 🍃 **晨露蛛网微距巡线** _Dawn Dew Spiderweb Macro Routes_ — 季节玩「晨露蛛网微距巡线」的同好圈。
+    - 🍃 **温泉雾气摄影散步** _Hot-spring Fog Photo Strolls_ — 季节玩「温泉雾气摄影散步」的同好圈。
+  - 📁 **潮汐与河岸**
+    - 🍃 **月光低潮夜行拾潮** _Moonlit Low-tide Night Forays_ — 季节玩「月光低潮夜行拾潮」的同好圈。
+    - 🍃 **河口泥滩观鸟驿站志愿** _Estuary Mudflat Birding Stewards_ — 季节玩「河口泥滩观鸟驿站志愿」的同好圈。
+    - 🍃 **潮间带拾贝与潮汐表游戏** _Tide-table Foraging Games_ — 季节玩「潮间带拾贝与潮汐表游戏」的同好圈。
+    - 🍃 **风暴潮后海滩净滩捡塑** _Post-storm Beach Plastic Picking_ — 季节玩「风暴潮后海滩净滩捡塑」的同好圈。
+  - 📁 **风与热**
+    - 🍃 **城市热岛夜间凉台棋会** _Heat-island Night Rooftop Board Nights_ — 季节玩「城市热岛夜间凉台棋会」的同好圈。
+    - 🍃 **沙漠热风风筝冲浪** _Desert Thermal Wind Kite Sessions_ — 季节玩「沙漠热风风筝冲浪」的同好圈。
+    - 🍃 **焚风日徒步微气候记录** _Föhn-day Microclimate Hiking Logs_ — 季节玩「焚风日徒步微气候记录」的同好圈。
+- 🍃 **刘易斯篝火会游行** _Lewes Bonfire Society Processions_ — 季节玩「刘易斯篝火会游行」的同好圈。
+- 🍃 **设得兰火节UpHellyAa** _Up Helly Aa Fire Festival_ — 季节玩「设得兰火节UpHellyAa」的同好圈。
+- 🍃 **布莱顿烧钟节** _Burning the Clocks Brighton_ — 季节玩「布莱顿烧钟节」的同好圈。
+- 🍃 **国际扫帚球联赛圈** _International Broomball_ — 季节玩「国际扫帚球联赛圈」的同好圈。
+- 🍃 **冰上木瓶Eisstock** _Ice Stock Sport_ — 季节玩「冰上木瓶Eisstock」（Ice Stock Sport）。
+- 🍃 **Crokicurl冰上克罗克诺** _Crokicurl_ — 季节玩「Crokicurl冰上克罗克诺」（Crokicurl）。
+- 🍃 **DN级冰帆竞速** _DN Ice Yacht Racing_ — 季节玩「DN级冰帆竞速」（DN Ice Yacht Racing）。
+- 🍃 **芬兰冰洞冬泳Avanto** _Finnish Avanto Ice-hole Swimming_ — 季节玩「芬兰冰洞冬泳Avanto」的同好圈。
+- 🍃 **五月柱舞社群** _Maypole Dance Village Troupes_ — 季节玩「五月柱舞社群」的同好圈。
+- 🍃 **井饰WellDressing节** _Well Dressing Festival Circuits_ — 季节玩「井饰WellDressing节」的同好圈。
+- 🍃 **帕德斯托Hobby马节** _Padstow Obby Oss Festival_ — 季节玩「帕德斯托Hobby马节」的同好圈。
+- 🍃 **阿博茨布罗姆利角舞** _Abbots Bromley Horn Dance_ — 季节玩「阿博茨布罗姆利角舞」的同好圈。
+- 🍃 **山地滑板Mountainboarding** _Mountainboarding_ — 季节玩「山地滑板Mountainboarding」的同好圈。
+- 🍃 **人马越野对决赛** _Man versus Horse Marathon_ — 季节玩「人马越野对决赛」的同好圈。
+- 🍃 **池塘冰球Pond hockey** _Pond Hockey_ — 季节玩「池塘冰球Pond hockey」（Pond Hockey）。
+- 🍃 **滚轮滑雪Roller skiing** _Roller Skiing_ — 季节玩「滚轮滑雪Roller skiing」的同好圈。
+- 🍃 **泰晤士河泥滩寻宝Mudlarking** _Thames Mudlarking_ — 季节玩「泰晤士河泥滩寻宝Mudlarking」的同好圈。
+- 🍃 **潮间带定向拾趣** _Tidepool Orienteering Play_ — 季节玩「潮间带定向拾趣」的同好圈。
+- 🍃 **芬兰桑拿协会传统浴礼** _Finnish Sauna Society_ — 季节玩「芬兰桑拿协会传统浴礼」的同好圈。
+- 🍃 **班迪球Bandy** _Bandy_ — 季节玩「班迪球Bandy」（Bandy）。
+- 🍃 **草地滑雪Grass skiing** _Grass Skiing_ — 季节玩「草地滑雪Grass skiing」的同好圈。
+- 🍃 **铃纳特Ringette** _Ringette_ — 季节玩「铃纳特Ringette」（Ringette）。
+- 🍃 **雨季战斗风筝** _Monsoon Fighter Kite Contests_ — 季节玩「雨季战斗风筝」的同好圈。
+- 🍃 **雪地铲滑竞速** _Shovel Racing_ — 季节玩「雪地铲滑竞速」（Shovel Racing）。
+- 🍃 **雪蛇Snow Snake投掷** _Snow Snake_ — 季节玩「雪蛇Snow Snake投掷」（Snow Snake）。
+- 🍃 **雪鞋竞速WSSF** _Snowshoe Racing WSSF_ — 季节玩「雪鞋竞速WSSF」的同好圈。
+- 🍃 **FogQuest雾气收集志愿观测** _FogQuest_ — 季节玩「FogQuest雾气收集志愿观测」（FogQuest）。
+- 📁 **社群志愿** _Community & Volunteering_
+  - 📁 **修复与再用社群** _Repair & Reuse Communities_
+    - 🍃 **物品图书馆** _Library of Things_ — 志愿做「物品图书馆」（Library of Things）。
+    - 🍃 **织补Darning** _Darning Communities_ — 志愿做「织补Darning」的同好圈。
+    - 🍃 **缝补互助社群** _Mending Mutual-Aid Circles_ — 志愿做「缝补互助社群」的同好圈。
+  - 📁 **公益与救助** _公益与救助_
+    - 🍃 **AAA雪崩安全训练** _AAA avalanche training_ — 志愿做「AAA雪崩安全训练」的同好圈。
+    - 🍃 **DAN潜水急救训练** _DAN diving first aid_ — 志愿做「DAN潜水急救训练」的同好圈。
+    - 🍃 **ILS国际救生训练** _ILS lifesaving training_ — 志愿做「ILS国际救生训练」的同好圈。
+    - 🍃 **NASAR搜救训练** _NASAR search and rescue training_ — 志愿做「NASAR搜救训练」的同好圈。
+    - 🍃 **NCRC洞穴救援训练** _NCRC cave rescue training_ — 志愿做「NCRC洞穴救援训练」的同好圈。
+    - 🍃 **Rescue3激流救援** _Rescue 3 swiftwater training_ — 志愿做「Rescue3激流救援」的同好圈。
+    - 🍃 **WMS荒野医学** _Wilderness Medical Society_ — 志愿做「WMS荒野医学」的同好圈。
+    - 📁 **人道测绘之外补** _Aid beyond Maps_
+    - 📁 **传习救地** _传习救地_
+    - 📁 **公民观测与共享物** _Citizen Observing and Shared Goods_
+      - 🍃 **Little Free Library管家** _Little Free Library Stewardship_ — 志愿做「Little Free Library管家」的同好圈。
+      - 🍃 **气象志愿观测WOW** _Met Office WOW Weather Observers_ — 志愿做「气象志愿观测WOW」的同好圈。
+    - 📁 **反主流救** _反主流救_
+    - 🍃 **圣城救济厨房斋月志愿** _Iftar Community Kitchen Ramadan Volunteering_ — 志愿做「圣城救济厨房斋月志愿」的同好圈。
+    - 🍃 **山地失踪人员搜索志愿** _Mountain Missing-person Search Volunteers_ — 志愿做「山地失踪人员搜索志愿」的同好圈。
+    - 🍃 **山地救援训练** _Mountain rescue training_ — 志愿做「山地救援训练」的同好圈。
+    - 📁 **急救传习** _First-aid Transmission_
+    - 📁 **救助补** _救助补_
+    - 📁 **救助补2** _救助补2_
+    - 📁 **欧美救助社** _Euro-NA Rescue Clubs_
+    - 🍃 **水域救生员技能复训** _Lifesaving recertification practice_ — 志愿做「水域救生员技能复训」的同好圈。
+    - 🍃 **激流水域救援训练** _Swiftwater rescue_ — 志愿做「激流水域救援训练」（Swiftwater rescue）。
+    - 🍃 **英国洞穴救援训练** _British cave rescue training_ — 志愿做「英国洞穴救援训练」的同好圈。
+    - 🍃 **荒野第一响应员训练** _Wilderness First Responder_ — 志愿做「荒野第一响应员训练」的同好圈。
+    - 📁 **认证路径救** _Credentialed Rescue_
+      - 🍃 **搜救志愿认证** _SAR Volunteer Credential Paths_ — 志愿做「搜救志愿认证」的同好圈。
+    - 📁 **认证路径灾** _Credentialed Disaster_
+    - 🍃 **锡克庙朗加尔公共厨房志愿** _Sikh Langar Community Kitchen Volunteering_ — 志愿做「锡克庙朗加尔公共厨房志愿」的同好圈。
+    - 🍃 **雪崩搜救训练** _Avalanche rescue training_ — 志愿做「雪崩搜救训练」的同好圈。
+    - 🍃 **高空扁带救援演练** _Highline rescue practice_ — 志愿做「高空扁带救援演练」的同好圈。
+    - 🍃 **高角度绳索救援训练** _High-angle rope rescue training_ — 志愿做「高角度绳索救援训练」的同好圈。
+  - 📁 **地方互助与移民飞地** _地方互助与移民飞地_
+    - 🍃 **Order of the Sons of Italy** _Order Sons and Daughters of Italy in America_ — 志愿做「Order of the Sons of Italy」的同好圈。
+    - 🍃 **Pasifika Festival奥克兰志愿** _Pasifika Festival_ — 志愿做「Pasifika Festival奥克兰志愿」的同好圈。
+    - 🍃 **Toronto Caribbean Carnival乐队** _Toronto Caribbean Carnival_ — 志愿做「Toronto Caribbean Carnival乐队」的同好圈。
+    - 🍃 **北美巴斯克中心NABO** _North American Basque Organizations_ — 志愿做「北美巴斯克中心NABO」的同好圈。
+    - 🍃 **南澳康沃尔侨民协会** _Cornish Association of South Australia_ — 志愿做「南澳康沃尔侨民协会」的同好圈。
+    - 🍃 **国家海岸瞭望NCI志愿** _National Coastwatch Institution_ — 志愿做「国家海岸瞭望NCI志愿」的同好圈。
+    - 🍃 **挪威之子会所Sons of Norway** _Sons of Norway_ — 志愿做「挪威之子会所Sons of Norway」的同好圈。
+    - 🍃 **新南威尔士乡村消防志愿** _NSW Rural Fire Service Volunteers_ — 志愿做「新南威尔士乡村消防志愿」的同好圈。
+    - 🍃 **波兰猎鹰会Polish Falcons** _Polish Falcons of America_ — 志愿做「波兰猎鹰会Polish Falcons」的同好圈。
+    - 🍃 **瓦萨会所瑞典裔互助** _Vasa Order of America_ — 志愿做「瓦萨会所瑞典裔互助」的同好圈。
+    - 🍃 **运河河流信托船闸志愿** _Canal & River Trust Volunteering_ — 志愿做「运河河流信托船闸志愿」的同好圈。
+  - 📁 **应急通信志愿** _应急通信志愿_
+    - 🍃 **ARES业余无线电应急通信** _ARES Emergency Communications_ — 志愿做「ARES业余无线电应急通信」的同好圈。
+    - 🍃 **RACES民防业余电台志愿** _RACES Civil Defense Radio Volunteering_ — 志愿做「RACES民防业余电台志愿」的同好圈。
+    - 📁 **传习电台地** _传习电台地_
+    - 📁 **应急补** _应急补_
+      - 🍃 **天气网SKYWARN** _SKYWARN Spotter Volunteers_ — 志愿做「天气网SKYWARN」的同好圈。
+    - 📁 **应急补2** _应急补2_
+    - 📁 **风险社交形态** _风险社交形态_
+  - 📁 **开源与知识共享** _开源与知识共享_
+    - 📁 **传习测绘地** _传习测绘地_
+    - 📁 **匿名蜂群** _匿名蜂群_
+      - 🍃 **分布式校对蜂群** _Distributed Proofreaders Swarms_ — 志愿做「分布式校对蜂群」的同好圈。
+      - 🍃 **星系动物园分类蜂群** _Galaxy Zoo Classification Swarms_ — 志愿做「星系动物园分类蜂群」的同好圈。
+    - 📁 **反主流知识** _反主流知识_
+    - 📁 **开放街道地图** _OpenStreetMap_
+      - 🍃 **Humanitarian OSM** _HOT OSM_ — 志愿做「Humanitarian OSM」（HOT OSM）。
+      - 🍃 **OSM实地测绘** _OSM Field Mapping_ — 志愿做「OSM实地测绘」（OSM Field Mapping）。
+    - 📁 **文档传习** _Docs Transmission_
+      - 🍃 **维基数据结构化编辑** _Wikidata Structured Editing Circles_ — 志愿做「维基数据结构化编辑」的同好圈。
+    - 📁 **知识库补洞** _Knowledge-base Fills_
+    - 📁 **知识补** _知识补_
+    - 🍃 **维基马拉松遗产编辑夜** _Heritage Edit-a-thon Marathon Night_ — 志愿做「维基马拉松遗产编辑夜」的同好圈。
+    - 📁 **被误认为测绘局** _Mapping Mistaken for Bureau_
+    - 📁 **认证路径开源** _Credentialed OSS_
+  - 📁 **本地兴趣俱乐部** _本地兴趣俱乐部_
+    - 🍃 **伊斯塔帕拉帕受难剧社区筹办** _Iztapalapa Passion Play Community Organizing_ — 志愿做「伊斯塔帕拉帕受难剧社区筹办」的同好圈。
+    - 📁 **俱乐部形态** _Club Forms_
+    - 📁 **俱乐部补** _俱乐部补_
+    - 📁 **俱乐部补2** _俱乐部补2_
+    - 📁 **全球南节庆与社群实践** _Global South Festival & Community Hobby Circles_
+      - 🍃 **印度Rangoli地面彩绘社群** _Rangoli / Kolam Floor Art Circles_ — 志愿做「印度Rangoli地面彩绘社群」的同好圈。
+      - 🍃 **墨西哥亡灵节祭坛布置爱好** _Día de Muertos Ofrenda Making_ — 志愿做「墨西哥亡灵节祭坛布置爱好」的同好圈。
+      - 🍃 **特立尼达嘉年华Mas营地** _Trinidad Carnival Mas Camps_ — 志愿做「特立尼达嘉年华Mas营地」的同好圈。
+      - 🍃 **加纳织布节庆市集志愿** _Ghana Textile Festival Market Volunteering_ — 志愿做「加纳织布节庆市集志愿」的同好圈。
+      - 🍃 **里约Samba学校嘉年华排练** _Rio Samba School Carnival Rehearsal_ — 志愿做「里约Samba学校嘉年华排练」的同好圈。
+    - 🍃 **八户三社大祭山车组参与** _Hachinohe Sansha Taisai Float Groups_ — 志愿做「八户三社大祭山车组参与」的同好圈。
+    - 🍃 **利穆赞七年展圣遗物志愿** _Limousin Septennial Ostensions Volunteering_ — 志愿做「利穆赞七年展圣遗物志愿」的同好圈。
+    - 🍃 **博多祇园山笠流舁参与** _Hakata Gion Yamakasa Nagare Teams_ — 志愿做「博多祇园山笠流舁参与」的同好圈。
+    - 🍃 **印度庙会志愿疏导队** _Indian Temple Festival Volunteer Stewarding_ — 志愿做「印度庙会志愿疏导队」的同好圈。
+    - 🍃 **危地马拉圣周花毯志愿铺设** _Guatemala Holy Week Alfombra Volunteering_ — 志愿做「危地马拉圣周花毯志愿铺设」的同好圈。
+    - 📁 **反主流社** _反主流社_
+    - 🍃 **圣周苦路兄弟会抬轿** _Holy Week Nazarenos Paso Bearing_ — 志愿做「圣周苦路兄弟会抬轿」的同好圈。
+    - 🍃 **坦坦牧民庙会志愿协办** _Tan-Tan Moussem Nomad Gathering Volunteering_ — 志愿做「坦坦牧民庙会志愿协办」的同好圈。
+    - 🍃 **塞维利亚圣周兄弟会协作** _Seville Holy Week Brotherhood Participation_ — 志愿做「塞维利亚圣周兄弟会协作」的同好圈。
+    - 🍃 **委内瑞拉圣体节舞魔兄弟会** _Venezuela Corpus Christi Dancing Devils Confraternity_ — 志愿做「委内瑞拉圣体节舞魔兄弟会」的同好圈。
+    - 🍃 **威尼斯狂欢节面具工社** _Venice Carnival Mask Workshops_ — 志愿做「威尼斯狂欢节面具工社」的同好圈。
+    - 🍃 **山鉾屋台町众协作** _Yama Hoko Yatai Community Crewing_ — 志愿做「山鉾屋台町众协作」的同好圈。
+    - 📁 **工棚修复与社区实践** _Men's Sheds & Repair Cafe_
+    - 🍃 **巴兰基亚狂欢比较萨协作** _Barranquilla Carnival Comparsa Participation_ — 志愿做「巴兰基亚狂欢比较萨协作」的同好圈。
+    - 🍃 **巴哈马Junkanoo棚屋工坊** _Bahamas Junkanoo Shack Crew Participation_ — 志愿做「巴哈马Junkanoo棚屋工坊」的同好圈。
+    - 🍃 **巴斯狂欢节花车协会** _Bath Carnival Float Associations_ — 志愿做「巴斯狂欢节花车协会」的同好圈。
+    - 🍃 **布鲁日圣血游行兄弟会参与** _Bruges Holy Blood Procession Brotherhood_ — 志愿做「布鲁日圣血游行兄弟会参与」的同好圈。
+    - 📁 **师徒与赞助人** _师徒与赞助人_
+    - 🍃 **拉巴斯大能节舞蹈兄弟会** _La Paz Gran Poder Dance Fraternity_ — 志愿做「拉巴斯大能节舞蹈兄弟会」的同好圈。
+    - 🍃 **拉斯帕兰达斯街区队协作** _Las Parrandas Neighbourhood Team Participation_ — 志愿做「拉斯帕兰达斯街区队协作」的同好圈。
+    - 📁 **材料互换行会** _Material-swap Guilds_
+    - 📁 **欧美互助会** _Euro-NA Mutuals_
+      - 🍃 **工人教育协会WEA** _WEA Adult Learning Circles_ — 志愿做「工人教育协会WEA」的同好圈。
+      - 🍃 **机械研究所MechanicsInstitute** _Mechanics Institute Lecture Circles_ — 志愿做「机械研究所MechanicsInstitute」的同好圈。
+    - 📁 **气味互助交换** _Scent Mutual Exchange_
+      - 🍃 **菌种与香材交换会** _Culture and Incense Material Swaps_ — 志愿做「菌种与香材交换会」的同好圈。
+    - 🍃 **法雅节街区委员会参与** _Fallas Neighborhood Commission Participation_ — 志愿做「法雅节街区委员会参与」的同好圈。
+    - 🍃 **波帕扬圣周祭台花车协作** _Popayan Holy Week Paso Crewing_ — 志愿做「波帕扬圣周祭台花车协作」的同好圈。
+    - 🍃 **潘奇马尔科花棕榈兄弟会** _Panchimalco Flowers and Palms Confraternity_ — 志愿做「潘奇马尔科花棕榈兄弟会」的同好圈。
+    - 🍃 **燃灯会灯笼巡游志愿** _Yeondeunghoe Lantern Parade Volunteering_ — 志愿做「燃灯会灯笼巡游志愿」的同好圈。
+    - 📁 **独行与对练** _独行与对练_
+    - 🍃 **班什吉勒社团参与** _Binche Gilles Society Participation_ — 志愿做「班什吉勒社团参与」的同好圈。
+    - 📁 **社交形态互助** _社交形态互助_
+    - 📁 **社交形态俱乐部** _社交形态俱乐部_
+    - 🍃 **祇园祭山鉾町会参与** _Gion Matsuri Yamahoko Neighborhood Participation_ — 志愿做「祇园祭山鉾町会参与」的同好圈。
+    - 🍃 **科隆狂欢节仪式卫队** _Cologne Carnival Guard Societies_ — 志愿做「科隆狂欢节仪式卫队」的同好圈。
+    - 🍃 **秩父祭屋台町会参与** _Chichibu Festival Float Neighborhood Groups_ — 志愿做「秩父祭屋台町会参与」的同好圈。
+    - 📁 **航标与种子共享** _Aids-to-Navigation and Seed Sharing_
+      - 🍃 **志愿灯塔看护** _Volunteer Lighthouse Keeping_ — 志愿做「志愿灯塔看护」的同好圈。
+    - 📁 **表演艺术与文化俱乐部** _Performing Arts & Cultural Clubs_
+      - 🍃 **卡帕哈卡表演艺术** _Kapa Haka / Māori Performing Arts_ — 志愿做「卡帕哈卡表演艺术」的同好圈。
+    - 📁 **认证路径社** _Credentialed Club_
+    - 📁 **豆瓣式兴趣小组文化** _Douban-style Interest Groups_
+    - 🍃 **赫瓦尔跟十字夜巡志愿** _Hvar Za Krizen Cross Procession Participation_ — 志愿做「赫瓦尔跟十字夜巡志愿」的同好圈。
+    - 🍃 **门德里西奥圣周透明画巡游志愿** _Mendrisio Holy Week Trasparenti Volunteering_ — 志愿做「门德里西奥圣周透明画巡游志愿」的同好圈。
+    - 🍃 **阿尔拜因朝访服务站志愿** _Arba'in Pilgrimage Hospitality Volunteering_ — 志愿做「阿尔拜因朝访服务站志愿」的同好圈。
+    - 🍃 **非洲面具社团季节巡演** _West African Mask Society Seasonal Tour_ — 志愿做「非洲面具社团季节巡演」的同好圈。
+    - 🍃 **马拉尼昂牛舞团体参与** _Bumba-meu-boi Community Group Participation_ — 志愿做「马拉尼昂牛舞团体参与」的同好圈。
+    - 🍃 **马耳他村庄节志愿会** _Maltese Village Festa Volunteering_ — 志愿做「马耳他村庄节志愿会」的同好圈。
+    - 🍃 **马辅助治疗侧行志愿** _Therapeutic Riding Side-walker Volunteers_ — 志愿做「马辅助治疗侧行志愿」的同好圈。
+    - 🍃 **高山祭屋台保存会参与** _Takayama Festival Yatai Preservation Groups_ — 志愿做「高山祭屋台保存会参与」的同好圈。
+    - 🍃 **魁北克冬季节冰雕队** _Quebec Winter Carnival Ice Sculpture Teams_ — 志愿做「魁北克冬季节冰雕队」的同好圈。
+  - 📁 **遗产档案与口述** _遗产档案与口述_
+    - 🍃 **Densho日裔口述史志愿** _Densho Japanese American Oral History Volunteers_ — 志愿做「Densho日裔口述史志愿」的同好圈。
+    - 🍃 **FirstVoices原住民语言归档** _FirstVoices Language Archiving_ — 志愿做「FirstVoices原住民语言归档」的同好圈。
+    - 🍃 **NARA公民档案员转录** _NARA Citizen Archivist_ — 志愿做「NARA公民档案员转录」的同好圈。
+    - 🍃 **SAADA南亚裔社区档案志愿** _SAADA South Asian American Digital Archive_ — 志愿做「SAADA南亚裔社区档案志愿」的同好圈。
+    - 🍃 **StoryCorps口述史采访志愿** _StoryCorps Facilitator Volunteering_ — 志愿做「StoryCorps口述史采访志愿」的同好圈。
+    - 🍃 **苏格兰Adopt-a-Monument遗产志愿** _Adopt-a-Monument Scotland_ — 志愿做「苏格兰Adopt-a-Monument遗产志愿」的同好圈。
+  - 📁 **风险伦理与认证** _Risk Etiquette and Certification_
+    - 🍃 **国家滑雪巡逻** _National Ski Patrol_ — 志愿做「国家滑雪巡逻」（National Ski Patrol）。
+    - 🍃 **国际登山向导认证** _IFMGA Mountain Guide Practice_ — 志愿做「国际登山向导认证」的同好圈。
+- 🍃 **皇家救生艇RNLI志愿** _RNLI Volunteering_ — 志愿做「皇家救生艇RNLI志愿」的同好圈。
+- 🍃 **英格兰威尔士山地救援** _Mountain Rescue England and Wales_ — 志愿做「英格兰威尔士山地救援」的同好圈。
+- 🍃 **阿巴拉契亚步道维护志愿** _Appalachian Trail Conservancy Volunteers_ — 志愿做「阿巴拉契亚步道维护志愿」的同好圈。
+- 🍃 **圣约翰救护成人志愿** _St John Ambulance Adult Volunteers_ — 志愿做「圣约翰救护成人志愿」的同好圈。
+- 🍃 **澳洲男子工棚协会** _Australian Men's Shed Association_ — 志愿做「澳洲男子工棚协会」的同好圈。
+- 🍃 **古腾堡计划校对** _Distributed Proofreaders Gutenberg_ — 志愿做「古腾堡计划校对」的同好圈。
+- 🍃 **维基媒体GLAM志愿** _Wikimedia GLAM Volunteers_ — 志愿做「维基媒体GLAM志愿」的同好圈。
+- 🍃 **志愿气象站维护** _Volunteer Weather Station Keepers_ — 志愿做「志愿气象站维护」的同好圈。
+- 🍃 **社区生物实验室DIYbio** _Community Biohackerspace Biosafety_ — 志愿做「社区生物实验室DIYbio」的同好圈。
+- 📁 **猛禽与传统驯鹰社群** _Traditional Falconry Communities_
+- 🍃 **英国家族史联合会** _Federation of Family History Societies_ — 志愿做「英国家族史联合会」的同好圈。
+- 🍃 **活史村庄解释员** _Living History Interpreters_ — 志愿做「活史村庄解释员」的同好圈。
+- 📁 **种间共生实践** _Interspecies Symbiosis Practice_
+  - 📁 **人犬运动**
+    - 🍃 **人犬飞盘Disc dog** _Disc Dog Freestyle_ — 协作练「人犬飞盘Disc dog」的同好圈。
+    - 🍃 **服从服从Rally服从赛** _Rally Obedience Hobby Trials_ — 协作练「服从服从Rally服从赛」的同好圈。
+    - 🍃 **犬只水上救援训练志愿** _Canine Water-rescue Drill Volunteers_ — 协作练「犬只水上救援训练志愿」的同好圈。
+    - 🍃 **犬敏捷赛Agility业余** _Dog Agility Amateur Rings_ — 协作练「犬敏捷赛Agility业余」的同好圈。
+  - 📁 **人马协作**
+    - 🍃 **蒙古博克马背摔跤观摩骑** _Mongolian Bokh Mounted Wrestling Observation Rides_ — 协作练「蒙古博克马背摔跤观摩骑」的同好圈。
+    - 🍃 **西部马术再训业余** _Western Reining Amateur_ — 协作练「西部马术再训业余」的同好圈。
+    - 🍃 **障碍超越业余周末** _Amateur Show-jumping Weekends_ — 协作练「障碍超越业余周末」的同好圈。
+    - 🍃 **马背射箭传统班** _Mounted Archery Traditional Classes_ — 协作练「马背射箭传统班」的同好圈。
+  - 📁 **其他伴侣物种**
+    - 🍃 **兔跳障碍赛业余** _Rabbit Hopping Amateur Trials_ — 协作练「兔跳障碍赛业余」的同好圈。
+    - 🍃 **雪貂管道钻探游戏** _Ferret Tube-agility Play_ — 协作练「雪貂管道钻探游戏」的同好圈。
+  - 📁 **微生物共生体** _微生物共生体_
+    - 📁 **交换伦理** _交换伦理_
+    - 🍃 **家庭酸奶菌种交换会** _Yogurt Culture Swap Meets_ — 协作练「家庭酸奶菌种交换会」的同好圈。
+    - 🍃 **康普茶SCOBY分株社群** _Kombucha SCOBY Sharing Circles_ — 协作练「康普茶SCOBY分株社群」的同好圈。
+    - 🍃 **酸面包老面邮寄交换** _Sourdough Starter Mail Swaps_ — 协作练「酸面包老面邮寄交换」的同好圈。
+  - 📁 **昆虫共生**
+    - 🍃 **瓢虫越冬箱安装志愿** _Ladybug Overwinter Box Volunteers_ — 协作练「瓢虫越冬箱安装志愿」的同好圈。
+    - 🍃 **萤火虫栖地夜间护飞** _Firefly Habitat Night Stewardship_ — 协作练「萤火虫栖地夜间护飞」的同好圈。
+    - 🍃 **蚂蚁农场Formicarium社群** _Formicarium Antkeeping Clubs_ — 协作练「蚂蚁农场Formicarium社群」的同好圈。
+    - 🍃 **蝴蝶园寄主植物种植** _Butterfly Host-plant Gardening_ — 协作练「蝴蝶园寄主植物种植」的同好圈。
+    - 🍃 **螳螂观察饲养记录** _Praying-mantis Observation Keeping_ — 协作练「螳螂观察饲养记录」的同好圈。
+  - 📁 **水生协作**
+    - 🍃 **海豚辅助疗愈志愿旁观伦理圈** _Dolphin-therapy Ethics Observer Circles_ — 协作练「海豚辅助疗愈志愿旁观伦理圈」的同好圈。
+    - 🍃 **牡蛎礁修复潜水志愿** _Oyster-reef Restoration Dive Volunteers_ — 协作练「牡蛎礁修复潜水志愿」的同好圈。
+  - 📁 **猛禽与工作兽** _猛禽与工作兽_
+    - 📁 **合法 falconry** _合法 falconry_
+      - 🍃 **国际猎鹰术组织学徒** _IAF Falconry Apprentice Tracks_ — 协作练「国际猎鹰术组织学徒」的同好圈。
+  - 📁 **驮兽**
+    - 🍃 **驴驮山径补给志愿** _Pack-donkey Trail Resupply Volunteers_ — 协作练「驴驮山径补给志愿」的同好圈。
+    - 🍃 **骆驼沙漠向导业余认证** _Desert Camel Guide Hobby Cert Tracks_ — 协作练「骆驼沙漠向导业余认证」的同好圈。
+  - 📁 **鸟类协作**
+    - 🍃 **城市楼顶雨燕巢箱安装** _Urban Swift Nest-box Installation_ — 协作练「城市楼顶雨燕巢箱安装」的同好圈。
+    - 🍃 **猛禽康复中心喂食志愿** _Raptor Rehab Feeding Volunteers_ — 协作练「猛禽康复中心喂食志愿」的同好圈。
+    - 🍃 **鸽舍信鸽竞翔业余** _Racing Pigeon Loft Hobby_ — 协作练「鸽舍信鸽竞翔业余」的同好圈。
+    - 🍃 **鹤类越冬田投食志愿** _Crane Winter Feeding Field Volunteers_ — 协作练「鹤类越冬田投食志愿」的同好圈。
+- 🍃 **AKC气味工作人犬队** _AKC Scent Work Handler–Dog Teams_ — 协作练「AKC气味工作人犬队」的同好圈。
+- 🍃 **Treibball犬牧球训圈** _Treibball Herding-Ball Clubs_ — 协作练「Treibball犬牧球训圈」的同好圈。
+- 🍃 **牧羊犬试验裁判学徒** _Sheepdog Trial Judge Apprenticeship_ — 协作练「牧羊犬试验裁判学徒」的同好圈。
+- 🍃 **人犬越野跑Canicross** _Canicross Club Racing_ — 协作练「人犬越野跑Canicross」的同好圈。
+- 🍃 **犬拉车Carting训圈** _Dog Carting Draft Clubs_ — 协作练「犬拉车Carting训圈」的同好圈。
+- 🍃 **狗拉滑板车Scootering** _Dog Scootering_ — 协作练「狗拉滑板车Scootering」的同好圈。
+- 🍃 **自行车牵引犬Bikejoring** _Bikejoring Dryland Mushing_ — 协作练「自行车牵引犬Bikejoring」的同好圈。
+- 🍃 **地犬Earthdog** _Earthdog Trials_ — 协作练「地犬Earthdog」（Earthdog Trials）。
+- 🍃 **犬鼻工作Nosework** _Canine Nose Work NACSW_ — 协作练「犬鼻工作Nosework」的同好圈。
+- 🍃 **码头跳水Dock diving** _Dock Diving_ — 协作练「码头跳水Dock diving」（Dock Diving）。
+- 🍃 **诱捕追逐Lure coursing** _Lure Coursing_ — 协作练「诱捕追逐Lure coursing」的同好圈。
+- 🍃 **谷仓寻猎Barn hunt** _Barn Hunt_ — 协作练「谷仓寻猎Barn hunt」（Barn Hunt）。
+- 🍃 **飞球Flyball** _Flyball_ — 协作练「飞球Flyball」（Flyball）。
+- 🍃 **Mushing雪橇犬驾驭俱乐部** _Dog Mushing Club Circuits_ — 协作练「Mushing雪橇犬驾驭俱乐部」的同好圈。
+- 🍃 **工作马术WAWE** _Working Equitation WAWE_ — 协作练「工作马术WAWE」的同好圈。
+- 🍃 **帐篷拔桩Tent pegging** _Tent Pegging_ — 协作练「帐篷拔桩Tent pegging」的同好圈。
+- 🍃 **耐力骑AERC** _Endurance Riding AERC_ — 协作练「耐力骑AERC」的同好圈。
+- 🍃 **阿根廷Pato** _Pato_ — 协作练「阿根廷Pato」（Pato）。
+- 🍃 **马术体操Vaulting** _Equestrian Vaulting_ — 协作练「马术体操Vaulting」的同好圈。
+- 🍃 **马棒球Polocrosse** _Polocrosse_ — 协作练「马棒球Polocrosse」（Polocrosse）。
+- 🍃 **马球式Horseball** _Horseball_ — 协作练「马球式Horseball」（Horseball）。
+- 🍃 **马车综合驾驶** _Combined Driving_ — 协作练「马车综合驾驶」（Combined Driving）。
+- 🍃 **骑跑交替Ride and Tie** _Ride and Tie_ — 协作练「骑跑交替Ride and Tie」的同好圈。
+- 🍃 **人马越野共跑社群** _Man-versus-Horse Dual-entry Clubs_ — 协作练「人马越野共跑社群」的同好圈。
+- 🍃 **自然马术学社** _Natural Horsemanship Study Circles_ — 协作练「自然马术学社」的同好圈。
+- 🍃 **马辅助治疗骑乘志愿** _Equine-Assisted Therapy Volunteering_ — 协作练「马辅助治疗骑乘志愿」的同好圈。
+- 🍃 **无刺蜂Meliponiculture** _Stingless Bee Meliponiculture_ — 协作练「无刺蜂Meliponiculture」的同好圈。
+- 🍃 **独居蜂Mason bee饲育** _Mason Bee Keeping_ — 协作练「独居蜂Mason bee饲育」的同好圈。
+- 🍃 **蚕桑业余饲育** _Amateur Sericulture_ — 协作练「蚕桑业余饲育」（Amateur Sericulture）。
+- 🍃 **山羊驮包Goat packing** _Goat Packing_ — 协作练「山羊驮包Goat packing」的同好圈。
+- 🍃 **羊驼驮运徒步社群** _Llama Packing Trek Clubs_ — 协作练「羊驼驮运徒步社群」的同好圈。
+- 🍃 **驮山羊北美协会徒步** _North American Packgoat Association Hiking_ — 协作练「驮山羊北美协会徒步」的同好圈。
+- 🍃 **烟囱雨燕塔维护** _Chimney Swift Tower Stewardship_ — 协作练「烟囱雨燕塔维护」的同好圈。
+- 🍃 **紫崖燕房东实践** _Purple Martin Landlording_ — 协作练「紫崖燕房东实践」的同好圈。
+- 🍃 **蓝鸟巢箱小径** _Bluebird Trail Monitoring_ — 协作练「蓝鸟巢箱小径」的同好圈。
+- 📁 **科学业余研究** _Amateur Science_
+  - 📁 **业余数学与计算** _业余数学与计算_
+    - 📁 **历史复活计算** _历史复活计算_
+      - 🍃 **差分机复原操作** _Difference-engine Revival Ops_ — 观测「差分机复原操作」的同好圈。
+    - 📁 **反主流算** _反主流算_
+    - 📁 **娱乐数学** _娱乐数学_
+      - 🍃 **折纸数学社** _Origami Mathematics Circles_ — 观测「折纸数学社」的同好圈。
+      - 🍃 **索玛立方社** _Soma Cube Clubs_ — 观测「索玛立方社」（Soma Cube Clubs）。
+    - 🍃 **数学马拉松解题夜** _Math Circle Marathon Problem Night_ — 观测「数学马拉松解题夜」的同好圈。
+    - 📁 **计算传习** _Computing Transmission_
+      - 🍃 **打孔纸带程序复原** _Punched-tape Program Restoration_ — 观测「打孔纸带程序复原」的同好圈。
+      - 🍃 **核心存储器手工编织** _Core-memory Hand-weaving Replicas_ — 观测「核心存储器手工编织」的同好圈。
+      - 🍃 **递归艺术Demoscene** _Demoscene Size-coding Parties_ — 观测「递归艺术Demoscene」的同好圈。
+    - 📁 **认证路径计算** _Credentialed Compute_
+  - 📁 **人体与环境公民科学** _人体与环境公民科学_
+    - 📁 **传习身地** _传习身地_
+    - 📁 **公民补2** _公民补2_
+    - 🍃 **塞氏盘水体透明度调查** _Secchi Disk citizen science_ — 观测「塞氏盘水体透明度调查」的同好圈。
+    - 📁 **感官身** _感官身_
+    - 🍃 **洞穴气候监测** _Cave climate monitoring_ — 观测「洞穴气候监测」的同好圈。
+    - 🍃 **珊瑚礁生态潜水调查** _Reef Check EcoDiver survey_ — 观测「珊瑚礁生态潜水调查」的同好圈。
+    - 🍃 **社区积雪深度观测** _Community Snow Observations_ — 观测「社区积雪深度观测」的同好圈。
+    - 🍃 **高海拔远征生理观察** _High-altitude expedition physiology_ — 观测「高海拔远征生理观察」的同好圈。
+  - 📁 **嗅觉与香料业余** _嗅觉与香料业余_
+    - 📁 **嗅补2** _嗅补2_
+    - 🍃 **天然调香** _Amateur natural perfumery_ — 观测「天然调香」的同好圈。
+    - 📁 **感官嗅** _感官嗅_
+      - 🍃 **城市气味地图** _Urban Smell-mapping Walks_ — 观测「城市气味地图」的同好圈。
+  - 📁 **声学与声景** _声学与声景_
+    - 📁 **传习听地** _传习听地_
+    - 📁 **反主流听** _反主流听_
+    - 🍃 **号码台短波信号研究** _Numbers Stations Monitoring Research_ — 观测「号码台短波信号研究」的同好圈。
+    - 🍃 **声景漫步Soundwalking** _Soundwalking Practice_ — 观测「声景漫步Soundwalking」的同好圈。
+    - 📁 **声补2** _声补2_
+  - 📁 **天文与大气**
+    - 🍃 **流星雨计数网AMN志愿** _Amateur Meteor Network Counting_ — 观测「流星雨计数网AMN志愿」的同好圈。
+  - 📁 **天文观测** _天文观测_
+    - 📁 **传习观测地** _传习观测地_
+      - 🍃 **暗夜保护区测光** _Dark-sky Reserve Photometry_ — 观测「暗夜保护区测光」的同好圈。
+    - 🍃 **北美日晷普查与制晷** _North American Sundial Society_ — 观测「北美日晷普查与制晷」的同好圈。
+    - 📁 **历史复活仪器** _历史复活仪器_
+    - 📁 **太阳专项** _太阳专项_
+      - 🍃 **太阳黑子相对数** _Sunspot Relative-number Logs_ — 观测「太阳黑子相对数」的同好圈。
+    - 🍃 **射电业余天文** _Amateur Radio Astronomy_ — 观测「射电业余天文」的同好圈。
+    - 📁 **射电传习** _Radio-astro Transmission_
+      - 🍃 **氢线21厘米业余** _21-cm Hydrogen-line Amateur Radio Astronomy_ — 观测「氢线21厘米业余」的同好圈。
+    - 🍃 **掩星与变星观测** _Occultation & Variable Stars_ — 观测「掩星与变星观测」的同好圈。
+    - 📁 **掩星传习** _Occultation Transmission_
+      - 🍃 **小行星掩星计时网** _Asteroid Occultation Timing Nets_ — 观测「小行星掩星计时网」的同好圈。
+    - 📁 **欧美天文社** _Euro-NA Astro Clubs_
+      - 🍃 **法国天文协会SAF** _Société Astronomique de France Sections_ — 观测「法国天文协会SAF」的同好圈。
+    - 🍃 **流星雨守夜观测营** _Meteor Shower Overnight Observing Camp_ — 观测「流星雨守夜观测营」的同好圈。
+    - 📁 **行星与磨镜** _Planetary Observing and Mirror-making_
+      - 🍃 **ALPO行星观测** _ALPO Lunar and Planetary Observing_ — 观测「ALPO行星观测」的同好圈。
+      - 🍃 **Stellafane磨镜制镜** _Stellafane Amateur Telescope Making_ — 观测「Stellafane磨镜制镜」的同好圈。
+    - 📁 **行星专项** _行星专项_
+      - 🍃 **木星大红斑素描网** _Jupiter GRS Sketching Nets_ — 观测「木星大红斑素描网」的同好圈。
+    - 📁 **被误认为职业的观测** _Obs Mistaken for Profession_
+      - 🍃 **Amateur气象站网络** _Personal Weather Station Networks_ — 观测「Amateur气象站网络」的同好圈。
+      - 🍃 **日晷设计校准** _Sundial Design and Equation-of-time_ — 观测「日晷设计校准」的同好圈。
+      - 🍃 **星盘Astrolabe自制** _Handmade Astrolabe Construction_ — 观测「星盘Astrolabe自制」的同好圈。
+      - 🍃 **风暴追逐记录** _Storm Chasing Documentation_ — 观测「风暴追逐记录」的同好圈。
+    - 📁 **认证路径日** _Credentialed Solar_
+    - 📁 **认证路径观测** _Credentialed Observing_
+      - 🍃 **变星观测员AAVSO认证路径** _AAVSO Observer Credential Path_ — 观测「变星观测员AAVSO认证路径」的同好圈。
+    - 📁 **风险边缘光** _风险边缘光_
+  - 📁 **生物与生态记录** _生物与生态记录_
+    - 🍃 **UIAA高山医学实践** _UIAA mountain medicine practice_ — 观测「UIAA高山医学实践」的同好圈。
+    - 🍃 **iNaturalist地方生物闪记** _iNaturalist Bioblitz Communities_ — 观测「iNaturalist地方生物闪记」的同好圈。
+    - 📁 **业余真菌学** _Amateur Mycology_
+      - 🍃 **iNaturalist真菌记录** _iNaturalist Fungi_ — 观测「iNaturalist真菌记录」的同好圈。
+      - 🍃 **业余蘑菇栽培** _Home Mushroom Cultivation_ — 观测「业余蘑菇栽培」的同好圈。
+      - 🍃 **北美真菌协会观察** _NAMA Mycology_ — 观测「北美真菌协会观察」（NAMA Mycology）。
+    - 📁 **两栖爬行监测** _两栖爬行监测_
+    - 🍃 **亚马逊公民生物多样性记录** _Amazon Citizen Biodiversity Recording_ — 观测「亚马逊公民生物多样性记录」的同好圈。
+    - 📁 **人体计量业余** _Amateur Anthropometry_
+    - 📁 **传习田野地** _传习田野地_
+    - 📁 **公民科学观鸟** _Citizen Science Birding_
+    - 🍃 **加拿大湖泊潜鸟调查** _Canadian Lakes Loon Survey_ — 观测「加拿大湖泊潜鸟调查」的同好圈。
+    - 🍃 **地衣物种公民科学标记** _Lichen Citizen-science Tagging_ — 观测「地衣物种公民科学标记」的同好圈。
+    - 📁 **季节循环记录** _季节循环记录_
+    - 🍃 **新泽西24小时观鸟赛** _World Series of Birding_ — 观测「新泽西24小时观鸟赛」的同好圈。
+    - 📁 **昆虫专项** _昆虫专项_
+      - 🍃 **熊蜂识别志愿** _Bumblebee ID Volunteers_ — 观测「熊蜂识别志愿」的同好圈。
+    - 📁 **显微地震与矿物** _Microscopy Seismology and Mineralogy_
+      - 🍃 **Raspberry Shake业余地震** _Raspberry Shake Citizen Seismology_ — 观测「Raspberry Shake业余地震」的同好圈。
+    - 📁 **材料即田野** _Material as Field_
+      - 🍃 **树皮纸Amate制作** _Amate Bark-paper Making_ — 观测「树皮纸Amate制作」的同好圈。
+      - 🍃 **桦树皮容器缝制** _Birch-bark Container Sewing_ — 观测「桦树皮容器缝制」的同好圈。
+      - 🍃 **莎草纸Papyrus自制** _Papyrus Sheet Making Hobby_ — 观测「莎草纸Papyrus自制」的同好圈。
+    - 🍃 **极限珠峰生理研究参与** _Xtreme Everest physiology participation_ — 观测「极限珠峰生理研究参与」的同好圈。
+    - 📁 **欧美自然史** _Euro-NA Natural History_
+      - 🍃 **伦敦林奈学会业余** _Linnean Society Amateur Fellows Interest_ — 观测「伦敦林奈学会业余」的同好圈。
+      - 🍃 **奥杜邦地方分会** _Audubon Local Chapter Birders_ — 观测「奥杜邦地方分会」的同好圈。
+    - 📁 **气味生态记录** _Olfactory Ecology Logs_
+    - 🍃 **海洋生态潜水记录** _Seasearch diving survey_ — 观测「海洋生态潜水记录」的同好圈。
+    - 📁 **物候与日历** _Phenology & Calendars_
+      - 🍃 **物候花园记录** _Phenology Garden Recording_ — 观测「物候花园记录」的同好圈。
+      - 🍃 **结冰开湖日期记录** _Ice-on Ice-off Lake Records_ — 观测「结冰开湖日期记录」的同好圈。
+    - 🍃 **珊瑚健康色卡监测** _CoralWatch survey_ — 观测「珊瑚健康色卡监测」（CoralWatch survey）。
+    - 🍃 **真菌季节巡湖集会** _Seasonal Mushroom Foray Society Meet_ — 观测「真菌季节巡湖集会」的同好圈。
+    - 🍃 **社区协同雨量观测CoCoRaHS** _CoCoRaHS_ — 观测「社区协同雨量观测CoCoRaHS」（CoCoRaHS）。
+    - 🍃 **苔藓微景瓶造景记录** _Moss Terrarium Logging_ — 观测「苔藓微景瓶造景记录」的同好圈。
+    - 📁 **认证路径菌** _Credentialed Fungi_
+    - 📁 **认证路径鉴定** _Credentialed ID_
+    - 📁 **鉴定传习** _ID Transmission_
+      - 🍃 **地衣化学显色** _Lichen Spot-test Chemistry Hobby_ — 观测「地衣化学显色」的同好圈。
+      - 🍃 **苔藓区系业余** _Amateur Bryophyte Floristics_ — 观测「苔藓区系业余」的同好圈。
+    - 📁 **鸟类专项** _鸟类专项_
+      - 🍃 **ABA名录追逐** _ABA Listing Circles_ — 观测「ABA名录追逐」（ABA Listing Circles）。
+      - 🍃 **远洋观鸟Pelagic** _Pelagic Birding Trips_ — 观测「远洋观鸟Pelagic」的同好圈。
+      - 🍃 **鹰迁徙观察Hawkwatch** _Hawkwatch Migration Counts_ — 观测「鹰迁徙观察Hawkwatch」的同好圈。
+  - 📁 **矿物与地质爱好** _矿物与地质爱好_
+    - 📁 **切磨与印石** _Lapidary & Seal Stones_
+      - 🍃 **宝石刻面竞赛** _Gem Faceting Competitions_ — 观测「宝石刻面竞赛」的同好圈。
+      - 🍃 **端砚制砚业余** _Duan Inkstone Carving Amateur_ — 观测「端砚制砚业余」的同好圈。
+    - 📁 **反主流矿** _反主流矿_
+    - 📁 **地质补2** _地质补2_
+    - 📁 **矿物显微与夜光** _Micromounts & Night Minerals_
+      - 🍃 **玻璃陨石收藏** _Tektite Collecting Circles_ — 观测「玻璃陨石收藏」的同好圈。
+      - 🍃 **琥珀内含物显微** _Amber Inclusion Microscopy_ — 观测「琥珀内含物显微」的同好圈。
+      - 🍃 **陨石寻猎鉴定** _Meteorite Hunting & Authentication_ — 观测「陨石寻猎鉴定」的同好圈。
+  - 📁 **矿物与岩石爱好** _矿物与岩石爱好_
+    - 🍃 **Friends of Mineralogy矿物教育** _Friends of Mineralogy_ — 观测「Friends of Mineralogy矿物教育」的同好圈。
+    - 🍃 **Mindat矿物学众包记录** _Mindat Mineralogy Documentation_ — 观测「Mindat矿物学众包记录」的同好圈。
+    - 🍃 **Russell Society地形矿物学** _Russell Society Topographical Mineralogy_ — 观测「Russell Society地形矿物学」的同好圈。
+    - 📁 **岩石补2** _岩石补2_
+    - 🍃 **微矿物显微摄影** _Micromount Mineral Photography_ — 观测「微矿物显微摄影」的同好圈。
+    - 🍃 **荧光矿物收集与研究** _Fluorescent Mineral Collecting_ — 观测「荧光矿物收集与研究」的同好圈。
+  - 📁 **颜料染料化学业余** _Amateur Pigment & Dye Chemistry_
+    - 🍃 **土色颜料** _Earth Pigment Collecting_ — 观测「土色颜料」的同好圈。
+    - 🍃 **替代感光材料化学** _Alternative Process Chemistry Study_ — 观测「替代感光材料化学」的同好圈。
+    - 🍃 **木炭自制** _Charcoal Making Craft_ — 观测「木炭自制」（Charcoal Making Craft）。
+    - 🍃 **生土建筑材料Cob** _Cob Natural Building Craft_ — 观测「生土建筑材料Cob」的同好圈。
+    - 🍃 **胭脂虫红实验** _Cochineal Pigment Craft_ — 观测「胭脂虫红实验」的同好圈。
+    - 🍃 **色淀颜料制作** _Lake Pigment Making_ — 观测「色淀颜料制作」（Lake Pigment Making）。
+    - 🍃 **茜草媒染实验** _Madder Mordant Experiments_ — 观测「茜草媒染实验」的同好圈。
+    - 🍃 **赭石颜料** _Ochre Pigment Practice_ — 观测「赭石颜料」（Ochre Pigment Practice）。
+    - 🍃 **靛蓝化学邻项Woad** _Woad Dye Chemistry_ — 观测「靛蓝化学邻项Woad」的同好圈。
+- 🍃 **Zooniverse公民科研** _Zooniverse_ — 观测「Zooniverse公民科研」（Zooniverse）。
+- 🍃 **美国矿物联合会AFMS** _American Federation of Mineralogical Societies_ — 观测「美国矿物联合会AFMS」的同好圈。
+- 🍃 **声学生态田野录音** _Acoustic Ecology Field Recording_ — 观测「声学生态田野录音」的同好圈。
+- 🍃 **奎克特显微俱乐部** _Quekett Microscopical Club_ — 观测「奎克特显微俱乐部」的同好圈。
+- 🍃 **英国天文协会BAA** _British Astronomical Association_ — 观测「英国天文协会BAA」的同好圈。
+- 🍃 **业余电波传播信标监测** _Amateur Radio Beacon Monitoring_ — 观测「业余电波传播信标监测」的同好圈。
+- 🍃 **甚低频自然噪声收听** _VLF Natural Radio Listening_ — 观测「甚低频自然噪声收听」的同好圈。
+- 🍃 **熊蜂公民监测** _Bumblebee Conservation Trust Recorders_ — 观测「熊蜂公民监测」的同好圈。
+- 🍃 **蛾类灯诱记录夜** _Moth Trapping Recording Nights_ — 观测「蛾类灯诱记录夜」的同好圈。
+- 🍃 **蜻蜓池塘监测** _Dragonfly Pond Monitoring_ — 观测「蜻蜓池塘监测」的同好圈。
+- 🍃 **硅藻显微装片俱乐部** _Diatom Microscopy Mounting_ — 观测「硅藻显微装片俱乐部」的同好圈。
+- 🍃 **地衣测绘俱乐部** _Lichen Mapping Clubs_ — 观测「地衣测绘俱乐部」（Lichen Mapping Clubs）。
+- 🍃 **石松与蕨类专项调查** _Fern and Lycophyte Field Groups_ — 观测「石松与蕨类专项调查」的同好圈。
+- 🍃 **苔藓区系调查团** _Bryophyte Floristic Survey Groups_ — 观测「苔藓区系调查团」的同好圈。
+- 🍃 **流星录像监测IMO** _IMO Video Meteor Monitoring_ — 观测「流星录像监测IMO」的同好圈。
+- 🍃 **业余精密守时圈** _Amateur Precision Timekeeping_ — 观测「业余精密守时圈」的同好圈。
+- 📁 **竞技游戏** _Competitive Gaming_
+  - 📁 **传统体育电竞化** _传统体育电竞化_
+    - 🍃 **EVO铁拳赛事社群** _EVO Tekken Tournament Community_ — 玩「EVO铁拳赛事社群」的同好圈。
+    - 🍃 **世界业余围棋锦标赛社群** _World Amateur Go Championship Community_ — 玩「世界业余围棋锦标赛社群」的同好圈。
+    - 🍃 **世界麻将运动会社群** _World Mahjong Sports Games Community_ — 玩「世界麻将运动会社群」的同好圈。
+    - 🍃 **业余将棋名人战社群** _Amateur Shogi Meijin Tournament Community_ — 玩「业余将棋名人战社群」的同好圈。
+    - 📁 **反主流拟真** _反主流拟真_
+    - 🍃 **国际象棋业余公开巡回** _Amateur Chess Open Circuit_ — 玩「国际象棋业余公开巡回」的同好圈。
+    - 🍃 **奥瓦里锦标赛社群** _Oware Tournament Community_ — 玩「奥瓦里锦标赛社群」的同好圈。
+    - 🍃 **托古兹库马拉克赛事社群** _Togyzqumalaq Tournament Community_ — 玩「托古兹库马拉克赛事社群」的同好圈。
+    - 📁 **拟真联赛业余** _Amateur Sim Leagues_
+    - 📁 **拟真补** _拟真补_
+    - 📁 **拟真补2** _拟真补2_
+    - 🍃 **日本竞技歌牌会** _Competitive Karuta Tournament Societies_ — 玩「日本竞技歌牌会」的同好圈。
+    - 🍃 **经典俄罗斯方块世锦赛社群** _Classic Tetris World Championship Community_ — 玩「经典俄罗斯方块世锦赛社群」的同好圈。
+    - 📁 **认证路径拟真** _Credentialed Sim_
+  - 📁 **传统社交竞赛** _传统社交竞赛_
+    - 🍃 **世界象棋锦标赛参与** _World Xiangqi Championship Participation_ — 玩「世界象棋锦标赛参与」的同好圈。
+    - 🍃 **世界黑白棋锦标赛参与** _World Othello Championship Participation_ — 玩「世界黑白棋锦标赛参与」的同好圈。
+    - 📁 **古怪补** _古怪补_
+    - 🍃 **穆海比斯斋月团队猜戒** _Al-Muhaibis Ramadan Team Game_ — 玩「穆海比斯斋月团队猜戒」的同好圈。
+    - 📁 **身器地赛** _身器地赛_
+    - 🍃 **阿瑟克羊拐骨竞赛** _Kazakh Assyk Games Competition_ — 玩「阿瑟克羊拐骨竞赛」的同好圈。
+  - 📁 **地方古怪竞赛** _地方古怪竞赛_
+    - 🍃 **Lewes世界豌豆投掷赛** _Lewes World Pea Throwing Championships_ — 玩「Lewes世界豌豆投掷赛」的同好圈。
+    - 🍃 **芬兰扔手机赛** _Mobile Phone Throwing_ — 玩「芬兰扔手机赛」（Mobile Phone Throwing）。
+    - 🍃 **世界掷蛋锦标赛** _World Egg Throwing Championships_ — 玩「世界掷蛋锦标赛」的同好圈。
+    - 🍃 **世界栗子拳锦标赛** _World Conker Championships_ — 玩「世界栗子拳锦标赛」的同好圈。
+    - 🍃 **世界沼泽足球锦标赛** _World Swamp Soccer Championships_ — 玩「世界沼泽足球锦标赛」的同好圈。
+    - 🍃 **世界另类运动会乡村赛** _World Alternative Games_ — 玩「世界另类运动会乡村赛」的同好圈。
+    - 🍃 **世界泥地足球锦标赛** _World Bog Snorkelling Championship_ — 玩「世界泥地足球锦标赛」的同好圈。
+    - 🍃 **库柏山滚奶酪赛** _Cooper's Hill Cheese-Rolling_ — 玩「库柏山滚奶酪赛」的同好圈。
+    - 🍃 **世界肉汁摔跤锦标赛** _World Gravy Wrestling Championships_ — 玩「世界肉汁摔跤锦标赛」的同好圈。
+    - 🍃 **世界脚趾摔跤锦标赛** _World Toe Wrestling Championship_ — 玩「世界脚趾摔跤锦标赛」的同好圈。
+    - 🍃 **世界蛋奶馅饼大战** _World Custard Pie Championship_ — 玩「世界蛋奶馅饼大战」的同好圈。
+    - 🍃 **世界蜗牛竞速锦标赛** _World Snail Racing Championships_ — 玩「世界蜗牛竞速锦标赛」的同好圈。
+    - 🍃 **伊斯代尔打水漂世界赛** _World Stone Skimming Championships_ — 玩「伊斯代尔打水漂世界赛」的同好圈。
+    - 🍃 **兰开夏黑布丁投掷世界赛** _World Black Pudding Throwing Championships_ — 玩「兰开夏黑布丁投掷世界赛」的同好圈。
+    - 📁 **反主流赛** _反主流赛_
+    - 📁 **古怪补2** _古怪补2_
+      - 🍃 **沼泽足球业余** _Swamp-soccer Amateur_ — 玩「沼泽足球业余」（Swamp-soccer Amateur）。
+    - 🍃 **埃格雷蒙特鬼脸世界赛** _World Gurning Championships_ — 玩「埃格雷蒙特鬼脸世界赛」的同好圈。
+    - 🍃 **威彻姆射豌豆世界赛** _World Peashooting Championship_ — 玩「威彻姆射豌豆世界赛」的同好圈。
+    - 🍃 **威拉斯顿引蚯蚓世界赛** _World Worm Charming Championships_ — 玩「威拉斯顿引蚯蚓世界赛」的同好圈。
+    - 🍃 **托德河无底船旱地赛** _Henley-on-Todd Regatta_ — 玩「托德河无底船旱地赛」的同好圈。
+    - 🍃 **泰哈皮雨靴投远赛** _Taihape Gumboot Throwing_ — 玩「泰哈皮雨靴投远赛」的同好圈。
+    - 🍃 **纳奈莫浴缸赛** _Nanaimo Bathtub Race_ — 玩「纳奈莫浴缸赛」（Nanaimo Bathtub Race）。
+    - 🍃 **美国南瓜称重大赛** _Giant Pumpkin Weigh-offs_ — 玩「美国南瓜称重大赛」的同好圈。
+    - 🍃 **芬兰扔靴子世界赛** _World Boot Throwing Championship_ — 玩「芬兰扔靴子世界赛」的同好圈。
+    - 🍃 **英国割草机竞速BLMRA** _BLMRA Lawn Mower Racing_ — 玩「英国割草机竞速BLMRA」的同好圈。
+    - 🍃 **高索普运煤世界赛** _World Coal Carrying Championship_ — 玩「高索普运煤世界赛」的同好圈。
+  - 📁 **地方器具竞赛** _Local Implement Contests_
+    - 🍃 **世界弹珠锦标赛** _British and World Marbles Championship_ — 玩「世界弹珠锦标赛」的同好圈。
+    - 🍃 **爱尔兰Camogie成人联赛** _Camogie Adult Club Competition_ — 玩「爱尔兰Camogie成人联赛」的同好圈。
+    - 🍃 **爱尔兰Hurling成人俱乐部** _Adult Club Hurling_ — 玩「爱尔兰Hurling成人俱乐部」的同好圈。
+    - 🍃 **约克郡Knurr and Spell** _Knurr and Spell_ — 玩「约克郡Knurr and Spell」的同好圈。
+    - 🍃 **苏塞克斯Stoolball** _Sussex Stoolball_ — 玩「苏塞克斯Stoolball」的同好圈。
+    - 🍃 **英国Aunt Sally木靶投掷** _Oxfordshire Aunt Sally_ — 玩「英国Aunt Sally木靶投掷」的同好圈。
+    - 🍃 **英格兰九柱Skittles联赛** _English Skittles League Play_ — 玩「英格兰九柱Skittles联赛」的同好圈。
+  - 📁 **无线电测向竞技** _Radio Direction Finding Sport_
+  - 📁 **无线电竞技** _无线电竞技_
+    - 🍃 **ARDF无线电测向运动** _Amateur Radio Direction Finding_ — 玩「ARDF无线电测向运动」的同好圈。
+    - 🍃 **狐猎定向Foxoring赛** _ARDF Foxoring_ — 玩「狐猎定向Foxoring赛」（ARDF Foxoring）。
+    - 📁 **身器地电** _身器地电_
+      - 🍃 **猎狐森林测向** _Forest ARDF Foxhunts_ — 玩「猎狐森林测向」（Forest ARDF Foxhunts）。
+    - 🍃 **高速电报HST竞赛** _High Speed Telegraphy_ — 玩「高速电报HST竞赛」的同好圈。
+  - 📁 **格斗与街机** _格斗与街机_
+    - 📁 **反主流厅** _反主流厅_
+    - 📁 **实体机台竞技** _Physical Cabinet Competitive Play_
+    - 📁 **帧数据传习** _Frame-data Transmission_
+    - 📁 **欧美街机厅残存** _Euro-NA Arcade Remnants_
+    - 📁 **社交形态赛** _社交形态赛_
+    - 📁 **藤球竞技** _Sepak Takraw Competition_
+    - 📁 **街机基板保存** _PCB Preservation_
+    - 📁 **街机补** _街机补_
+    - 📁 **街机补2** _街机补2_
+    - 📁 **被误认为维修工** _Repair Mistaken for Job_
+      - 🍃 **弹珠机钉钉调整** _Pachinko Nail-adjust Study_ — 玩「弹珠机钉钉调整」的同好圈。
+    - 📁 **认证路径裁** _Credentialed Ref_
+  - 📁 **电子竞技** _电子竞技_
+    - 📁 **反主流电竞** _反主流电竞_
+    - 📁 **复古与益智竞速** _Retro and Puzzle Speed Competition_
+      - 🍃 **EMA竞技麻将** _EMA Competitive Mahjong_ — 玩「EMA竞技麻将」的同好圈。
+      - 🍃 **世界解谜竞速** _World Puzzle Championship_ — 玩「世界解谜竞速」的同好圈。
+    - 📁 **外设材料改装** _Peripheral Material Mods_
+    - 📁 **电竞补** _电竞补_
+    - 🍃 **线下赛会场务志愿轮值** _Esports LAN Event Ops Volunteering_ — 玩「线下赛会场务志愿轮值」的同好圈。
+    - 🍃 **街霸系列竞技** _Street Fighter Esports_ — 玩「街霸系列竞技」的同好圈。
+    - 📁 **规则变体圈** _Rule-variant Circles_
+      - 🍃 **工具辅助速通TAS社** _Tool-assisted Speedrun Communities_ — 玩「工具辅助速通TAS社」的同好圈。
+      - 🍃 **速通规则委员会** _Speedrun Rules Committees_ — 玩「速通规则委员会」的同好圈。
+      - 🍃 **随机izer种子竞赛** _Randomizer Seed-race Circles_ — 玩「随机izer种子竞赛」的同好圈。
+  - 📁 **身体规则竞技** _身体规则竞技_
+    - 🍃 **FIG跑酷竞速** _FIG parkour racing_ — 玩「FIG跑酷竞速」（FIG parkour racing）。
+    - 🍃 **IDPA防卫射击** _IDPA defensive shooting_ — 玩「IDPA防卫射击」的同好圈。
+    - 🍃 **IPSC实用射击** _IPSC Practical Shooting_ — 玩「IPSC实用射击」的同好圈。
+    - 🍃 **四截球** _Quadball_ — 玩「四截球」（Quadball）。
+    - 🍃 **山地独轮车** _Mountain unicycling_ — 玩「山地独轮车」（Mountain unicycling）。
+    - 🍃 **巴斯克举石** _Harri-jasotzea_ — 玩「巴斯克举石」（Harri-jasotzea）。
+    - 🍃 **摩托车试炼** _Motorcycle trials_ — 玩「摩托车试炼」（Motorcycle trials）。
+    - 🍃 **水下定向** _Underwater orienteering_ — 玩「水下定向」（Underwater orienteering）。
+    - 🍃 **水下曲棍球** _Underwater hockey_ — 玩「水下曲棍球」（Underwater hockey）。
+    - 🍃 **水下橄榄球** _Underwater rugby_ — 玩「水下橄榄球」（Underwater rugby）。
+    - 🍃 **波萨球** _Bossaball_ — 玩「波萨球」（Bossaball）。
+    - 🍃 **漆弹竞技** _NXL Paintball_ — 玩「漆弹竞技」（NXL Paintball）。
+    - 🍃 **牛仔动作射击** _SASS Cowboy Action Shooting_ — 玩「牛仔动作射击」的同好圈。
+    - 🍃 **自行车球** _Cycle-ball_ — 玩「自行车球」（Cycle-ball）。
+    - 🍃 **自行车试炼** _Bicycle trials_ — 玩「自行车试炼」（Bicycle trials）。
+    - 🍃 **芬泳** _CMAS Finswimming_ — 玩「芬泳」（CMAS Finswimming）。
+    - 🍃 **象棋拳击** _Chess boxing_ — 玩「象棋拳击」（Chess boxing）。
+    - 📁 **身器地球** _身器地球_
+    - 🍃 **障碍课程运动** _World OCR Obstacle Sport_ — 玩「障碍课程运动」的同好圈。
+    - 🍃 **雪合战** _Yukigassen_ — 玩「雪合战」（Yukigassen）。
+    - 🍃 **鱼枪竞技** _Competitive spearfishing_ — 玩「鱼枪竞技」的同好圈。
+- 🍃 **艺术与嗅觉独立调香赛** _Art and Olfaction Awards_ — 玩「艺术与嗅觉独立调香赛」的同好圈。
+- 🍃 **IFPA竞技弹珠** _IFPA Competitive Pinball_ — 玩「IFPA竞技弹珠」的同好圈。
+- 🍃 **国际桌上足球ITSF** _ITSF Table Soccer_ — 玩「国际桌上足球ITSF」（ITSF Table Soccer）。
+- 🍃 **克丘亚语业余学习与歌谣** _Quechua Language & Song Hobby_ — 玩「克丘亚语业余学习与歌谣」的同好圈。
+- 🍃 **印地语影视歌词学习圈** _Hindi Film Lyric Learning Circles_ — 玩「印地语影视歌词学习圈」的同好圈。
+- 🍃 **中东Raqs Sharqi肚皮舞业余** _Raqs Sharqi / Belly Dance Hobby Circles_ — 玩「中东Raqs Sharqi肚皮舞业余」的同好圈。
+- 🍃 **印尼Saman萨满团舞** _Acehnese Saman Dance_ — 玩「印尼Saman萨满团舞」的同好圈。
+- 🍃 **墨西哥Jarabe与民俗舞社群** _Mexican Folklórico / Jarabe Dance_ — 玩「墨西哥Jarabe与民俗舞社群」的同好圈。
+- 🍃 **巴西Maculelê棍舞** _Maculelê Stick Dance_ — 玩「巴西Maculelê棍舞」的同好圈。
+- 🍃 **MultiGP穿越机竞速** _MultiGP Drone Racing_ — 玩「MultiGP穿越机竞速」的同好圈。
+- 🍃 **Twin Galaxies复古高分** _Twin Galaxies_ — 玩「Twin Galaxies复古高分」的同好圈。
+- 📁 **美食与发酵** _Food Craft & Fermentation_
+  - 📁 **发酵酿造** _发酵酿造_
+    - 📁 **全球南发酵食饮** _Global South Fermented Foods & Drinks_
+      - 🍃 **南美Yerba Mate马黛茶圈** _Yerba Mate Drinking Circles_ — 酿「南美Yerba Mate马黛茶圈」的同好圈。
+      - 🍃 **印度Idli与Dosa米豆发酵** _Idli-Dosa Batter Fermentation_ — 酿「印度Idli与Dosa米豆发酵」的同好圈。
+      - 🍃 **埃塞俄比亚Injera苔麸饼发酵** _Ethiopian Injera Fermentation_ — 酿「埃塞俄比亚Injera苔麸饼发酵」的同好圈。
+      - 🍃 **埃塞俄比亚咖啡仪式Buna业余圈** _Ethiopian Coffee Ceremony Hobby Circles_ — 酿「埃塞俄比亚咖啡仪式Buna业余圈」的同好圈。
+      - 🍃 **墨西哥Pulque龙舌兰浆发酵** _Pulque Fermentation_ — 酿「墨西哥Pulque龙舌兰浆发酵」的同好圈。
+      - 🍃 **墨西哥Tepache菠萝渣发酵** _Tepache Home Fermentation_ — 酿「墨西哥Tepache菠萝渣发酵」的同好圈。
+      - 🍃 **巴拉圭Tereré马黛冷泡** _Paraguayan Tereré Mate Practice_ — 酿「巴拉圭Tereré马黛冷泡」的同好圈。
+      - 🍃 **西非Palm Wine棕榈酒采集发酵** _Palm Wine Tapping & Ferment Hobby Circles_ — 酿「西非Palm Wine棕榈酒采集发酵」的同好圈。
+    - 🍃 **北欧酸面包黑麦传统** _Nordic Rye Sourdough Tradition_ — 酿「北欧酸面包黑麦传统」的同好圈。
+    - 📁 **季节循环酿** _季节循环酿_
+    - 🍃 **家庭奶酪制作** _Home Cheesemaking_ — 酿「家庭奶酪制作」（Home Cheesemaking）。
+    - 📁 **拉美与安第斯发酵** _Latin American & Andean Fermentation_
+      - 🍃 **奇恰酒发酵** _Chicha Fermentation_ — 酿「奇恰酒发酵」（Chicha Fermentation）。
+    - 📁 **本土容器与风土发酵** _Vessel & Terroir Ferments_
+      - 🍃 **HORAL兰比克古兹混酿传统** _HORAL Lambic & Gueuze Tradition_ — 酿「HORAL兰比克古兹混酿传统」的同好圈。
+      - 🍃 **埃塞俄比亚泰吉蜜酒传统** _Ethiopian Tej Honey Wine Tradition_ — 酿「埃塞俄比亚泰吉蜜酒传统」的同好圈。
+      - 🍃 **格鲁吉亚天然酒与奎弗利传统** _Georgian Qvevri Natural Wine Practice_ — 酿「格鲁吉亚天然酒与奎弗利传统」的同好圈。
+    - 📁 **欧洲传统酿** _European Traditional Brews_
+      - 🍃 **斯堪的纳维亚农场艾尔** _Nordic Farmhouse Ale Brewing_ — 酿「斯堪的纳维亚农场艾尔」的同好圈。
+      - 🍃 **比利时修道院风格家酿** _Abbey-style Homebrew Circles_ — 酿「比利时修道院风格家酿」的同好圈。
+    - 🍃 **菲律宾椰子酒Tuba采集** _Filipino Tuba Coconut Wine Tapping_ — 酿「菲律宾椰子酒Tuba采集」的同好圈。
+    - 📁 **认证路径酵** _Credentialed Ferment_
+    - 📁 **酒与茶菌** _Brews & Culture Ferments_
+      - 🍃 **蜜酒酿造（Mead）** _Mead Making_ — 酿「蜜酒酿造（Mead）」（Mead Making）。
+    - 📁 **酿补2** _酿补2_
+    - 📁 **陶罐与民间酒醪** _Qvevri and Folk Ferments_
+      - 🍃 **makgeolli家庭酿造** _Home Makgeolli Brewing_ — 酿「makgeolli家庭酿造」的同好圈。
+      - 🍃 **natto家庭发酵** _Home Natto Fermentation_ — 酿「natto家庭发酵」的同好圈。
+    - 🍃 **韩国酱类坛缸晒酱** _Korean Jang Onggi Sun-ferment_ — 酿「韩国酱类坛缸晒酱」的同好圈。
+    - 🍃 **风干肠 / 生火腿熟成** _Charcuterie & Curing_ — 酿「风干肠 / 生火腿熟成」的同好圈。
+    - 📁 **风险边缘压** _风险边缘压_
+    - 📁 **麹与东亚发酵** _Koji & East Asian Ferments_
+      - 🍃 **ぬか漬け糠床发酵** _Nukazuke Rice-Bran Pickling_ — 酿「ぬか漬け糠床发酵」的同好圈。
+      - 🍃 **味噌家庭自制实践** _Home Miso Making_ — 酿「味噌家庭自制实践」（Home Miso Making）。
+      - 🍃 **家庭制麹与麹料理实践** _Home Koji Cultivation Practice_ — 酿「家庭制麹与麹料理实践」的同好圈。
+      - 🍃 **盐麹调味发酵** _Shio Koji Seasoning Ferment_ — 酿「盐麹调味发酵」的同好圈。
+      - 🍃 **菲律宾Buro发酵鱼** _Filipino Buro Fermentation_ — 酿「菲律宾Buro发酵鱼」的同好圈。
+      - 🍃 **野生发酵教育WMF** _Wild Fermentation Education_ — 酿「野生发酵教育WMF」的同好圈。
+      - 🍃 **顺昌发酵学院韩式酱发酵** _Sunchang Jang Fermentation Academy_ — 酿「顺昌发酵学院韩式酱发酵」的同好圈。
+  - 📁 **咖啡茶与品鉴** _咖啡茶与品鉴_
+    - 🍃 **SCA 咖啡杯测** _SCA Coffee Cupping_ — 酿「SCA 咖啡杯测」（SCA Coffee Cupping）。
+    - 📁 **传习水地** _传习水地_
+    - 📁 **全球南茶饮仪式** _Global South Tea & Coffee Ceremonies_
+    - 🍃 **功夫茶冲泡实践** _Gongfu Cha Practice_ — 酿「功夫茶冲泡实践」（Gongfu Cha Practice）。
+    - 📁 **反主流品** _反主流品_
+    - 📁 **咖啡补** _咖啡补_
+    - 🍃 **土耳其咖啡Cezve冲煮社群** _Turkish Cezve Coffee Brewing_ — 酿「土耳其咖啡Cezve冲煮社群」的同好圈。
+    - 🍃 **家庭烘焙咖啡豆** _Home Coffee Roasting_ — 酿「家庭烘焙咖啡豆」（Home Coffee Roasting）。
+    - 🍃 **普洱茶仓储与品鉴** _Puerh Aging & Tasting_ — 酿「普洱茶仓储与品鉴」的同好圈。
+    - 📁 **欧美咖啡社** _Euro-NA Coffee Clubs_
+      - 🍃 **家烘豆杯测夜** _Home-roast Cupping Nights_ — 酿「家烘豆杯测夜」的同好圈。
+    - 🍃 **茶会主客四季翻席** _Cha-kai Seasonal Host-Guest Rotation_ — 酿「茶会主客四季翻席」的同好圈。
+    - 📁 **茶咖补2** _茶咖补2_
+    - 📁 **茶补** _茶补_
+    - 📁 **认证路径咖** _Credentialed Coffee_
+  - 📁 **微生物协作发酵** _微生物协作发酵_
+    - 📁 **东亚霉菌发酵** _East Asian Mold Ferments_
+      - 🍃 **家庭制麹室** _Home Koji Muro Practice_ — 酿「家庭制麹室」的同好圈。
+      - 🍃 **家庭豆豉发酵** _Home Douchi Fermentation_ — 酿「家庭豆豉发酵」的同好圈。
+      - 🍃 **根霉天贝接种** _Rhizopus Tempeh Inoculation_ — 酿「根霉天贝接种」的同好圈。
+      - 🍃 **稻草包纳豆** _Straw-wrapped Natto Making_ — 酿「稻草包纳豆」的同好圈。
+      - 🍃 **辣椒酱Gochujang家酿** _Home Gochujang Brewing_ — 酿「辣椒酱Gochujang家酿」的同好圈。
+      - 🍃 **酱缸大酱Meju** _Meju Doenjang Crock Aging_ — 酿「酱缸大酱Meju」的同好圈。
+    - 📁 **反主流菌** _反主流菌_
+    - 📁 **菌粒与共生体分享** _Culture-sharing Ferments_
+      - 🍃 **冷却槽兰比克家酿** _Coolship Lambic-style Homebrewing_ — 酿「冷却槽兰比克家酿」的同好圈。
+      - 🍃 **姜啤酒植物GBP** _Ginger Beer Plant Culture_ — 酿「姜啤酒植物GBP」的同好圈。
+      - 🍃 **家庭苹果酒Cider** _Home Cidermaking Guilds_ — 酿「家庭苹果酒Cider」的同好圈。
+      - 🍃 **开菲尔粒分享圈** _Milk Kefir Grain Sharing Circles_ — 酿「开菲尔粒分享圈」的同好圈。
+      - 🍃 **水开菲尔Tibicos** _Water Kefir Tibicos Sharing_ — 酿「水开菲尔Tibicos」的同好圈。
+      - 🍃 **蜜酿Jun茶** _Jun Honey-tea Ferment_ — 酿「蜜酿Jun茶」（Jun Honey-tea Ferment）。
+    - 📁 **谷芽与饮料发酵** _Grain & Drink Ferments_
+      - 🍃 **家庭克瓦斯** _Home Kvass Brewing_ — 酿「家庭克瓦斯」（Home Kvass Brewing）。
+      - 🍃 **马奶酒Kumis业余** _Amateur Kumis Fermentation_ — 酿「马奶酒Kumis业余」的同好圈。
+      - 🍃 **黑麦酸汤Zakwas** _Polish Zakwas Rye Sour_ — 酿「黑麦酸汤Zakwas」的同好圈。
+    - 📁 **鱼酱与肉熟成** _Fish Sauce & Meat Cures_
+      - 🍃 **实验考古Garum** _Experimental Archaeology Garum_ — 酿「实验考古Garum」的同好圈。
+      - 🍃 **家庭鱼露发酵** _Home Fish-sauce Fermentation_ — 酿「家庭鱼露发酵」的同好圈。
+  - 📁 **烘焙甜点与糖果** _烘焙甜点与糖果_
+    - 🍃 **Bean-to-Bar 巧克力** _Bean-to-Bar Chocolate Making_ — 酿「Bean-to-Bar 巧克力」的同好圈。
+    - 🍃 **凝胶 / 意式冰淇淋工艺** _Gelato Making_ — 酿「凝胶 / 意式冰淇淋工艺」（Gelato Making）。
+    - 🍃 **和菓子制作** _Wagashi Making_ — 酿「和菓子制作」（Wagashi Making）。
+    - 📁 **糖果补** _糖果补_
+    - 📁 **糖补2** _糖补2_
+    - 🍃 **菲律宾Bibingka米糕烘焙** _Philippine Bibingka Rice Cake Baking_ — 酿「菲律宾Bibingka米糕烘焙」的同好圈。
+    - 🍃 **酸种面包（Sourdough）** _Sourdough Baking_ — 酿「酸种面包（Sourdough）」的同好圈。
+  - 📁 **烹饪工艺与竞赛** _烹饪工艺与竞赛_
+    - 🍃 **AVPN 那不勒斯披萨** _Neapolitan Pizza (AVPN)_ — 酿「AVPN 那不勒斯披萨」的同好圈。
+    - 🍃 **KCBS 烧烤竞赛** _KCBS Barbecue Competition_ — 酿「KCBS 烧烤竞赛」的同好圈。
+    - 📁 **传习火地** _传习火地_
+    - 🍃 **印度Masala香料研磨调配** _Indian Masala Spice Blending_ — 酿「印度Masala香料研磨调配」的同好圈。
+    - 🍃 **墨西哥Mole酱汁家庭制作** _Mexican Mole Sauce Home Cooking_ — 酿「墨西哥Mole酱汁家庭制作」的同好圈。
+    - 📁 **材料即厨具** _Material-as-tool Cookery_
+      - 🍃 **地下炉Pachamanca** _Pachamanca Earth-oven Circles_ — 酿「地下炉Pachamanca」的同好圈。
+      - 🍃 **地灶Hāngī土炉** _Hāngī Earth-oven Gatherings_ — 酿「地灶Hāngī土炉」的同好圈。
+      - 🍃 **粘土锅Tagine业余** _Amateur Tagine Claypot Circles_ — 酿「粘土锅Tagine业余」的同好圈。
+    - 🍃 **烧烤协会巡回竞赛队** _Barbecue Association Competition Circuit Team_ — 酿「烧烤协会巡回竞赛队」的同好圈。
+    - 📁 **竞赛补** _竞赛补_
+    - 🍃 **西非Jollof米饭竞赛烹饪** _West African Jollof Rice Cook-offs_ — 酿「西非Jollof米饭竞赛烹饪」的同好圈。
+    - 🍃 **辣椒酱 / 热酱自制** _Hot Sauce Making_ — 酿「辣椒酱 / 热酱自制」（Hot Sauce Making）。
+    - 🍃 **可食野菜采集烹饪** _Foraging for Food_ — 酿「可食野菜采集烹饪」（Foraging for Food）。
+    - 🍃 **阿萨多烧烤实践** _Asado Practice_ — 酿「阿萨多烧烤实践」（Asado Practice）。
+  - 📁 **菌种发酵手作** _Culture & Ferment Craft_
+    - 🍃 **豆腐制作** _Tofu Making Craft_ — 酿「豆腐制作」（Tofu Making Craft）。
+    - 🍃 **豆腐皮制作** _Tofu Skin Craft_ — 酿「豆腐皮制作」（Tofu Skin Craft）。
+- 🍃 **瑞典苏斯特罗明发酵鲱鱼** _Swedish Surströmming Fermented Herring_ — 酿「瑞典苏斯特罗明发酵鲱鱼」的同好圈。
+- 🍃 **罗马Posca复原** _Roman Posca Revival Brews_ — 酿「罗马Posca复原」的同好圈。
+- 🍃 **Kimchi与韩裔家庭发酵社群北美** _Korean American Kimchi Making Circles_ — 酿「Kimchi与韩裔家庭发酵社群北美」的同好圈。
+- 🍃 **Slow Food Convivium北美欧澳** _Slow Food Convivia_ — 酿「Slow Food Convivium北美欧澳」的同好圈。
+- 🍃 **威斯康星世界奶酪锦标赛** _World Championship Cheese Contest_ — 酿「威斯康星世界奶酪锦标赛」的同好圈。
+- 🍃 **康普茶家酿协会竞赛** _Kombucha Brewers International_ — 酿「康普茶家酿协会竞赛」的同好圈。
+- 🍃 **德国家庭酿酒协会** _Deutscher Brauer-Bund Homebrew Context / VLB_ — 酿「德国家庭酿酒协会」的同好圈。
+- 🍃 **比利时修道院啤酒爱好社群** _Belgian Trappist Beer Appreciation_ — 酿「比利时修道院啤酒爱好社群」的同好圈。
+- 🍃 **Fermenters Club家庭发酵社群** _Fermenters Club Home Fermentation_ — 酿「Fermenters Club家庭发酵社群」的同好圈。
+- 🍃 **CAMRA真实艾尔品鉴** _CAMRA Real Ale Campaign_ — 酿「CAMRA真实艾尔品鉴」的同好圈。
+- 🍃 **美国自酿者协会竞赛** _American Homebrewers Association Competition_ — 酿「美国自酿者协会竞赛」的同好圈。
+- 🍃 **古田红曲制作技艺** _Gutian Hongqu Red Yeast Fermentation_ — 酿「古田红曲制作技艺」的同好圈。
+- 🍃 **糠床Nukazuke维护** _Nukazuke Bed Keeping_ — 酿「糠床Nukazuke维护」的同好圈。
+- 🍃 **清酒米曲室业余** _Home Sake Koji Muro_ — 酿「清酒米曲室业余」（Home Sake Koji Muro）。
+- 🍃 **鱼露与古法Garum复原** _Garum and Fish Sauce Recreation_ — 酿「鱼露与古法Garum复原」的同好圈。
+- 🍃 **富国岛鱼露发酵** _Phu Quoc Fish Sauce Fermentation_ — 酿「富国岛鱼露发酵」的同好圈。
+- 📁 **美食烹饪** _Food & Cooking_
+  - 📁 **中西烹饪技法** _中西烹饪技法_
+    - 🍃 **NOLS野外烹饪** _NOLS backcountry cooking_ — 做「NOLS野外烹饪」的同好圈。
+    - 🍃 **中秋月饼作坊共制** _Mid-Autumn Mooncake Workshop Circles_ — 做「中秋月饼作坊共制」的同好圈。
+    - 🍃 **丰收感恩社群宴筹备** _Harvest Home Community Feast Prep_ — 做「丰收感恩社群宴筹备」的同好圈。
+    - 📁 **传习灶地** _传习灶地_
+    - 🍃 **凯什凯克节庆捣煮** _Ceremonial Keşkek Pounding_ — 做「凯什凯克节庆捣煮」的同好圈。
+    - 📁 **刀工传习** _Knife Transmission_
+    - 🍃 **切布珍节庆烹制** _Ceebu Jën Culinary Practice_ — 做「切布珍节庆烹制」的同好圈。
+    - 📁 **县集市烹饪** _County-fair Cookery_
+    - 📁 **反主流厨** _反主流厨_
+    - 🍃 **和食正月料理共备** _Washoku New Year Food Preparation_ — 做「和食正月料理共备」的同好圈。
+    - 🍃 **哈里萨辣酱季节共制** _Harissa Seasonal Group Making_ — 做「哈里萨辣酱季节共制」的同好圈。
+    - 🍃 **土耳其咖啡占杯共饮** _Turkish Coffee Social Ritual_ — 做「土耳其咖啡占杯共饮」的同好圈。
+    - 🍃 **墨西哥米却肯节庆烹饪** _Michoacán Traditional Festive Cooking_ — 做「墨西哥米却肯节庆烹饪」的同好圈。
+    - 🍃 **奥希帕拉夫聚餐制作** _Oshi Palav Communal Cooking_ — 做「奥希帕拉夫聚餐制作」的同好圈。
+    - 🍃 **山屋通心粉炊事** _Alpine hut Älplermagronen_ — 做「山屋通心粉炊事」的同好圈。
+    - 🍃 **库斯库斯手搓共作与共食** _Couscous Making and Communal Eating_ — 做「库斯库斯手搓共作与共食」的同好圈。
+    - 🍃 **开斋节共餐筹备** _Eid al-Fitr Communal Feast Prep_ — 做「开斋节共餐筹备」的同好圈。
+    - 🍃 **徒步达尔巴特炊事** _Dal bhat trekker cooking_ — 做「徒步达尔巴特炊事」的同好圈。
+    - 🍃 **恩西马共食制作** _Nsima Communal Food Practice_ — 做「恩西马共食制作」的同好圈。
+    - 🍃 **感恩节邻里互助宴** _Community Thanksgiving Potluck Organizing_ — 做「感恩节邻里互助宴」的同好圈。
+    - 📁 **技法补** _技法补_
+    - 🍃 **新加坡小贩中心共餐文化** _Singapore Hawker Centre Dining Culture_ — 做「新加坡小贩中心共餐文化」的同好圈。
+    - 🍃 **曼萨夫节庆宴共备** _Mansaf Festive Banquet Preparation_ — 做「曼萨夫节庆宴共备」的同好圈。
+    - 📁 **民间主食手作** _Folk Staple-food Craft_
+      - 🍃 **Nixtamal碱化玉米** _Home Nixtamalization_ — 做「Nixtamal碱化玉米」的同好圈。
+      - 🍃 **おにぎり协会饭团** _Onigiri Society Rice-ball Craft_ — 做「おにぎり协会饭团」的同好圈。
+      - 🍃 **荞麦打ち业余** _Amateur Soba Uchi_ — 做「荞麦打ち业余」（Amateur Soba Uchi）。
+    - 🍃 **相扑ちゃんこ锅** _Chankonabe_ — 做「相扑ちゃんこ锅」（Chankonabe）。
+    - 📁 **竞赛与技法补** _Contest Technique Fills_
+    - 🍃 **自行车随身米糕** _Cycling rice cakes_ — 做「自行车随身米糕」（Cycling rice cakes）。
+    - 📁 **被误认为农活的糖** _Sugars Mistaken for Farmwork_
+      - 🍃 **印度Jaggery锅煮** _Jaggery Kettle Boiling_ — 做「印度Jaggery锅煮」的同好圈。
+      - 🍃 **桦树液春采** _Birch Sap Spring Tapping_ — 做「桦树液春采」的同好圈。
+      - 🍃 **椰糖GulaMelaka** _Gula Melaka Palm-sugar Making_ — 做「椰糖GulaMelaka」的同好圈。
+    - 📁 **认证路径厨** _Credentialed Cook_
+    - 🍃 **远征Pemican口粮** _Expedition pemmican making_ — 做「远征Pemican口粮」的同好圈。
+    - 🍃 **逾越节家宴筹备圈** _Passover Seder Communal Prep Circles_ — 做「逾越节家宴筹备圈」的同好圈。
+    - 🍃 **金酱集体腌泡菜** _Communal Kimjang_ — 做「金酱集体腌泡菜」（Communal Kimjang）。
+    - 🍃 **阿卡拉摔跤馆饮食** _Akhara wrestler diet_ — 做「阿卡拉摔跤馆饮食」的同好圈。
+    - 🍃 **阿拉伯咖啡待客礼** _Arabic Coffee Hospitality Ritual_ — 做「阿拉伯咖啡待客礼」的同好圈。
+    - 🍃 **雪橇赛食物箱配制** _Iditarod trail food packing_ — 做「雪橇赛食物箱配制」的同好圈。
+    - 🍃 **马努谢薄饼清晨共烤** _Man'ouché Communal Baking_ — 做「马努谢薄饼清晨共烤」的同好圈。
+    - 🍃 **高山营养实践** _UIAA mountain nutrition practice_ — 做「高山营养实践」的同好圈。
+    - 🍃 **高海拔压力锅炊事工坊** _High-altitude Pressure Cooking Workshops_ — 做「高海拔压力锅炊事工坊」的同好圈。
+  - 📁 **发酵饮品与品鉴** _发酵饮品与品鉴_
+    - 🍃 **三国苹果酒梨酒协会** _Three Counties Cider and Perry Association_ — 做「三国苹果酒梨酒协会」的同好圈。
+    - 📁 **传习窖** _传习窖_
+    - 📁 **历史复活酿** _历史复活酿_
+      - 🍃 **中世纪格鲁特啤酒复原** _Medieval Gruit Ale Revival_ — 做「中世纪格鲁特啤酒复原」的同好圈。
+    - 📁 **品鉴补** _品鉴补_
+    - 📁 **品鉴补2** _品鉴补2_
+    - 📁 **品鉴补洞** _Tasting Gap Fills_
+    - 📁 **嗅觉香道调香** _Incense and Independent Perfumery_
+    - 📁 **移民飞地酿** _Diaspora Brews_
+    - 🍃 **精酿协会品评赛执裁** _Homebrew Club Competition Judging_ — 做「精酿协会品评赛执裁」的同好圈。
+    - 📁 **精酿自酿** _Homebrewing_
+      - 🍃 **家庭自酿啤酒** _Homebrewing Beer_ — 做「家庭自酿啤酒」（Homebrewing Beer）。
+      - 🍃 **康普茶自酿** _Kombucha Brewing_ — 做「康普茶自酿」（Kombucha Brewing）。
+    - 📁 **菌种传习** _Culture Transmission_
+  - 📁 **嗅觉品鉴训练** _Olfactory Tasting Training_
+    - 🍃 **Le Nez du Café咖啡嗅觉训练** _Le Nez du Café Aroma Training_ — 做「Le Nez du Café咖啡嗅觉训练」的同好圈。
+    - 🍃 **Le Nez du Vin葡萄酒嗅觉训练** _Le Nez du Vin Wine Aroma Training_ — 做「Le Nez du Vin葡萄酒嗅觉训练」的同好圈。
+    - 🍃 **苏格兰麦芽威士忌协会闻香** _SMWS Whisky Nosing Practice_ — 做「苏格兰麦芽威士忌协会闻香」的同好圈。
+  - 📁 **地方行会与品鉴** _地方行会与品鉴_
+    - 🍃 **CASI辣椒烹饪锦标赛** _CASI Chili Championship_ — 做「CASI辣椒烹饪锦标赛」的同好圈。
+    - 🍃 **Eden世界康沃尔馅饼赛** _World Pasty Championships_ — 做「Eden世界康沃尔馅饼赛」的同好圈。
+    - 🍃 **Lafayette布丹香肠赛** _World Championship Boudin Cook-off_ — 做「Lafayette布丹香肠赛」的同好圈。
+    - 🍃 **Whiting波兰饺子节食艺** _Pierogi Fest Whiting Foodways_ — 做「Whiting波兰饺子节食艺」的同好圈。
+    - 📁 **传习行会地** _传习行会地_
+    - 🍃 **加州葡裔Holy Ghost Sopas宴** _Portuguese Holy Ghost Sopas Feasts_ — 做「加州葡裔Holy Ghost Sopas宴」的同好圈。
+    - 🍃 **北美墨西哥Mole家庭厨艺** _Mexican-American Mole Home Cooking_ — 做「北美墨西哥Mole家庭厨艺」的同好圈。
+    - 🍃 **北美越南裔Pho家庭厨艺圈** _Vietnamese-American Pho Home Cooking Circles_ — 做「北美越南裔Pho家庭厨艺圈」的同好圈。
+    - 🍃 **北美韩裔泡菜家庭发酵圈** _Korean-American Kimchi Home Circles_ — 做「北美韩裔泡菜家庭发酵圈」的同好圈。
+    - 🍃 **国际辣椒烹饪学会赛** _International Chili Society Cook-offs_ — 做「国际辣椒烹饪学会赛」的同好圈。
+    - 🍃 **圣埃米利永陪审团Jurade** _Jurade de Saint-Emilion_ — 做「圣埃米利永陪审团Jurade」的同好圈。
+    - 🍃 **康沃尔馅饼公会认证** _Cornish Pasty Association_ — 做「康沃尔馅饼公会认证」的同好圈。
+    - 🍃 **慢食味觉方舟品鉴会** _Slow Food Ark of Taste Tasting_ — 做「慢食味觉方舟品鉴会」的同好圈。
+    - 🍃 **捷克裔Kolache烘焙社** _Czech-Slovak Kolache Baking Circles_ — 做「捷克裔Kolache烘焙社」的同好圈。
+    - 🍃 **普韦布洛土炉面包** _Pueblo Horno Bread Baking_ — 做「普韦布洛土炉面包」的同好圈。
+    - 🍃 **毛利Hāngī土窑烹饪** _Māori Hāngī Earth-oven Cooking_ — 做「毛利Hāngī土窑烹饪」的同好圈。
+    - 🍃 **法国美食连锁会Chaîne** _Confrérie de la Chaîne des Rôtisseurs_ — 做「法国美食连锁会Chaîne」的同好圈。
+    - 🍃 **法国美食行会Confrérie** _French Gastronomic Confréries_ — 做「法国美食行会Confrérie」的同好圈。
+    - 🍃 **法国葡萄酒骑士团年宴** _Wine Brotherhood Chapitre Banquet_ — 做「法国葡萄酒骑士团年宴」的同好圈。
+    - 🍃 **行会师傅授勋宴** _Guild Master Elevation Banquet_ — 做「行会师傅授勋宴」的同好圈。
+    - 🍃 **金铲粥世界锦标赛** _Golden Spurtle World Porridge Championship_ — 做「金铲粥世界锦标赛」的同好圈。
+  - 📁 **烘焙与甜品** _烘焙与甜品_
+    - 📁 **县集市焙烤** _County-fair Baking_
+    - 📁 **反主流焙** _反主流焙_
+    - 📁 **焙烤细分补** _Bake Splits Fill_
+      - 🍃 **维也纳面包层压** _Viennoiserie Lamination Home Circles_ — 做「维也纳面包层压」的同好圈。
+    - 📁 **焙烤补** _焙烤补_
+    - 📁 **焙烤补2** _焙烤补2_
+    - 🍃 **节日姜饼屋共作会** _Holiday Gingerbread House Build Circle_ — 做「节日姜饼屋共作会」的同好圈。
+    - 📁 **被误认为化工的皂化** _Saponification as Craft_
+      - 🍃 **冷制皂配方实验** _Cold-process Soap Formula Labs_ — 做「冷制皂配方实验」的同好圈。
+      - 🍃 **纯露蒸馏Hydrosol** _Hydrosol Copper-still Distilling_ — 做「纯露蒸馏Hydrosol」的同好圈。
+    - 📁 **认证路径焙** _Credentialed Bake_
+  - 📁 **远征与道场饮食** _Expedition and Dojo Foodways_
+    - 🍃 **极地远征食谱研习** _Polar Expedition Ration Craft_ — 做「极地远征食谱研习」的同好圈。
+    - 🍃 **高山小屋炊事** _Alpine Hut Cooking_ — 做「高山小屋炊事」（Alpine Hut Cooking）。
+  - 📁 **食材手作工艺** _Food-as-Craft Materials_
+    - 🍃 **农舍奶酪** _Farmstead Cheese Craft_ — 做「农舍奶酪」（Farmstead Cheese Craft）。
+    - 🍃 **冰糖葫芦邻项糖艺** _Tanghulu Sugar Craft_ — 做「冰糖葫芦邻项糖艺」的同好圈。
+    - 🍃 **和果子练切** _Wagashi Nerikiri_ — 做「和果子练切」（Wagashi Nerikiri）。
+    - 🍃 **巧克力工艺Chocolatier** _Artisan Chocolatier Craft_ — 做「巧克力工艺Chocolatier」的同好圈。
+    - 🍃 **糖画** _Sugar Painting_ — 做「糖画」（Sugar Painting）。
+    - 🍃 **茶加工焙火** _Tea Processing Roast Craft_ — 做「茶加工焙火」的同好圈。
+    - 🍃 **豆到棒巧克力** _Bean-to-Bar Chocolate_ — 做「豆到棒巧克力」（Bean-to-Bar Chocolate）。
+    - 🍃 **面塑** _Dough Figurine Craft_ — 做「面塑」（Dough Figurine Craft）。
+  - 📁 **香气品鉴** _香气品鉴_
+    - 📁 **反主流嗅** _反主流嗅_
+    - 🍃 **国际唎酒师** _Sake tasting / Kikisake-shi_ — 做「国际唎酒师」的同好圈。
+    - 🍃 **奶酪品鉴** _Cheese tasting accreditation_ — 做「奶酪品鉴」的同好圈。
+    - 🍃 **橄榄油感官品评** _Olive oil sensory tasting_ — 做「橄榄油感官品评」的同好圈。
+- 🍃 **慢食美国地方共餐** _Slow Food USA Convivia_ — 做「慢食美国地方共餐」的同好圈。
+- 🍃 **美国奶酪协会ACS** _American Cheese Society_ — 做「美国奶酪协会ACS」的同好圈。
+- 🍃 **菲律宾稻米酒Tapuy发酵** _Philippine Tapuy / Rice Wine Ferment_ — 做「菲律宾稻米酒Tapuy发酵」的同好圈。
+- 🍃 **朗姆酯香品鉴** _Rum Ester Nosing Circles_ — 做「朗姆酯香品鉴」的同好圈。
+- 🍃 **葡萄酒香气轮盘** _Wine Aroma Wheel Training_ — 做「葡萄酒香气轮盘」的同好圈。
+- 🍃 **味噌侍酒师品鉴** _Miso Sommelier Tasting_ — 做「味噌侍酒师品鉴」的同好圈。
+- 🍃 **世界杯测品鉴赛** _World Cup Tasters Championship_ — 做「世界杯测品鉴赛」的同好圈。
+- 🍃 **澳洲营火荷兰锅节** _Australian Camp Oven Festival_ — 做「澳洲营火荷兰锅节」的同好圈。
+- 🍃 **卡尔ua Imu坑炉** _Kalua Imu Earth Oven_ — 做「卡尔ua Imu坑炉」的同好圈。
+- 🍃 **墨西哥Barbacoa坑烤** _Barbacoa Pit Cooking_ — 做「墨西哥Barbacoa坑烤」的同好圈。
+- 🍃 **国际蛋糕装饰协会ICES** _International Cake Exploration Societé_ — 做「国际蛋糕装饰协会ICES」的同好圈。
+- 🍃 **英国妇女研究所烹饪** _Women's Institute Cookery_ — 做「英国妇女研究所烹饪」的同好圈。
+- 📁 **规则变体与裁判圈** _Rule-variant & Referee Communities_
+  - 📁 **历史再演监场**
+    - 🍃 **拿破仑再现战术裁判** _Napoleonic Reenactment Tactical Marshals_ — 裁判/规则「拿破仑再现战术裁判」的同好圈。
+    - 🍃 **维京盾墙安全官** _Viking Shieldwall Safety Marshals_ — 裁判/规则「维京盾墙安全官」的同好圈。
+  - 📁 **合作球**
+    - 🍃 **Kin-Ball裁判认证周末** _Kin-Ball Referee Cert Weekends_ — 裁判/规则「Kin-Ball裁判认证周末」的同好圈。
+  - 📁 **圆网**
+    - 🍃 **Spikeball地方联赛裁判** _Spikeball Local League Refs_ — 裁判/规则「Spikeball地方联赛裁判」的同好圈。
+  - 📁 **桌上规则委员会** _桌上规则委员会_
+    - 🍃 **D&D房屋规则档案馆** _D&D House-rules Archives_ — 裁判/规则「D&D房屋规则档案馆」的同好圈。
+    - 📁 **变体棋规** _变体棋规_
+    - 🍃 **战棋模型点数平衡委员会** _Wargame Points Balance Committees_ — 裁判/规则「战棋模型点数平衡委员会」的同好圈。
+  - 📁 **棋类规则变体**
+    - 🍃 **四国军棋业余联赛** _Four-nation Army Chess Amateur Leagues_ — 裁判/规则「四国军棋业余联赛」的同好圈。
+    - 🍃 **围棋点目规则对照研习** _Go Scoring-rules Comparison Circles_ — 裁判/规则「围棋点目规则对照研习」的同好圈。
+    - 🍃 **日本将棋变体大将棋研习** _Dai Shogi Variant Study Circles_ — 裁判/规则「日本将棋变体大将棋研习」的同好圈。
+    - 🍃 **暗棋翻子地方规约整理** _Chinese Dark-chess Local Rule Cataloguing_ — 裁判/规则「暗棋翻子地方规约整理」的同好圈。
+    - 🍃 **朝鲜将棋规则对照会** _Korean Janggi Rules Comparison Meets_ — 裁判/规则「朝鲜将棋规则对照会」的同好圈。
+  - 📁 **残障规则**
+    - 🍃 **坐式排球业余裁判** _Sitting Volleyball Amateur Refs_ — 裁判/规则「坐式排球业余裁判」的同好圈。
+    - 🍃 **轮椅篮球分区规则官** _Wheelchair Basketball Classification Officials_ — 裁判/规则「轮椅篮球分区规则官」的同好圈。
+  - 📁 **民间体育规则** _民间体育规则_
+    - 📁 **地方赛会规则委员会** _地方赛会规则委员会_
+      - 🍃 **巴斯克乡村运动规则会** _Herri Kirolak Rules Committees_ — 裁判/规则「巴斯克乡村运动规则会」的同好圈。
+    - 🍃 **巴斯克回力球Jai alai规则研习** _Jai Alai Rules Study Circles_ — 裁判/规则「巴斯克回力球Jai alai规则研习」的同好圈。
+    - 🍃 **布列塔尼盖尔式摔跤规则会** _Gouren Breton Wrestling Rules Circles_ — 裁判/规则「布列塔尼盖尔式摔跤规则会」的同好圈。
+    - 🍃 **瑞士号角掷Schwingen裁判学徒** _Swiss Schwingen Referee Apprentices_ — 裁判/规则「瑞士号角掷Schwingen裁判学徒」的同好圈。
+    - 🍃 **英式木瓶Skittles地方规** _English Skittles Local Bye-laws_ — 裁判/规则「英式木瓶Skittles地方规」的同好圈。
+  - 📁 **现代抽象**
+    - 🍃 **Azul联赛地方规则卡** _Azul Local League House Rules_ — 裁判/规则「Azul联赛地方规则卡」的同好圈。
+    - 🍃 **Onitama棋盘武斗赛规** _Onitama Martial Board Rules Meets_ — 裁判/规则「Onitama棋盘武斗赛规」的同好圈。
+    - 🍃 **Tak抽象棋竞赛圈** _Tak Abstract Strategy Circles_ — 裁判/规则「Tak抽象棋竞赛圈」的同好圈。
+  - 📁 **触式**
+    - 🍃 **触式橄榄球青少年规则官** _Youth Touch Rugby Rules Officials_ — 裁判/规则「触式橄榄球青少年规则官」的同好圈。
+  - 📁 **飞盘运动裁判**
+    - 🍃 **海滩飞盘沙滩线审** _Beach Ultimate Line Judges_ — 裁判/规则「海滩飞盘沙滩线审」的同好圈。
+    - 🍃 **飞盘狗赛事规则官** _Disc-dog Event Rules Officials_ — 裁判/规则「飞盘狗赛事规则官」的同好圈。
+- 🍃 **Airsoft裁判认证圈** _Airsoft Marshal Certification Circles_ — 裁判/规则「Airsoft裁判认证圈」的同好圈。
+- 🍃 **IFBA扫帚球世锦赛裁判** _IFBA Broomball World Championship Officials_ — 裁判/规则「IFBA扫帚球世锦赛裁判」的同好圈。
+- 🍃 **SCA击剑监场官** _SCA Rapier Combat Marshals_ — 裁判/规则「SCA击剑监场官」的同好圈。
+- 🍃 **SCA重甲格斗监场官** _SCA Armored Combat Marshals_ — 裁判/规则「SCA重甲格斗监场官」的同好圈。
+- 🍃 **HEMA裁判学徒路径** _HEMA Tournament Judge Apprenticeship_ — 裁判/规则「HEMA裁判学徒路径」的同好圈。
+- 🍃 **Kin-Ball合作球** _Kin-Ball_ — 裁判/规则「Kin-Ball合作球」（Kin-Ball）。
+- 🍃 **朝鲜巡将围棋** _Sunjang Baduk_ — 裁判/规则「朝鲜巡将围棋」（Sunjang Baduk）。
+- 🍃 **圆网Roundnet** _Roundnet Spikeball_ — 裁判/规则「圆网Roundnet」的同好圈。
+- 🍃 **中将棋Chu shogi** _Chu Shogi_ — 裁判/规则「中将棋Chu shogi」（Chu Shogi）。
+- 🍃 **禽将棋Tori shogi** _Tori Shogi_ — 裁判/规则「禽将棋Tori shogi」（Tori Shogi）。
+- 🍃 **WFTDA裁判认证路径** _WFTDA Officials Certification Path_ — 裁判/规则「WFTDA裁判认证路径」的同好圈。
+- 🍃 **滚轴德比NSO非滑冰官员** _Roller Derby Non-Skating Officials_ — 裁判/规则「滚轴德比NSO非滑冰官员」的同好圈。
+- 🍃 **沙包袋Cornhole裁判** _Cornhole ACL Official Circles_ — 裁判/规则「沙包袋Cornhole裁判」的同好圈。
+- 🍃 **弹网Tchoukball** _Tchoukball FITB_ — 裁判/规则「弹网Tchoukball」（Tchoukball FITB）。
+- 🍃 **圆网排球裁判认证** _Roundnet Officials Certification Circles_ — 裁判/规则「圆网排球裁判认证」的同好圈。
+- 🍃 **手鼓球Tamburello** _Tamburello_ — 裁判/规则「手鼓球Tamburello」（Tamburello）。
+- 🍃 **拳球Fistball** _Fistball_ — 裁判/规则「拳球Fistball」（Fistball）。
+- 🍃 **ITSF桌上足球裁判** _ITSF Table Soccer Referees_ — 裁判/规则「ITSF桌上足球裁判」的同好圈。
+- 🍃 **Subbuteo桌面足球竞赛** _Subbuteo Table Football_ — 裁判/规则「Subbuteo桌面足球竞赛」的同好圈。
+- 🍃 **接力象棋Bughouse** _Bughouse Chess_ — 裁判/规则「接力象棋Bughouse」（Bughouse Chess）。
+- 🍃 **暗棋Kriegspiel裁判** _Kriegspiel Chess Referees_ — 裁判/规则「暗棋Kriegspiel裁判」的同好圈。
+- 🍃 **疯屋象棋Crazyhouse** _Crazyhouse Chess_ — 裁判/规则「疯屋象棋Crazyhouse」的同好圈。
+- 🍃 **菲舍尔任意象棋社群** _Chess960 Fischer Random Clubs_ — 裁判/规则「菲舍尔任意象棋社群」的同好圈。
+- 🍃 **输棋Antichess** _Losing Chess Antichess_ — 裁判/规则「输棋Antichess」的同好圈。
+- 🍃 **硬地滚球Boccia** _Boccia BISFed_ — 裁判/规则「硬地滚球Boccia」（Boccia BISFed）。
+- 🍃 **门球Goalball** _Goalball_ — 裁判/规则「门球Goalball」（Goalball）。
+- 🍃 **澳式足球海外业余** _Australian Football Diaspora_ — 裁判/规则「澳式足球海外业余」的同好圈。
+- 🍃 **爱尔兰壁手球** _Gaelic Handball_ — 裁判/规则「爱尔兰壁手球」（Gaelic Handball）。
+- 🍃 **Arimaa竞赛社群** _Arimaa Community_ — 裁判/规则「Arimaa竞赛社群」（Arimaa Community）。
+- 🍃 **女子板棍Camogie** _Camogie_ — 裁判/规则「女子板棍Camogie」（Camogie）。
+- 🍃 **盖尔式足球业余海外** _Gaelic Football Diaspora Clubs_ — 裁判/规则「盖尔式足球业余海外」的同好圈。
+- 🍃 **触式橄榄球FIT** _Touch Rugby FIT_ — 裁判/规则「触式橄榄球FIT」（Touch Rugby FIT）。
+- 🍃 **TwixT竞赛圈** _TwixT Competitive_ — 裁判/规则「TwixT竞赛圈」（TwixT Competitive）。
+- 🍃 **六贯棋Hex竞赛圈** _Hex Board Game Competitive_ — 裁判/规则「六贯棋Hex竞赛圈」的同好圈。
+- 🍃 **哈瓦那Havannah** _Havannah_ — 裁判/规则「哈瓦那Havannah」（Havannah）。
+- 🍃 **GIPF项目竞赛** _GIPF Project Competitive_ — 裁判/规则「GIPF项目竞赛」的同好圈。
+- 🍃 **飞盘高尔夫PDGA** _PDGA Disc Golf_ — 裁判/规则「飞盘高尔夫PDGA」（PDGA Disc Golf）。
+- 🍃 **Ultimate飞盘观察员** _Ultimate Frisbee Observer Corps_ — 裁判/规则「Ultimate飞盘观察员」的同好圈。
+- 🍃 **WFDF飞盘裁判路径** _WFDF Flying Disc Officials Path_ — 裁判/规则「WFDF飞盘裁判路径」的同好圈。
+- 🍃 **PDGA赛事认证官员** _PDGA Tournament Official Circles_ — 裁判/规则「PDGA赛事认证官员」的同好圈。
+- 📁 **语言与人文** _Languages & Humanities_
+  - 📁 **印章与金石** _印章与金石_
+    - 🍃 **中国篆刻** _Chinese seal engraving_ — 学「中国篆刻」（Chinese seal engraving）。
+    - 📁 **传习金石地** _传习金石地_
+    - 📁 **印学补** _印学补_
+    - 📁 **反主流印** _反主流印_
+  - 📁 **历史考古业余** _历史考古业余_
+    - 🍃 **American Mountain Men** _American Mountain Men_ — 学「American Mountain Men」的同好圈。
+    - 🍃 **Regia Anglorum早期中世纪重演** _Regia Anglorum_ — 学「Regia Anglorum早期中世纪重演」的同好圈。
+    - 🍃 **Society for Creative Anachronism** _Society for Creative Anachronism_ — 学「Society for Creative Anachronism」的同好圈。
+    - 📁 **书法纹饰与手工艺人文** _Calligraphy, Motifs & Craft Humanities_
+      - 🍃 **指甲花彩绘Mehndi** _Mehndi / Henna Art_ — 学「指甲花彩绘Mehndi」的同好圈。
+    - 📁 **全球南口述与形制再现** _Global South Oral & Material Heritage Hobby Practices_
+      - 🍃 **南亚梵文颂诗业余吟诵** _Sanskrit Shloka Recitation Hobby_ — 学「南亚梵文颂诗业余吟诵」的同好圈。
+      - 🍃 **斯瓦希里语业余学习社群** _Swahili Language Learning Circles_ — 学「斯瓦希里语业余学习社群」的同好圈。
+      - 🍃 **纳瓦特尔语业余学习圈** _Nahuatl Language Hobby Learning_ — 学「纳瓦特尔语业余学习圈」的同好圈。
+      - 🍃 **西非Griot口述史诗传习** _West African Griot Oral Epic Learning_ — 学「西非Griot口述史诗传习」的同好圈。
+    - 🍃 **勃艮第炮兵营地复原** _The Company of St. George_ — 学「勃艮第炮兵营地复原」的同好圈。
+    - 📁 **十年成器** _十年成器_
+      - 🍃 **漆器多层推光十年** _Urushi Multi-coat Decade Practice_ — 学「漆器多层推光十年」的同好圈。
+    - 📁 **历史复活技艺** _历史复活技艺_
+      - 🍃 **埃及彩陶釉复原** _Egyptian Faience Glaze Revival_ — 学「埃及彩陶釉复原」的同好圈。
+      - 🍃 **泰尔紫业余复原** _Tyrian Purple Revival Dyeing_ — 学「泰尔紫业余复原」的同好圈。
+      - 🍃 **玛雅蓝颜料复原** _Maya Blue Pigment Revival_ — 学「玛雅蓝颜料复原」的同好圈。
+      - 🍃 **维京织布机复原** _Viking Warp-weighted Loom Revival_ — 学「维京织布机复原」的同好圈。
+      - 🍃 **罗马混凝土业余配比** _Roman Concrete Mix Revival_ — 学「罗马混凝土业余配比」的同好圈。
+    - 📁 **历史武术身体** _Historical Martial Bodies_
+      - 🍃 **剑道全日本体系业余** _All-Japan Kendo Amateur Dojos_ — 学「剑道全日本体系业余」的同好圈。
+      - 🍃 **巴蒂萨Bartitsu复兴** _Bartitsu Revival Clubs_ — 学「巴蒂萨Bartitsu复兴」的同好圈。
+      - 🍃 **法国棍术Canne** _Canne de combat Savate Stick_ — 学「法国棍术Canne」的同好圈。
+      - 🍃 **骑射WHAF** _WHAF Horseback Archery_ — 学「骑射WHAF」的同好圈。
+    - 📁 **反主流史料** _反主流史料_
+    - 📁 **口述史传习** _Oral-history Transmission_
+    - 📁 **古文字亲手写** _Hands-on Ancient Scripts_
+      - 🍃 **东巴文经书抄写** _Dongba Pictograph Copying_ — 学「东巴文经书抄写」的同好圈。
+      - 🍃 **圣书体芦苇笔** _Hieroglyph Reed-pen Practice_ — 学「圣书体芦苇笔」的同好圈。
+      - 🍃 **楔形文字泥板临摹** _Cuneiform Clay-tablet Copying_ — 学「楔形文字泥板临摹」的同好圈。
+      - 🍃 **西夏文同好释读** _Tangut Script Study Circles_ — 学「西夏文同好释读」的同好圈。
+    - 📁 **实验考古材料** _Experimental-archaeology Materials_
+      - 🍃 **苏美尔圆筒印章雕刻** _Cylinder-seal Carving Replication_ — 学「苏美尔圆筒印章雕刻」的同好圈。
+    - 📁 **实验考古补** _实验考古补_
+    - 🍃 **密封结社英国内战重演** _The Sealed Knot_ — 学「密封结社英国内战重演」（The Sealed Knot）。
+    - 📁 **服饰形制研究** _Historical Dress Research_
+      - 🍃 **欧洲历史服装再现** _Historical Costuming_ — 学「欧洲历史服装再现」的同好圈。
+      - 🍃 **汉服形制考据** _Hanfu Form Research_ — 学「汉服形制考据」（Hanfu Form Research）。
+    - 🍃 **朝鲜走绳戏传承** _Jultagi tightrope transmission_ — 学「朝鲜走绳戏传承」的同好圈。
+    - 📁 **欧美活历史** _Euro-NA Living History_
+      - 🍃 **毛皮贸易集市** _Fur-trade Rendezvous Reenactments_ — 学「毛皮贸易集市」的同好圈。
+      - 🍃 **美国内战再演** _American Civil War Reenactment Units_ — 学「美国内战再演」的同好圈。
+    - 🍃 **活史重演营地周末** _Living History Reenactment Camp Weekend_ — 学「活史重演营地周末」的同好圈。
+    - 📁 **社交形态再演** _社交形态再演_
+    - 📁 **行会残存工艺志** _Guild-remnant Craft Lore_
+      - 🍃 **钟匠行会钟模** _Bellfounders Guild Moulding_ — 学「钟匠行会钟模」的同好圈。
+      - 🍃 **香料行会史再现** _Spicers Guild History Reenactment_ — 学「香料行会史再现」的同好圈。
+    - 📁 **认证路径考古** _Credentialed Archaeology_
+    - 📁 **金石补** _金石补_
+  - 📁 **口头传统与乐语传习**
+    - 🍃 **世界语俱乐部会话桌** _Esperanto Conversation Tables_ — 学「世界语俱乐部会话桌」的同好圈。
+    - 🍃 **手语诗歌表演社** _Sign-language Poetry Performance Clubs_ — 学「手语诗歌表演社」的同好圈。
+  - 📁 **哲学文学阅读** _哲学文学阅读_
+    - 📁 **一日微实践** _一日微实践_
+      - 🍃 **俳句日课社** _Daily Haiku Practice Societies_ — 学「俳句日课社」的同好圈。
+    - 📁 **历史复活文本** _历史复活文本_
+    - 📁 **反主流阅读** _反主流阅读_
+    - 🍃 **古籍善本抄写** _Manuscript Copying Hobby_ — 学「古籍善本抄写」的同好圈。
+    - 📁 **文本补2** _文本补2_
+    - 🍃 **澳洲丛林诗歌协会** _Australian Bush Poets Association_ — 学「澳洲丛林诗歌协会」的同好圈。
+    - 🍃 **苏格兰Burns俱乐部** _Burns Clubs_ — 学「苏格兰Burns俱乐部」（Burns Clubs）。
+    - 📁 **补洞阅读** _Gap Reading_
+    - 📁 **被误认为家务的文本** _Texts Mistaken for Chores_
+      - 🍃 **家谱编修业余** _Amateur Genealogy Compilation_ — 学「家谱编修业余」的同好圈。
+    - 📁 **认证路径读** _Credentialed Read_
+    - 🍃 **读书会周年朗读马拉松** _Book Club Anniversary Readathon_ — 学「读书会周年朗读马拉松」的同好圈。
+    - 📁 **阅读补** _阅读补_
+      - 🍃 **短歌Tanka社** _Tanka Poetry Circles_ — 学「短歌Tanka社」的同好圈。
+  - 📁 **嗅觉与香文化** _Olfaction & Incense Culture_
+    - 🍃 **Basenotes香水鉴赏社群** _Basenotes Perfume Appreciation_ — 学「Basenotes香水鉴赏社群」的同好圈。
+    - 🍃 **Osmothèque香水档案品鉴** _Osmothèque Perfume Conservatory_ — 学「Osmothèque香水档案品鉴」的同好圈。
+    - 🍃 **坎瑙杰传统阿塔尔蒸馏鉴赏** _Kannauj Attar Distillation Appreciation_ — 学「坎瑙杰传统阿塔尔蒸馏鉴赏」的同好圈。
+    - 🍃 **志野流松隐会香道教场** _Shino-ryū Shōinkai Kōdō Classes_ — 学「志野流松隐会香道教场」的同好圈。
+    - 🍃 **志野流香道闻香** _Shino-ryū Kōdō Incense Ceremony_ — 学「志野流香道闻香」的同好圈。
+    - 🍃 **篆香印香制作** _Incense Seal Tenkō Practice_ — 学「篆香印香制作」的同好圈。
+    - 🍃 **艺术嗅觉实验与教育** _Art and Olfaction Practice_ — 学「艺术嗅觉实验与教育」的同好圈。
+    - 🍃 **藏香制作与熏习** _Tibetan Incense Making Practice_ — 学「藏香制作与熏习」的同好圈。
+  - 📁 **外语学习社群** _外语学习社群_
+    - 🍃 **世界语业余社群** _Esperanto Community_ — 学「世界语业余社群」（Esperanto Community）。
+    - 📁 **书写系统传习** _Script Transmission_
+    - 📁 **书法泥金与地画** _Calligraphy Tezhip and Floor Drawing_
+      - 🍃 **tezhip泥金彩绘** _Tezhip Illumination_ — 学「tezhip泥金彩绘」的同好圈。
+    - 📁 **人工与口哨语言** _Constructed & Whistled Tongues_
+      - 🍃 **国际语Interlingua** _Interlingua Correspondence Circles_ — 学「国际语Interlingua」的同好圈。
+      - 🍃 **土耳其鸟语Kuşdili** _Kuş Dili Turkish Bird-language_ — 学「土耳其鸟语Kuşdili」的同好圈。
+      - 🍃 **戈梅拉口哨语Silbo** _Silbo Gomero Whistled Language Practice_ — 学「戈梅拉口哨语Silbo」的同好圈。
+      - 🍃 **沃拉普克复兴会话** _Volapük Revival Conversation_ — 学「沃拉普克复兴会话」的同好圈。
+      - 🍃 **速记体系收藏练习** _Shorthand System Practice Circles_ — 学「速记体系收藏练习」的同好圈。
+    - 📁 **传习口** _传习口_
+    - 📁 **历史复活语** _历史复活语_
+      - 🍃 **拉丁语会话会** _Living Latin Conversation Circles_ — 学「拉丁语会话会」的同好圈。
+    - 📁 **反主流语言** _反主流语言_
+    - 📁 **古典语** _古典语_
+    - 📁 **手语补** _手语补_
+    - 📁 **欧美语言角** _Euro-NA Language Corners_
+      - 🍃 **世界语地方小组欧美** _Esperanto Local Groups Euro-NA_ — 学「世界语地方小组欧美」的同好圈。
+    - 📁 **补洞语言** _Gap Languages_
+    - 📁 **认证路径语** _Credentialed Lang_
+    - 📁 **语言补** _语言补_
+      - 🍃 **新共同语言Novial** _Novial Language Circles_ — 学「新共同语言Novial」的同好圈。
+      - 🍃 **西方国际语Occidental** _Occidental Language Circles_ — 学「西方国际语Occidental」的同好圈。
+  - 📁 **影偶假面与票友** _影偶假面与票友_
+    - 📁 **假面补** _假面补_
+      - 🍃 **巴厘托彭假面** _Topeng Mask Amateur_ — 学「巴厘托彭假面」（Topeng Mask Amateur）。
+    - 🍃 **昆曲票友** _Kunqu amateur piaoyou practice_ — 学「昆曲票友」的同好圈。
+    - 📁 **曲社与票房** _曲社与票房_
+      - 🍃 **印尼瓦扬Kulit业余** _Wayang Kulit Amateur Dhalang_ — 学「印尼瓦扬Kulit业余」的同好圈。
+      - 🍃 **越南水上木偶业余** _Water-puppet Amateur Troupes_ — 学「越南水上木偶业余」的同好圈。
+    - 🍃 **泰国Khon** _Khon masked dance-drama_ — 学「泰国Khon」的同好圈。
+  - 📁 **文房与篆刻手作** _Scholar's Studio & Seal Craft_
+    - 🍃 **东洋印章文化** _East Asian Seal Culture Craft_ — 学「东洋印章文化」的同好圈。
+    - 🍃 **制墨** _Inkstick Making_ — 学「制墨」（Inkstick Making）。
+    - 🍃 **因纽特皂石雕** _Inuit Soapstone Carving_ — 学「因纽特皂石雕」的同好圈。
+    - 🍃 **塔瓜坚果雕** _Tagua Nut Carving_ — 学「塔瓜坚果雕」（Tagua Nut Carving）。
+    - 🍃 **惠特比煤玉雕** _Whitby Jet Carving_ — 学「惠特比煤玉雕」（Whitby Jet Carving）。
+    - 🍃 **核雕** _Olive-Pit Carving_ — 学「核雕」（Olive-Pit Carving）。
+    - 🍃 **桦树皮咬纹** _Birchbark Biting_ — 学「桦树皮咬纹」（Birchbark Biting）。
+    - 🍃 **浮雕贝壳Cameo** _Cameo Shell Carving_ — 学「浮雕贝壳Cameo」的同好圈。
+    - 🍃 **海泡石雕** _Meerschaum Carving_ — 学「海泡石雕」（Meerschaum Carving）。
+    - 🍃 **端砚制作** _Duan Inkstone Making_ — 学「端砚制作」（Duan Inkstone Making）。
+    - 🍃 **通草花** _Tongcao Pith Flowers_ — 学「通草花」（Tongcao Pith Flowers）。
+  - 📁 **礼乐与艺道** _礼乐与艺道_
+    - 📁 **传习礼地** _传习礼地_
+    - 🍃 **池坊花道** _Ikenobo ikebana / kadō_ — 学「池坊花道」（Ikenobo ikebana / kadō）。
+    - 📁 **艺道补** _艺道补_
+    - 🍃 **裏千家茶道** _Urasenke chadō / sadō_ — 学「裏千家茶道」（Urasenke chadō / sadō）。
+    - 🍃 **香道组季节闻香会** _Kodo Seasonal Incense Gathering_ — 学「香道组季节闻香会」的同好圈。
+  - 📁 **非遗身体传承** _非遗身体传承_
+    - 🍃 **塔希提奥特舞谱系传习** _Tahitian Ori Dance Lineage Practice_ — 学「塔希提奥特舞谱系传习」的同好圈。
+    - 🍃 **塔赫提布棍术传承** _Tahtib transmission_ — 学「塔赫提布棍术传承」（Tahtib transmission）。
+    - 🍃 **夏威夷卢阿武术传承** _Hawaiian Lua transmission_ — 学「夏威夷卢阿武术传承」的同好圈。
+    - 🍃 **奇道巴摔跤传承** _Chidaoba transmission_ — 学「奇道巴摔跤传承」的同好圈。
+    - 📁 **家元终身轨道** _家元终身轨道_
+      - 🍃 **官贺歌QuanHo** _Quan Họ Village Singing Groups_ — 学「官贺歌QuanHo」的同好圈。
+      - 🍃 **散调Gayageum师徒** _Sanjo Gayageum Lineages_ — 学「散调Gayageum师徒」的同好圈。
+      - 🍃 **文乐义太夫业余** _Bunraku Gidayu Amateur Recitation_ — 学「文乐义太夫业余」的同好圈。
+      - 🍃 **狂言和泉流业余** _Kyogen Izumi-ryu Amateur_ — 学「狂言和泉流业余」的同好圈。
+      - 🍃 **能乐仕舞业余稽古** _Noh Shimai Amateur Keiko_ — 学「能乐仕舞业余稽古」的同好圈。
+      - 🍃 **韩国盘索里学徒** _Pansori Apprentice Circles_ — 学「韩国盘索里学徒」的同好圈。
+    - 🍃 **弓道寒稽古新年练** _Kyudo Midwinter Kangeiko Practice_ — 学「弓道寒稽古新年练」的同好圈。
+    - 🍃 **弓道射礼研习** _Kyūdō ceremonial practice_ — 学「弓道射礼研习」的同好圈。
+    - 🍃 **恩古尼棍斗传承** _Nguni stick-fighting transmission_ — 学「恩古尼棍斗传承」的同好圈。
+    - 🍃 **毛利哈卡战舞社群排练** _Maori Haka Community Rehearsal_ — 学「毛利哈卡战舞社群排练」的同好圈。
+    - 🍃 **毛利武器术传承** _Mau rākau transmission_ — 学「毛利武器术传承」的同好圈。
+    - 🍃 **流镝马礼法研习** _Yabusame etiquette study_ — 学「流镝马礼法研习」的同好圈。
+    - 🍃 **火刀舞** _Siva afi / fire knife_ — 学「火刀舞」（Siva afi / fire knife）。
+    - 🍃 **薙刀术谱系研习** _Naginatajutsu lineage study_ — 学「薙刀术谱系研习」的同好圈。
+- 🍃 **托基波纳Toki Pona社群** _Toki Pona Community_ — 学「托基波纳Toki Pona社群」的同好圈。
+- 🍃 **逻辑语Lojban实践** _Lojban Speakers_ — 学「逻辑语Lojban实践」（Lojban Speakers）。
+- 🍃 **北欧维京生活史重演** _Norse Viking Living History Groups_ — 学「北欧维京生活史重演」的同好圈。
+- 🍃 **布列塔尼语成年学习者** _Adult Breton Language Learners_ — 学「布列塔尼语成年学习者」的同好圈。
+- 🍃 **意第绪语成年学习者** _Adult Yiddish Language Circles_ — 学「意第绪语成年学习者」的同好圈。
+- 🍃 **简奥斯汀协会地方分会** _Jane Austen Society Branches_ — 学「简奥斯汀协会地方分会」的同好圈。
+- 🍃 **Qawwali苏菲卡瓦利业余圈** _Qawwali Amateur Devotional Circles_ — 学「Qawwali苏菲卡瓦利业余圈」的同好圈。
+- 🍃 **印尼Gamelan加麦兰合奏** _Indonesian Gamelan Ensemble_ — 学「印尼Gamelan加麦兰合奏」的同好圈。
+- 🍃 **印尼Kroncong克朗章弦乐** _Kroncong String Ensemble_ — 学「印尼Kroncong克朗章弦乐」的同好圈。
+- 🍃 **印度Tabla塔布拉鼓练习** _Hindustani Tabla Practice_ — 学「印度Tabla塔布拉鼓练习」的同好圈。
+- 🍃 **印度尼西亚Angklung竹摇琴** _Angklung Bamboo Ensemble_ — 学「印度尼西亚Angklung竹摇琴」的同好圈。
+- 🍃 **哥伦比亚Vallenato手风琴歌谣** _Colombian Vallenato Accordion Song_ — 学「哥伦比亚Vallenato手风琴歌谣」的同好圈。
+- 🍃 **土耳其Ney内伊笛苏菲实践** _Turkish Ney Flute Practice_ — 学「土耳其Ney内伊笛苏菲实践」的同好圈。
+- 🍃 **巴西Chorinho小合唱器乐** _Brazilian Choro Instrumental Circles_ — 学「巴西Chorinho小合唱器乐」的同好圈。
+- 🍃 **特立尼达钢鼓Steelpan** _Trinidad Steelpan Music_ — 学「特立尼达钢鼓Steelpan」的同好圈。
+- 🍃 **菲律宾Rondalla弦乐团** _Philippine Rondalla Ensemble_ — 学「菲律宾Rondalla弦乐团」的同好圈。
+- 🍃 **阿拉伯Oud乌德琴演奏** _Arabic Oud Performance_ — 学「阿拉伯Oud乌德琴演奏」的同好圈。
+- 🍃 **国际手语艺术表演** _International Sign Performance_ — 学「国际手语艺术表演」的同好圈。
+- 🍃 **手语诗歌ASL poetry** _ASL Poetry Circles_ — 学「手语诗歌ASL poetry」的同好圈。
+- 🍃 **人造文字Neography** _Neography Constructed Scripts_ — 学「人造文字Neography」的同好圈。
+- 🍃 **Basque cultural centers diaspora** _Basque Cultural Centers_ — 学「Basque cultural centers diaspora」的同好圈。
+- 🍃 **威尔士国家Eisteddfod** _National Eisteddfod of Wales_ — 学「威尔士国家Eisteddfod」的同好圈。
+- 🍃 **康沃尔语复兴社群** _Cornish Language Revival_ — 学「康沃尔语复兴社群」的同好圈。
+- 🍃 **格雷格速记爱好者** _Gregg Shorthand Hobbyists_ — 学「格雷格速记爱好者」的同好圈。
+- 🍃 **泰勒Teeline新闻速记业余** _Teeline Shorthand Amateur_ — 学「泰勒Teeline新闻速记业余」的同好圈。
+- 🍃 **泰氏Pitman速记** _Pitman Shorthand Hobbyists_ — 学「泰氏Pitman速记」的同好圈。
+- 🍃 **御家流香道** _Oie-ryū Kōdō Incense Ceremony_ — 学「御家流香道」的同好圈。
+- 📁 **音乐演奏** _Music Performance_
+  - 📁 **创作制作与DJ** _创作制作与DJ_
+    - 📁 **制作细分** _制作细分_
+      - 🍃 **模块已经外的Buchla生态** _Buchla Modular Circles_ — 奏「模块已经外的Buchla生态」的同好圈。
+    - 📁 **反主流声景** _反主流声景_
+      - 🍃 **harsh noise墙声** _Harsh-noise Wall Circles_ — 奏「harsh noise墙声」的同好圈。
+    - 📁 **地下与亚文化场景** _Underground Music Scenes_
+      - 🍃 **Noise噪音演出网络** _Noise Music Scene_ — 奏「Noise噪音演出网络」的同好圈。
+      - 🍃 **Vaporwave制作与归档** _Vaporwave Scene_ — 奏「Vaporwave制作与归档」的同好圈。
+      - 🍃 **独立卡带厂牌运营** _Cassette Label Running_ — 奏「独立卡带厂牌运营」的同好圈。
+    - 📁 **声学传习** _Acoustics Transmission_
+    - 📁 **欧美地下场** _Euro-NA Underground Rooms_
+      - 🍃 **仓库派对声音系统志愿** _Warehouse Sound-system Volunteers_ — 奏「仓库派对声音系统志愿」的同好圈。
+    - 📁 **电路与磁带实验** _Circuit & Tape Experiment_
+      - 🍃 **具体音乐磁带拼接** _Musique Concrete Tape Splicing_ — 奏「具体音乐磁带拼接」的同好圈。
+      - 🍃 **电路弯曲CircuitBending** _Circuit Bending Instrument Hacks_ — 奏「电路弯曲CircuitBending」的同好圈。
+    - 📁 **被误认为教堂的风** _Organs Mistaken for Church_
+      - 🍃 **机械风琴BarrelOrgan** _Barrel Organ Crank Performance_ — 奏「机械风琴BarrelOrgan」的同好圈。
+    - 📁 **认证路径制** _Credentialed Prod_
+    - 🍃 **钢鼓调音工棚夜作** _Steelpan Tuning Yard Night Work_ — 奏「钢鼓调音工棚夜作」的同好圈。
+    - 📁 **风险边缘声** _风险边缘声_
+  - 📁 **民族与世界乐器社群** _民族与世界乐器社群_
+    - 📁 **传习器** _传习器_
+    - 🍃 **北美古琴协会习琴** _North American Guqin Association_ — 奏「北美古琴协会习琴」的同好圈。
+    - 🍃 **呼麦喉音业余习练** _Khöömei Throat Singing Practice_ — 奏「呼麦喉音业余习练」的同好圈。
+    - 🍃 **波士顿村加美兰Laras Tentrem** _Gamelan Laras Tentrem_ — 奏「波士顿村加美兰Laras Tentrem」的同好圈。
+    - 🍃 **琉球三线俱乐部实践** _Ryukyu Sanshin Club Practice_ — 奏「琉球三线俱乐部实践」的同好圈。
+  - 📁 **民族与世界音乐** _民族与世界音乐_
+    - 🍃 **Panorama钢鼓乐队竞演** _Panorama Steelband Competition_ — 奏「Panorama钢鼓乐队竞演」的同好圈。
+    - 🍃 **Samba school diaspora欧美** _Samba Schools in Diaspora_ — 奏「Samba school diaspora欧美」的同好圈。
+    - 🍃 **powwow鼓组赛季备鼓** _Powwow Drum Group Seasonal Practice_ — 奏「powwow鼓组赛季备鼓」的同好圈。
+    - 📁 **东亚南岛声管** _East Asian and Austronesian Voices and Pipes_
+      - 🍃 **ca tru歌筹** _Ca Tru Chamber Singing_ — 奏「ca tru歌筹」的同好圈。
+      - 🍃 **夏威夷钢棒吉他HSGA** _Hawaiian Steel Guitar HSGA_ — 奏「夏威夷钢棒吉他HSGA」的同好圈。
+      - 🍃 **尺八ISS** _International Shakuhachi Society_ — 奏「尺八ISS」的同好圈。
+      - 🍃 **대금大笒** _Daegeum Bamboo Flute_ — 奏「대금大笒」（Daegeum Bamboo Flute）。
+    - 📁 **传习器地** _传习器地_
+    - 🍃 **农乐社区乐队** _Nongak Community Band_ — 奏「农乐社区乐队」（Nongak Community Band）。
+    - 🍃 **加里富纳鼓舞合奏** _Garifuna Drum and Dance Ensemble_ — 奏「加里富纳鼓舞合奏」的同好圈。
+    - 🍃 **北美社区Gamelan合奏** _North American Community Gamelan_ — 奏「北美社区Gamelan合奏」的同好圈。
+    - 🍃 **北美太鼓团体联盟实践** _North American Taiko Groups_ — 奏「北美太鼓团体联盟实践」的同好圈。
+    - 📁 **南亚东南亚乐种** _South & Southeast Asian Music Traditions_
+      - 🍃 **卡纳提克音乐萨巴** _Carnatic Music Sabha Practice_ — 奏「卡纳提克音乐萨巴」的同好圈。
+      - 🍃 **西塔琴演奏** _Sitar Playing_ — 奏「西塔琴演奏」（Sitar Playing）。
+    - 🍃 **南太平洋马林巴节庆合奏** _South Pacific Marimba Festival Ensemble_ — 奏「南太平洋马林巴节庆合奏」的同好圈。
+    - 🍃 **卡利普索帐篷赛季驻演** _Calypso Tent Seasonal Residency_ — 奏「卡利普索帐篷赛季驻演」的同好圈。
+    - 📁 **口传乐器师徒** _口传乐器师徒_
+      - 🍃 **乌克兰班杜拉业余** _Ukrainian Bandura Amateur_ — 奏「乌克兰班杜拉业余」的同好圈。
+      - 🍃 **乌兹别克沙什马卡姆** _Shashmaqam Amateur Suites_ — 奏「乌兹别克沙什马卡姆」的同好圈。
+      - 🍃 **俄罗斯古斯里业余** _Russian Gusli Amateur_ — 奏「俄罗斯古斯里业余」的同好圈。
+      - 🍃 **冬不拉业余师徒** _Dombra Amateur Lineages_ — 奏「冬不拉业余师徒」的同好圈。
+      - 🍃 **加利西亚风笛业余** _Galician Gaita Amateur Bands_ — 奏「加利西亚风笛业余」的同好圈。
+      - 🍃 **十二木卡姆业余套曲** _Uyghur Muqam Amateur Suites_ — 奏「十二木卡姆业余套曲」的同好圈。
+      - 🍃 **因纽特喉歌Katajjaq** _Katajjaq Inuit Throat-game Duets_ — 奏「因纽特喉歌Katajjaq」的同好圈。
+      - 🍃 **土耳其阿诗克弹唱** _Ashik Bard Performance Circles_ — 奏「土耳其阿诗克弹唱」的同好圈。
+      - 🍃 **夏威夷钢吉他业余** _Hawaiian Steel-guitar Amateur_ — 奏「夏威夷钢吉他业余」的同好圈。
+      - 🍃 **奄美岛歌业余** _Amami Shima-uta Amateur_ — 奏「奄美岛歌业余」的同好圈。
+      - 🍃 **安达卢斯努巴套曲** _Andalusi Nuba Amateur Suites_ — 奏「安达卢斯努巴套曲」的同好圈。
+      - 🍃 **尺八琴古流业余** _Kinko-ryu Shakuhachi Amateur_ — 奏「尺八琴古流业余」的同好圈。
+      - 🍃 **希腊雷贝提科业余** _Rebetiko Amateur Ensembles_ — 奏「希腊雷贝提科业余」的同好圈。
+      - 🍃 **格鲁吉亚多声部合唱** _Georgian Polyphonic Choir Amateur_ — 奏「格鲁吉亚多声部合唱」的同好圈。
+      - 🍃 **芬兰坎特勒业余** _Finnish Kantele Amateur_ — 奏「芬兰坎特勒业余」的同好圈。
+      - 🍃 **萨米约伊克** _Sámi Yoik Vocal Circles_ — 奏「萨米约伊克」的同好圈。
+      - 🍃 **葡萄牙法朵业余社** _Fado Amateur Houses_ — 奏「葡萄牙法朵业余社」（Fado Amateur Houses）。
+      - 🍃 **阿尔巴尼亚Iso复调** _Albanian Iso-polyphony Amateur_ — 奏「阿尔巴尼亚Iso复调」的同好圈。
+      - 🍃 **马头琴业余师徒** _Morin Khuur Amateur Lineages_ — 奏「马头琴业余师徒」的同好圈。
+    - 📁 **口传师徒** _Oral Master-apprentice_
+    - 📁 **口传谱** _Oral Scores_
+      - 🍃 **减字谱古琴传习** _Jianzi Guqin Tablature Circles_ — 奏「减字谱古琴传习」的同好圈。
+      - 🍃 **工尺谱业余传习** _Gongche Notation Amateur Circles_ — 奏「工尺谱业余传习」的同好圈。
+    - 📁 **吹管细分** _吹管细分_
+      - 🍃 **保加利亚风笛Gaida** _Gaida Amateur Bands_ — 奏「保加利亚风笛Gaida」的同好圈。
+    - 🍃 **呼麦Khoomei** _Mongolian khoomei overtone singing_ — 奏「呼麦Khoomei」的同好圈。
+    - 🍃 **和太鼓合奏** _Taiko ensemble_ — 奏「和太鼓合奏」（Taiko ensemble）。
+    - 📁 **喉音与口传唱法** _Throat & Oral Singing_
+      - 🍃 **蒙古长调乌日汀** _Mongolian Urtiin Duu Long Song_ — 奏「蒙古长调乌日汀」的同好圈。
+    - 🍃 **姆比拉拇指琴演奏** _Mbira performance_ — 奏「姆比拉拇指琴演奏」（Mbira performance）。
+    - 🍃 **委内瑞拉霍罗波音乐舞会合奏** _Joropo Community Music Ensemble_ — 奏「委内瑞拉霍罗波音乐舞会合奏」的同好圈。
+    - 🍃 **安第斯排箫Siku合奏** _Andean Siku Panpipe Ensembles_ — 奏「安第斯排箫Siku合奏」的同好圈。
+    - 🍃 **安第斯排箫兄弟会合奏** _Andean Siku Brotherhood Ensemble_ — 奏「安第斯排箫兄弟会合奏」的同好圈。
+    - 🍃 **巴厘加麦兰村落合奏轮值** _Balinese Village Gamelan Banjar Rota_ — 奏「巴厘加麦兰村落合奏轮值」的同好圈。
+    - 🍃 **巴塞尔法斯纳赫特小集团排练** _Basel Fasnacht Clique Rehearsal_ — 奏「巴塞尔法斯纳赫特小集团排练」的同好圈。
+    - 🍃 **巴斯科鼓笛节庆队** _Basque Txistu and Drum Festival Bands_ — 奏「巴斯科鼓笛节庆队」的同好圈。
+    - 🍃 **布雷顿角苏格兰提琴** _Cape Breton Fiddling_ — 奏「布雷顿角苏格兰提琴」的同好圈。
+    - 🍃 **康纳科尔口技节奏** _Konnakol_ — 奏「康纳科尔口技节奏」（Konnakol）。
+    - 📁 **弹拨细分** _弹拨细分_
+      - 🍃 **印度萨朗吉** _Sarangi Amateur Lineages_ — 奏「印度萨朗吉」的同好圈。
+      - 🍃 **土耳其萨兹** _Saz Baglama Amateur_ — 奏「土耳其萨兹」（Saz Baglama Amateur）。
+    - 📁 **打击补2** _打击补2_
+      - 🍃 **韩国农乐Nongak** _Nongak Percussion Amateur_ — 奏「韩国农乐Nongak」的同好圈。
+    - 📁 **拉美与加勒比音乐实践** _Latin American & Caribbean Music Practices_
+      - 🍃 **Berimbau拨弦弓演奏** _Berimbau Musical Bow Practice_ — 奏「Berimbau拨弦弓演奏」的同好圈。
+      - 🍃 **Samba de Roda巴伊亚轮舞桑巴** _Samba de Roda of Bahia_ — 奏「Samba de Roda巴伊亚轮舞桑巴」的同好圈。
+      - 🍃 **古巴Son与Timba节奏实践** _Cuban Son & Timba Practice_ — 奏「古巴Son与Timba节奏实践」的同好圈。
+      - 🍃 **墨西哥Mariachi街头与社群演奏** _Mariachi Ensemble Practice_ — 奏「墨西哥Mariachi街头与社群演奏」的同好圈。
+      - 🍃 **阿根廷乌拉圭Tango探戈演奏** _Argentine-Uruguayan Tango Music_ — 奏「阿根廷乌拉圭Tango探戈演奏」的同好圈。
+    - 🍃 **新奥尔良第二线路铜管** _Second Line Brass Band Parades_ — 奏「新奥尔良第二线路铜管」的同好圈。
+    - 🍃 **日本太鼓团队竞演** _Japanese Taiko Team Performance_ — 奏「日本太鼓团队竞演」的同好圈。
+    - 📁 **材质制琴** _Material-Specific Instrument Making_
+      - 🍃 **Hang鼓源流制作** _Hang Instrument Making_ — 奏「Hang鼓源流制作」的同好圈。
+      - 🍃 **口弦Khomus制作** _Khomus Jew's Harp Making_ — 奏「口弦Khomus制作」的同好圈。
+      - 🍃 **尺八制作** _Shakuhachi Making_ — 奏「尺八制作」（Shakuhachi Making）。
+      - 🍃 **手碟Handpan制作** _Handpan Making_ — 奏「手碟Handpan制作」（Handpan Making）。
+      - 🍃 **笙制作** _Sheng Making_ — 奏「笙制作」（Sheng Making）。
+      - 🍃 **舌鼓制作** _Tongue Drum Making_ — 奏「舌鼓制作」（Tongue Drum Making）。
+      - 🍃 **葫芦丝制作** _Hulusi Making_ — 奏「葫芦丝制作」（Hulusi Making）。
+      - 🍃 **锣锻造** _Gong Smithing_ — 奏「锣锻造」（Gong Smithing）。
+      - 🍃 **陶笛制作** _Ocarina Making_ — 奏「陶笛制作」（Ocarina Making）。
+      - 🍃 **颂钵制作** _Singing Bowl Making_ — 奏「颂钵制作」（Singing Bowl Making）。
+      - 🍃 **马头琴制作** _Morin Khuur Making_ — 奏「马头琴制作」（Morin Khuur Making）。
+    - 🍃 **格纳瓦节庆合奏** _Gnawa Festival Ensemble Practice_ — 奏「格纳瓦节庆合奏」的同好圈。
+    - 🍃 **格纳瓦音乐节乐手集结** _Gnaoua World Music Festival Ensemble_ — 奏「格纳瓦音乐节乐手集结」的同好圈。
+    - 🍃 **桑巴鼓队街区彩排** _Samba Bateria Neighborhood Rehearsals_ — 奏「桑巴鼓队街区彩排」的同好圈。
+    - 📁 **欧洲民歌复兴** _European Folk Revival_
+      - 🍃 **英格兰民歌俱乐部** _English Folk-song Clubs_ — 奏「英格兰民歌俱乐部」的同好圈。
+    - 🍃 **爱尔兰Uilleann管业余班** _Irish Uilleann Pipes Classes_ — 奏「爱尔兰Uilleann管业余班」的同好圈。
+    - 🍃 **甘美兰乐团仪式演奏** _Gamelan Ensemble Ritual Performance_ — 奏「甘美兰乐团仪式演奏」的同好圈。
+    - 📁 **空洞世界乐** _Gap World Music_
+      - 🍃 **乌德琴Takht合奏** _Oud Takht Amateur Ensembles_ — 奏「乌德琴Takht合奏」的同好圈。
+    - 🍃 **芬兰Kantele卡泰里琴社** _Finnish Kantele Circles_ — 奏「芬兰Kantele卡泰里琴社」的同好圈。
+    - 🍃 **苏格兰风笛乐队竞赛** _Pipe Band Competition Circuits_ — 奏「苏格兰风笛乐队竞赛」的同好圈。
+    - 🍃 **街区马里亚奇合奏** _Community Mariachi Ensemble_ — 奏「街区马里亚奇合奏」的同好圈。
+    - 📁 **被误认为仪式的器** _Instruments Mistaken for Rite_
+      - 🍃 **日本雅乐业余寮** _Amateur Gagaku Court-music Circles_ — 奏「日本雅乐业余寮」的同好圈。
+    - 📁 **西亚北非乐种** _MENA Music Traditions_
+    - 📁 **西亚南亚与东南亚音乐** _West/South/Southeast Asian Music Practices_
+    - 📁 **认证路径民** _Credentialed Folk_
+    - 📁 **认证路径鼓** _Credentialed Drum_
+    - 🍃 **身体打击乐** _Body percussion_ — 奏「身体打击乐」（Body percussion）。
+    - 📁 **身体打击协议** _Body Percussion Protocols_
+      - 🍃 **弗拉门戈Palmas拍手** _Flamenco Palmas Hand-clapping_ — 奏「弗拉门戈Palmas拍手」的同好圈。
+    - 🍃 **迪吉里杜管循环呼吸** _Didgeridoo circular breathing_ — 奏「迪吉里杜管循环呼吸」的同好圈。
+    - 🍃 **钢鼓乐队Panorama赛** _Steelpan Panorama_ — 奏「钢鼓乐队Panorama赛」的同好圈。
+    - 📁 **非洲与非裔音乐实践** _African & Afro-diaspora Music Practices_
+      - 🍃 **Gnawa盖纳瓦音乐实践** _Gnawa Music Practice_ — 奏「Gnawa盖纳瓦音乐实践」的同好圈。
+      - 🍃 **刚果Soukous吉他节奏圈** _Soukous Guitar Rhythm Circles_ — 奏「刚果Soukous吉他节奏圈」的同好圈。
+      - 🍃 **南非Isicathamiya合唱** _Isicathamiya Choral Singing_ — 奏「南非Isicathamiya合唱」的同好圈。
+      - 🍃 **塞内加尔Sabar鼓乐** _Senegalese Sabar Drumming_ — 奏「塞内加尔Sabar鼓乐」的同好圈。
+      - 🍃 **约鲁巴Talking Drum谈话鼓** _Yoruba Talking Drum Practice_ — 奏「约鲁巴Talking Drum谈话鼓」的同好圈。
+      - 🍃 **西非Djembe金贝鼓演奏** _West African Djembe Drumming_ — 奏「西非Djembe金贝鼓演奏」的同好圈。
+      - 🍃 **阿尔及利亚Raï莱音乐** _Raï Music of Algeria_ — 奏「阿尔及利亚Raï莱音乐」的同好圈。
+      - 🍃 **高纳音乐Highlife业余演奏** _Highlife Amateur Performance_ — 奏「高纳音乐Highlife业余演奏」的同好圈。
+    - 📁 **非洲乐器与乐种** _African Instruments & Music Traditions_
+      - 🍃 **康东贝鼓乐** _Candombe Drumming_ — 奏「康东贝鼓乐」（Candombe Drumming）。
+  - 📁 **西洋乐器** _西洋乐器_
+    - 🍃 **北美改换敲钟公会NAGCR** _North American Guild of Change Ringers_ — 奏「北美改换敲钟公会NAGCR」的同好圈。
+    - 📁 **历史复活乐器** _历史复活乐器_
+      - 🍃 **自然小号业余** _Natural Trumpet Amateur_ — 奏「自然小号业余」的同好圈。
+    - 📁 **反主流奏** _反主流奏_
+      - 🍃 **预备钢琴业余** _Prepared-piano Amateur Circles_ — 奏「预备钢琴业余」的同好圈。
+    - 📁 **弓弦细分** _弓弦细分_
+    - 📁 **律学传习** _Tuning Transmission_
+      - 🍃 **微分音键盘改装** _Microtonal Keyboard Retuning_ — 奏「微分音键盘改装」的同好圈。
+    - 🍃 **意大利手动钟楼鸣钟** _Italian Manual Bell Ringing_ — 奏「意大利手动钟楼鸣钟」的同好圈。
+    - 📁 **手风琴与自由低音** _Accordion & Free Bass_
+      - 🍃 **班多钮手风琴探戈** _Bandoneon Tango_ — 奏「班多钮手风琴探戈」（Bandoneon Tango）。
+    - 📁 **材料决定音色** _Material-defined Timbre_
+      - 🍃 **玻璃竖琴杯沿** _Glass Harp Rim Playing_ — 奏「玻璃竖琴杯沿」的同好圈。
+      - 🍃 **石磐Lithophone** _Lithophone Stone-key Instruments_ — 奏「石磐Lithophone」的同好圈。
+    - 📁 **欧美业余乐团** _Euro-NA Amateur Ensembles_
+    - 📁 **社交形态乐团** _社交形态乐团_
+    - 📁 **空洞乐器** _Gap Instruments_
+      - 🍃 **低音维奥尔Viol** _Viola da Gamba Consorts_ — 奏「低音维奥尔Viol」的同好圈。
+      - 🍃 **古钢琴Horpsichord** _Harpsichord Amateur Continuo_ — 奏「古钢琴Horpsichord」的同好圈。
+      - 🍃 **竖笛Consor业余** _Recorder Consort Amateur_ — 奏「竖笛Consor业余」的同好圈。
+    - 📁 **管乐细分** _管乐细分_
+      - 🍃 **自然圆号业余** _Natural Horn Amateur_ — 奏「自然圆号业余」（Natural Horn Amateur）。
+    - 📁 **被误认为工厂的簧** _Reeds Mistaken for Factory_
+    - 📁 **认证路径奏** _Credentialed Play_
+    - 📁 **认证路径指法** _Credentialed Fingering_
+    - 📁 **边缘声学乐器** _Edge Acoustic Instruments_
+      - 🍃 **特雷门琴演奏** _Theremin Performance Circles_ — 奏「特雷门琴演奏」的同好圈。
+      - 🍃 **玻璃琴演奏** _Glass Harmonica Performance_ — 奏「玻璃琴演奏」的同好圈。
+    - 📁 **铸铃与形状音符** _Cast Bells and Shape-note Song_
+      - 🍃 **Sacred Harp形状音符** _Sacred Harp Shape-note Singing_ — 奏「Sacred Harp形状音符」的同好圈。
+    - 📁 **键盘细分** _键盘细分_
+    - 📁 **键盘补2** _键盘补2_
+    - 🍃 **鼓号乐队嘉年华巡游排练** _Drum Corps Carnival Parade Rehearsal_ — 奏「鼓号乐队嘉年华巡游排练」的同好圈。
+- 🍃 **嫩达兹阿尔卑斯长号盲评赛** _International Alphorn Festival Nendaz_ — 奏「嫩达兹阿尔卑斯长号盲评赛」的同好圈。
+- 🍃 **瑞士约德尔歌唱竞赛** _Swiss Yodeling Competitions_ — 奏「瑞士约德尔歌唱竞赛」的同好圈。
+- 🍃 **魁北克传统小提琴会话** _Quebec Traditional Fiddle Sessions_ — 奏「魁北克传统小提琴会话」的同好圈。
+- 🍃 **旧时钢琴世界赛成人组** _World Championship Old-Time Piano Playing Contest_ — 奏「旧时钢琴世界赛成人组」的同好圈。
+- 🍃 **鼻笛Nose flute** _Nose Flute Playing_ — 奏「鼻笛Nose flute」的同好圈。
+- 🍃 **自动钢琴卷演奏会** _Player Piano Roll Performance_ — 奏「自动钢琴卷演奏会」的同好圈。
+- 🍃 **街风琴Drehorgel业余** _Street Barrel Organ Amateur_ — 奏「街风琴Drehorgel业余」的同好圈。
+- 🍃 **莫里斯联合会铃圈舞** _The Morris Federation_ — 奏「莫里斯联合会铃圈舞」的同好圈。
+- 🍃 **国际蓝草音乐协会** _International Bluegrass Music Association_ — 奏「国际蓝草音乐协会」的同好圈。
+- 🍃 **诺森伯兰风笛协会** _Northumbrian Pipers' Society_ — 奏「诺森伯兰风笛协会」的同好圈。
+- 🍃 **水琴Hydraulophone** _Hydraulophone_ — 奏「水琴Hydraulophone」的同好圈。
+- 🍃 **美国手铃音乐家协会** _Handbell Musicians of America_ — 奏「美国手铃音乐家协会」的同好圈。
+- 🍃 **英格兰改换敲钟CCCBR** _Central Council of Church Bell Ringers_ — 奏「英格兰改换敲钟CCCBR」的同好圈。
+- 🍃 **塞佩雷瓦Seperewa** _Seperewa Harp-lute_ — 奏「塞佩雷瓦Seperewa」的同好圈。
+- 🍃 **恩戈尼Ngoni弹拨** _Ngoni Playing_ — 奏「恩戈尼Ngoni弹拨」（Ngoni Playing）。
