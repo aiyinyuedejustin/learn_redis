@@ -18,8 +18,8 @@ GitHub target: aiyinyuedejustin/learn_redis → hobby-probe-lexicon/ then merge 
 - [x] 05_gap_expand — +160 new; light rubric; active **2254**; `sources/derived/gap_expand_report.md`
 - [x] 06_describe — 2254/2254 blurbs; `exports/lexicon_blurbs.jsonl`
 - [x] 07_export_local — taxonomy.json/md, lexicon.csv, dashboard.md
-- [ ] 08_github — in progress
-- [x] FINAL draft — `runlogs/FINAL.md` (PR tick pending)
+- [x] 08_github — PR https://github.com/aiyinyuedejustin/learn_redis/pull/2 merged; folder hobby-probe-lexicon/
+- [x] FINAL — `runlogs/FINAL.md` all ACCEPTANCE boxes ticked
 
 ## Counts trail
 2106 (bootstrap) → 2102 (rubric+restore) → 2094 (judge) → 2254 (gap+restore) → **2254** (export)

@@ -36,7 +36,7 @@ Final active leaf count: **2254**
 
 ### E. 落盘与发布
 - [x] 本地 `exports/` 覆盖完成
-- [ ] 推送 `aiyinyuedejustin/learn_redis` → `hobby-probe-lexicon/` 并 merge main（见下方 PR）
+- [x] 推送 `aiyinyuedejustin/learn_redis` → `hobby-probe-lexicon/` 并 merge main — PR https://github.com/aiyinyuedejustin/learn_redis/pull/2 merged
 - [x] 本文件列出每阶段证据
 
 ## Stage evidence
@@ -50,3 +50,8 @@ Final active leaf count: **2254**
 | 06_describe | `sources/derived/describe_report.md`, `exports/lexicon_blurbs.jsonl` |
 | 07_export | `exports/*` |
 | 08_github | PR URL below after merge |
+
+## PR
+- URL: https://github.com/aiyinyuedejustin/learn_redis/pull/2
+- merged to main at ~2026-09-18 14:10 Asia/Shanghai
+- folder: `hobby-probe-lexicon/` (hobby-taxonomy untouched)
