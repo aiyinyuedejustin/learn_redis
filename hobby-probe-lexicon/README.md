@@ -1,11 +1,16 @@
-# hobby-probe-lexicon
+# 探圈词表（Hobby Probe Lexicon）
 
-探圈词表 v2：给信息茧房里的成年人用的兴趣探针（含合意成人向）。
+给信息茧房里的成年人用的「探路种子」词表：真实可加入的兴趣/圈子名字 + 短介绍，方便拿去搜同好或问 AI。
 
-- 不覆盖 `hobby-taxonomy/`（v1 证据区）
-- 本目录由主控门禁通过后推送；推送前须 Justin 确认
+| 指标 | 值 |
+|------|-----|
+| 活跃叶子 | 2078 |
+| 生成日期 | 2026-09-19 |
 
 ## 文件
-- `lexicon_active.jsonl` / `lexicon_active.md`：active 叶
-- `dashboard.md`：计数
-- `GOLD_STANDARD.md`：金标准
+
+- `lexicon.md` — 可读分类列表
+- `lexicon.json` / `lexicon.jsonl` — 机器可读全量
+- `dashboard.md` — 统计看板
+
+过程文档、门禁日志、校准记录不在此目录（仅保留成品，对齐 `hobby-taxonomy/` 风格）。

@@ -1,0 +1,2152 @@
+# 探圈词表
+
+
+活跃叶子：**2078** · 生成 2026-09-19
+
+
+## 二次元与同人
+
+- **纸雕甲可穿展陈加固法**（Paper Armor Wearable Reinforcement） — 加固纸雕甲，使其可穿展出并兼顾结构与重量
+- **Decora装饰系穿搭**（Decora） — 同人做「Decora装饰系穿搭」（Decora）。
+- **EGL洛丽塔时尚社群**（EGL Lolita Fashion） — 穿搭洛丽塔裙装，聊面料版型与茶会着装规范
+- **Furry兽装爱好社群**（Furry Fandom） — 同人做「Furry兽装爱好社群」（Furry Fandom）。
+- **Visual Kei视觉系**（Visual Kei） — 同人做「Visual Kei视觉系」（Visual Kei）。
+- **洛丽塔洋装裙撑通风改良**（Lolita Petticoat Vent Mods） — 改良洛丽塔裙撑通风，调整结构并测试穿着活动度
+- **视觉系妆面低刺激配方笔记**（Visualkei Lowirritant Makeup Notes） — 记录视觉系妆面配方，测试低刺激并整理颜色搭配
+- **假发抗静电喷雾配方分享**（Wig Antistatic Spray Recipes） — 调配假发抗静电喷雾，测试湿度、顺滑度与残留
+- **硅胶头皮护理粉尘控制**（Silicone Scalp Dust Control） — 护理硅胶头皮，控制粉尘并保持表面触感
+- **纸样工业打版研究**（Industrial Pattern-drafting for Costumes） — 绘制服装纸样并核对工业版型，研究尺寸、排料与缝份
+- **车库套件原模雕刻**（Garage-kit Original Sculpt Circles） — 雕刻车库套件原模，修整分件、曲面和细节再翻模
+- **树脂涂装遮盖液精细遮盖赛**（Resin Masking Fluid Contests） — 用遮盖液做树脂涂装，练边界控制并比较喷涂效果
+- **泡沫甲切割刀磨刃角共享**（Foam Knife Bevel Angle Shares） — 磨利泡沫甲切割刀，比较刃角并安全处理材料
+- **泡沫盔甲热成型通风孔设计**（EVA Armor Vent Design） — 热成型泡沫盔甲，设计通风孔并测试穿戴舒适度
+- **热成型EVA板甲**（Thermoformed EVA Plate Armor） — 加热EVA泡沫板，塑出贴合身体的盔甲片
+- **特摄皮套制作**（Tokusatsu Suit Building） — 制作特摄皮套，完成泡沫塑形、蒙皮、涂装与活动关节
+- **痛包制作**（Ita-bag Making） — 设计痛包布局，固定徽章、挂件与透明展示组件
+- **戏服隐形拉链快速维修摊**（Costume Invisiblezip Repair Booths） — 快速维修戏服隐形拉链，替换滑块并校正缝线
+- **盔甲内衬吸汗层更换站**（Armor Liner Swap Stations） — 更换盔甲内衬吸汗层，调整固定并改善穿戴舒适
+- **赛前盔甲试穿互助会**（Pre-Con Armor Fit Mutual-Aid Circle） — 赛前互助试穿盔甲，检查活动度、固定件与安全性
+- **义乳胸甲合身打版共研**（Chestplate Pattern Fit Circles） — 为义乳胸甲打版，调整贴合度并测试活动范围
+- **义肢角色道具适配共研**（Prosthetic Character Prop Fit） — 为义肢角色道具做适配，调整固定点与活动范围
+- **道具枪与盔甲制作**（Prop & Armor Crafting） — 用EVA泡沫与树脂做道具枪盔甲，打磨喷漆上身
+- **中文同人语音剧配音棚业余**（Chinese Doujin Audio-drama Amateur Booths） — 为中文同人语音剧配音，练台词、走位与后期协作
+- **Live2D建模圈**（Live2D Rigging Circle） — 用Live2D绑定立绘，调参数并制作表情、口型与物理
+- **VRoid模型圈**（VRoid Modeling） — 用VRoid制作三维角色，调整脸型、服装与模型材质
+- **中文调教VSQX圈**（Chinese VSQX Tuning Circle） — 用VSQX制作中文歌声调教，编辑音素并校准咬字
+- **人力Vocaloid**（Human-powered Vocaloid） — 拆分人声片段制作人力Vocaloid，调音并编排旋律
+- **MAD剪辑时间轴技艺**（MAD Edit Timeline Craft Circles） — 按节拍切片、对齐镜头与字幕，制作MAD剪辑时间轴
+- **UTAU音源制作圈**（UTAU Voicebank Maker Circles） — 录制并调校UTAU音源，切分音符、修音与制作音库
+- **动画摄影表语法研习**（Expo Sheet Grammar Study） — 研读动画摄影表语法，拆镜头并练节拍标注
+- **同人音乐编曲DAW社**（Doujin Music DAW Arrangement Circles） — 在DAW中编曲同人曲，安排音色、段落与混音层次
+- **手绘赛璐璐透光检查台自制**（Cel Lighttable DIY） — 自制赛璐璐透光台，检查填色边界并改善背光
+- **摄影表手填传统坚持**（Expo Sheet Handfill Holdouts） — 手填动画摄影表，练镜头节奏并理解传统制作流程
+- **原画帧间表情弧练习组**（Keyframe Expression Arc Groups） — 练原画表情弧，设计关键帧并观察情绪过渡
+- **独立矢量动画格式抢救**（Indie Flash Format Rescue） — 抢救独立矢量动画格式，解析文件并转存可读版本
+- **Vocaloid原创曲圈**（Vocaloid Producer Scene） — 用Vocaloid调教写原创曲，投歌姬与翻唱合作
+- **机娘面板灯改电流限制**（Mechagirl LED Current Limits） — 给机娘面板灯限流，计算电阻并测试不同亮度
+- **机甲关节活动度手办改造**（Mecha Joint Range Garage Kits） — 改造机甲手办关节，增加活动度并保持外观比例
+- **特摄迷考据与同人**（Tokusatsu Fandom） — 同人做「特摄迷考据与同人」（Tokusatsu Fandom）。
+- **生肉时间轴听打互助夜**（Raw Timing Dictation Nights） — 听打生肉时间轴，校对对白并协助字幕同步
+- **洛天依中文V家**（Luo Tianyi Vsinger Circle） — 用洛天依中文V家创作歌曲，调教声线并制作伴奏
+- **kamishibai业余演剧**（Amateur Kamishibai Performance） — 绘制纸芝居画面并配旁白，排练kamishibai移动演剧
+- **sofubi软胶改模**（Sofubi Soft-vinyl Customizing） — 打磨软胶原型、制模并上色，实践sofubi改模流程
+- **纸芝居画板防水边框改装**（Kamishibai Board Waterproof Rims） — 改装纸芝居画板防水边框，保护画面并便于翻页
+- **纸芝居街头演出支架自制**（Kamishibai Street Stand DIY） — 自制纸芝居街头支架，兼顾翻页、遮雨与携带
+- **Anthrocon皮毛展**（Anthrocon） — 同人做「Anthrocon皮毛展」（Anthrocon）。
+- **走秀音乐节拍卡点训练**（Runway Beathit Training） — 练走秀音乐卡点，控制步伐、转身与舞台出场节奏
+- **COMITIA原创即卖会**（COMITIA Original Only） — 在COMITIA筹备原创漫画，完成印刷、定价与摊位陈列
+- **博丽神社例大祭摊事**（Reitaisai Touhou-only Event） — 制作东方Project同人刊物，准备例大祭摊位与库存
+- **封面触感纸样交换会**（Cover Paper Handfeel Swaps） — 交换封面触感纸样，比较涂层、纹理与印刷效果
+- **无CP纯设定集交换会**（Loreonly Zine Exchanges） — 交换无CP设定集，比较世界观结构与角色外设
+- **无版权角色原创物种图鉴互换**（Original Species Dex Swaps） — 互换原创物种图鉴，绘制生态设定并整理物种条目
+- **无角色原创世界志合本联盟**（OC World Zine Alliances） — 参与原创世界观合本，设定背景并协作编辑排版
+- **AMV与Vidding剪辑**（AMV / Vidding） — 同人做「AMV与Vidding剪辑」（AMV / Vidding）。
+- **AO3同人档案库创作**（AO3 Fanwork Archiving） — 在AO3发同人长文，写tag、分章更新与读者评论
+- **Fanlore词条编修**（Fanlore Editing） — 同人做「Fanlore词条编修」（Fanlore Editing）。
+- **同人音频剧Podfic**（Podfic） — 同人做「同人音频剧Podfic」（Podfic）。
+- **同人志印刷协作**（Doujinshi Printing） — 同人做「同人志印刷协作」（Doujinshi Printing）。
+- **同人游戏发布**（Doujin Game Publishing） — 自制同人游戏打包发布，管demo、补丁与反馈
+- **Comic Market（コミケ）**（Comic Market） — 去东京コミケ摆摊买本，追限定与排队攻略
+- **同人志印刷所通宵赶工社群**（Doujinshi Print Shop Overnight Crunch Circle） — 协作赶制同人志，安排排版、印刷校样与交付进度
+- **开拓动漫祭摊事**（Fancy Frontier Taiwan） — 筹备开拓动漫祭摊位，制作刊物、周边并安排现场销售
+- **欧美同人Zine市集**（Euro-NA Zine Fair Collectives） — 制作同人Zine，排版印刷、交换作品并策划市集摊位
+- **痛车贴膜技艺社**（Itasha Vinyl-wrap Craft Circles） — 裁切车身贴膜并处理曲面，完成痛车图案的定位与施工
+- **Doujin自资出版者北美摊位实践**（North American Doujin Artist Alleys） — 自制同人刊物，练编辑、印刷与北美展会摊位运营
+- **EuroCosplay锦标赛**（EuroCosplay Championship） — 打磨角色造型与舞台表演，参加EuroCosplay锦标赛
+- **Flame Con酷儿漫画展**（Flame Con） — 同人做「Flame Con酷儿漫画展」（Flame Con）。
+- **World Cosplay Summit选拔赛北美欧澳**（World Cosplay Summit National Selections） — 制作角色服装道具，备战World Cosplay Summit选拔
+- **Yaoi North同人展**（Yaoi North） — 同人做「Yaoi North同人展」（Yaoi North）。
+- **同人音乐M3即卖会摊事**（M3 Doujin Music Fair Booths） — 制作M3即卖会同人音乐，安排曲目、封面与摊位试听
+- **AO3成人同人写作工坊**（Adult Fanfiction Writing Workshops） — 围绕成人同人题材写作，练习情节、角色与内容边界管理
+- **手工娃衣BJD缝制社**（BJD Doll Clothes Sewing Circles） — 缝制BJD娃衣，打版、收边并适配关节娃尺寸
+
+## 健身形体
+
+- **泰拳Muay boran复原**（Muay Boran Revival） — 复原Muay boran拳法，练步法、肘膝与传统套路
+- **冰岛Glima摔跤**（Glima） — 练「冰岛Glima摔跤」（Glima）。
+- **北美飞斧联盟成人赛**（National Axe Throwing Federation） — 练飞斧握法、旋转和落靶控制，参加成人组联盟赛
+- **古希腊pancration业余研究**（Pankration Historical Study Clubs） — 研究古希腊pancration，复原训练方法并练攻防
+- **坎伯兰西摩兰摔跤**（Cumberland and Westmorland Wrestling） — 练习坎伯兰西摩兰摔跤的抱持、步法与得分规则
+- **康沃尔摔跤**（Cornish Wrestling） — 练「康沃尔摔跤」（Cornish Wrestling）。
+- **伊朗帕赫拉瓦尼**（Pahlevani Zurkhaneh Amateur） — 练伊朗帕赫拉瓦尼摔跤，结合力量、投技与传统礼仪
+- **瑞士Schwingen摔跤**（Schwingen） — 练「瑞士Schwingen摔跤」（Schwingen）。
+- **美国盖尔运动协会俱乐部赛**（USGAA Adult Club Games） — 练投掷、跳跃和力量项目，按盖尔运动协会赛制参赛
+- **美国相扑联合会成人赛**（United States Sumo Federation） — 学习相扑的推压、抱摔与出界规则，参加成人组训练赛
+- **芬兰背妻赛Eukonkanto**（Eukonkanto Wife Carrying） — 背负搭档完成障碍赛，练负重、步幅和团队配合
+- **苏格兰扔杆Caber Toss**（Caber Toss） — 练「苏格兰扔杆Caber Toss」（Caber Toss）。
+- **苏格兰背抱摔跤Scottish Backhold**（Scottish Backhold Wrestling） — 用背抱姿势练习缠斗、平衡与摔法，遵守SWB比赛规则
+- **埃及棍术**（Tahtib） — 练「埃及棍术」（Tahtib）。
+- **Strongman业余训练**（Amateur Strongman） — 扛石球翻轮胎拉雪橇，练强人三项式爆发力
+- **经典力量举Raw专项**（Raw Classic Powerlifting Meets） — 练经典力量举深蹲卧推硬拉，按Raw规则参赛
+- **印度棒Indian Clubs**（Indian Club Swinging） — 旋转印度棒练肩背与手腕，循序提升协调、力量和控制
+- **伐木运动Timbersports**（Stihl Timbersports Amateur Heats） — 练伐木、劈砍、锯切和投掷等Timbersports项目
+- **壶铃运动Girevoy**（Girevoy Kettlebell Sport） — 练壶铃抓举、挺举和长循环，记录动作与耐力
+- **拔河TWIF业余**（TWIF Tug-of-war Amateur） — 按队形和口令拔河，练腿部驱动、握绳与战术
+- **握力运动GripSport**（Grip Sport Crush Competitions） — 专练捏握、指力和支撑，参加GripSport项目
+- **格鲁吉亚锤Gada**（Gada Mace Club Swinging） — 挥动格鲁吉亚锤，练肩胯联动、握力与控制
+- **臂摔WAF业余**（WAF Armwrestling Amateur） — 练抓腕、压制和桥接，按WAF规则参加臂摔
+- **布列塔尼Gouren摔跤**（Gouren Breton Wrestling） — 练布列塔尼Gouren摔跤，学抓抱、失衡与规则得分
+- **苏格兰高地运动会**（Scottish Highland Games） — 参加苏格兰高地投掷、搬石和拔河，练爆发力
+- **意大利木棍Bastone**（Italian Stick Fighting Bastone） — 练意大利Bastone木棍套路，掌握步法、距离与攻防
+- **HYROX室内混合耐力**（HYROX Indoor Hybrid Endurance） — 把跑步、划船、推雪橇等项目串成HYROX训练
+- **国际冰泳IISA**（IISA Ice Swimming） — 练「国际冰泳IISA」（IISA Ice Swimming）。
+- **垂直千米VK赛**（Vertical Kilometer VK Races） — 在山地短坡冲刺爬升一千米，挑战VK计时
+- **登楼跑Towerrunning**（Towerrunning Stair Races） — 在高楼楼梯间竞速，练登楼节奏和耐力
+- **障碍赛OCR业余**（OCR Obstacle Course Racing Amateur） — 练跑、攀、匍匐和负重，参加OCR障碍赛
+- **NACSW气味工作赛**（NACSW Nose Work Trials） — 训练犬识别指定气味，按NACSW赛制搜索并报示
+- **人迹追踪Mantrailing**（Mantrailing Scent Trailing） — 带犬沿路线追踪人物气味，练起点判断与线索排除
+- **松露猎犬训练**（Truffle Dog Training） — 练「松露猎犬训练」（Truffle Dog Training）。
+- **公开水域业余泳渡**（Open-water Amateur Crossings） — 在湖海公开水域长距离泳渡，练导航补给
+- **花样游泳业余队**（Artistic Swimming Amateur Clubs） — 业余花样游泳练水上造型与同步划水
+- **parkrun社区五公里**（parkrun） — 练「parkrun社区五公里」（parkrun）。
+- **美国大师游泳**（U.S. Masters Swimming） — 练「美国大师游泳」（U.S. Masters Swimming）。
+- **科科球**（Kho-Kho） — 练「科科球」（Kho-Kho）。
+- **中国竿**（Chinese pole） — 练「中国竿」（Chinese pole）。
+- **双人瑜伽**（AcroYoga） — 练「双人瑜伽」（AcroYoga）。
+- **德国轮**（German wheel） — 练「德国轮」（German wheel）。
+- **空中绳**（Corde lisse） — 练「空中绳」（Corde lisse）。
+- **空中绸吊**（Aerial silks） — 练「空中绸吊」（Aerial silks）。
+- **西尔轮**（Cyr wheel） — 练「西尔轮」（Cyr wheel）。
+- **走钢丝**（Tightwire walking） — 练「走钢丝」（Tightwire walking）。
+- **马拉坎布**（Mallakhamb） — 练「马拉坎布」（Mallakhamb）。
+- **大东流合气柔术业余**（Daito-ryu Aiki-jujutsu） — 练大东流合气柔术的擒拿、平衡破坏与安全受身
+- **新阴流兵法业余**（Shinkage-ryu Study Groups） — 练新阴流兵法的架势、步法与木剑套路，重视传统稽古
+- **伊朗左尔哈内**（Pahlevani & zoorkhanei rituals） — 练伊朗左尔哈内棒操、弓步与节奏体能，配击鼓
+- **业余相扑**（Amateur Sumo） — 练「业余相扑」（Amateur Sumo）。
+- **中国式摔跤**（Shuai Jiao） — 练「中国式摔跤」（Shuai Jiao）。
+- **印尼本西拉**（Pencak Silat Amateur Clubs） — 练印尼本西拉，掌握步法、套路与攻防距离
+- **越南咏春Vovinam**（Vovinam Amateur Clubs） — 练越南Vovinam，掌握拳腿组合、摔法与套路
+- **加特卡**（Gatka） — 练「加特卡」（Gatka）。
+- **古吴哥斗术**（Kun Lbokator） — 练「古吴哥斗术」（Kun Lbokator）。
+- **居合道**（Iaido） — 练「居合道」（Iaido）。
+- **巴西柔术蓝带业余馆**（BJJ Blue-belt Amateur Gyms） — 练巴西柔术蓝带技术，强化位置控制、逃脱与降服
+- **咏春木人桩师徒**（Wing-chun Wooden-dummy Lineages） — 跟师练咏春木人桩，掌握黏手、步法与连击路线
+- **库什蒂摔跤**（Kushti / Pehlwani） — 练「库什蒂摔跤」（Kushti / Pehlwani）。
+- **库拉什**（Kurash） — 练「库拉什」（Kurash）。
+- **杖道**（Jodo） — 练「杖道」（Jodo）。
+- **格斗短棍**（Krabi-krabong） — 练「格斗短棍」（Krabi-krabong）。
+- **缅甸莱威**（Lethwei） — 练「缅甸莱威」（Lethwei）。
+- **莫兰吉**（Moraingy） — 练「莫兰吉」（Moraingy）。
+- **西兰巴姆棍术**（Silambam） — 练「西兰巴姆棍术」（Silambam）。
+- **阿雷什腰带摔跤**（Alysh Belt Wrestling） — 练「阿雷什腰带摔跤」（Alysh Belt Wrestling）。
+- **加那利岛Lucha Canaria**（Canarian Wrestling） — 练Lucha Canaria的抓握、借力与摔投，熟悉加那利赛制
+- **威尔士Twmpath民俗舞会**（Welsh Twmpath Folk Dances） — 随威尔士舞会音乐练步伐、换位和集体节奏，参与Twmpath
+- **法罗链舞社群**（Faroese Chain Dance Circles） — 跟随法罗链舞的环形队列，练手臂连接、步法与歌舞节奏
+- **爱尔兰Set Dance成人班**（Irish Set Dancing Adult Classes） — 学习爱尔兰Set Dance的方阵走位、脚步和社交舞礼仪
+- **康提舞业余**（Kandyan Dance Amateur） — 练「康提舞业余」（Kandyan Dance Amateur）。
+- **爪哇贝多优舞蹈**（Bedhaya Court-dance Amateur） — 练爪哇贝多优舞，掌握缓慢步法、手势与宫廷编舞
+- **缅甸阿迎舞业余**（Anyeint Amateur Troupes） — 练缅甸阿迎舞，掌握手势、步法与传统曲调
+- **高棉古典舞成人**（Khmer Classical Dance Adult） — 练高棉古典舞基本手位、步法与叙事姿态
+- **卡塔克利科利颜谱**（Kathakali Makeup-and-play Adult） — 练卡塔克利舞的角色妆面、眼神与叙事动作
+- **奥迪西舞成人班**（Odissi Adult Lineages） — 练奥迪西舞的三弯姿态、手势与叙事编舞
+- **库契普迪成人班**（Kuchipudi Adult Lineages） — 练库契普迪舞基本步、表情与戏剧性片段
+- **曼尼普利舞成人班**（Manipuri Dance Adult Circles） — 练曼尼普利舞的手位、步法与叙事性舞段
+- **莫希尼阿坦成人班**（Mohiniyattam Adult Circles） — 练莫希尼阿坦舞的眼神、手势与叙事段落
+- **雅克萨迦纳夜戏**（Yakshagana Night-play Troupes） — 练雅克萨迦纳夜戏，掌握面谱、身段与长时演出
+- **汤加拉卡拉卡**（Tongan Lakalaka Amateur） — 学习汤加拉卡拉卡，练节奏、手势与集体队形
+- **萨摩亚西瓦舞**（Samoan Siva Adult Troupes） — 练萨摩亚西瓦舞，掌握手势、步伐与群舞队形
+- **巴西Forro**（Forró social dance matrices） — 跳巴西Forro双人舞，练步法、转身和手风琴节奏
+- **匈牙利恰尔达什业余**（Csárdás Amateur Circles） — 跳匈牙利恰尔达什，练慢段、快段与双人旋转
+- **波兰马祖卡业余**（Mazurka Amateur Circles） — 跳波兰马祖卡，练三拍节奏、转身与双人配合
+- **盆踊夏祭圆圈共跳**（Bon Odori Summer Circle Dance） — 跟跳盆踊，练夏祭节拍、基本步与圆圈队形
+- **美洲原住民鼓圈公开文化舞**（Powwow Intertribal Drum Circle Dance） — 参与原住民鼓圈与文化舞，练节奏、步伐并尊重礼仪
+- **莫哈奇布绍面具狂欢队**（Mohacs Buso Masked Carnival Crew） — 制作面具并排练莫哈奇布绍舞步，参加街头狂欢
+- **莫里斯棍舞季节巡演**（Morris Stick Dance Seasonal Touring） — 练莫里斯棍舞，掌握棍棒套路、步法与季节巡演
+- **青森睡魔祭跳人队**（Aomori Nebuta Haneto Dancer Crew） — 参加青森睡魔祭跳人队，练跳人步伐并配合花车
+- **乌邦图靴舞Gumboot**（Gumboot Dance Amateur Troupes） — 练南非Gumboot靴舞，配合跺击、拍腿与队形节奏
+- **南非裤子舞Pantsula**（Pantsula Dance Amateur） — 练南非Pantsula街舞，掌握快速步法、姿态与即兴
+- **卡塔卡利业余研习**（Kathakali Amateur Study） — 业余习卡塔卡利妆面眼神与鼓点身法
+- **昆比亚舞习**（Cumbia Dance Practice） — 练「昆比亚舞习」（Cumbia Dance Practice）。
+- **毛利彩球Poi**（Māori Poi Performance） — 甩毛利彩球Poi练圆周轨迹与节奏
+- **达布卡舞**（Dabke） — 练「达布卡舞」（Dabke）。
+- **印尼Pencak Silat短打武术**（Pencak Silat） — 练印尼Pencak Silat短打步法与兵器
+- **印度Kalaripayattu卡拉里**（Kalaripayattu） — 练印度卡拉里身法柔韧与传统兵器套路
+- **塞内加尔Laamb摔跤**（Senegalese Laamb Wrestling） — 关注塞内加尔Laamb摔跤仪式与技术
+- **尼日利亚Dambe传统拳击**（Dambe Traditional Boxing） — 观摩或习练尼日利亚Dambe传统拳击护臂
+- **巴西Capoeira卡波耶拉**（Capoeira） — 练「巴西Capoeira卡波耶拉」（Capoeira）。
+- **泰国Muay Thai泰拳业余**（Amateur Muay Thai） — 业余练泰拳肘膝腿法与沙袋配对
+- **菲律宾Arnis短棍术**（Arnis / Eskrima / Kali） — 练菲律宾Arnis双棍格挡打击与徒手转换
+- **印度Bharatanatyam业余传习**（Bharatanatyam Amateur Learning） — 业余习印度婆罗多舞表情手印与节奏脚点
+- **古巴萨尔萨与赌场舞Casino**（Cuban Casino / Salsa Social Dance） — 跳古巴萨尔萨与赌场舞Casino轮转
+- **夏威夷Hula呼拉舞蹈社群**（Hawaiian Hula Dance Halau） — 学夏威夷Hula手势叙事与草裙节奏
+- **巴西Frevo累西腓狂欢舞**（Brazilian Frevo Dance） — 跳巴西Frevo快节奏伞舞，累西腓狂欢步
+- **斐济Meke歌舞社群**（Fijian Meke Dance） — 练「斐济Meke歌舞社群」（Fijian Meke Dance）。
+- **农乐舞队训练**（Nongak Community Dance Practice） — 配合长鼓和锣练农乐舞，走队形并即兴表演
+- **卡尔贝利亚蛇形舞共练**（Kalbelia Dance Practice） — 练卡尔贝利亚蛇形舞的摆胯、步伐和队列变化
+- **卡提亚克节庆展演团**（Kathak Festival Performance Troupes） — 排练卡提亚克节庆展演，结合鼓乐、服装与舞步
+- **古吉拉特加尔巴舞圈**（Garba of Gujarat Dance Circles） — 跟着鼓乐跳加尔巴，练圆圈步法和节庆队形
+- **巴厘岛Kecak火圈合唱**（Balinese Kecak Fire-circle Chorus） — 围成火圈练Kecak的齐声节拍、手势和队形
+- **巴厘巴龙舞社群排练**（Balinese Barong Dance Troupe Rehearsal） — 排练巴厘巴龙舞，制作面具并配合乐队演出
+- **布列塔尼Fest-noz集体舞**（Fest-Noz） — 练「布列塔尼Fest-noz集体舞」（Fest-Noz）。
+- **弗拉门戈掌击节奏班**（Flamenco Palmas Rhythm Classes） — 练弗拉门戈掌击，配合脚步、节奏与身体重心
+- **恰乌面具舞训练**（Chhau Mask Dance Practice） — 戴恰乌面具练跳跃、旋转和武术化舞步
+- **花样扁带Trickline**（Trickline Bouncing Slackline） — 在扁带上练走带、转身和跳跃，挑战Trickline
+- **扎乌利面具舞社群**（Zaouli Mask Dance Communities） — 戴扎乌利面具练踢步、旋转和象征性角色
+- **接触抛球ContactJuggle**（Contact Juggling Isolation） — 让球沿手臂和身体滚动，练接触抛球的连贯轨迹
+- **溜溜球IYYF**（IYYF Yo-yo Contests） — 练「溜溜球IYYF」（IYYF Yo-yo Contests）。
+- **火舞Poi旋转**（Poi Spinning Fire-art Circles） — 点燃Poi后练摆动、转圈与安全控火，编排火舞
+- **接触即兴**（Contact Improvisation） — 练「接触即兴」（Contact Improvisation）。
+- **对舞Contra**（Contra Dance Evenings） — 跟随乐队跳Contra，练换位、步序和临场听令
+- **苏格兰高地舞**（Scottish Highland Dancing） — 跳苏格兰高地舞，练快速步、姿态和音乐重拍
+- **英格兰乡村舞ECD**（English Country Dance） — 学习英格兰乡村舞的队形、脚步与换位，配合现场乐曲
+- **爱尔兰Feis踢踏赛会**（Irish Competitive Step Dance Feis Circuits） — 在爱尔兰Feis赛会练踢踏，参加分级舞蹈比赛
+- **基兹巴Kizomba**（Kizomba Social Dance Nights） — 跳安哥拉Kizomba，贴身跟随慢节奏
+- **巴西佐克Zouk**（Brazilian Zouk Dance Scenes） — 跳巴西Zouk，练头滚与流畅连接步
+- **阿根廷探戈Salon**（Salon-style Argentine Tango Milongas） — 跳Salon风格阿根廷探戈，练轴心与乐句
+- **神乐里神乐社传习**（Kagura Shrine Troupe Transmission） — 跟师传习神乐里神乐，练面具、舞步与祭礼音乐
+- **科洛手拉手环舞**（Kolo Hand-linked Circle Dance） — 手拉手围圈跳科洛，练步法、节拍和队形
+- **德国轮GermanWheel**（German Wheel Rhönrad Sport） — 在德国轮内练滚动、倒立和上下轮动作
+- **空中 hoop 钢圈**（Lyra Aerial Hoop Circles） — 在空中钢圈上练悬挂、转体和力量衔接
+- **钢管运动IPSF**（IPSF Pole Sports Amateur） — 练钢管的旋转、力量与舞台技巧，参加IPSF项目
+- **菲律宾Tinikling竹竿舞**（Tinikling Bamboo Dance Groups） — 配合竹竿开合跳Tinikling，练步点与反应速度
+- **萨曼坐式节奏舞团**（Saman Seated Dance Groups） — 坐着用手势和节拍跳萨曼，练齐拍与队形
+- **苏菲旋转舞业余**（Sufi Whirling Practice Circles） — 以旋转舞练轴心、呼吸和持续步伐，控制眩晕与节奏
+- **Pekiti-Tirsia Kali**（Pekiti-Tirsia Kali） — 练Pekiti-Tirsia Kali的步法、角度与短棍攻防
+- **现代Arnis业余**（Modern Arnis） — 练「现代Arnis业余」（Modern Arnis）。
+- **平衡训练进阶神经适应课**（Balance Neural Adaptation Class） — 练平衡与本体感觉，逐步增加不稳定面和动作难度
+- **慢动作日常动作体感素描**（Slow ADL Kinesthetic Sketching） — 放慢日常动作并画体感素描，记录重心、关节与呼吸
+- **泡沫轴滚动节奏与呼吸同步**（Roller Rhythm Breath Sync） — 用泡沫轴配合呼吸滚动，调整节奏并观察身体反馈
+- **赤足不同天气地面温度记录**（Barefoot Ground Temp Weather Logs） — 赤足短时感知地温，按天气记录地面材质与冷热变化
+- **赤足步道表面变化巡记**（Barefoot Trail Surface Logs） — 赤足巡走步道并记录表面变化，比较石砾、木板与土路触感
+- **舞踏业余稽古**（Butoh Amateur Keiko） — 练「舞踏业余稽古」（Butoh Amateur Keiko）。
+- **费登奎斯方法**（Feldenkrais Method） — 练「费登奎斯方法」（Feldenkrais Method）。
+
+## 动手制作与电子
+
+- **LinuxCNC机床**（LinuxCNC Machine Control） — 用LinuxCNC控制机床，配置步进、刀路与加工参数
+- **Voron开源打印机**（Voron Open Source Printer） — 组装Voron开源打印机，调校运动系统、热端与固件
+- **家电塑料卡扣逆向打印补件**（Appliance Clip Reverseprint Spares） — 逆向测量家电卡扣，打印补件并测试装配强度
+- **眼镜框镜腿铰链打印补强**（Glasses Hinge Print Reinforcements） — 打印眼镜框铰链补强件，调整公差并测试开合
+- **桌面雕刻机刀具跳动测量**（Desktop CNC Runout Measuring） — 测量桌面雕刻机刀具跳动，校正夹具并改善加工纹理
+- **回收聚酯瓶拉丝线材社区**（rPET Filament Community Pulls） — 把回收聚酯瓶拉成线材，测试直径并用于打印
+- **陶瓷泥浆挤出机改装**（Ceramic Paste Extruder Mods） — 改装陶瓷泥浆挤出机，调喷嘴压力并测试打印层
+- **树脂打印后处理**（Resin Print Post-processing） — 清洗树脂打印件，处理支撑、固化、打磨与上色
+- **输入整形调振**（Input Shaper Ringing Tune） — 用输入整形降低3D打印振纹，测试加速度与共振频率
+- **PCB热转印腐蚀**（Toner Transfer PCB Etch） — 用热转印制作PCB图形，完成腐蚀、钻孔与焊接
+- **室内二氧化碳监控仪表盘自制**（Indoor CO2 Dashboard DIY） — 制作室内CO2仪表盘，校准传感器并显示通风状态
+- **吉他效果器踏板DIY**（Guitar Pedal DIY） — 焊接吉他效果器踏板，调试失真、延迟与旁路电路
+- **低功耗传感器固件调优**（ESP32 Lowpower Firmware Tuning） — 优化低功耗传感器固件，降低唤醒次数并测续航
+- **晶体收音机矿石机复原**（Crystal Radio Restoration） — 复原晶体矿石收音机，绕制线圈并比较检波效果
+- **真空管音频放大器绕制**（Tube Amp Coil Winding） — 绕制真空管音频放大器，测试变压器、偏置与声音
+- **磁芯存储器演示板焊接**（Core Memory Demo Board Solder） — 焊接磁芯存储器演示板，理解寻址并观察读写时序
+- **穿孔纸带接口复活**（Papertape CNC Interface Revival） — 复活穿孔纸带接口，读取旧式编码并连接现代设备
+- **复古街机板维修**（Arcade PCB Repair） — 排查复古街机板供电、信号与芯片，恢复游戏画面
+- **电吉他拾音器绕线**（Guitar Pickup Winding） — 绕制电吉他拾音器线圈，比较匝数、电阻与音色
+- **自建地震仪网络**（Home Seismograph Station Nets） — 布设地震传感器网络，校时采样并定位微震事件
+- **铷钟驯服基准**（Rubidium Frequency Standard） — 用铷钟驯服频率基准，比较相位噪声、GPS与长期稳定度
+- **开源机械键盘热插拔焊练**（Hotswap Keyboard Solder Drills） — 练开源机械键盘热插拔焊接，检查焊点并测试轴体
+- **磁轴霍尔键盘固件调参**（Halleffect Mag Keyboard Tuning） — 调试磁轴键盘固件，设定触发点并测试霍尔传感
+- **静电容键轴开油润滑社**（Topre Lube Clubs） — 拆洗静电容键轴并润滑，比较手感与回弹变化
+- **QMK固件定制**（QMK Firmware） — DIY「QMK固件定制」（QMK Firmware）。
+- **ZMK无线键盘固件**（ZMK Firmware） — DIY「ZMK无线键盘固件」（ZMK Firmware）。
+- **机械键盘轴体润滑**（Switch Lubing） — DIY「机械键盘轴体润滑」（Switch Lubing）。
+- **弹簧混响罐拾音器校准**（Spring Reverb Tank Calibration） — 校准弹簧混响拾音器，调整驱动并比较尾音长度
+- **磁带延迟机磁头对齐**（Tape Delay Head Alignment） — 校准磁带延迟机磁头，调整方位角并听延迟效果
+- **簧片风琴电磁铁重绕**（Reed Organ Magnet Rewinds） — 重绕簧片风琴电磁铁，恢复按键响应并测试音色
+- **模块电源纹波与音染相关听测**（PSU Ripple Timbre Listen Tests） — 听测模块电源纹波，比较音染并记录电路差异
+- **欧式模块电源纹波整治**（Eurorack PSU Ripple Fixes） — 治理欧式模块电源纹波，测量噪声并改善滤波
+- **触控电容键盘扫描矩阵自制**（Captouch Keyboard Scan DIY） — 制作电容触控键盘矩阵，扫描信号并处理抗干扰
+- **颗粒合成实时控制器焊接**（Granular Synth Controller Solder） — 焊接颗粒合成控制器，映射旋钮并调实时声音参数
+- **复古计算机节VCF**（Vintage Computer Festival） — 修复老电脑、整理硬件档案，在VCF活动中展示复古系统
+- **CWops摩尔斯操作与学院**（CWops CW Operating & Academy） — 参加CWops训练与通联，提升电码抄收和发报速度
+- **公园电源噪声猎杀**（Park Bench PSU Noise Hunts） — 猎测公园电源噪声，定位干扰源并改善QRP接收
+- **山峰低功率电池续航挑战**（Summit QRP Battery Challenges） — 参加山峰QRP挑战，压低功率并管理电池续航
+- **Parks On The Air**（POTA） — DIY「Parks On The Air」（POTA）。
+- **QRP Labs实验电台**（QRP Labs） — DIY「QRP Labs实验电台」（QRP Labs）。
+- **Summits On The Air**（SOTA） — DIY「Summits On The Air」（SOTA）。
+- **六米波段业余操作**（50 MHz Six Metre Amateur Operation） — 用六米波段收听远距信号，练天线调谐与通联礼仪
+- **业余卫星线性转发器追踪**（Amateur Sat Linear Transponder Track） — 追踪业余卫星转发器，计算过境并完成线性转发
+- **AMSAT业余卫星**（AMSAT Amateur Satellite） — 架设地面站追踪业余卫星，记录过境窗口并完成通联
+- **SSTV慢扫描电视**（Amateur SSTV） — DIY「SSTV慢扫描电视」（Amateur SSTV）。
+- **城堡业余电台启动WCA**（Castles On The Air (WCA)） — 寻找城堡台址架台通联，按WCA规则记录电波与地点
+- **双极天线家制阻抗匹配笔记**（Dipole Home Matching Notes） — 制作双极天线匹配笔记，测驻波并调整阻抗
+- **地网埋设土壤电导测量**（Radial Ground Conductivity Surveys） — 测量地网土壤电导，比较埋深并改善天线接地
+- **磁环环型天线阳台隐蔽架设**（Balcony Magloop Stealth Antennas） — 在阳台架设磁环天线，调谐频率并比较接收噪声
+- **IOTA岛上业余电台激活**（Islands On The Air） — 登岛架台做IOTA激活，报岛编号换QSL
+- **WWFF动植物保护区电台激活**（World Wide Flora & Fauna） — 在动植物保护区架台WWFF激活打卡
+- **FISTS摩尔斯电码保存**（FISTS Morse Code Preservation） — 用FISTS规则练摩尔斯通联，保存手键操作传统
+- **CW高时速拷贝**（High-speed CW Copy Practice） — 听辨摩尔斯电码，逐步提高CW抄收速度与准确率
+- **D-STAR数字语音中继**（D-STAR Digital Voice Repeaters） — 用D-STAR接入数字中继，练呼号、通联和网络设置
+- **弱信号数字模式日志竞赛**（FT8 Log Contests） — 参加弱信号数字模式竞赛，优化解码并整理日志
+- **本地闪电频次业余统计**（Local Lightning Frequency Stats） — 长期统计本地闪电频次，整理雷暴时段、位置与季节
+- **气象卫星图解码业余**（APT Weather Sat Decoding） — 解码气象卫星图，接收信号并整理云图与地面天气
+- **闪电定位接收机自建**（Blitzortungstyle DIY Receivers） — 自建闪电定位接收机，采集雷电脉冲并绘制落点
+- **澳大利亚电子管收音机修复**（Historical Radio Society of Australia） — 检测电子管、重绕元件并校准电路，修复老式收音机
+- **灯塔业余电台启动**（Amateur Radio Lighthouse Activating） — 架设便携电台，在灯塔地点完成呼号通联与日志记录
+- **BATC业余电视传输实践**（Amateur Television (BATC)） — 发收业余电视ATV信号，跟BATC技术圈
+- **BrandMeister数字中继网实践**（BrandMeister DMR Networking） — 挂BrandMeister数字中继，打DMR通话
+- **EME地月反射通信实践**（EME Moonbounce Communication） — 用月面反射回波做远距离通联，校准天线与时序
+- **KiwiSDR公开接收机网络**（KiwiSDR Public Receiver Network） — 远程连KiwiSDR公开接收机扫波段
+- **WSJT数字弱信号模式操作**（WSJT Weak-Signal Digital Modes） — 用WSJT软件打FT8等弱信号数字模式
+- **WSPR弱信号传播报告网**（WSPR Propagation Reporting） — 跑WSPR弱信号自动报告，看传播路径图
+- **业余卫星QO-100操作实践**（QO-100 Geostationary Amateur Satellite Ops） — 架设QO-100地面站，完成卫星上行、下行与通联
+- **反向信标网RBN听测**（Reverse Beacon Network Skimming） — 盯反向信标网RBN听测自己的CW信号
+- **直键CW世纪俱乐部实践**（Straight Key Century Club CW） — 用直键练CW报，冲SKCC世纪俱乐部点数
+- **英国业余高空气球HAB**（UKHAS High-Altitude Ballooning） — 组装高空气球载荷，跟踪遥测并回收探空数据
+- **英国微波业余电台实践**（UK Microwave Group Practice） — 玩英国微波段业余电台，调天线与功率
+- **高空气球载荷跟踪业余**（HAB Payload Tracking Hobby） — 跟踪高空气球载荷，接收遥测并记录飞行轨迹
+- **Meshtastic社区网状**（Meshtastic Mesh） — 用Meshtastic搭建低功耗网状节点，测试离线消息传输
+- **时间信号台DX**（Time-signal Station DXing） — 接收时间信号台短波，校时并比较传播条件与频偏
+- **晶体检波收音机DX**（Crystal-set DX Listening） — 自制晶体检波机收听远方电台，练天线与接地
+- **流星散射通信**（Meteor-scatter Amateur Comms） — 利用流星余迹短暂反射无线电，安排频段与通联窗口
+- **甚低频哨声监听**（VLF Natural Radio Whistlers） — 用VLF天线监听哨声，分析闪电、磁层和电离层信号
+- **二手示波器校准业余程序**（Scope Calibration Hobby Procedures） — 校准二手示波器，检查探头补偿并记录测量误差
+- **频谱仪探头自制校准负载**（Spectrum Probe Cal Loads） — 自制频谱仪探头校准负载，比较响应并记录误差
+- **吸尘器软管裂纹听漏**（Vac Hose Crack Leak Listening） — 听查吸尘器软管漏气，定位裂纹并修补密封
+- **洗衣机轴承异响听诊图谱**（Washer Bearing Noise Maps） — 听诊洗衣机轴承异响，比较转速并判断磨损位置
+- **缝纫机电机碳刷更换工坊**（Sewing Motor Brush Workshops） — 更换缝纫机电机碳刷，清洁换向器并测试转速
+- **阴极射线管监视器高压安全检修社**（CRT HV Safety Repair Clubs） — 安全检修CRT监视器，测高压并更换老化元件
+- **黑胶唱臂抗滑调整夜**（Tonearm Antiskate Nights） — 调整黑胶唱臂抗滑，测针压并聆听左右声道平衡
+- **旁轴测距联动手校**（Rangefinder Coupling Hand Cal） — 校准旁轴相机测距联动，调整无限远、黄斑与对焦精度
+- **胶片相机焦平面快门帘更换**（Film Shutter Curtain Replacements） — 更换胶片相机快门帘，调整焦平面并测试曝光
+- **石英表步进马达线圈重绕**（Quartz Stepper Coil Rewinds） — 重绕石英表步进马达线圈，测电阻并恢复走时
+- **尼克斯管时钟制作**（Nixie Tube Clock Building） — 焊接电路并排列数码管，制作尼克斯管时钟与高压驱动
+- **真空管音频DIY社**（Vacuum Tube Audio DIY） — 搭建真空管音频电路，调偏压并比较放大器音色
+- **电子刺绣与导电织物**（E-textiles Conductive Embroidery） — 把导电线缝入织物，制作可触发灯光或传感器的电子刺绣
+- **编织机程序打孔带复原**（Punched-card Knitting Machine Hacking） — 读取织机打孔带，打孔、拼接并复原旧式编织程序
+- **特斯拉线圈业余安全圈**（Tesla Coil Building Clubs） — 搭建特斯拉线圈并测量放电，重点练绝缘、接地与隔离
+- **静电起电机Wimshurst复原**（Wimshurst Machine Recreation） — 复原Wimshurst起电机，调校圆盘、梳状电极并观察放电
+
+## 动植物饲养与园艺
+
+- **兰花栽培（AOS 体系）**（Orchid Growing (AOS)） — 按AOS标准栽兰花，分株换盆与花期管理
+- **食虫植物栽培**（Carnivorous Plant Growing） — 种瓶子草捕蝇草，配酸性介质与高湿光照
+- **原生植物园艺**（Native Plant Gardening） — 种本地原生植物，做生态草坪替代与野花带
+- **盆景造型与展评**（Bonsai Practice & Exhibitions） — 盘扎修剪盆景，备展评造型与盆土搭配
+- **种子保存与交换**（Seed Saving & Swaps） — 养「种子保存与交换」（Seed Saving & Swaps）。
+- **美国州级fair园艺竞赛**（State Fair Horticulture Contests） — 培育蔬果花卉参加州级fair，记录品种、形态与评分
+- **修枝锯齿距清理刷自制**（Pruning Saw Gullet Brush DIY） — 制作修枝锯清理刷，匹配齿距、刷毛硬度与握柄
+- **刃具钢材热处理基础业余**（Blade Heattreat Basics Hobby） — 热处理刃具钢，控制淬火回火并观察硬度变化
+- **刃口倒影摄影微距社**（Edge Reflection Macro Clubs） — 微距拍刃口倒影，观察卷刃、缺口与研磨纹方向
+- **刃口角度与切削效率田间测**（Edge Angle Field Cutting Efficiency） — 在田间比较刃口角度，记录切削阻力、速度与植物状态
+- **园艺剪弹簧更换润滑夜**（Garden Shear Spring Lube Nights） — 更换并润滑园艺剪弹簧，测试回弹、夹持与剪切手感
+- **溪流缸 / 河川缸**（River Aquarium / Stream Tank） — 做溪流缸模拟急流，摆沉木卵石养冷水鱼
+- **IAPLC 国际水草造景大赛**（IAPLC Aquascaping Contest） — 为IAPLC水草赛布景拍摄，冲排名与评审标准
+- **水晶虾 / 蜜蜂虾饲育**（Crystal Red / Bee Shrimp Keeping） — 养水晶虾蜜蜂虾，控GH值与观察morph繁殖
+- **海水礁岩生态缸**（Reef Aquarium Keeping） — 搭海水礁岩缸，养硬软珊瑚与控硝酸盐
+- **锦鲤饲育与品评**（Koi Keeping & Showing） — 养锦鲤观体态色斑，备品评与过滤池塘
+- **七彩神仙鱼品评**（Discus Showing Circles） — 按体型、花纹、鳍形和状态评比七彩神仙鱼
+- **金鱼兰寿品评**（Ranchu Goldfish Showing） — 观察兰寿的背部曲线、头瘤和游姿，练品评标准
+- **ADA自然水族造景**（Nature Aquarium ADA） — 按ADA自然美学排布水草岩石，追求无人工感的水下景观
+- **Iwagumi岩景**（Iwagumi Aquascape） — 养「Iwagumi岩景」（Iwagumi Aquascape）。
+- **荷兰式水族造景**（Dutch Aquascaping） — 养「荷兰式水族造景」（Dutch Aquascaping）。
+- **锦鲤品评会季节评审**（Koi Show Seasonal Judging Circuit） — 学习锦鲤品评标准，比较体型、色彩与斑纹表现
+- **豚鼠展评ACBA**（ACBA Cavy Showing） — 养「豚鼠展评ACBA」（ACBA Cavy Showing）。
+- **金丝雀歌唱赛**（Canary Song Contests） — 养「金丝雀歌唱赛」（Canary Song Contests）。
+- **猫展评协会周末展**（Cat Fancy Weekend Championship Show） — 参加猫展评审流程，比较品种标准、步态与护理
+- **信鸽竞翔**（Pigeon Racing） — 养「信鸽竞翔」（Pigeon Racing）。
+- **家兔展评（ARBA）**（Rabbit Showing (ARBA)） — 按ARBA标准养展兔，梳毛称重上裁判桌
+- **县集市家禽展评**（County-fair Poultry Showing） — 饲养家禽参加县集市评审，整理品种、羽色与体态
+- **无刺蜂蜜罐**（Stingless-bee Pot-honey Keeping） — 照料无刺蜂群，取少量蜂蜜并观察蜂箱生态
+- **鹌鹑庭院饲养**（Quail Keeping） — 养「鹌鹑庭院饲养」（Quail Keeping）。
+- **木兰协会**（Magnolia Society International） — 栽培木兰属植物，记录花期并交流品种养护
+- **杜鹃酸性土社**（Rhododendron Acid-soil Societies） — 给杜鹃配酸性土，调整浇水、遮阴与根系环境
+- **睡莲缸深水栽培**（Waterlily Deep-tub Culture） — 在缸中种睡莲，控制水深、光照和叶片生长
+- **茶花品种登录**（Camellia Cultivar Registration Circles） — 按花色、花型和来源记录茶花品种，维护登录表
+- **中国盆景Penjing**（Chinese penjing） — 养「中国盆景Penjing」（Chinese penjing）。
+- **社区农园周末共作日**（Community Garden Weekend Workday） — 参与社区农园共作，规划菜畦、播种并轮值养护
+- **种子交换会季节集市**（Community Seed Swap Seasonal Fair） — 交换本地种子，记录发芽率并按季节规划播种
+- **草月流花道业余**（Sogetsu Ikebana Amateur） — 按草月流理念插花，探索线条、空间与当季枝材
+- **苔玉球制作社**（Kokedama Ball-making Circles） — 把苔藓包在土球外，做成可悬挂的苔玉盆景
+- **拓扑修剪Topiary**（Topiary Sculpture Clipping） — 剪枝塑造动物或几何树冠，练Topiary比例与养护
+- **树艺造形Espalier**（Espalier Fruit-tree Training） — 牵引枝条沿架生长，修剪Espalier果树并规划层次
+- **迷宫树篱设计**（Hedge-maze Design Hobby） — 用树篱规划通道与死胡同，测试迷宫尺度、修剪和游线
+- **两栖生态缸（蝾螈等）**（Amphibian Vivaria (Caudata)） — 养蝾螈等两栖，做陆水过渡生态缸保湿
+- **养蚁（Formiculture）**（Antkeeping / Formiculture） — 养蚁群建巢管，观察分工与扩巢取食
+- **潮虫 / 鼠妇饲育**（Isopod Keeping） — 养「潮虫 / 鼠妇饲育」（Isopod Keeping）。
+- **竹节虫饲育**（Stick Insect Keeping） — 养「竹节虫饲育」（Stick Insect Keeping）。
+- **豹纹守宫 Morph 繁育圈**（Leopard Gecko Morph Breeding） — 繁育豹纹守宫morph，配对基因与孵化记录
+- **家蚕小簇上簇**（Home Silkworm Cocooning Circles） — 观察家蚕结茧，把熟蚕引到簇具并记录羽化
+
+## 口传与行会技艺
+
+- **侗族大歌村寨合唱**（Kam Grand Song Choir） — 练唱侗族大歌，配合多声部和村寨合唱音色
+- **保加利亚女声开放喉合唱**（Bulgarian Open-throat Women Choir Hobby） — 用开放喉唱法演唱保加利亚民歌，练共鸣与多声部
+- **南音郎君祭**（Nanyin Langjun Ritual） — 研习南音郎君祭的仪式唱段、乐器与传承脉络
+- **保加利亚不等分拍合唱**（Bulgarian Unevenmeter Chorus） — 演唱保加利亚合唱，练不等分拍、装饰音与声部咬合
+- **撒丁岛四声合唱社**（Sardinian Tenores Singing） — 练撒丁岛四声合唱，分辨声部、喉音与和声层次
+- **格鲁吉亚桌宴合唱礼仪**（Georgian Supra Table Song） — 学格鲁吉亚桌宴合唱，练多声部和声与敬酒礼序
+- **立陶宛多声部民歌社**（Lithuanian Sutartines） — 合唱立陶宛多声部民歌，练平行声部与地方曲调
+- **阿尔巴尼亚持续音复调合唱**（Albanian Iso Polyphony） — 练阿尔巴尼亚持续音复调，协调声部、音准与呼吸
+- **巴厘 Kecak 人声节奏合唱**（Balinese Kecak Chorus Practice） — 以Kecak人声节奏合唱，练呼喊层次、循环节拍与队形
+- **弗拉门戈Peña清唱**（Flamenco Pena Cante） — 在Peña清唱弗拉门戈，练节奏、即兴与呼应
+- **中亚冬不拉弹唱社**（Dombra Song Circles） — 弹唱中亚冬不拉曲目，练拨弦、节奏与民歌伴奏
+- **印度西塔琴师徒游学**（Sitar Gharana Apprentice Travel） — 随师学习印度西塔琴，练拉弦、旋律框架与即兴
+- **哈萨克阔布兹弓弦业余班**（Kazakh Kobyz Bow Classes） — 拉奏哈萨克阔布兹，练弓法、共鸣与史诗伴奏
+- **新疆热瓦普弹唱社**（Uyghur Rawap Song Clubs） — 弹唱新疆热瓦普曲目，练拨弦、节拍与民歌唱腔
+- **朝鲜伽倻琴散调业余班**（Gayageum Sanjo Classes） — 练伽倻琴散调，掌握调弦、装饰音与即兴段落
+- **越南独弦琴业余传习**（Vietnamese Dan Bau Study） — 学越南独弦琴，练推弦、泛音与旋律滑音
+- **马头琴潮尔业余传习**（Morin Khuur Khoomii Hobby） — 练马头琴潮尔，拉奏持续低音并学习长调伴奏
+- **格鲁吉亚复调合唱村社**（Georgian Polyphonic Village Choirs） — 练格鲁吉亚复调合唱，配合持续音、声部与传统曲目
+- **科西嘉多声部Paghjella**（Corsican Paghjella Polyphony Circles） — 练科西嘉Paghjella多声部，掌握声部进入与共鸣平衡
+- **纳西古乐传习**（Naxi Ancient Music） — 跟师传习纳西古乐，练曲牌、谱式与合奏音色
+- **阿塞拜疆木卡姆**（Azerbaijani Mugham） — 聆听并演唱阿塞拜疆木卡姆，理解套曲与即兴段落
+- **巴厘面具舞业余班**（Balinese Topeng Classes） — 练巴厘面具舞，揣摩眼神、手势与面具角色
+- **朝鲜凤山脱舞传习**（Bongsan Talchum Practice） — 传习凤山脱舞，练面具身段、讽刺角色与舞步
+- **贵州地戏面具彩绘班**（Guizhou Dixi Mask Painting） — 彩绘贵州地戏面具，处理底色、纹样与角色辨识
+- **加纳阿赞特鼓语班**（Akan Drum Language Classes） — 用阿赞特鼓语传递节奏，练音高、句型与对话回应
+- **威风锣鼓队列变换编舞**（Weifeng Gongdrum Formations） — 编威风锣鼓队列，设计鼓点、走位与队形变换
+- **日本和太鼓组曲编排社**（Wadaiko Ensemble Arranging） — 编排和太鼓组曲，安排鼓点、换位与群体收束
+- **朝鲜农乐长鼓节奏传习**（Nongak Janggu Rhythm Study） — 练朝鲜农乐长鼓，掌握双手击法、变拍与队形
+- **伊斯兰书法Ijaza传习**（Islamic Calligraphy Ijaza Lineages） — 跟师传习伊斯兰书法Ijaza，练字帖、笔法与授证规矩
+- **东巴象形文书写研习**（Dongba Pictograph Writing） — 书写东巴象形文，临摹字形并研究图像构意
+- **多文种笔顺对比研习夜**（Multiscript Stroke Order Nights） — 比较多文种笔顺，临写字形并整理书写差异
+- **契丹小字摹写兴趣研**（Khitan Small Script Copy Hobby） — 摹写契丹小字，辨认字形并对照碑刻资料
+- **希伯来婚书书法业余绘制**（Hebrew Ketubah Lettering Hobby） — 绘制希伯来婚书，练文字布局、装饰边框与手写
+- **藏文乌金体写经业余班**（Tibetan Uchen Script Classes） — 练藏文乌金体写经，控制笔锋并临写经文版式
+- **西夏文字形摹写研习**（Tangut Glyph Copy Study） — 摹写西夏文字形，比较部件结构并整理字表
+- **书籍装订行会Designer Bookbinders**（Designer Bookbinders） — 练习精装书籍的折页、装帧与皮革封面制作
+- **中国评书鼓书票友社**（Chinese Pingshu & Drum-song Ticket Clubs） — 练中国评书鼓书，掌握醒木、鼓点与长篇叙事
+- **傣族章哈唱诗**（Dai Zhangha Bard） — 学唱傣族章哈诗歌，掌握旋律、方言与即兴叙事
+- **乌兹别克达斯坦叙事唱**（Uzbek Dastan Narrative Song） — 演唱乌兹别克达斯坦，练长篇叙事、旋律与节拍
+- **冰岛萨迦朗读夜**（Icelandic Saga Reading Nights） — 朗读冰岛萨迦，讨论人物谱系、叙事节奏与异文
+- **哈萨克阿肯对唱业余**（Kazakh Aytys Amateur Duels） — 练哈萨克阿肯对唱，按韵脚即兴应答并配冬不拉
+- **土耳其说书复原社**（Turkish Meddah Revival） — 复原土耳其说书表演，练声音模仿、手势与故事铺陈
+- **日本讲谈落语业余研习**（Japanese Kodan Rakugo Hobby） — 研习讲谈与落语，练定场、角色转换和收束笑点
+- **柯尔克孜成人玛纳斯班**（Adult Manaschi Classes） — 学唱玛纳斯史诗，背诵段落并练传统吟诵节奏
+- **波斯叙事表演业余**（Persian Naqqali Amateur） — 练波斯叙事表演，组织诗句、手势与乐器伴奏
+- **芬兰卡勒瓦拉朗诵社**（Kalevala Recitation Circles） — 朗诵《卡勒瓦拉》，练吟诵节拍、重音与长篇记忆
+- **芬兰卡累利阿哭丧歌研唱**（Karelian Lament Singing Study） — 研唱卡累利阿哭丧歌，练平行旋律、拖腔与仪式语境
+- **蒙古乌力格尔说书业余**（Mongolian Uliger Storytelling） — 学说蒙古乌力格尔，练叙事唱腔、马头琴与段落衔接
+- **越南室内歌传习班**（Vietnamese Ca Tru Practice） — 传习越南室内歌，练装饰音、气口与传统曲调
+- **南音指谱工尺谱识读班**（Nanyin Gongche Score Literacy） — 识读南音指谱工尺谱，练谱字、拍眼与唱奏对应
+- **格里高利圣咏业余唱经团**（Gregorian Chant Scholas） — 参加业余圣咏团，练格里高利圣咏旋律、调式与合唱
+- **藏传诵经节奏记谱业余**（Tibetan Chant Rhythm Notation） — 记录藏传诵经节奏，学习拍点、循环与口传记谱
+- **侗族大歌多声部传习班**（Dong Grand Song Classes） — 参加侗族大歌传习，分辨声部并练村寨合唱配合
+- **四川清音坐唱业余社**（Sichuan Qingyin Sitsing Clubs） — 坐唱四川清音，练琵琶伴奏、唱腔转折与方言吐字
+- **天津快板合辙押韵练习社**（Tianjin Clapper Rhyme Clubs） — 练天津快板合辙押韵，修改字口、节拍与过门衔接
+- **客家山歌即兴对歌夜**（Hakka Mountain Song Dual Nights） — 在客家山歌对歌夜即兴应答，练方言押韵与旋律
+- **山东快书竹板节奏训练**（Shandong Clapper Rhythm Drills） — 用竹板练山东快书节奏，掌握板式、停顿与说唱
+- **方言拟声词创意辞典共创**（Dialect Onomatopeia Lexicon Cocreate） — 共建方言拟声词辞典，采集语音、释义与地方用例
+- **河洛大鼓书词背诵社**（Heluo Drumbook Recitation） — 背诵河洛大鼓书词，练唱腔、板鼓节奏与故事推进
+- **苏州评弹开篇学唱社**（Suzhou Pingtan Aria Clubs） — 学唱苏州评弹开篇，练声腔、吐字与三弦过门
+- **陕北说书三弦伴奏业余**（Shaanbei Storytelling Sanxian） — 用三弦伴奏陕北说书，配合唱腔、板式与叙事停连
+- **夏威夷奥利颂诗业余班**（Hawaiian Oli Chant Classes） — 学习夏威夷奥利颂诗，练发音、呼吸与仪式化吟诵
+- **彝族克智口头论辩**（Yi Kezhi Oral Debate） — 以彝族克智展开口头论辩，练押韵、反应与叙事
+- **意第绪讲古Tisch聚会**（Yiddish Tisch Story Gatherings） — 参加意第绪Tisch讲古，听故事并练方言叙事
+- **日本讲谈落语业余寄席**（Japanese Kōdan & Rakugo Amateur Yose） — 在寄席练讲谈与落语，掌握定场、口白和节奏停顿
+- **朝鲜盘索里清唱社**（Korean Pansori Amateur Circles） — 跟唱朝鲜盘索里，练长篇叙事、声腔与鼓手配合
+- **毛利Whaikōrero演说研习**（Māori Whaikōrero Oratory Practice） — 练毛利Whaikōrero演说，掌握结构、称谓与现场表达
+- **潮州歌册唱念**（Teochew Songbook Chant） — 依歌册唱念潮州故事，练腔口、节拍与方言吐字
+- **爱尔兰Seanachaí讲古会**（Irish Seanachaí Story Circles） — 听Seanachaí讲古，练习爱尔兰故事的节奏、方言与记忆
+- **琼斯伯勒全国讲故事节听讲**（National Storytelling Festival） — 在琼斯伯勒讲故事节听讲，分析结构、方言与讲法
+- **美国全国讲故事网络年会**（National Storytelling Network） — 参加全国讲故事网络年会，听演讲并练现场叙事
+- **苏州评弹票房**（Suzhou Pingtan Tearoom） — 排练苏州评弹票房曲目，练说表、弹唱与过门
+- **藏族折嘎说唱业余**（Tibetan Zhé-ga Comic Oratory Hobby） — 演唱藏族折嘎说唱，背诵段落并练节奏与即兴
+- **西非Griot史诗鼓语传习**（West African Griot Drum-speech Apprenticeship） — 用Griot鼓语传递史诗段落，练节奏、呼应与口传记忆
+- **吉尔吉斯玛纳斯说唱**（Manaschi Epic Reciters） — 学唱玛纳斯史诗，背诵段落并练传统吟诵节奏
+- **突厥江格尔说唱**（Jangar Epic Recitation） — 学习江格尔史诗说唱，练叙事段落与传统唱腔
+- **芬兰卡勒瓦拉吟唱会**（Kalevala Rune-singing Circles） — 吟唱卡勒瓦拉史诗段落，练固定旋律与口传节奏
+- **格萨尔说唱业余**（Gesar Epic Recitation Amateur） — 学唱格萨尔史诗，背诵唱本并练习说唱节奏
+- **江永女书传习**（Nüshu Script Transmission Circles） — 研习江永女书字形，临写文本并传习歌谣
+- **德奥Gesellenwanderung漫游满师**（German Journeyman Wanderjahre） — 体验德奥满师漫游，按传统路线学习工艺与行会礼俗
+- **宫大工业余研习会**（Miyadaiku Temple-carpenter Study） — 跟师研习宫大工，练木构榫卯、放样与传统工具
+- **木构Timber Framers Guild**（Timber Framers Guild） — 按木构行会方法放样、开榫并搭建传统框架
+- **林间车旋Bodging**（Bodging Pole-lathe Turning） — 在林间用杆车旋木，练Bodging刀具、车削与木材选用
+- **伴侣匠会旅居学艺**（Compagnons du Devoir Tour Apprenticeship） — 跟随旅匠传统跨城学艺，练手作技能并记录师徒与行旅经验
+- **同行公会史文献研读会**（Guild History Document Seminars） — 研读同行公会史，比较行会制度与工匠旅路线
+- **德语区现代漫游工匠**（German Wandergeselle Travel） — 了解德语区漫游工匠，记录工种路线与现代行会生活
+- **法国同行公会工种年志**（French Compagnonnage Yearlog） — 整理法国同行公会工种年志，比较工匠传统与流动
+- **穆拉诺玻璃maestro传习**（Murano Glass Maestro Lineages） — 跟随maestro学习穆拉诺玻璃热塑、吹制与配色
+- **能乐观世流业余仕舞**（Kanze-ryu Noh Amateur Shimai） — 跟师练观世流仕舞，揣摩型、擦步与能乐节拍
+- **中国景泰蓝掐丝业余工坊**（Chinese Cloisonné Wire Workshop Hobby） — 在铜胎上掐丝填釉，烧制景泰蓝并打磨镀饰
+- **京都和伞竹骨装配业余**（Kyoto Wagasa Rib Fitting） — 装配京都和伞竹骨，练削制、编线与开合平衡
+- **印度细木镶嵌Sadeli业余**（Indian Sadeli Micro-mosaic Hobby） — 用Sadeli技法切配木片，制作细木镶嵌图案并抛光
+- **奥斯曼纸上泥金彩绘**（Ottoman Tezhip Illumination Circles） — 在纸上施泥金与彩绘，研究奥斯曼纹样和装饰边框
+- **摩洛哥Zellige瓷片切割学徒**（Moroccan Zellige Tile-cutting Apprenticeship） — 切割Zellige瓷片，配色拼花并练传统几何镶嵌
+- **日本左官土壁涂抹研习**（Japanese Sakan Plaster Workshop Circles） — 学习日本左官土壁，调泥灰、上墙并做抹平收面
+- **日本金箔贴箔研习**（Japanese Kanazawa Gold-leaf Application） — 贴日本金箔装饰器物，练和纸托金、压箔与修边
+- **中式刨刃研磨角度传习**（Chinese Plane Iron Bevel Study） — 研磨中式刨刃，练刃角、平面与试刨反馈
+- **徽派砖雕拓片保护性拓印**（Huizhou Brick Rubbing Care） — 为徽派砖雕做保护性拓印，控制纸张、墨色与压力
+- **日本宫大工工具研习旅行**（Miyadaiku Tool Study Tours） — 走访日本宫大工工坊，观察工具、榫卯与现场放样
+- **英国温莎椅业余班**（Windsor Chair Amateur Classes） — 制作英国温莎椅，练弯木、椅座塑形与榫接
+- **鲁班锁传统榫卯拆装赛**（Luban Lock Joinery Contests） — 拆装鲁班锁，辨认榫卯顺序并比拼复原时间
+- **波斯细密画工笔研习班**（Persian Miniature Painting Ateliers） — 临摹波斯细密画，练矿物颜料、线描与微型构图
+- **威尼斯玻璃珠灯工业余**（Venetian Lampwork Bead Hobby） — 制作威尼斯玻璃珠灯，练火焰塑形、穿珠与灯饰排列
+- **波西米亚切割水晶研习**（Bohemian Cut Crystal Study） — 研习波西米亚切割水晶，练切面、抛光与光线判断
+- **畳表缝边研习**（Tatami Omote Binding） — 学习畳表收边，用缝线固定草席边缘与包角
+- **英式马具缝线传统班**（English Bridle Stitch Classes） — 学习英式马具缝线，练针距、收口与受力部位加固
+- **鞍具匠马鞍树装配业余**（Saddletree Fitting Hobby） — 装配鞍具马鞍树，调整尺寸并检查受力与贴合
+- **马具铜件抛光修复社**（Harness Brass Polishing Repair） — 抛光修复马具铜件，去除氧化并保留使用痕迹
+- **石匠干垒认证周末班**（Dry-stone Waller Certification Weekends） — 练干垒石墙的选石、错缝与稳固收口，准备认证考核
+- **哈尼族梯田纹样织带**（Hani Terrace Motif Belts） — 织哈尼族梯田纹样带，安排经纬并记录图案结构
+- **天然染料化学基础班**（Natural Dye Chemistry Basics） — 学习天然染料化学，比较媒染剂并记录色牢度
+- **安第斯背带织机传习**（Andean Backstrap Loom Study） — 学用安第斯背带织机，调经线张力并织传统图案
+- **日本蓝染发酵缸养护**（Aizome Indigo Vat Care） — 养护日本蓝染发酵缸，控制温度并观察染液状态
+- **苏格兰高地呢格纹登记研究**（Tartan Sett Registry Study） — 登记苏格兰高地呢格纹，比较色号并核对织物来源
+- **西非窄条织传习**（Kente Strip Weaving Study） — 练西非窄条织，配色、接条并控制织带边缘
+- **中国结盘长结结构拆解赛**（Panchang Knot Dissection Contests） — 拆解盘长结结构，辨认走线、对称关系并限时复原
+- **日本水引结纳结传习**（Mizuhiki Ceremonial Knotting） — 练日本水引结纳结，掌握结型、配色与礼品装饰
+- **水手索具花式结实用赛**（Decorative Marlinspike Contests） — 比拼水手索具花式结，测试受力、解结与实用速度
+- **英国茅草屋顶Thatching学徒周末**（English Thatching Apprentice Weekends） — 跟师学习Thatching茅草屋顶，处理草束、坡度与收边
+- **荷兰木鞋车旋工坊**（Dutch Klomp Turning Workshops） — 在车旋工坊制作荷兰木鞋，修坯、挖空并打磨定型
+- **轮岛地粉下地**（Wajima Jifun Undercoat） — 用轮岛地粉铺漆器底层，练调泥、涂布与干燥控制
+- **和纸流浆手工抄纸班**（Washi Nagashizuki Classes） — 学习和纸流浆抄纸，控制纤维分布并成形干燥
+- **宣纸帘纹辨识收藏辅助**（Xuan Paper Laidline ID） — 辨识宣纸帘纹，比较竹帘印记并辅助纸品收藏
+- **尼泊尔树皮纸传统制浆**（Lokta Paper Pulping） — 用树皮制尼泊尔纸，处理纤维并测试抄纸成形
+- **景泰蓝掐丝填釉业余班**（Cloisonne Filigree Enamel Classes） — 制作景泰蓝，练掐丝定位、填釉与烧制平整度
+- **欧洲盔甲片甲铆接业余**（European Lamellar Riveting Hobby） — 铆接欧洲盔甲片甲，练放样、打孔与活动关节
+- **苗银錾花锤纹练习板**（Miao Silver Chasing Practice Boards） — 在练习板上錾刻苗银花纹，控制锤击、深浅与纹样节奏
+- **日本登窑薪烧值班社**（Noborigama Woodfire Watches） — 轮值日本登窑薪烧，控制柴火、温度与窑内气氛
+- **景德镇青花分水技法业余**（Jingdezhen Blue Wash Hobby） — 练景德镇青花分水，控制浓淡并绘制釉下纹样
+- **法兰德斯钟琴行会**（Flemish Carillon Guild Practice） — 学习钟琴曲谱与敲击技法，参与法兰德斯钟琴行会合奏
+
+## 嗅觉与气味实践
+
+- **冷浸Enfleurage取香**（Enfleurage Cold Fat Extraction） — 用油脂冷浸花材提取香气，再过滤保存浸膏
+- **印度线香Agarbatti自制**（Agarbatti Stick Making Amateur） — 自制印度线香，调配香粉、黏结剂并测试燃烧
+- **古埃及Kyphi香方复原**（Kyphi Historical Incense Recreation） — 按史料复原古埃及Kyphi香方，研磨配料并熟化
+- **依兰依兰花精油蒸馏**（Ylang-Ylang Distillation Hobby） — 蒸馏依兰依兰精油，控制温度并辨识花香层次
+- **安息香树脂熏香研磨**（Benzoin Resin Incense Grinding） — 研磨安息香树脂，调制熏香并观察烟气与甜香变化
+- **桦树皮焦油传统制取**（Birch Tar Traditional Making） — 低氧加热桦树皮制焦油，观察烟气、产率与颜色
+- **沉香沉水级密度测量业余**（Aloeswood Sink Density Hobby） — 测沉香样品密度，比较含油、吸水与沉浮表现
+- **柑橘冷压精油手作**（Citrus Cold-Press Essential Oil Craft） — 冷压柑橘果皮收集精油，过滤并比较香气新鲜度
+- **柚子皮烘干香囊拼配**（Yuzu Peel Sachet Blending） — 烘干柚子皮制作香囊，搭配木片并记录干燥程度
+- **乳香Boswellia家庭熏研**（Frankincense Home Study） — 熏闻乳香Boswellia，比较树脂等级、加热方式与香气变化
+- **没药Commiphora研磨合香**（Myrrh Grinding Blends） — 研磨没药Commiphora配香，记录颗粒、比例与烟气层次
+- **秘鲁香脂酊剂自制**（Peru Balsam Tincture DIY） — 浸提秘鲁香脂酊剂，观察溶解、颜色与熟成气味
+- **苏合香Storax冷浸复原**（Storax Cold Maceration） — 冷浸苏合香Storax，记录溶剂、时间与树脂香调
+- **树苔橡苔酊自制**（Oakmoss Absolute Tincturing） — 浸提树苔橡苔原料，调配酊剂并记录木质苔藓气息
+- **格拉斯茉莉夜采**（Grasse Jasmine Night Harvest） — 夜采格拉斯茉莉，按花期处理并记录香气品质
+- **依兰花馏分分层笔记**（Ylang Fraction Notes） — 分段收集依兰花馏分，记录香气转折、密度与留香
+- **大马士革玫瑰水蒸馏业余**（Damascus Rose Hydrosol Distilling） — 蒸馏大马士革玫瑰水，比较花量、蒸汽时间与香气
+- **尤加利叶土制精油蒸馏**（Eucalyptus Leaf Still DIY） — 用简易蒸馏装置提取尤加利叶精油，记录出油率与气味
+- **茉莉小花筐层叠取香**（Jasmine Basket Enfleurage） — 用小花筐层叠茉莉取香，比较花期、换花频率与香气
+- **可可感官杯测圈**（Cacao Sensory Cupping Circles） — 杯测可可香气与风味，记录产地、发酵和烘焙差异
+- **固态香膏配制**（Solid Perfume Formulation） — 熔化蜡脂调入香材，制作便携固态香膏并测试留香
+- **植物酊剂Tincture调香**（Botanical Tincture Perfumery） — 浸提植物酊剂并调配香气，比较溶剂与熟化变化
+- **桂花开放日嗅觉物候**（Osmanthus Bloom Phenology） — 追踪桂花开放日，记录花期、时段与香气强弱
+- **梅开香气年历连续记录**（Plumblossom Scent Almanac） — 连续记录梅花开放与香气，制作月份、天气和强度年历
+- **台湾沉香棋楠品鉴社**（Taiwanese Kyara Circles） — 品鉴台湾沉香与棋楠，比较产区、油脂纹理与香气
+- **日本香道组香竞技业余**（Japanese Kumiko Contests） — 参加日本香道组香，辨认香材并按规则记录答案
+- **韩国传统合香丸研习**（Korean Hyanghwan Craft） — 研习韩国传统合香丸，配伍香材、制丸并观察燃香
+- **香席坐席礼仪传习夜**（Kodo Seating Etiquette Nights） — 传习香席坐席礼仪，练入席、传香、闻香与退席次序
+- **中国线香拼配手作**（Chinese Stick Incense Blending） — 碾香粉、配黏结剂并手工挤制中国线香，测试燃烧
+- **南印度檀香膏节日点额工作坊**（South Indian Chandan Festival Workshops） — 制作南印度檀香膏，练研磨、调膏与节日点额礼仪
+- **阿育吠陀草药烟自制**（Ayurvedic Dhoop DIY） — 配制阿育吠陀草药烟，辨认原料并控制通风与燃烧量
+- **印度Attar真露油研习**（Indian Attar Distillate Study） — 研习印度Attar真露油，闻辨蒸馏基底与花材层次
+- **埃及茉莉花环夜市熏习**（Egyptian Jasmine Garland Night Markets） — 参加茉莉花环夜市熏习，制作花环并学习埃及香事
+- **御家流闻木稽古**（Oie-ryu Monkoh Keiko） — 依御家流稽古闻木，练香木辨识、执香具与礼法
+- **志野流组香会**（Shino-ryu Kumiko Gathering） — 参加志野流组香，按香木组合辨香并记录席次流程
+- **日本练香炼香丸制作**（Japanese Nerikō Kneaded Incense） — 研磨香材制作日本炼香丸，调配丸药并记录熟化气息
+- **波斯玫瑰水蒸馏日**（Persian Rosewater Distilling Days） — 蒸馏波斯玫瑰水，控制花材比例并记录香气变化
+- **芽庄棋楠品香**（Nha Trang Ky Nam Agarwood） — 品鉴芽庄棋楠，比较香气层次并记录燃香表现
+- **也门乌德木集会熏香业余**（Yemeni Oud Majlis Hobby） — 熏闻也门乌德木，比较木质、烟气与加热温度
+- **埃及多成分古香方复原**（Egyptian Kyphi Reconstruction） — 按史料复原埃及古香方，研磨配料并记录熟化变化
+- **摩洛哥复合香料拼配业余**（Moroccan Spice Blend Hobby） — 拼配摩洛哥复合香料，调整辛香、木香与干燥花材比例
+- **西藏煨桑草药烟祭业余**（Tibetan Sang Smoke Offering Hobby） — 准备草药与木屑进行煨桑，了解烟祭流程与安全礼仪
+- **阿拉伯乌德木熏香Majlis**（Oud Bakhoor Majlis Circles） — 在Majlis文化语境中熏乌德木，比较木质烟香与礼序
+- **香篆填模燃线**（Incense Seal Filling） — 填香篆、铺香粉并燃线，练习篆香图样与燃烧控制
+- **闻香Monkoh茶会式**（Monkoh Incense Appreciation） — 按Monkoh茶会式闻香，练香木辨识、传递与记谱
+- **铜甁蒸馏花精业余**（Alembic Floral Distillation Hobby） — 用铜甁蒸馏花材，收集花精并记录香气层次
+- **城市巷弄气味俳句集会**（Alley Smell Haiku Gatherings） — 把城市巷弄气味写成俳句，练季节感与短句取舍
+- **气味记忆自传写作坊**（Smell Memoir Workshops） — 以气味为线索写记忆自传，练场景细节与感官叙述
+- **气味电影同步装置改装**（Scentcinema Device DIY） — 改装气味电影同步装置，校准时间码、释放量与观影节奏
+- **雨后土腥速写**（After-rain Earthy Smell Sketch） — 在雨后采集土腥气味，写下湿土、植物与空气变化
+- **AKC气味工作赛训圈**（AKC Scent Work Trial Circles） — 用嗅闻盒训练犬只找味，按AKC项目记录搜索与报点
+- **茶叶审评嗅香杯评**（Tea Cupping Aroma Evaluation） — 用嗅香杯审评茶叶，比较干香、湿香与滋味
+- **Le Nez du Vin式通用香料瓶训练**（Generic Aroma-kit Blind Smelling Drills） — 用Le Nez du Vin香料瓶辨识葡萄酒气味并做盲测记录
+- **咖啡香气瓶盲测训练**（Cafe Aroma Kit Blind Drills） — 盲闻咖啡香气瓶，辨认烘焙、果香与缺陷样本
+- **威士忌风味轮盲测社**（Whisky Flavour Wheel Clubs） — 盲测威士忌并填写风味轮，比较泥煤、木桶与果香
+- **葡萄酒缺陷塞味专项盲测**（Wine Cork Taint Blind Drills） — 盲测葡萄酒塞味缺陷，区分软木味、氧化与挥发酸
+- **香气描述词标准化训练**（Aroma Descriptor Standardization） — 统一香气描述词用法，练样品盲闻、复述与评分校准
+- **嗅觉再训练**（Olfactory Smell Training） — 用气味样本和辨识练习恢复嗅觉敏感度
+- **泥煤威士忌酚嗅**（Peated Whisky Phenol Nosing） — 闻泥煤威士忌香气，区分酚味、烟熏与熟成层次
+- **固定路线气味变化月志**（Fixedroute Smell Monthlies） — 每月走同一路线记录气味，比较天气、店铺与施工变化
+- **地铁站台气味地图标注**（Subway Smell Mapping） — 标注地铁站台气味，记录时段、通风和人流变化
+- **雨后石油沥青气味速记**（Petrichor Asphalt Notes） — 速记雨后沥青气味，比较路面、湿度与风向差异
+- **雪松木屋陈香**（Cedar Cabin Aging Nosing） — 闻雪松木屋陈香，比较木材、烟熏与时间形成的气息
+- **胡椒科气味家族归类**（Piperaceae Family Sorting） — 归类胡椒科植物气味，比较果香、辛香与樟脑调
+- **锡兰肉桂卡西亚当对盲测**（Ceylon vs Cassia Blind） — 盲测锡兰肉桂与卡西亚，比较甜香、辛辣和余味
+- **香水家族分类盲测**（Fragrance Family Blind Taxonomy Drills） — 蒙住瓶身辨认香水家族，按木质、花香与柑橘分类
+- **发酵缸顶气强度日测**（Ferment Headspace Daily Nose） — 每日测发酵缸顶气强度，记录温度、开盖时间与变化
+- **泡菜坛顶气味阶段判断**（Kimchi Headspace Staging） — 闻泡菜坛顶气味，判断发酵阶段并记录温度与酸度
+- **酸种饥饿气味识别**（Sourdough Hunger Smell ID） — 识别酸种饥饿气味，结合气泡、膨胀与喂养间隔判断
+- **吟酿香训练**（Ginjo-ka Sake Aroma Drill） — 闻吟酿香气，练习辨认酯香、米香与发酵气息
+- **咖啡生豆缺陷嗅辨**（Green Coffee Defect Cupping by Nose） — 杯闻咖啡生豆，辨认霉味、发酵味与储存缺陷
+- **普洱仓储香辨**（Puer Storage Aroma Judging） — 比较普洱不同仓储的陈香、湿仓味与转化差异
+- **岩茶焙火香层次拆解**（Yancha Roast Layering） — 拆解岩茶焙火香，记录火功、果香与回甘变化
+- **普洱湿仓干仓嗅辨**（Puerh Storage Nose Drills） — 嗅辨普洱湿仓与干仓气味，比较陈香、霉味和仓储痕迹
+- **清酒吟酿果香杯评**（Ginjo Sake Cupping） — 杯评吟酿清酒果香，比较酯香、米香与入口表现
+- **茶汤冷却香气变化时间序列**（Tea Cool Aroma Time Series） — 分时闻茶汤冷却香气，记录温度、挥发与余韵
+- **黄酒陈香与酸化缺陷嗅辨**（Huangjiu Age vs Fault Nose） — 嗅辨黄酒陈香与酸化缺陷，记录温度、年份和样品差异
+- **酱油曲香阶段闻辨**（Soy Koji Stage Smelling） — 在酱油制曲各阶段闻辨香气，记录菌香、酸香与熟成变化
+- **香水风琴原料库实践**（Perfume Organ Raw-material Practice） — 建立香水风琴原料库，闻辨单体并记录挥发、层次与相容性
+
+## 影视剧综
+
+- **黑光剧荧光道具手作社**（Blacklight Prop Craft Clubs） — 制作黑光剧荧光道具，测试紫外反应并安排舞台调度
+- **黑匣子灯光提示表手写传统**（Blackbox Cue Sheet Hand Tradition） — 手写黑匣子灯光提示表，标记cue点、场次与换景
+- **16mm家庭放映俱乐部**（16mm Home Cinema Clubs） — 维护16mm放映机，装片、调焦并举办家庭胶片放映
+- **9.5mm Pathé放映**（Pathe 9.5mm Projection） — 放映9.5mm Pathé胶片，维护放映机并研究家庭电影史
+- **中国皮影戏观演与传习**（Chinese Shadow Puppetry Appreciation） — 看中国皮影演出，也练操偶、唱腔和灯幕后场
+- **古希腊露天剧场声学拍手测**（Greek Theatre Acoustic Clap Tests） — 测古希腊剧场声学，用拍手回声比较座席传播
+- **傩戏面具复原演**（Nuo-mask Revival Performance） — 复原傩戏面具并排演仪式片段，研究造型与角色
+- **哇扬皮影偶戏观演会**（Wayang Puppet Theatre Appreciation） — 观演哇扬皮影，辨认偶人、加麦兰乐与故事段落
+- **尼日利亚约鲁巴阿兰吉拉剧场**（Yoruba Alarinjo Travelling Theatre Troupe） — 观看约鲁巴阿兰吉拉剧场，关注面具、音乐与叙事
+- **库提亚坦梵剧观演传习**（Kutiyattam Sanskrit Theatre Appreciation） — 观看并传习库提亚坦梵剧的手势、眼神和唱诵
+- **印尼皮影夜场票友**（Wayang Kulit Night Regulars） — 夜场观赏印尼皮影，辨认角色、乐器与叙事段落
+- **土耳其皮影票友夜**（Karagoz Shadow Regulars） — 看土耳其卡拉格兹皮影，讨论操偶、台词与民间笑料
+- **潮州铁枝木偶操练班**（Chaozhou Ironrod Puppet Drills） — 练潮州铁枝木偶操纵，配合提线、身段与锣鼓
+- **潮汕铁枝木偶唱腔听辨**（Chaozhou Puppet Aria Ear Training） — 听辨潮汕铁枝木偶唱腔，比较板式与锣鼓配合
+- **越南水上木偶岸上练习架**（Water Puppet Shore Practice Rigs） — 在岸上练水上木偶操纵，协调提杆、走位与乐队节拍
+- **陕西华县皮影刀刻业余班**（Huaxian Shadow Puppet Carving） — 刀刻华县皮影人物和纹样，练线条深浅与镂空结构
+- **拉比纳尔阿奇舞剧观演**（Rabinal Achí Dance Drama Appreciation） — 看拉比纳尔阿奇舞剧，辨认玛雅叙事、歌舞与面具
+- **柬埔寨斯贝克托皮影社**（Cambodian Sbek Thom Shadow Troupe） — 观看柬埔寨斯贝克托皮影，了解皮影雕刻与操演
+- **歌舞伎定期观演**（Kabuki Theatre Appreciation） — 定期看歌舞伎，读懂见得、妆容和舞台程式
+- **京剧锣鼓经拍板练习社**（Jingju Percussion Pattern Clubs） — 按锣鼓经拍板，熟悉京剧锣鼓点与板式转换
+- **昆曲水磨腔业余拍曲会**（Kunqu Watermill Aria Clubs） — 拍唱昆曲水磨腔，揣摩字音、气口与曲牌节奏
+- **河北梆子板式听辨训练**（Hebei Bangzi Beat Ear Training） — 听辨河北梆子板式，比较快慢板、锣鼓点与唱腔节奏
+- **秦腔板胡伴奏业余班**（Qinqiang Banhu Accompaniment） — 用板胡伴奏秦腔唱段，练弓法、过门与板式衔接
+- **粤剧梆黄板式听辨训练**（Cantonese Opera Beat Drills） — 训练粤剧梆黄板式听辨，标记锣鼓点与唱腔结构
+- **评剧哭腔气息练习小组**（Pingju Sob Breath Groups） — 练评剧哭腔的气息与拖腔，比较情绪力度和字头
+- **锣鼓经记谱法研习**（Percussion Cipher Notation Study） — 记录锣鼓经口传节奏，整理锣鼓点符号与演出位置
+- **穆迪耶图仪式剧社群观演**（Mudiyettu Ritual Theatre Participation） — 观演穆迪耶图仪式剧，学习面具、鼓乐和仪式流程
+- **能乐面具剧观演**（Nôgaku Theatre Appreciation） — 观能乐面具剧，留意谣曲、能管和缓慢的舞步
+- **西西里木偶剧社季演**（Sicilian Opera dei Pupi Troupe Season） — 观看西西里木偶剧，研究操偶、剧目与季演传统
+- **Nollywood家庭影院社**（Nollywood Home Theatre Club） — 策划Nollywood家庭放映，观看影片并讨论类型与产业
+- **广播黄金时代剧迷**（Golden-age Radio-drama Fandom） — 听黄金时代广播剧存档，聊音效与连载故事
+- **电视测试卡收藏研究**（Test-card Ephemera Research） — 收集电视测试卡，辨识年代、频道与播出技术
+- **特摄公式书收藏**（Tokusatsu Artbook Collecting） — 收特摄公式设定书，翻机甲怪兽设定与拍摄笔记
+- **地方台纪录片场记复原**（Localstation Doc Continuity Revival） — 复原地方台纪录片场记，整理镜头表并研究制作流程
+- **美国社区剧社AACT**（American Association of Community Theatre） — 排演社区剧目，分担舞台、灯光和演员工作，参与AACT演出
+- **意大利西部片观摩**（Spaghetti Western Circle） — 观摩意大利西部片，比较景别、配乐与类型叙事套路
+- **纸浆科幻封面插画志**（Pulp SF Cover Art Logs） — 绘制纸浆科幻封面，模仿旧杂志构图并练上色
+- **意大利式西部配乐黑胶听评**（Spaghetti Western Vinyl Listens） — 听评意大利式西部配乐黑胶，比较编曲与压片声音
+- **剥削电影海报字体复刻**（Exploitation Poster Type Revival） — 复刻剥削电影海报字体，研究字形并制作印刷样张
+- **黑色电影旁白朗读会**（Noir Narration Readalouds） — 朗读黑色电影旁白，练低声线、停顿与叙事氛围
+- **Annecy动画节朝圣**（Annecy Festival Pilgrimage） — 规划Annecy动画节观影，比较短片技法与动画产业展映
+- **Cinerama三机放映**（Cinerama Three-Strip） — 观看Cinerama三机放映，了解宽银幕拼接与放映校准
+- **G-FEST怪兽影迷大会**（G-FEST Kaiju Fan Convention） — 参加G-FEST，看片、听讲座并交流怪兽模型
+- **MST3K恶搞配音场**（MST3K Riffing Night） — 为MST3K影片现场配音，练即兴吐槽、节奏与群体配合
+- **SAFD舞台格斗**（SAFD stage combat） — 看「SAFD舞台格斗」（SAFD stage combat）。
+- **Yeşilçam黄金年代**（Yesilcam Cinephile Circle） — 回看Yeşilçam黄金年代，比较土耳其类型片与明星体系
+- **光学声轨噪声门限听校**（Optical Track Noise Gate Earcal） — 听校光学声轨噪声门限，比较滤波并恢复对白清晰度
+- **片基收缩率温湿关联业余测**（Film Shrinkage Climate Correlate） — 测量片基收缩率，记录温湿度并分析胶片变形
+- **四十八小时短片马拉松**（Indie Short-film Weekend Marathons） — 限时48小时写、拍、剪一部短片并完成交片
+- **埃及黄金年代黑白片**（Egyptian Golden Age Cinema） — 观赏埃及黄金年代黑白片，梳理表演、音乐与城市叙事
+- **墨西哥黄金年代影迷**（Mexican Cine de Oro） — 回看墨西哥黄金年代电影，整理明星、歌舞与社会题材
+- **无声片现场钢琴即兴配乐社**（Silentera Live Piano Clubs） — 为无声片现场钢琴即兴，跟随镜头速度塑造情绪
+- **房间电影互动午夜场**（The Room Interactive Screening Community） — 围绕《房间》做台词互动、道具投掷和午夜放映
+- **捷克新浪潮小厅**（Czech New Wave Screening） — 在小厅观摩捷克新浪潮，讨论剪辑、寓言与历史语境
+- **气味电影与嗅觉展映**（Olfactory Cinema Screenings） — 研究气味电影，设计香气叙事并讨论嗅觉放映
+- **沙动画即兴**（Sand Animation Live） — 用沙面即兴制作逐帧动画，观察颗粒、光线与运动
+- **洛基恐怖秀影子卡司互动场**（Rocky Horror Shadow Cast Participation） — 穿戏服在《洛基恐怖秀》放映时同步表演和互动
+- **激光视盘LD放映会**（LaserDisc Screening） — 组织激光视盘LD放映，维护唱片、播放器与模拟画面
+- **结构电影放映社**（Structural Film Screening Clubs） — 放映结构电影实验片，讨论时长与影像语法
+- **东欧吸血鬼片字幕翻译坊**（Eastern Vampire Sub Workshops） — 给东欧吸血鬼片做字幕，听辨对白并校准时间轴
+- **香港三级惊悚场刊收藏研**（HK CatIII Thriller Press Kits） — 研究香港惊悚电影场刊，整理版本、审查语境与设计
+- **Giallo黄线恐怖迷**（Giallo Fandom） — 看「Giallo黄线恐怖迷」（Giallo Fandom）。
+- **邪典午夜场文化**（Midnight Movie Culture） — 蹲午夜邪典场看B级片，聊血腥审美与场次文化
+- **九点五毫米放映机复活社**（Pathe 9.5mm Revival Clubs） — 复活九点五毫米放映机，修复走片并测试光源
+- **十六毫米家庭放映机械保养夜**（16mm Home Projection Care） — 保养十六毫米放映机，清洁走片机构并调胶片张力
+- **Super8胶片复兴**（Super 8 Revival） — 看「Super8胶片复兴」（Super 8 Revival）。
+- **活動弁士**（Katsudo Benshi Narration） — 为无声电影现场讲述对白、拟声和情绪，配合胶片节奏
+- **硝酸片基放映会**（Nitrate Film Projection Societies） — 在安全条件下放映硝酸片基，学习防火、修复与档案
+- **针幕动画**（Pinscreen Animation） — 研究针幕动画，用针板位移制造光影与浮雕质感
+- **刮擦胶片直接动画**（Cameraless Scratch-film Animation） — 在胶片上刻划、刮擦并逐格拍摄抽象动画
+- **Frameline旧金山酷儿影展**（Frameline San Francisco LGBTQ+ Film Festival） — 观看酷儿电影并交流影史、身份叙事与影展策展选择
+- **Hammer恐怖片迷地方俱乐部**（Hammer Horror Local Fan Clubs） — 整理Hammer恐怖片片单，比较怪物美学、制片史与地方放映
+- **OGAE欧视粉丝社**（OGAE Eurovision Fan Clubs） — 追踪欧洲歌唱赛，比较舞台、编曲与各国投票
+
+## 成人合意兴趣圈子
+
+- **协商清单填写互助夜**（Negotiation Checklist Nights） — 练填写成人活动协商清单，明确界限、风险、信号与事后照护
+- **合意原则文献精读会**（Consent Principle Close Reads） — 精读合意原则文献，讨论边界、风险与知情同意
+- **绳索纤维承重检测记录**（Rope Fiber Load Test Logs） — 检测绳索纤维承重，记录拉力、伸长与报废判据
+- **旧式皮革酒吧口述史采集**（Old Leather Bar Oral Histories） — 采集皮革酒吧口述史，整理访谈并保存社群记忆
+- **Folsom街头皮革节**（Folsom Street Fair） — 参加旧金山Folsom皮革街节，看巡游与摊位社群
+- **皮革旗礼仪公开讲解志愿**（Leather Flag Etiquette Docents） — 讲解皮革旗礼仪，介绍符号历史并强调安全沟通
+- **地板缚血流观察同伴支援**（Floortie Circulation Buddy Support） — 练地板缚安全观察，检查血流、受力并及时沟通
+- **日式绳缚悬吊安全冗余课**（Shibari Suspension Redundancy Classes） — 学习日式绳缚悬吊冗余，检查受力、锚点与应急撤除
+- **急救认证与场景急救衔接班**（Firstaid to Scene Care Bridging） — 练急救认证衔接，模拟场景处置并复盘沟通流程
+- **PolyLiving合意关系教育会**（Poly Living Relationship Education Conference） — 讨论合意关系中的角色、边界与长期沟通安排
+- **公共空间低可识别信号约定**（Lowvisibility Public Signals） — 讨论成人合意场景的低识别信号、撤回方式与隐私边界
+- **关系无政府主义研讨**（Relationship Anarchy Seminars） — 用关系无政府主义框架讨论自主、边界与责任分配
+- **关系协议书面化工作坊**（Relationship Agreement Workshops） — 书面化关系协议，练习需求表达、边界与定期复盘
+- **关系地图白板共建工作坊**（Relationship Map Whiteboard Workshops） — 共建关系地图，梳理时间、承诺与沟通路径
+- **多元之爱教育社群**（Polyamory Education） — 合意练「多元之爱教育社群」（Polyamory Education）。
+- **咖啡闲聊合意社群聚会**（Vanilla Munch Social Meetup Organizing） — 在合意边界内交流角色扮演，练沟通与活动礼仪
+- **医用硅胶与玩具材料辨识课**（Medical Silicone Material ID Classes） — 辨识成人用品材料，比较医用硅胶、增塑剂与清洁要求
+- **温度游戏温度计校准社**（Temperatureplay Thermometer Cal Clubs） — 校准温度游戏用温度计，核对读数、响应时间与安全范围
+- **知情同意话术夜校**（Informed-consent Language Night Classes） — 练习讨论边界、风险与拒绝方式，提升知情同意表达
+- **合意沟通角色扮演演练**（Consent Communication Roleplay Drills） — 演练合意沟通角色，练习提出需求、拒绝与确认
+- **英国合意绳缚教育集体**（UK Consensual Rope Education Collectives） — 学习绳缚前的沟通、检查和风险分级，参加合意教育活动
+- **BLUF皮装礼仪教育**（BLUF Leather Uniform Etiquette） — 研习BLUF皮装礼仪，了解着装规范、社交边界与同意
+- **International Mr Leather**（International Mr Leather） — 学习皮革社群礼仪，练安全沟通、束缚与活动规范
+- **NELA跳蚤市集教育工作坊**（NELA Fetish Fair Fleamarket Workshops） — 在公开工作坊学习皮革礼仪、装备护理与风险沟通
+- **Northwest Leather Celebration**（Northwest Leather Celebration） — 参加皮革文化节，学习社群礼仪、装备与安全边界
+- **欧洲皮革先生典礼**（Mr Leather Europe） — 学习皮革礼仪与协议沟通，重视边界、同意和活动安全
+- **协议戒指公开含义讲解会**（Protocol Ring Meaning Talks） — 讲解协议戒指含义，比较象征用法并说明自愿边界
+- **北美TES绳缚教育社群**（The Eulenspiegel Society） — 学习成人绳缚的结法、风险评估与事前事后协商
+- **BoundCon慕尼黑教育工作坊**（BoundCon Munich Educational Workshops） — 参加绳艺教育工作坊，学习结法、沟通、检查和风险管理
+- **Osada流公开工作坊**（Osada-ryu Workshop） — 按Osada流方法练绳缚结构，讨论受力、边界与照护
+- **The Floating World绳艺节**（The Floating World） — 参加绳艺节课程，练结绳、悬吊基础与风险管理
+- **Yukimura流公开课**（Yukimura-ryu Public Class） — 在Yukimura流课程练绳结、身体支撑与风险沟通
+- **布拉格绳艺节**（Prague Shibari Festival） — 参加布拉格绳艺节课程，练结绳、沟通与风险管理
+- **单柱缚基础同伴互检课**（Singlecolumn Buddy Check Classes） — 练单柱缚基础，检查受力、循环与同伴安全反馈
+- **绳师体能间歇训练打卡社**（Rigger Conditioning Checkin Clubs） — 训练绳师体能，安排握力、肩背与间歇恢复
+- **绳洗烘干纤维寿命追踪**（Rope Wash Dry Lifespan Tracking） — 记录绳索清洗烘干次数，观察纤维强度、手感与寿命
+- **绳索纤维起毛里程观察**（Rope Fuzz Mileage Observation） — 追踪绳索使用里程，检查起毛、磨损和更换节点
+- **麻绳合成绳保养**（Rope Fiber Care） — 清洁、晾晒并检查麻绳合成绳，建立使用保养记录
+- **北欧Knutepunkt LARP年会**（Knutepunkt LARP） — 在LARP年会上学习角色、安全边界与现场协作的实践方法
+- **北美LARP社群网络**（LARP Alliance / US LARP Orgs） — 设计成人LARP角色与剧情，制作服装道具并演绎阵营
+
+## 户外
+
+- **北美Letterboxing寻盒**（North American Letterboxing） — 按线索寻找隐藏印章盒，制作线索本并记录Letterboxing路线
+- **Bushcraft 野外技艺**（Bushcraft） — 探「Bushcraft 野外技艺」（Bushcraft）。
+- **包筏漂流（Packrafting）**（Packrafting） — 背Packraft过湖顺河，徒步与漂流交替前进
+- **苏格兰 Munro 登顶收集**（Munro Bagging） — 探「苏格兰 Munro 登顶收集」（Munro Bagging）。
+- **PCT 等长距步道全程**（PCT Thru-hiking） — 探「PCT 等长距步道全程」（PCT Thru-hiking）。
+- **长时定向 Rogaining**（Rogaining） — 探「长时定向 Rogaining」（Rogaining）。
+- **定向越野（IOF）**（Orienteering） — 探「定向越野（IOF）」（Orienteering）。
+- **GUE / 技术潜水**（GUE Technical Diving） — 练GUE技术潜水程序，团队气量与减压规划
+- **Tenkara 手竿飞蝇钓**（Tenkara Fishing） — 用Tenkara短竿无卷线飞蝇钓溪流
+- **官方悬崖跳水**（Official Cliff-diving Amateur Meets） — 在规范场地练悬崖跳水的起跳、入水和风险评估
+- **海洋皮划艇远征**（Sea-kayak Expedition Clubs） — 规划海岸航线，练海洋皮划艇导航、潮汐判断与露营补给
+- **激流皮划艇WW业余**（Whitewater Kayaking Amateur Clubs） — 在急流中练皮划艇划桨、读水线和翻船自救，按WW规则训练
+- **自由潜水（AIDA）**（Freediving (AIDA)） — 探「自由潜水（AIDA）」（Freediving (AIDA)）。
+- **TrigpointingUK三角点收集**（TrigpointingUK） — 寻找并测绘英国三角点，记录位置、状态与路线
+- **峡谷穿越（Canyoning）**（Canyoning / Canyoneering） — 穿峡谷溯溪降瀑，用绳索与防水袋推进
+- **干冰工具攀（Dry Tooling）**（Dry Tooling） — 用冰镐在干岩上工具攀，练锁定与放置保护
+- **洞穴探险（Speleology）**（Caving / Speleology） — 探洞穴测绘通道，注意绳降与碳酸盐沉积
+- **绳降俱乐部Rapelling**（Rappelling Club Practice） — 练习绳降检查、下降器控制和锚点设置，体验崖壁垂降
+- **高空走扁带（Highline）**（Highlining） — 探「高空走扁带（Highline）」（Highlining）。
+- **美国各州最高点俱乐部**（Highpointers Club） — 探「美国各州最高点俱乐部」（Highpointers Club）。
+- **阿迪朗达克四十六峰会**（Adirondack Forty-Sixers） — 攀登阿迪朗达克四十六峰，记录路线与峰顶条件
+- **动力伞Paramotor业余**（Paramotor Powered-paragliding Clubs） — 学习Paramotor起降、航线与发动机检查，练动力伞操控
+- **定点跳伞精度着陆**（Accuracy-landing Parachute Clubs） — 从空中目标区练跳伞姿态与精度着陆，强化风向判断
+- **悬挂式滑翔**（Hang Gliding） — 探「悬挂式滑翔」（Hang Gliding）。
+- **滑翔伞飞行**（Paragliding） — 探「滑翔伞飞行」（Paragliding）。
+- **单绳技术SRT竖井**（Single Rope Technique Caving） — 用SRT单绳技术进出竖井，练上升、下降与锚点检查
+- **洞穴潜水NSS-CDS**（Cave Diving NSS-CDS） — 在NSS-CDS规范下进行洞穴潜水，训练导线、气源与撤离
+- **矿山探险Mine exploration**（Mine Exploration） — 规划矿井路线、照明与撤离，记录矿山地质和工业遗迹
+- **地理寻宝 Geocaching**（Geocaching） — 探「地理寻宝 Geocaching」（Geocaching）。
+- **业余淘金 / 探矿**（Recreational Gold Panning） — 淘沙淘金用淘金盘，辨重砂与矿点线索
+- **采石切磨（Lapidary）**（Rockhounding & Lapidary） — 野外采石切磨抛光，做成标本或首饰石
+- **北美猎鹰者学徒**（NAFA Falconry Apprenticeship） — 跟随导师照护猛禽，练习放飞、召回与野外伦理
+- **阿联酋猎鹰传统放飞**（UAE Falcons Heritage Field Practice） — 了解阿联酋猎鹰传统，训练放飞并照护猎鹰
+- **夜间诱蛾（Mothing）**（Mothing） — 探「夜间诱蛾（Mothing）」（Mothing）。
+- **绳索力学与坠落因子课**（Rope Mechanics Fallfactor Class） — 学绳索力学与坠落因子，练受力计算、保护点和风险判断
+- **Continental Divide Trail Coalition**（Continental Divide Trail Coalition） — 探「Continental Divide Trail Coalition」。
+- **County Highpointers协会**（County Highpointers Association） — 走访各郡最高点，记录路线并完成County Highpointers清单
+- **Te Araroa全程徒步新西兰**（Te Araroa Trail Thru-Hiking） — 规划并完成新西兰Te Araroa长线徒步，管理补给与露营
+- **Wainwrights峰表收集**（Wainwright Bagging） — 按Wainwrights峰表规划路线，逐座完成英格兰山峰
+- **冰岛Laugavegur季节穿越**（Laugavegur Seasonal Thru-hikes） — 穿越Laugavegur步道，规划补给并应对冰岛天气
+- **奥发堤步道协会**（Offa's Dyke Association） — 参与奥发堤步道维护与穿越，记录路况并协作补给
+- **拉腊平塔步道徒步**（Larapinta Trail） — 探「拉腊平塔步道徒步」（Larapinta Trail）。
+- **阿尔卑斯穿越Via Alpina**（Via Alpina） — 探「阿尔卑斯穿越Via Alpina」（Via Alpina）。
+- **卡巴迪Kabaddi**（Kabaddi） — 练「卡巴迪Kabaddi」（Kabaddi）。
+- **墨西哥Charrería骑术竞技**（Mexican Charrería） — 练墨西哥Charrería骑术套索与马术项目
+- **波斯马球Chovgan爱好再现**（Chovgan / Persian Polo Heritage Play） — 再现波斯马球Chovgan，骑马击球对抗
+- **藤球Sepak Takraw**（Sepak Takraw） — 练「藤球Sepak Takraw」（Sepak Takraw）。
+- **骆驼竞速爱好观赛与训养圈**（Camel Racing Enthusiast Circles） — 观赛骆驼竞速并了解训养与驼具
+- **朝鲜秋夕摔跤**（Chuseok Ssireum Amateur） — 练朝鲜秋夕摔跤，掌握抓带、摔法与节庆赛制
+- **拔河神社祭对抗赛**（Shrine Festival Tug-of-War Match） — 参加神社祭拔河，练队伍协作、节奏与对抗规则
+- **摩洛哥马上火枪冲锋演练**（Moroccan Tbourida Cavalry Charge Practice） — 练摩洛哥马上火枪冲锋，掌握骑术、队列与安全
+- **柯克博鲁传统马队赛**（Kok Boru Team Horse Game） — 骑马争夺柯克博鲁目标物，练马术、协作和攻防
+- **稻作社群拔河仪式赛**（Tugging Rituals and Games） — 在稻作节庆参加拔河，按仪式分组并合力拉绳
+- **苏门答腊帕索拉标枪赛马**（Sumba Pasola Ritual Javelin Race） — 观看并练习帕索拉标枪赛马，掌握骑术与投掷配合
+- **锡耶纳棕榈赛街区对社协作**（Siena Palio Contrada Participation） — 协作锡耶纳棕榈赛街区队，准备旗帜、队列与竞赛仪式
+- **韩式腰带摔跤节赛**（Ssireum Festival Wrestling） — 练韩式腰带摔跤的抓带、摔法与节赛规则
+- **木球PallMall复原**（Pall-mall Revival Play） — 复原PallMall木球玩法，练击球、门柱路线与礼仪
+- **法式滚球FIPJP**（FIPJP Pétanque Clubs） — 练法式滚球抛掷、靠球和击球，按FIPJP规则计分
+- **芬兰木柱Molkky**（Mölkky Skittle Clubs） — 投掷芬兰木柱Mölkky，练角度、落点和计分策略
+- **门球Gateball**（Gateball Union Clubs） — 打门球控制击球力度，练路线、擦球和团队战术
+- **ISDS国际牧羊犬试验**（ISDS Sheepdog Trials） — 训练牧羊犬依口令分群、绕行与停留，参加ISDS试验
+- **巴斯克乡村运动举石Harri-jasotzea**（Basque Harri-jasotzea） — 搬举巴斯克石块，练握持、起举和循序增重的技术
+- **澳洲斧手协会砍树锯木赛**（Australian Axemen's Association Woodchop） — 练习斧头砍树、锯木与换位，参加澳洲斧手协会赛事
+- **瑞士Hornussen击板球**（Hornussen） — 练「瑞士Hornussen击板球」（Hornussen）。
+- **新西兰田间日农技赛**（New Zealand Fieldays Contests） — 操作农机并展示田间技能，参加新西兰田间日的项目竞赛
+- **新西兰竞赛犁地**（New Zealand Ploughing Championships） — 调校犁具深度与行进线，参加新西兰竞赛犁地比拼
+- **爱尔兰国家犁地锦标赛**（National Ploughing Championships Ireland） — 操作传统犁具比赛，调深度、直线和土壤翻转
+- **英国犁耕锦标赛**（British National Ploughing Championships） — 调校马具和犁具，按地块条件完成英国犁耕锦标赛项目
+- **金剪羊毛公开赛**（Golden Shears Open Shearing） — 计时剪羊毛，练抓羊、握剪和连续动作效率
+- **魁北克冰上独木舟巡回赛**（Circuit québécois de canot à glace） — 在冰水和浮冰间划独木舟，练推冰、换向与团队协作
+- **Hash House Harriers哈希跑社**（Hash House Harriers） — 参加Hash House Harriers定向跑，沿线索奔跑并完成社交赛程
+- **庭网球Real Tennis**（Real Tennis Court Clubs） — 在室外硬地练Real Tennis的发球、墙面反弹与得分策略
+- **新英格兰烛瓶保龄**（Candlepin Bowling New England） — 掌握烛瓶球道的投球线路与旋转，参加新英格兰地方牌局
+- **爱尔兰公路滚球**（Irish Road Bowling） — 练「爱尔兰公路滚球」（Irish Road Bowling）。
+- **苏格兰Shinty曲棍**（Camanachd Association Shinty） — 用曲棍球杆带球、传球和射门，练苏格兰Shinty攻防
+- **英格兰铁环Quoits**（English Quoits） — 练「英格兰铁环Quoits」（English Quoits）。
+- **巴斯克回力球pelota**（Basque Pelota） — 练「巴斯克回力球pelota」（Basque Pelota）。
+- **意大利Bocce滚球**（Bocce） — 练「意大利Bocce滚球」（Bocce）。
+- **英格兰槌球**（Croquet England） — 练「英格兰槌球」（Croquet England）。
+- **场外射箭**（Field Archery Amateur） — 练「场外射箭」（Field Archery Amateur）。
+- **飞靶射击业余**（Clay-pigeon Amateur Clubs） — 练飞靶射击的预判、摆枪与跟随扣扳机
+- **夜间荧光定向**（Night Glowstick Orienteering） — 夜间用荧光标记定向，练读图、配光与快速判断
+- **山地自行车定向MTBO**（Mountain Bike Orienteering） — 骑山地车按控制点导航，结合越野操控与地图判读
+- **皮划定向Canoe orienteering**（Canoe Orienteering） — 划皮艇寻找水上控制点，练航向、地图与船上配合
+- **追踪赛Trail orienteering**（Trail Orienteering） — 在地图与地形间核对控制点，以判断取代速度完成追踪赛
+- **特霍投掷运动**（Tejo） — 练「特霍投掷运动」（Tejo）。
+- **桦树皮舟复原**（Birch-bark Canoe Recreation） — 剥取桦树皮并缝合骨架，复原轻巧的桦皮舟
+- **毛毡蒙古包自建**（Felt Yurt Self-building Circles） — 用木架和毛毡搭建蒙古包，处理保温与防雨
+- **雪屋Quinzee建造**（Quinzee Snow-shelter Building） — 把积雪压成穹顶，挖出能挡风保温的雪屋
+- **山地跑Fell Running**（Fell Running） — 练「山地跑Fell Running」（Fell Running）。
+- **极限熨衣**（Extreme Ironing） — 练「极限熨衣」（Extreme Ironing）。
+- **野泳OSS**（Outdoor Swimming Society Wild Swimming） — 在开放水域练习野泳，规划入水点、观察水况并做好结伴安全
+- **滑雪登山**（Ski mountaineering） — 练「滑雪登山」（Ski mountaineering）。
+- **独轮车IUF**（IUF Unicycling Trials and Hockey） — 练独轮车的平衡、跳跃和越野，参加IUF项目
+- **硬地自行车马球**（Hardcourt Bike Polo） — 练「硬地自行车马球」（Hardcourt Bike Polo）。
+- **艺术自行车**（Artistic Cycling Indoor） — 骑特制艺术自行车练慢速平衡、队形与舞台动作
+- **轻装徒步UL**（Ultralight Backpacking） — 把背包压到极轻，规划补给线走多日轻装长线
+- **陆地风帆**（Land sailing） — 练「陆地风帆」（Land sailing）。
+- **滑雪牵引Skijoring**（Skijoring Horse-or-dog） — 让马匹牵引滑雪，练起步、转弯和人马配合
+- **肥胎自行车Fatbike**（Fatbike Snow-sand Riding） — 骑宽胎自行车穿越雪地、沙地和泥地
+- **雪鞋竞走**（Snowshoe Racing Federations） — 穿雪鞋在松软雪地竞走，练步幅和长距离耐力
+- **冬泳 / 冰泳**（Winter / Ice Swimming） — 冬日破冰下水游泳，控时长与复温安全
+- **冰潜**（Ice diving） — 练「冰潜」（Ice diving）。
+- **国际龙舟俱乐部赛**（International Dragon Boat Club Crew Racing） — 练龙舟划桨、鼓点和转弯，参加俱乐部赛季
+- **撑架独木舟竞速**（Va'a / Outrigger Canoe Racing） — 划撑架独木舟Va'a竞速，练团队桨频
+- **波利尼西亚传统航海**（Polynesian Voyaging Revival） — 学波利尼西亚星航与双体帆船传统航海
+- **奥斯特敦刻尔克骑马捕虾**（Horseback Shrimp Fishing in Oostduinkerke） — 骑马沿海滩捕虾，学习潮汐判断、骑术与传统作业安全
+- **威尼斯历史赛船备赛**（Venice Regata Storica Training Clubs） — 练威尼斯传统赛船的划桨姿势、节奏和航线
+- **循环呼吸器潜水**（Rebreather Diving） — 练「循环呼吸器潜水」（Rebreather Diving）。
+- **英国皮划艇俱乐部赛**（British Canoeing Club Racing） — 练英国皮划艇竞赛，控航线、桨频和绕标速度
+- **水橇业余**（Water-skiing Amateur Clubs） — 练水橇起滑、转弯与平衡，熟悉水上安全规则
+- **洞穴潜水**（Cave diving） — 练「洞穴潜水」（Cave diving）。
+- **荷兰十一城冰上马拉松**（Elfstedentocht Ice-skating Circuit Community） — 在结冰运河上训练耐力，挑战荷兰十一城路线
+- **冰上冰帆IceYachting**（Ice Yachting Hard-water Sailing） — 在结冰水面驾驶冰帆，练风帆操控与冰况判断
+- **风浪板竞赛业余**（Windsurfing Racing Amateur） — 在风浪中练帆板起航、换舷和绕标竞赛
+- **风筝冲浪IKA**（IKA Kiteboarding Racing） — 借风筝拉力滑水，练起飞、换刃和风向判断
+- **南加州支腿独木舟联赛**（Southern California Outrigger Racing Association） — 操控支腿独木舟配合划频，参加南加州水上联赛训练
+- **水下美式足球**（Underwater American Football） — 在水下传球推进，练水下美式足球的潜游与配合
+- **康沃尔引水艇六桨赛**（Cornish Pilot Gig Racing） — 六人协作划引水艇，练桨频、转向和康沃尔赛道策略
+- **荷兰运河撑杆跃远Fierljeppen**（Fierljeppen） — 用撑杆跨越荷兰运河，练助跑、插杆和落地节奏
+- **毽球Jianzi**（Jianzi / shuttlecock） — 踢毽球做空中传接，练脚法、平衡和团队配合
+- **缅甸Chinlone**（Chinlone cane-ball play） — 踢缅甸Chinlone藤球，练脚背控球、传接与连续性
+- **匹克球业余**（Pickleball Amateur Clubs） — 练匹克球发球、截击与底线移动，参加双打
+- **圆场球Rounders**（Rounders Amateur Clubs） — 练Rounders击球、跑垒与守备，熟悉英式球戏规则
+- **板网球Padel业余**（Padel Amateur Clubs） — 练Padel发球、截击与玻璃墙回球，参与双打
+- **软式网球**（Soft Tennis Amateur） — 练「软式网球」（Soft Tennis Amateur）。
+- **传统攀岩**（Traditional Climbing） — 练「传统攀岩」（Traditional Climbing）。
+- **冰壁攀登**（Ice climbing） — 练「冰壁攀登」（Ice climbing）。
+- **娱乐树木攀爬**（Recreational tree climbing） — 学习树上保护、绳索转移和攀爬路线，安全体验树木攀爬
+- **水上扁带**（Waterlining） — 练「水上扁带」（Waterlining）。
+- **混合攀登**（Mixed Climbing） — 练「混合攀登」（Mixed Climbing）。
+- **抱石IFSC业余**（IFSC Bouldering Amateur Circuits） — 在抱石墙上练短线路、脚法和动态动作，参加IFSC赛
+- **深水Solo攀**（Deep-water Soloing DWS） — 从水面起攀无保护岩壁，练路线判断与落水控制
+- **速度攀岩业余计时**（Speed-climbing Amateur Timing） — 在短线路上练爆发起步和快速攀爬，记录速度成绩
+- **洞穴测绘制图社**（Cave Cartography Clubs） — 进洞架设测量点，绘制洞穴平面、剖面与三维路线
+- **辅助攀登**（Aid climbing） — 练「辅助攀登」（Aid climbing）。
+- **铁索攀登**（Via ferrata） — 练「铁索攀登」（Via ferrata）。
+- **热气球运动FAI业余**（FAI Hot-air Ballooning Amateur） — 驾驶热气球学习充气、放飞、导航与落地协作，遵守FAI规则
+- **伞翼操控飞行**（Canopy Piloting Swooping） — 操控伞翼起飞、转弯与着陆，练风况判断和空中安全
+- **室内风洞体感飞行**（Indoor Skydiving Bodyflight） — 在室内风洞练身体姿态、转向和稳定悬浮，适合初学者
+- **动力伞**（Paramotoring） — 练「动力伞」（Paramotoring）。
+- **特技飞行**（Aerobatics） — 练「特技飞行」（Aerobatics）。
+- **速度飞行**（Speed flying） — 练「速度飞行」（Speed flying）。
+- **冲锋衣压胶条热风枪修补**（Hardshell Seamtape Heat Repair） — 用热风枪修补冲锋衣压胶条，控制温度、压力与防水性
+- **睡袋挡风裙线迹加固夜**（Sleepingbag Draftskirt Stitch Nights） — 加固睡袋挡风裙线迹，检查针距、受力与防风效果
+- **独轮曲棍Unicycle hockey**（Unicycle Hockey） — 骑独轮车控速、传球和击球，练独轮曲棍的平衡与配合
+- **独轮篮球**（Unicycle Basketball） — 练「独轮篮球」（Unicycle Basketball）。
+- **自行车马球Cycle polo**（Cycle Polo） — 练「自行车马球Cycle polo」（Cycle Polo）。
+- **潍坊国际风筝**（Weifang International Kite Festival practice） — 制作和操控潍坊风筝，调骨架、迎风角与放飞线
+- **空竹抖耍**（Chinese diabolo / kongzhu） — 抖空竹练抛接、绕线和花式动作，控制节奏与平衡
+- **赤足徒步**（Barefoot hiking） — 练「赤足徒步」（Barefoot hiking）。
+
+## 手作与工艺
+
+- **北美波兰剪纸社群**（Polish-American Wycinanki Circles） — 剪裁彩纸并研究对称纹样，实践北美波兰剪纸传统
+- **绿木脚踏车床协会**（Association of Polelathe Turners） — 用脚踏车床加工绿木，练木料固定、刀具控制与车削
+- **英式活篱编筑锦标赛**（National Hedgelaying Championship） — 编织活枝成英式篱墙，练桩距、交错压枝与修剪
+- **英格兰莫里斯舞公会**（The Morris Ring） — 做「英格兰莫里斯舞公会」（The Morris Ring）。
+- **壳菜漆面酒精试验鉴别**（Shellac Alcohol Spot Tests） — 用小样酒精测试壳菜漆，观察溶解、发白与表面反应
+- **榫卯间隙与季节湿度相关**（Joinery Gap vs Humidity Correlate） — 测量榫卯间隙，比较季节湿度、木材含水率与松紧
+- **虫蛀孔注入前纤维保护封边**（Pest Hole Preinject Edge Seal） — 修复虫蛀木器前封护孔边，减少注入扩散并保护纤维
+- **织补可见金缮式织物修补社**（Visible Mending Goldthread Clubs） — 用对比色线织补破损，练加固、留痕与图案化修补
+- **袜子织补蘑菇模具收藏**（Darning Mushroom Mold Collect） — 收藏袜子织补蘑菇模具，比较材质、尺寸与使用痕迹
+- **户外铜雕锈层扩展测图**（Outdoor Bronze Rust Mapping） — 测绘户外铜雕锈层，标注斑块边界、朝向与雨淋差异
+- **银器硫化层局部保留艺术**（Selective Silver Tarnish Art） — 保留银器硫化层，局部抛光并控制古旧质感
+- **锈层纹理拓印艺术**（Rust Texture Rubbing Art） — 拓印金属锈层纹理，利用色差、颗粒与腐蚀边界作图
+- **金缮漆缮裂缝色匹配训练**（Kintsugi Color Match Drills） — 练金缮漆缮色彩匹配，比较底色、金粉与干燥后效果
+- **金缮裂缝作为星座连线创作**（Kintsugi Constellation Mapping） — 把金缮裂缝设计成星座，修复器物并完成新构图
+- **锔瓷钉子手工锻打业余**（Ceramic Rivet Handforging） — 手工锻打锔瓷钉，控制铁片厚度、孔距与钉脚形状
+- **锔钉周围釉裂扩展观察**（Rivets Adjacent Glaze Crack Watch） — 观察锔钉周围釉裂，记录湿度、受力与裂纹长度变化
+- **干砌石墙**（Dry-stone construction craft） — 不用砂浆垒筑石墙，练石材挑选、排水与受力咬合
+- **生土夯筑业余**（Rammed-earth Building Amateur） — 用土、砂与纤维配料夯筑墙体，测试强度与收缩
+- **生土建筑**（Earth building / adobe & cob） — 调土、砂和纤维筑生土墙，测试配比、夯实与耐候
+- **泥染Dorozome**（Dorozome Mud Dyeing） — 用泥浆染色制作Dorozome，控制浸染次数与深浅
+- **木车旋（Woodturning）**（Woodturning (AAW)） — 木车床上车碗笔筒，练车刀与木纹选择
+- **藏书票制作**（Ex-libris Printmaking Circles） — 设计并制作藏书票，练版画制版、压印与藏书标记
+- **制桶工艺（Cooperage）**（Cooperage / Barrel Making） — 用木板铁箍箍桶，做酒桶或装饰桶
+- **木口木刻雕版**（Wood-engraving Block Circles） — 在木口端面刻细线，制成高密度黑白版画
+- **石印石版业余**（Amateur Lithographic Stone Work） — 在石版上用油性材料作画，处理润湿后印刷
+- **铜版凹刻业余**（Amateur Intaglio Copperplate） — 涂蜡刻线并腐蚀铜板，再压印出凹版画
+- **羊皮纸自制复原**（Parchment-making Revival） — 自制羊皮纸，处理皮张、刮薄并测试书写表面
+- **铁胆墨水复原**（Iron-gall Ink Revival） — 做「铁胆墨水复原」（Iron-gall Ink Revival）。
+- **手工书籍装订**（Bookbinding） — 做「手工书籍装订」（Bookbinding）。
+- **摇椅Windsor椅**（Windsor Chairmaking Guilds） — 按Windsor结构制作弯木摇椅，练蒸木与榫接
+- **日式指物Sashimono**（Sashimono Joinery Practice） — 不用钉子，把木构件精确嵌接成日式家具
+- **活版印刷（Letterpress）**（Letterpress Printing） — 排铅字上油墨印海报名片，玩活版触感
+- **灯会绸扎灯彩作坊**（Silk-frame Lantern Craft Workshops） — 用绸布和竹篾扎灯，制作灯会悬挂与照明结构
+- **手工抄纸水印**（Hand-papermaking Watermarks） — 手工抄纸嵌入水印，设计网纹并测试透光识别
+- **科普特装订缝法**（Coptic Stitch Bookbinding） — 用科普特缝法装订书册，练多针线槽与裸背结构
+- **吉普尼彩绘**（Jeepney Art） — 做「吉普尼彩绘」（Jeepney Art）。
+- **阿莱布里赫斯木雕**（Alebrijes Wood Carving） — 雕绘阿莱布里赫斯幻想动物木雕上色
+- **塔德拉科特灰泥**（Tadelakt） — 做「塔德拉科特灰泥」（Tadelakt）。
+- **宜兴紫砂壶**（Yixing Zisha Teapots） — 做「宜兴紫砂壶」（Yixing Zisha Teapots）。
+- **建盏**（Jianzhan Tenmoku） — 做「建盏」（Jianzhan Tenmoku）。
+- **瓦哈卡黑陶**（Barro Negro of Oaxaca） — 做「瓦哈卡黑陶」（Barro Negro of Oaxaca）。
+- **韩国甕器**（Onggi） — 做「韩国甕器」（Onggi）。
+- **美式古典家具复作**（American Period Furniture Making） — 测绘老家具结构，选木、榫接并复作美式古典样式
+- **柴窑木炭烧制**（Charcoal-burning Kiln Craft） — 用柴窑烧木炭，控制缺氧、温度和炭块成色
+- **轮伐Coppicing**（Coppicing Woodland Craft） — 轮伐萌蘖树木，规划短周期柴薪、篱材与生境更新
+- **金缮修复实践圈**（Kintsugi Repair Practice Circles） — 用漆灰和金粉修补裂瓷，练金缮的接缝与肌理
+- **面具雕刻兄弟会工坊**（Ritual Mask Carving Confraternity Workshop） — 雕刻节庆面具，练木材塑形、上色与传统纹样
+- **黑陶与柴烧**（Wood-fired Ceramics） — 做「黑陶与柴烧」（Wood-fired Ceramics）。
+- **木勺刀削雕刻**（Spoon carving） — 做「木勺刀削雕刻」（Spoon carving）。
+- **燧石打制**（Flintknapping） — 做「燧石打制」（Flintknapping）。
+- **生木木作**（Green woodworking） — 做「生木木作」（Green woodworking）。
+- **皮革马鞍针缝**（Saddle stitching leather） — 用马鞍针法缝厚皮，练边距、拉力和鞍具修补
+- **石块平衡造型**（Rock balancing） — 做「石块平衡造型」（Rock balancing）。
+- **竹篾编织**（Bamboo weaving） — 做「竹篾编织」（Bamboo weaving）。
+- **腰机织带山地**（Backstrap-loom Mountain Weaving） — 用腰机织山地织带，练经纬张力、图案与传统技法
+- **G1MRA庭院铁路**（Gauge One Model Railway Association） — 铺设庭院铁路，调轨道、信号、机车和时刻表
+- **亡灵节巨型风筝共作**（Giant Kite Festival Making） — 用竹纸制作亡灵节巨型风筝，组装后放飞
+- **Dollfie梦人形**（Dollfie Dream） — 做「Dollfie梦人形」（Dollfie Dream）。
+- **新西兰模型工程MEANZ活蒸汽**（MEANZ Live Steam） — 制作可运行的活蒸汽模型，车削锅炉、连杆并试车
+- **船舶模型静态**（Static Ship-model Guilds） — 按图纸制作船体、甲板和索具，完成静态船模
+- **杜尔迦普迦泥塑神像共作**（Durga Puja Clay Idol Making） — 分工塑造杜尔迦泥像，晾干、上色后参加节庆
+- **法雅节尼诺特偶像制作**（Fallas Ninot Making） — 用纸浆和颜料制作法雅节尼诺特，参加街区展评
+- **花车纸塑泡沫雕塑队**（Parade Float Papier-mâché Sculpture Crews） — 用纸塑和泡沫做花车大型造型，配合队伍装配
+- **巴克霍木屑焚香**（Bukhoor Woodchip Fumigation） — 刨削巴克霍木屑焚香，比较木质、烟气和余韵
+- **御家流组香竞技**（Oie-ryu Kumiko Incense Game） — 依御家流规则配香材，听题辨香并完成组香竞赛
+- **柯巴脂香炉实践**（Copal Copalera Practice） — 制作柯巴脂香炉，控制炭火温度并记录树脂香气
+- **格拉斯业余调香工坊**（Grasse Amateur Perfumery Workshops） — 按格拉斯调香法混合前中后调，做小样评香
+- **沉香品香会**（Agarwood Oud Appreciation Circles） — 观察沉香树脂、产区与熟化，练隔火熏闻和记录
+- **独立天然调香**（Indie Natural Perfumery） — 蒸馏或浸泡植物精油，调配天然香水并做稳定性测试
+- **线香手卷制香**（Hand-rolled Incense Craft） — 手卷竹芯线香，调整香粉比例、黏结度与燃速
+- **缅甸漆器Yun业余**（Burmese Yun Lacquerware） — 制作缅甸Yun漆器，髹漆、刻纹并施传统装饰
+- **越南磨漆画Son mai业余**（Vietnamese Son mai Lacquer Painting） — 练越南磨漆画，逐层髹漆、研磨并嵌入色彩纹样
+- **墨西哥Olinala漆**（Olinalá Lacquer） — 做「墨西哥Olinala漆」（Olinalá Lacquer）。
+- **沉金Chinkin**（Chinkin Lacquer Engraving） — 在漆层上刻出纹样并填金，实践沉金Chinkin的细密装饰
+- **莳绘**（Maki-e） — 做「莳绘」（Maki-e）。
+- **越南磨漆画**（Vietnamese Sơn Mài） — 做「越南磨漆画」（Vietnamese Sơn Mài）。
+- **轮岛涂**（Wajima-nuri） — 做「轮岛涂」（Wajima-nuri）。
+- **镰仓雕**（Kamakura-bori） — 做「镰仓雕」（Kamakura-bori）。
+- **日本漆艺**（Japanese urushi lacquer craft） — 以生漆髹涂器物，练研磨、罩漆和日本漆艺层次
+- **雕漆剔红业余**（Tixi Carved-lacquer Amateur） — 练雕漆剔红，以层层髹漆和剔刻呈现浮雕纹样
+- **螺钿镶嵌**（Mother-of-pearl lacquer inlay） — 嵌贝壳金属薄片入漆面，练螺钿切割、贴嵌与研磨
+- **玻璃珠火焰加工**（Flameworked Glass Beadmaking） — 以火焰软化玻璃棒，绕制珠体并退火打磨成形
+- **冰雪雕塑**（Snow & ice sculpture） — 做「冰雪雕塑」（Snow & ice sculpture）。
+- **工作室吹制玻璃**（Studio Glassblowing） — 做「工作室吹制玻璃」（Studio Glassblowing）。
+- **圣体节花毯共作**（Corpus Christi Flower Carpet Making） — 用花瓣、树叶和沙土铺出圣体节地面花毯
+- **坎波马约尔纸花街饰共作**（Campo Maior Paper Flower Street Decorating） — 折叠彩纸做坎波马约尔纸花，装饰整条街道
+- **墨西哥Talavera塔拉维拉陶**（Mexican Talavera Pottery） — 绘烧墨西哥Talavera锡釉彩陶盘砖
+- **泽利格镶嵌**（Zellige Mosaic） — 做「泽利格镶嵌」（Zellige Mosaic）。
+- **熔融玻璃窑铸**（Kiln-cast Glass Sculpture Hobby） — 把玻璃装入窑中熔融，做出厚实的透明铸件
+- **盆石Bonseki沙画**（Bonseki Tray Landscape） — 盆中铺砂置石，模拟山水并练Bonseki构图
+- **玉雕砣机业余**（Jade Rotary-tool Carving Amateur） — 用砣机慢慢磨玉料，练线条、开脸和抛光
+- **维乔尔珠饰**（Huichol Bead Art） — 做「维乔尔珠饰」（Huichol Bead Art）。
+- **花与棕榈兄弟会编饰**（Confraternity of Flowers and Palms Crafting） — 用花草和棕榈编制节庆装饰，参与兄弟会分工
+- **蜡画Encaustic**（Encaustic wax painting） — 以热蜡分区作画，层层上色完成Encaustic肌理
+- **乐烧Raku户外**（Raku Outdoor Firing Circles） — 在户外窑烧乐烧陶，控制快速升降温与釉面裂纹
+- **玛吉卡Majolica彩绘**（Maiolica Tin-glaze Painting） — 用锡釉覆盖陶器，再画出明亮的花叶纹样
+- **青瓷还原釉试验**（Celadon Reduction-glaze Trials） — 还原气氛烧青瓷，调釉料、窑温和青色层次
+- **马赛克镶嵌**（Mosaic Arts） — 做「马赛克镶嵌」（Mosaic Arts）。
+- **珍珠鱼皮Galuchat**（Galuchat Shagreen） — 处理鱼皮、裁片并抛光，制作Galuchat表面与装饰构件
+- **鱼皮鞣制**（Fish-Leather Tanning） — 做「鱼皮鞣制」（Fish-Leather Tanning）。
+- **二风谷阿伊努attus树皮织**（Nibutani Ainu Attus Bark Cloth Weaving） — 剥取树皮纤维，搓线织布，学习阿伊努传统纹样
+- **京都型染katazome**（Kyoto Katazome Stencil Dyeing） — 用蜡防染和型纸刻纹，实践京都型染的套色工艺
+- **印度Kantha拼缝**（Kantha Embroidery） — 做「印度Kantha拼缝」（Kantha Embroidery）。
+- **日本Boro拼缀实践**（Boro Mending Practice） — 以旧衣拼缀Boro纹理，练补强、配色与手工缝线
+- **日本Sakiori裂织**（Sakiori Rag Weaving） — 用旧布条织Sakiori裂织，安排经纬并做耐磨测试
+- **组纽（Kumihimo）**（Kumihimo Braiding） — 在组纽台上编绳结，做手绳与装饰辫
+- **Nålbinding 单针编织**（Nålbinding） — 做「Nålbinding 单针编织」（Nålbinding）。
+- **Shibori 绞染**（Shibori） — 做「Shibori 绞染」（Shibori）。
+- **乌干达树皮布**（Ugandan barkcloth making） — 处理树皮纤维并拍打成布，练乌干达树皮布纹理
+- **中亚Ikat扎经染织**（Central Asian Ikat Weaving） — 中亚Ikat先扎经再织出模糊花纹
+- **加纳Kente肯特织布**（Ghanaian Kente Weaving） — 织加纳肯特布条纹几何图案，传统织机
+- **印度Bandhani扎染**（Bandhani Tie-Dye） — 做印度Bandhani细点扎染，捆结入染缸
+- **印度Kalamkari手绘染**（Kalamkari Hand-Painted Cloth） — 手绘染料做Kalamkari叙事纹样布
+- **印度巴基斯坦Ajrakh块印**（Ajrakh Block Printing） — 用木版印Ajrakh几何纹，靛蓝与茜草染
+- **墨西哥Rebozo披肩织造**（Mexican Rebozo Weaving） — 织墨西哥Rebozo披肩，练细密条纹与流苏
+- **安第斯背带织机织造**（Andean Backstrap Loom Weaving） — 用安第斯背带织机织条纹与提花带
+- **巴拿马Guna Mola莫拉贴布**（Guna Mola Appliqué） — 缝巴拿马Guna莫拉反向贴布图案
+- **菲律宾Tnalak织梦布**（Tnalak Dream Weaving） — 织菲律宾Tnalak梦纹布，植物染麻线
+- **西非Bogolan泥染布**（Bogolan / Mudcloth Making） — 西非泥染Bogolan用泥土矿物画符号
+- **康吉瓦拉姆丝织**（Kanchipuram Silk Weaving） — 织康吉瓦拉姆丝织纱丽重纬金线
+- **松吉织**（Songket Weaving） — 做「松吉织」（Songket Weaving）。
+- **树皮布制作**（Tapa Cloth Making） — 做「树皮布制作」（Tapa Cloth Making）。
+- **阿丁克拉印染**（Adinkra Cloth Stamping） — 用阿丁克拉印章在布上印象征符号
+- **墨西哥纸扎剪纸作坊**（Papel Picado Festival Workshops） — 用彩纸剪出墨西哥节庆纹样，做成立体街饰
+- **天然染色季节共染坊**（Seasonal Natural Dye Collective Vat） — 按季节采集植物并共染，记录媒染剂与色彩变化
+- **天然植物染色**（Natural Dyeing） — 做「天然植物染色」（Natural Dyeing）。
+- **柳编 / 篮筐编织**（Basket Weaving） — 做「柳编 / 篮筐编织」（Basket Weaving）。
+- **椰壳纤维绳**（Coir Rope-making Hobby） — 做「椰壳纤维绳」（Coir Rope-making Hobby）。
+- **苎麻绩麻织**（Ramie Degumming and Weaving） — 把苎麻剥纤、绩线，再织成耐用的麻布
+- **荨麻纤维提取**（Nettle-fiber Extraction Craft） — 浸泡荨麻茎秆，分离长纤维再纺线
+- **菠萝纤维Piña**（Piña Pineapple-fiber Weaving） — 把菠萝叶纤维抽出捻线，织成轻薄的Piña布
+- **蕉纤维织布**（Banana-fiber Cloth Weaving） — 剥取蕉树纤维，理顺后纺线织成布面
+- **狂欢节羽毛装束作坊**（Carnival Feather Costume Ateliers） — 为狂欢节制作羽毛头饰和服装，练结构与配色
+- **约鲁巴Adire**（Yoruba adire indigo resist dyeing） — 以蜡防染靛染约鲁巴Adire布，设计重复纹样
+- **诺肯结袋社群实践**（Noken Knot-bag Making） — 用绳结编诺肯袋，练结构、收口和传统图案
+- **阿尔萨杜织造聚会**（Al Sadu Weaving Gatherings） — 跟着阿尔萨杜织法织几何纹样，交流图案与技法
+- **阿波蓝染蓝瓮**（Aizome Japanese indigo vat dyeing） — 以蓼蓝建蓝染布，控制蓝瓮还原并叠染阿波色阶
+- **冲绳红型Bingata染**（Okinawan Bingata Dyeing） — 施蜡防染冲绳红型，套色完成鲜艳织物纹样
+- **南通蓝印花布印染**（Nantong Blue Calico Printing） — 刻蜡防染并套印蓝布，复原南通民间纹样
+- **土耳其水拓Ebru艺术**（Turkish Ebru Marbling） — 在水面铺色作纹，转印土耳其Ebru流动图案
+- **毛利亚麻编织Raranga**（Māori Harakeke Raranga Weaving） — 处理harakeke亚麻，编织毛利Raranga器物
+- **韩纸Hanji工艺**（Korean Hanji Papermaking） — 抄制韩纸纤维，刷染压花并做纸灯或书页
+- **埃及纸莎草复原**（Papyrus Making Revival） — 剥纤、铺片并压制纸莎草，复原埃及书写材料与制作工序
+- **型纸Katagami**（Katagami Stencil Making） — 刻制型纸、固定染版并套色，学习Katagami纸型工艺
+- **墨流し**（Suminagashi） — 做「墨流し」（Suminagashi）。
+- **宣纸制作**（Xuan Paper Making） — 做「宣纸制作」（Xuan Paper Making）。
+- **和纸抄纸**（Washi handmade papermaking） — 手工打浆抄和纸，调整纤维、帘纹与干燥质感
+- **夏威夷拼布**（Hawaiian Quilting） — 做「夏威夷拼布」（Hawaiian Quilting）。
+- **安德岛花边业余**（Åland Bobbin Lace Hobby） — 用安德岛技法编结花边，练针路、图案与边缘收口
+- **梭织与桌面织机**（Handweaving） — 做「梭织与桌面织机」（Handweaving）。
+- **毛利Taniko**（Māori tāniko finger weaving） — 用毛利Taniko织带，练几何纹样、经纬密度与收边
+- **手纺轮DropSpindle**（Drop-spindle Handspinning） — 用落纱锭拉出均匀毛线，练纺线和捻度
+- **湿毡蒙古包饰**（Wet-felted Yurt Ornament Craft） — 用湿毡做蒙古包的毡饰，拼接纹样和边饰
+- **纳毡NunoFelting**（Nuno Felting Scarf Circles） — 把薄羊毛层与布料湿压在一起，做成柔软织物
+- **秘鲁背带织机业余**（Peruvian Backstrap Loom Hobby） — 用秘鲁背带织机织带，调经线张力并复原传统纹样
+- **冰岛羊毛Lopi编织**（Icelandic Lopi Knitting Guilds） — 以Lopi羊毛编织冰岛毛衣，练双色提花和无缝结构
+- **阿米什拼布传统**（Amish Quilt Tradition Circles） — 用拼布块组合几何图案，研究阿米什配色与手缝
+- **英国篮筐公会**（Basketmakers Association） — 用柳条编篮，学习英国篮筐公会的传统结构和收口技法
+- **苏格兰花呢格子织补**（Scottish Tartan Darning Circles） — 修补苏格兰花呢格子，匹配色线、格纹与织物纹理
+- **设得兰羊毛周编织**（Shetland Wool Week） — 做「设得兰羊毛周编织」（Shetland Wool Week）。
+- **日本刺绣NihonShishu**（Nihon Shishu Silk Embroidery） — 用日本传统针法绣花鸟纹样，讲究针脚与配色
+- **水手绳结装饰**（Decorative Sailor Knotwork） — 练八字结、平结等水手结，把绳结做成装饰
+- **玛克拉Macramé结构**（Structural Macramé Furniture Knots） — 用绳结搭出立体网格、壁饰和悬挂结构
+- **金线绣OrNué**（Or Nué Goldwork Embroidery） — 以金线压住底布，绣出闪亮的Or Nué图案
+- **刺し子可见缝补**（Sashiko Visible Mending） — 用加固针脚拼接可见补丁，实践刺し子的几何构图
+- **云锦Yunjin**（Nanjing Yunjin Brocade） — 研究云锦织机和纹样结构，练妆花、配色与织造记录
+- **友禅染**（Yūzen） — 做「友禅染」（Yūzen）。
+- **结城紬**（Yūki-tsumugi） — 做「结城紬」（Yūki-tsumugi）。
+- **缂丝**（Kesi Tapestry） — 用多色纬线织出缂丝画面，练通经断纬与纹样分区
+- **乌克兰蜡绘蛋**（Pysanky） — 做「乌克兰蜡绘蛋」（Pysanky）。
+- **绒花Ronghua**（Ronghua Silk Floss Flowers） — 以丝线缠绕花瓣和枝叶，制作绒花并研究传统造型
+- **英国装帧协会SoB**（Society of Bookbinders） — 折页、配帖并装订书册，学习英国装帧协会的传统技法
+- **英国钟表学院修表实践**（British Horological Institute） — 拆解机械表、清洗零件并校准走时，练习学院派修表流程
+- **因纽特Kamik缝制**（Inuit kamik / sealskin sewing） — 按寒地靴形制裁皮缝Kamik，练毛皮接缝与防水
+- **夏威夷羽作Hulu**（Hawaiian featherwork (hulu)） — 以羽毛拼制夏威夷Hulu饰物，研究颜色、排列和基底
+- **船民Scrimshaw**（Scrimshaw craft practice） — 雕刻鲸骨或木材表现海事图景，练Scrimshaw线刻
+- **块炼铁复原炉**（Bloomery Iron Revival Furnaces） — 搭建块炼铁复原炉，控制木炭风量并观察出铁
+- **大马士革钢花纹焊业余**（Damascus Pattern-weld Hobby） — 锻焊大马士革钢，叠层、折叠并显现花纹组织
+- **乌银Niello镶嵌**（Niello Inlay Metalwork） — 在银器上嵌黑色硫化物，练Niello填槽、烧结与修面
+- **景泰蓝掐丝珐琅**（Cloisonné Enamel Wirework） — 拉丝掐丝填釉烧制珐琅，练景泰蓝胎体与色层
+- **金工錾花Chasing**（Chasing and Repoussé Metalwork） — 用錾子锤击金属纹样，练Chasing浮雕、退火和抛光
+- **锡镴Pewter旋压**（Pewter Spinning and Casting） — 旋压锡镴器皿，练车床成形、退火和表面纹理
+- **ABS 刃匠 / 刀剑锻造**（ABS Bladesmithing） — 按ABS标准锻刀热处理，磨刃测硬度
+- **艺术铁匠 / 锻造雕塑**（Artistic Blacksmithing） — 热锻铁艺雕塑，锤打卷曲与铆接造型
+- **飞蝇绑饵（Fly Tying）**（Fly Tying） — 做「飞蝇绑饵（Fly Tying）」（Fly Tying）。
+- **日本水引Mizuhiki**（Mizuhiki Knotted Cord） — 编结日本水引，练结型、配色与礼品装饰
+- **金银细丝Filigree**（Filigree Metalwork） — 拉制金银细丝并焊接纹样，制作Filigree首饰
+- **寄木细工Yosegi**（Yosegi-zaiku） — 做「寄木细工Yosegi」（Yosegi-zaiku）。
+- **开窗珐琅Plique**（Plique-à-jour） — 做「开窗珐琅Plique」（Plique-à-jour）。
+- **托莱多嵌金**（Toledo Damascening） — 做「托莱多嵌金」（Toledo Damascening）。
+- **木目金**（Mokume-gane） — 做「木目金」（Mokume-gane）。
+- **比德里合金**（Bidriware） — 做「比德里合金」（Bidriware）。
+- **江户切子**（Edo Kiriko） — 做「江户切子」（Edo Kiriko）。
+- **波斯细木嵌Khatam**（Khatamkari） — 做「波斯细木嵌Khatam」（Khatamkari）。
+- **组子Kumiko**（Kumiko） — 做「组子Kumiko」（Kumiko）。
+- **库巴拉菲亚织**（Kuba Raffia Textiles） — 做「库巴拉菲亚织」（Kuba Raffia Textiles）。
+- **露兜叶编Lauhala**（Lauhala Weaving） — 做「露兜叶编Lauhala」（Lauhala Weaving）。
+
+## 摄影影像
+
+- **日影超长曝光**（Solargraphy Pinhole Exposures） — 让相纸长期记录太阳轨迹，测季节、曝光与遮挡变化
+- **树胶重铬酸盐**（Gum Bichromate Printers） — 用树胶重铬酸盐制版，涂布曝光并显出颗粒影调
+- **溴油bromoil工艺**（Bromoil Process Printers） — 将银盐照片转制溴油版，擦墨塑造绘画式影像
+- **湿版火棉胶摄影**（Wet Plate Collodion Photography） — 配火棉胶药液拍湿版，现场显影玻璃负片
+- **达盖尔银版摄影社群**（Daguerreotype Practice Community） — 镀银铜板抛光曝光，制作达盖尔银版影像
+- **凡戴克棕印**（Van Dyke Brown） — 拍「凡戴克棕印」（Van Dyke Brown）。
+- **植物显影Anthotype**（Anthotype） — 拍「植物显影Anthotype」（Anthotype）。
+- **盐纸印相**（Salt Print） — 拍「盐纸印相」（Salt Print）。
+- **腐蚀漂白Mordancage**（Mordançage） — 拍「腐蚀漂白Mordancage」（Mordançage）。
+- **锡版照相Tintype**（Tintype Ferrotype） — 涂布银盐乳剂并曝光显影，制作锡版照相的金属影像
+- **固定绳攀登摄影**（Fixed-rope climbing photography） — 沿固定绳上岩壁取景，兼顾攀登安全与长焦构图
+- **蛋白印相业余**（Albumen Print Practice） — 制作蛋白印相，涂布感光乳剂并控制曝光显影
+- **树胶油画感光**（Oil-print Photographic Process） — 用树胶乳剂和颜料制版，再晒出油画感照片
+- **碳印CarbonTransfer**（Carbon Transfer Printing） — 把影像转成颜料碳层，压印出耐久的碳印
+- **英国摄影收藏家俱乐部**（Photographic Collectors Club of GB） — 研究摄影藏品版本、签名与保存，建立作品档案
+- **区域曝光ZoneSystem**（Zone System Exposure Circles） — 按区域曝光控制底片与相纸，让黑白层次可预期
+- **NSA立体摄影**（NSA Stereoscopy） — 拍「NSA立体摄影」（NSA Stereoscopy）。
+- **红外胶片摄影实践**（Infrared Film Photography） — 装载红外胶片拍植物，测试滤镜、对焦和反差
+- **针孔相机自制**（Pinhole Camera Building Clubs） — 自制针孔相机，计算焦距、曝光并冲洗低反差影像
+- **针孔摄影鞋盒社**（Shoebox Pinhole Camera Clubs） — 用鞋盒制作针孔相机，测试曝光并记录成像效果
+- **高角度绳索摄影**（High-angle Rope Access Photography） — 用绳索到高处布置机位，控制相机、保险与俯拍构图
+- **旁轴取景器灰雾抛光**（Rangefinder Finder Fog Polish） — 清理旁轴取景器灰雾，练拆装、抛光与成像检查
+- **遮光罩内壁反光消除植绒**（Hood Flocking Reflection Kill） — 给遮光罩内壁植绒，消除反光并比较画面对比度
+- **镀膜干涉色识别训练**（Coating Interference Color ID） — 观察镜头镀膜干涉色，按角度、光源与色调训练识别
+- **镜头眩光作为创作素材库**（Lens Flare Capture Libraries） — 利用镜头眩光创作，比较光源角度并整理影像样本
+- **快门声采样作为打击乐素材库**（Shuttersound Percussion Banks） — 采样快门声，清理噪点并建立打击乐素材库
+- **快门次数与声纹关联观察**（Actuation Count vs Sound Watch） — 记录相机快门次数与声纹，比较速度、机型和机械变化
+- **风筝航拍KAP实践**（Kite Aerial Photography） — 让风筝升到稳定高度，操控航拍相机并规划空中取景
+- **航空运动摄影**（Air Sports Photography） — 在空中运动场景中追踪主体，练远摄、快门和动态构图
+- **蓝晒Cyanotype实践圈**（Cyanotype Practice Circles） — 涂布感光乳剂并日晒显影，实践蓝晒的曝光与冲洗控制
+- **铂钯印相工作室社群**（Platinum Palladium Print Workshops） — 涂布铂钯药液制作接触印相，比较纸基、曝光和调色效果
+- **Film Shooters Collective胶片社**（Film Shooters Collective） — 用胶片相机拍摄、冲洗并交流底片，参加胶片摄影社群
+- **攀岩纪录片制作工艺**（Climbing Documentary Craft） — 规划攀岩拍摄机位，记录路线、动作与声音，完成纪录片
+- **安布罗版Ambrotype**（Ambrotype Wet-collodion Positives） — 用湿版火棉胶流程拍摄安布罗版，完成显影与装裱
+- **光绘摄影节社群**（Light Painting Night Festival Communities） — 在暗处挥动光源长曝，编排轨迹并完成光绘照片
+- **冰攀摄影**（Ice-climbing photography） — 背着相机攀冰壁，记录冰形、动作与低温曝光
+- **冲浪水中摄影**（Surf water photography） — 在水下跟拍冲浪者，练防水设备、浮潜路线与光线控制
+- **极光季节追逐摄影团**（Aurora Chasing Seasonal Photo Clubs） — 按极光预报追逐晴空，练夜景曝光和现场构图
+- **深水抱石摄影**（Deep-water solo photography） — 在水域岩壁旁拍抱石动作，处理防水、距离和快门时机
+- **翼装与跳伞摄影**（Skydiving and wingsuit photography） — 从安全距离记录翼装和跳伞动作，练长焦跟拍与空域判断
+- **乐摩LOMO实践**（Lomography） — 拍「乐摩LOMO实践」（Lomography）。
+- **自由潜水摄影**（Freediving photography） — 憋气下潜拍摄海底生物，练中性浮力与自然光构图
+- **荧光矿物紫外摄影**（Fluorescent Mineral UV Photography） — 用紫外光拍荧光矿物发光颜色层次
+- **基尔利安电晕摄影**（Kirlian Corona Photography） — 记录高压放电电晕图样，搭建安全电极并比较材料
+- **施利伦气流摄影**（Schlieren Airflow Photography） — 用施利伦装置拍气流折射，观察热流、喷流与涡旋
+
+## 收藏
+
+- **加拿大古董雪地摩托修复圈**（Antique & Classic Snowmobile Club of Canada） — 拆修古董雪地摩托，复原发动机、履带与老式涂装
+- **打孔卡片程序段收藏解读**（Punchcard Program Segment Reading） — 解读打孔卡程序段，辨识编码并复原早期流程
+- **电话卡芯片图案微型艺术志**（Phonecard Chip Art Logs） — 研究电话卡芯片图案，拍摄微型艺术并整理版式
+- **磁带卡设计收藏志**（Cassette Jcard Design Logs） — 收集磁带卡设计，比较封面版式与实体介质演变
+- **卡带与磁带交易圈**（Cassette Tape Collecting） — 收游戏卡带与音乐磁带，谈磁粉状态与交易价
+- **变形金刚玩具考据收藏**（Transformers Toy Collecting） — 考据变形金刚玩具模具代次与涂装差异
+- **同人音声与广播剧CD收藏**（Doujin Drama CD Collecting） — 收同人音声与广播剧CD，听声优本与限定特典
+- **绝版CD收藏**（Out-of-print CD Collecting） — 追绝版CD首压与限量盘，比母带与编号
+- **展会徽章交换典礼**（Convention Pin Trading Ceremony Circles） — 交换展会徽章，按主题、年份与活动来源整理
+- **帽针收藏**（Hatpin Collecting） — 收集帽针，辨认材质、徽饰与服饰搭配年代
+- **旅馆行李标签**（Hotel Luggage Labels） — 收集旅馆行李标签，按城市、年代与旅馆图样编目
+- **果箱标签收藏**（Fruit Crate Label Collecting） — 收集果箱标签，整理产地、品种、插画与包装演变
+- **立体视卡片**（Stereoview Cards） — 观看立体视卡片，比较双图构图、年代与立体成像效果
+- **签名板防伪紫外灯夜检**（Signed Plate UV Night Checks） — 用紫外灯检查签名板，辨认荧光差异并记录防伪线索
+- **限定活动章立体收藏展示柜**（Event Badge Shadowbox Displays） — 设计限定活动章展示柜，按系列、年份与层次陈列
+- **万智牌旧框收藏**（MTG Reserved List Collecting） — 收万智牌旧框珍品，辨年代边框与印刷细节
+- **印刷史与纸品收藏课**（Print History Ephemera Class） — 学习印刷史与纸品，比较纸张、版式与复制技术
+- **地图边框装饰纹样拓印**（Map Border Motif Rubbings） — 拓印地图边框纹样，比较不同地区的装饰语汇
+- **旅馆行李标签年代字体墙**（Hotel Luggagetag Type Walls） — 整理旅馆行李标签，按年代和字体追踪旅行网络
+- **机票登机牌设计年代志**（Boarding Pass Design Chronology） — 收集机票登机牌，研究设计年代与航空版式
+- **火柴盒贴商标字体分类**（Matchbox Label Type Taxonomy） — 按字体与年代整理火柴盒商标，比较印刷工艺
+- **糖纸折叠说明书收藏**（Candywrap Fold Instruction Collect） — 收藏糖纸折叠说明书，记录品牌、折法与印刷内容
+- **老式明信片邮戳地理连线**（Postcard Postmark Geolinking） — 连线老明信片邮戳地点，研究邮路并标注地图
+- **车票磁条失效后图案收藏**（Dead Magstripe Ticket Art） — 收藏磁条失效车票，按线路、年份与背面图案整理
+- **火柴盒贴标**（Phillumeny Matchbox-label Collecting） — 收集火柴盒贴标，按年代、产地与图案整理
+- **航安须知卡收藏**（Airline Safety Card Collecting） — 整理航空安全须知卡，比较年代、航司设计与机型信息
+- **藏书票Ex libris**（Ex libris Bookplates） — 设计藏书票，研究版式、藏书者标记与版画印制
+- **雪茄腰标收藏**（Cigar Band Vitolphilia） — 保存雪茄腰标，辨认品牌、印刷工艺与产地信息
+- **无线电解码QSL卡片收藏**（QSL Card Collecting） — 收集无线电QSL卡，按电台、呼号、年代与地区编目
+- **矿石收音机自制与收藏**（Crystal Radio Building） — 制作矿石收音机，调试检波器并整理早期广播器材
+- **毛笔笔锋修尖传统技法班**（Brush Tip Reshape Classes） — 修整毛笔笔锋，练开锋、收锋与笔毫整齐度
+- **羽毛笔削尖角度练习社**（Quill Cutting Angle Clubs） — 练削羽毛笔尖，比较切面角度、分叉弹性与书写线宽
+- **钢笔笔尖研磨日志社**（Nib Grinding Log Clubs） — 研磨钢笔笔尖，调整出墨与笔画并记录手感
+- **过度清理包浆后悔案例会**（Overclean Patina Regret Forums） — 讨论过度清理包浆案例，比较修复伦理与保存策略
+- **西非青铜金权重收藏研**（Akan Goldweight Study Collections） — 研究西非青铜与金权重，比较造型、计量用途与地域
+- **加勒比嘉年华服装配件收藏**（Caribbean Carnival Costume Collecting） — 收加勒比嘉年华羽毛头饰与珠饰配件
+- **印尼Batik布收藏考据**（Indonesian Batik Cloth Collecting） — 收考印尼Batik蜡染布纹样产区年代
+- **印度细密画版画收藏**（Indian Miniature & Print Collecting） — 收印度细密画复制品与版画，比流派
+- **安第斯纺织品收藏**（Andean Textile Collecting） — 收藏安第斯纺织毯披肩，辨织法染料
+- **非洲传统货币器物收藏**（African Traditional Currency Object Collecting） — 收藏非洲传统货币刀铜棒等交易器物
+- **加拿大老式摩托车保存**（Canadian Vintage Motorcycle Group） — 修复并登记加拿大老式摩托车，保存车型、零件与骑行史
+- **幻灯魔术灯操作**（Magic-lantern Revival Projection） — 操作魔术灯，制作玻璃幻灯片并研究早期投影
+- **机械计算器复原操作**（Mechanical-calculator Revival Ops） — 拆装机械计算器，复原齿轮传动并进行算术操作
+- **香炉灰塑工具收藏**（Incense Ashsculpt Tool Collect） — 收集香炉灰塑工具，整理器形、材质与使用痕迹
+- **香篆模具铜器收藏养护**（Incense seal Mold Care） — 收藏养护香篆模具铜器，除尘并记录铸造纹理
+- **香篆灰塑保持形态湿度窗测**（Ashsculpt Humidity Window Tests） — 测香篆灰塑形湿度，调整环境并保持线条完整
+- **鼻烟壶内画放大观赏会**（Snuffbottle Interior Painting View） — 用放大镜看鼻烟壶内画，比较笔触、落款与题材
+- **烟斗石楠根收藏**（Briar Pipe Collecting） — 观察石楠根纹理与烟斗形制，整理产地、工艺和使用痕迹
+- **鼻烟壶收藏鉴赏**（Snuff Bottle Collecting） — 按材质与雕工鉴赏鼻烟壶，记录内画、胎体和年代
+- **鼻烟盒与鼻烟**（Snuffbox and Snuff Collecting） — 研究鼻烟配方与盒制，品闻粉末香气并辨材质年代
+- **Zippo打火机专项收藏**（Zippo Collecting） — 集Zippo机身与底刻年代码，辨真伪与限量款
+- **打字机收藏与维修**（Typewriter Collecting） — 修老打字机色带与字锤，收藏机型并实际打字
+- **根付收藏**（Netsuke Collecting） — 藏「根付收藏」（Netsuke Collecting）。
+- **开瓶器收藏**（Corkscrew Collecting） — 收集开瓶器，按结构、材质与广告来源整理类型谱系
+- **封蜡印章金属模收藏**（Sealingwax Matrix Collect） — 收藏封蜡印章金属模，辨识纹样并整理铸造年代
+- **铜锁锈层稳定化处理社**（Copper Lock Rust Stabilizing） — 稳定铜锁锈层，清洁表面并控制包浆保留程度
+- **火山弹形态分类柜**（Volcanic Bomb Form Cabinets） — 分类火山弹形态，记录气孔、矿物与喷发环境
+- **琥珀内含物显微摄影社**（Amber Inclusion Microphoto Clubs） — 显微拍摄琥珀内含物，辨认植物与昆虫并建档
+- **矿物密度液体排法业余测**（Mineral Density Displacement Hobby） — 用液体排量测矿物密度，记录称量、体积与误差
+- **矿物鉴定光学基础业余**（Mineral ID Optics Hobby） — 用偏光镜观察矿物，辨别双折射、干涉色与晶体特征
+- **怀表发条盒钥匙匹配收藏**（Pocketwatch Key Matching） — 匹配怀表发条盒钥匙，测量规格并整理配件档案
+- **机械计算机齿轮啮合展示**（Mechanical Calculator Gear Displays） — 展示机械计算机齿轮啮合，调校传动并讲解运算逻辑
+- **舒格拉斯Shaker家具研究**（Shaker Furniture Study Circles） — 研究Shaker家具比例，测绘榫卯、木材与简朴表面
+- **艺术与手工艺运动家具**（Arts-and-Crafts Furniture Collectors） — 按艺术与手工艺运动原则制家具，练木工榫接与纹理
+- **玻璃绝缘子收藏**（Glass Insulator Collecting） — 辨识玻璃绝缘子型号，记录颜色、厂标与电力线路背景
+- **MG车主俱乐部**（MG Car Club） — 藏「MG车主俱乐部」（MG Car Club）。
+- **铁丝网标本收藏**（Barbed Wire Collecting） — 收集铁丝网标本，比较编织结构、线径与历史用途
+- **自由式摔角面具收藏**（Lucha Libre Mask Collecting） — 收藏墨西哥自由式摔角彩色面具
+- **傩戏面具彩绘颜料传统复原**（Nuo Mask Pigment Revival） — 复原傩戏面具彩绘，配颜料并试验底色、纹样层次
+- **伽罗香木收藏**（Kyara Agarwood Collecting） — 辨认伽罗香木纹理与香气，记录产地、等级和收藏来源
+- **伽罗碎片密封瓶轮换观香**（Kyara Shard Sealed Rotation） — 轮换密封瓶观赏伽罗碎片，记录香气变化与保存状态
+- **美国国家纽扣学会**（National Button Society） — 按材质、年代和图案编纽扣目录，研究服饰工艺
+- **英国纽扣收藏俱乐部**（British Button Society） — 按材质、年代与徽记整理纽扣，研究服饰扣件的来源与用途
+- **八音盒滚筒打孔自制**（Music-box Disc Punching Hobby） — 给八音盒滚筒打孔，编排音符并调试机械演奏
+- **自动乐器滚筒修复实践**（Mechanical Music Restoration Practice） — 拆解自动乐器滚筒，修复销钉、纸卷和驱动机构
+- **Curta计算器收藏圈**（Curta Calculator Collectors） — 辨识Curta型号、清洁机构并记录序列，保存便携计算器
+- **计算尺收藏会Oughtred**（Oughtred Society Slide Rules） — 收藏并校准Oughtred计算尺，研究刻度、型号与使用方法
+- **古董缝纫机收藏修复**（Antique Sewing Machine Collecting） — 清洁、调校并修复老缝纫机，记录机型结构和使用痕迹
+- **美国古董电扇协会AFCA**（Antique Fan Collectors Association） — 清洁修复古董电扇，辨电机、叶片、罩网与年代
+- **手拣铅字与字柜**（Hand Typesetting California Job Case） — 按字号与字体从字柜拣铅字，排版后清点归位
+- **热金属排铸机操作**（Hot Metal Typesetting Operation） — 操作热金属排铸机，将铅字排成版面并校对印样
+- **图森宝石矿物展社群**（Tucson Gem and Mineral Show Community） — 逛图森展会辨宝石矿物，比较产地、切工与标本等级
+- **日本水石鉴赏**（Japanese Suiseki Appreciation） — 鉴赏日本水石盆景式摆石与底座
+- **美国切磨师公会宝石切面**（US Faceters Guild Faceting） — 按美国切磨师公会标准切面宝石琢型
+- **雨花石鉴赏收藏**（Yuhua Stone Appreciation） — 观察雨花石纹理色带，按形态、包浆与产地分类
+- **航海六分仪使用俱乐部**（Sextant Celestial Navigation Clubs） — 用六分仪测高度角，练航海定位、误差修正与航迹记录
+- **代用币Token专社**（Exonumia Token Societies） — 收集代用币，辨认发行场所、材质与流通用途
+- **紧急货币Notgeld**（Notgeld Emergency-money Collecting） — 收集Notgeld紧急货币，辨认发行地、图案与版别
+- **气动邮管爱好操作**（Pneumatic-tube Mail Hobby Ops） — 复原气动邮管，测试胶囊、气压与站点传送流程
+- **压纹拉长币**（Elongated Coins） — 收集压纹拉长币，比较图案、机器地点与金属坯材
+- **地铁票卡收藏交换会**（Transit Ticket & Card Swap Meets） — 收藏并交换地铁票卡，整理线路、年份与版式变化
+- **税票Fiscal集邮**（Fiscal Stamp Collecting） — 按发行地、年份和图案整理税票，辨水印、齿孔与真伪
+- **证券收藏Scripophily**（Scripophily） — 研究证券票面、印章与发行史，整理Scripophily档案
+- **珐琅徽章交易**（Enamel Pin Trading） — 藏「珐琅徽章交易」（Enamel Pin Trading）。
+- **电话卡收藏**（Phonecard Collecting） — 藏「电话卡收藏」（Phonecard Collecting）。
+- **铁路票证与Railwayana**（Railwayana） — 藏「铁路票证与Railwayana」（Railwayana）。
+- **非洲独立题材邮票专题收藏**（African Independence Thematic Philately） — 专题收集非洲独立题材邮票发行史
+
+## 旅行探索
+
+- **激流水橇漂流**（Hydrospeed river travel） — 穿水橇顺激流漂行，练入水、转向和河道判断
+- **洲际火车通票旅行**（Eurail Interrail Travel） — 用Eurail等通票连坐多国火车，追风景与铁路时刻
+- **运河窄船IWA**（IWA Narrowboat Canal Cruising） — 驾驶窄船穿越运河，学习船闸操作、靠泊与水路礼仪
+- **雪地风筝远征**（Snowkite expedition travel） — 借雪地风筝牵引滑行，规划风向、补给和远征营地
+- **墓碑研究AGS**（Association for Gravestone Studies） — 考察墓碑材质、碑文与年代，建立墓园影像和位置档案
+- **灯塔打卡ALK**（Lighthouse Bagging ALK） — 按灯塔路线规划旅程，记录建筑、海况与开放信息
+- **工业考古业余记录**（Industrial Archaeology Hobby） — 探废弃工厂铁路，拍照记录工业遗构与变迁
+- **大地基准点Benchmark hunting**（Benchmark Hunting） — 寻找旧大地基准点，核对坐标、标志状态与历史地图
+- **经纬度会合点Degree confluence**（Degree Confluence Project） — 前往整数经纬度会合点，完成定位、拍摄与现场记录
+- **旅中衣物就地织补挑战**（Travel Visiblemend Challenges） — 旅行中就地织补衣物，利用随身材料完成加固与修复
+- **西国三十三所观音巡礼**（Saigoku Kannon Pilgrimage） — 规划西国三十三所巡礼，步行参拜并记录寺院行程
+- **修验道大峰奥駈**（Shugendō Ōmine okugake） — 沿修验道攀行朝圣，记录峰谷、社寺与传统山岳仪式
+- **克罗帕特里克山朝圣**（Croagh Patrick pilgrimage） — 攀登克罗帕特里克山朝圣，记录站点、步程与宗教传统
+- **冈仁波齐转山**（Kailash kora） — 走访「冈仁波齐转山」（Kailash kora）。
+- **出羽三山修验**（Dewa Sanzan yamabushi） — 走访「出羽三山修验」（Dewa Sanzan yamabushi）。
+- **加尔各答杜尔迦普迦观礼**（Durga Puja Cultural Visit） — 在加尔各答参加杜尔迦普迦，观看神像巡游与鼓乐
+- **四国遍路徒步**（Shikoku Henro walking pilgrimage） — 分段走完四国遍路，记录札所、里程和寺宿
+- **国民信托庄园探访**（National Trust House Visiting） — 参观国民信托庄园，研究建筑、园林与保护修复
+- **圣地亚哥之路徒步朝圣**（Camino de Santiago walking pilgrimage） — 背包徒步走圣地亚哥之路，盖章并体验朝圣住宿
+- **埃尔卡亚俄狂欢节参与**（El Callao Carnival Participation） — 在埃尔卡亚俄狂欢节看乐队、舞蹈和面具巡游
+- **宋干节泼水文化参与**（Songkran Water Festival Participation） — 在宋干节参加泼水、浴佛与社区庆典，尊重当地礼俗
+- **富士讲登山巡礼**（Fuji-kō mountain pilgrimage） — 沿富士讲旧路线登山参拜，了解讲社组织与巡礼仪式
+- **巴兰基亚狂欢节文化参与**（Barranquilla Carnival Participation） — 跟随巴兰基亚狂欢节看舞队、鼓乐和街头巡游
+- **弗兰奇杰纳之路**（Via Francigena） — 走访「弗兰奇杰纳之路」（Via Francigena）。
+- **斯里帕达夜登**（Adam's Peak night climb） — 夜间攀登斯里帕达，准备头灯、补给并观察朝圣队列
+- **梅斯克尔篝火节文化观礼**（Meskel Bonfire Cultural Visit） — 在梅斯克尔节看十字架、篝火和夜间礼仪活动
+- **熊野古道参诣步行会**（Kumano Kodo Pilgrimage Walking Groups） — 沿熊野古道徒步，做参诣记录并体验宿坊与古社
+- **科伊尤里蒂高地巡礼徒步**（Qoyllurit'i Pilgrimage Trek） — 沿科伊尤里蒂高地徒步，参加高原巡礼与节庆
+- **阿巴拉契亚步道全程徒步**（Appalachian Trail thru-hiking） — 规划补给和营地，连续走完阿巴拉契亚步道
+- **阿鲁纳查拉转山**（Arunachala girivalam） — 走访「阿鲁纳查拉转山」（Arunachala girivalam）。
+- **高野山巡礼**（Kōyasan pilgrimage） — 走访「高野山巡礼」（Kōyasan pilgrimage）。
+- **Gullah Geechee遗产走廊探访**（Gullah Geechee Cultural Heritage Corridor） — 沿遗产走廊访问社区与遗址，记录Gullah Geechee文化故事
+- **新罕布什尔黑人遗产步道**（Black Heritage Trail of New Hampshire） — 沿黑人遗产步道参访历史地点，整理人物、建筑与地方档案
+- **欧洲犹太遗产路线旅行**（European Route of Jewish Heritage） — 规划欧洲犹太遗产路线，参访会堂、墓园并学习地方史
+- **美国国家公园护照盖章**（National Park Passport Cancellation） — 带国家公园护照实地打卡，收集印章并记录各园区路线
+- **玛丽莲山峰袋Marilyns**（Marilyn Bagging） — 按Marilyns峰表规划登山，逐座记录路线、海拔与天气
+- **科罗拉多十四座**（Colorado Fourteener Climbing） — 挑战科罗拉多十四座，规划高海拔攀登与补给恢复
+- **极地滑雪远征**（Polar Ski Expedition Travel） — 在极地环境规划滑雪远征，管理路线、装备、补给和营地
+- **火山实地旅行**（Volcano Field Travel） — 走访「火山实地旅行」（Volcano Field Travel）。
+- **哈德良长城国家步道**（Hadrian's Wall Path） — 沿哈德良长城步道徒步，观察遗址层次并记录补给与路况
+- **塔利林铁路保存会志愿**（Talyllyn Railway Preservation Society） — 维护窄轨铁路、整理车辆资料，并在保存会活动中协助运营
+- **比布鲁门步道基金会徒步**（Bibbulmun Track） — 走访「比布鲁门步道基金会徒步」（Bibbulmun Track）。
+
+## 棋牌桌游
+
+- **北美竞赛拼字NASPA**（NASPA Club Scrabble） — 练竞赛拼字词汇，研究词源、记忆法与限时策略
+- **加拿大跳棋**（Canadian Draughts Circles） — 按加拿大跳棋规则排兵布阵，练多跳、封锁与残局判断
+- **北欧塔夫棋Hnefatafl**（Hnefatafl Tafl Revival Circles） — 用Hnefatafl的围捕规则对弈，比较北欧棋局的攻守目标
+- **土耳其跳棋Dama**（Turkish Dama Draughts Circles） — 练习Dama的跳吃与连跳，熟悉土耳其跳棋的盘面策略
+- **埃塞俄比亚Senterej**（Senterej Ethiopian Chess Circles） — 从Senterej的特殊布局入手，练习埃塞俄比亚象棋残局
+- **泰国象棋Makruk**（Makruk Thai Chess Circles） — 摆开Makruk棋局，研究泰国象棋的子力、开局与残局
+- **缅甸象棋Sittuyin**（Sittuyin Burmese Chess Circles） — 按Sittuyin规则布置棋子，练习缅甸象棋的攻守转换
+- **蒙古象棋Shatar**（Shatar Mongolian Chess Circles） — 研究Shatar棋规与初始布局，实战蒙古象棋的攻防
+- **乌尔王族棋复原**（Royal Game of Ur Revival） — 复原乌尔王族棋，研究棋盘布局、骰子与走法
+- **塞尼特棋复原**（Senet Reconstruction Play） — 复原塞尼特棋盘与棋子，按古埃及规则试玩
+- **原子棋Atomic**（Atomic Chess Circles） — 研究原子棋爆炸规则，练邻近取舍与战术计算
+- **棋盘旋转变体**（Progressive Chess Circles） — 研究棋盘旋转规则，测试局面变化与策略平衡
+- **将棋业余**（Shogi amateur play） — 玩「将棋业余」（Shogi amateur play）。
+- **双陆棋/舍什贝什**（Backgammon / Shesh Besh） — 下中东双陆棋Shesh Besh，掷骰赶子
+- **莫拉巴拉巴棋**（Morabaraba） — 玩「莫拉巴拉巴棋」（Morabaraba）。
+- **五子棋连珠**（Renju Gomoku Clubs） — 玩「五子棋连珠」（Renju Gomoku Clubs）。
+- **通信国际象棋**（Correspondence Chess ICCF） — 通过邮寄棋局下通信国际象棋，练记录、分析与长线策略
+- **问题象棋构图**（Chess Problem Composition Circles） — 创作问题象棋题，安排唯一解并研究双将、牵制与主题
+- **WCA地方魔方会**（WCA Local Cube Meets） — 参加WCA魔方赛，练CFOP、计时、复原和赛场规范
+- **盲拧魔方**（Blindfolded Cubing） — 玩「盲拧魔方」（Blindfolded Cubing）。
+- **蒙古鹿棋业余**（Mongolian Deer Chess Hobby） — 玩蒙古鹿棋，研究鹿群走法与残局取势
+- **韩国尤茨Yut**（Yut-nori Board Play） — 玩「韩国尤茨Yut」（Yut-nori Board Play）。
+- **东南亚Congklak康克拉克**（Congklak / Congkak Mancala） — 玩东南亚Congklak贝壳播棋，比手速计算
+- **东非Bao四行曼卡拉**（Bao (East African Mancala)） — 下东非Bao四行播棋，算播种与吃子
+- **印度Carrom卡罗姆弹棋**（Carrom） — 玩「印度Carrom卡罗姆弹棋」（Carrom）。
+- **埃塞俄比亚Gebeta曼卡拉**（Gebeta Ethiopian Mancala） — 玩埃塞俄比亚Gebeta播棋坑洞取子
+- **斯里兰卡与南亚Pachisi帕奇西**（Pachisi / Ludo Ancestral Play） — 掷骰走南亚Pachisi十字棋盘赛跑
+- **蒙古Shagai羊踝骨游戏**（Shagai Ankle-Bone Games） — 玩蒙古Shagai羊踝骨投掷占卜游戏
+- **西非Oware曼卡拉**（Oware Mancala） — 玩「西非Oware曼卡拉」（Oware Mancala）。
+- **越南象棋Cờ tướng业余圈**（Vietnamese Xiangqi (Cờ tướng)） — 下越南象棋Cờ tướng，聊开局与残局
+- **非洲播棋Bao竞赛圈**（East African Bao Mancala Circles） — 玩非洲播棋Bao，练播子计算与连锁吃子
+- **janggi朝鲜将棋**（Janggi Korean Chess） — 按janggi规则布阵，练习朝鲜将棋的炮、马与攻城战术
+- **欧美Whist俱乐部传统**（Whist Club Tradition） — 研究Belgian Whist规则，练牌局策略与欧洲哨子牌玩法
+- **威斯康星Sheepshead牌戏**（Sheepshead） — 玩「威斯康星Sheepshead牌戏」（Sheepshead）。
+- **瑞士Jass牌戏**（Swiss Jass） — 玩「瑞士Jass牌戏」（Swiss Jass）。
+- **板凳球Bat and trap**（Bat and Trap） — 玩「板凳球Bat and trap」（Bat and Trap）。
+- **瑞典Kubb**（Kubb） — 玩「瑞典Kubb」（Kubb）。
+- **英国Shove ha'penny**（Shove Ha'penny） — 用推片控制硬币滑行，练Shove ha'penny的区域、力度与计分
+- **荷兰Sjoelen沙狐木**（Sjoelen） — 玩「荷兰Sjoelen沙狐木」（Sjoelen）。
+- **诺乌斯Novuss**（Novuss） — 玩「诺乌斯Novuss」（Novuss）。
+- **北美Mah Jongg联盟牌局**（National Mah Jongg League Play） — 按Mah Jongg联盟牌规组局，练读牌、叫牌与北美牌局节奏
+- **国际桌上冰球联合会赛**（International Table Hockey Federation） — 在桌上冰球场练推杆、反弹和防守，参加联合会赛事
+- **英国Carrom弹棋联赛**（UK Carrom Federation League） — 练Carrom的指法、反弹与收袋，参加英国俱乐部联赛
+- **英美Tiddlywinks翻片赛**（English Tiddlywinks Association） — 用指片弹翻片棋子，研究Tiddlywinks的角度、压片与得分
+- **德国Skat地方联赛**（German Skat Local Leagues） — 学习Skat叫牌、计分与三人牌局策略，参加德国地方联赛
+- **法国Belote俱乐部**（French Belote Club Play） — 按Belote牌规练叫牌、搭档配合与得分，参与法国俱乐部局
+- **荷兰Klaverjas牌局**（Klaverjas Dutch Card Clubs） — 用Klaverjas规则组局，练王牌判断、搭档协作与计分
+- **美国蹄铁投掷NHPA**（NHPA Horseshoe Pitching） — 调整蹄铁旋转与落点，练习投掷距离、准确性和赛事规则
+- **克罗基诺Crokinole**（Crokinole Board Clubs） — 弹射木片进洞得分，练Crokinole的力度、线路与防守
+- **沙盘足球Subbuteo**（Subbuteo Table-soccer Clubs） — 用桌面球员踢出传球与射门，体验Subbuteo联赛规则
+- **九人莫里斯复原**（Nine-mens-morris Revival Clubs） — 复原九人莫里斯棋盘，按历史规则进行对局
+- **卡套起雾季节性观察**（Sleeve Fog Seasonal Watch） — 观察卡套季节性起雾，记录温差、材质和卡牌保存状况
+- **卡牌圆角磨损测量尺自制**（Card Corner Wear Gauge DIY） — 自制卡牌圆角磨损量尺，记录弧度、边缘与套内磨耗
+- **骰子不平衡滚动统计检验业余**（Dice Bias Roll Stats Hobby） — 统计骰子滚动结果，检验偏心并比较不同表面
+- **骰子手感抛光艺术化**（Dice Feel Polish Artistry） — 抛光骰子并比较手感，调整圆角、纹理与投掷声音
+- **HMGS历史微缩兵棋**（Historical Miniatures Gaming Society） — 组装历史微缩兵棋，考据军制、地形并推演战役
+- **战棋六角棋社**（Hex-and-counter Wargame Clubs） — 用六角棋盘摆兵棋，推演地形、补给和单位协同
+- **Call of Cthulhu跑团**（Call of Cthulhu TTRPG） — 跑克苏鲁跑团，掷骰讲理智检定与恐怖调查
+- **现场角色扮演LARP社**（LARP Crew and Play Circles） — 设计角色和场景，在LARP现场用即兴表演推进故事
+- **OSR旧学派复兴圈**（Old School Renaissance） — 玩OSR旧派地下城，强调随机遭遇与资源紧张
+- **独立TRPG规则自制**（Indie TTRPG Design） — 自写TRPG规则书，测战斗流程与版面排印
+- **PoweredbyApocalypse变体**（PbtA Hack Circles） — 用PbtA机制改写规则，做剧本与玩法变体
+
+## 气候塑造的玩耍
+
+- **刘易斯篝火会游行**（Lewes Bonfire Society Processions） — 制作火把与灯笼，参与刘易斯篝火会的夜间游行
+- **设得兰火节UpHellyAa**（Up Helly Aa Fire Festival） — 制作维京长船花车，参加Up Helly Aa火炬巡游
+- **布莱顿烧钟节**（Burning the Clocks Brighton） — 制作并悬挂烧钟装置，参加布莱顿冬至火光活动
+- **国际扫帚球联赛圈**（International Broomball） — 在冰面练扫帚球传接、射门与团队轮转，参加冬季联赛
+- **冰上木瓶Eisstock**（Ice Stock Sport） — 季节玩「冰上木瓶Eisstock」（Ice Stock Sport）。
+- **Crokicurl冰上克罗克诺**（Crokicurl） — 季节玩「Crokicurl冰上克罗克诺」（Crokicurl）。
+- **DN级冰帆竞速**（DN Ice Yacht Racing） — 季节玩「DN级冰帆竞速」（DN Ice Yacht Racing）。
+- **芬兰冰洞冬泳Avanto**（Finnish Avanto Ice-hole Swimming） — 在Avanto冰洞水域进行短时冬泳，练入水与保温流程
+- **冰上克罗凯户外夜赛**（Ice Croquet Night Matches） — 在结冰场地打克罗凯，调整木槌力度与冰面路线
+- **冰上国际跳棋大型户外盘**（Outdoor Ice Draughts Boards） — 在大型冰盘下国际跳棋，练长距离吃子与局面判断
+- **冰上地壶家庭自制滑行面打磨**（Homemade Ice Shuffle Surface Laps） — 自制地壶滑行面，打磨冰面并测试壶速与线路
+- **冰上木瓶业余联赛**（Eisstock Amateur Leagues） — 参加冰上木瓶联赛，练投掷、滑行线路与冰面策略
+- **冰上沙狐球家庭联赛**（Ice Shuffleboard Home Leagues） — 在冰面推沙狐球，比较投掷力度、碰撞与计分策略
+- **冰上运动物理入门班**（Ice Sport Physics 101） — 用摩擦、压力和边缘效应理解冰上运动滑行
+- **池塘扫雪冰球邻里联赛**（Pond Hockey Neighbour Leagues） — 清理池塘积雪打冰球，按简化规则进行邻里赛
+- **冰厚市民众包验证抽样**（Ice Thickness Crowd Verify Samples） — 抽样复测民众上报冰厚，核对仪器读数与地点评估
+- **冰钓窝眼安全厚度测量社**（Icefishing Thickness Patrols） — 测量冰钓窝周围冰厚，记录温度、裂纹与安全余量
+- **冰钓窝社群共享厚度地图**（Icehole Thickness Shared Maps） — 汇总冰钓点厚度数据，绘制位置、日期与可用范围
+- **冰上钓鱼社群**（Ice Fishing Clubs） — 季节玩「冰上钓鱼社群」（Ice Fishing Clubs）。
+- **冰上风筝滑雪**（Snowkiting on Frozen Lakes） — 在冰面放风筝滑雪，练风力判断、转向与刹停
+- **冰河冰洞徒步**（Glacier Ice Cave Walk） — 徒步冰河冰洞，观察冰层结构并规划绳索安全
+- **冰灯与雪雕街区赛**（Neighborhood Ice-lantern & Snow Sculpture） — 雕刻冰灯与雪雕，参加街区赛并处理透光和结构
+- **冰酒午夜采收**（Eiswein Night Harvest） — 在低温夜间采收冰葡萄，记录糖度与冰酒酿制
+- **冻雨冰挂巡线**（Freezing Rain Ice Storm Walk） — 沿冻雨路线记录冰挂形态、路况与树木风险
+- **加拿大冰屋构筑周末**（Igloo-building Weekend Clubs） — 学习搭建加拿大冰屋，切冰、垒块并处理通风保温
+- **北极白夜骑行**（Midnight Sun Cycling） — 趁北极白昼骑行，规划路线并应对低温与风雪
+- **暴风雪后雪墙雕塑竞赛**（Postblizzard Snowwall Sculpt） — 用暴风雪后的雪墙创作雕塑，测试结构与融化速度
+- **芬兰冰洞泳俱乐部**（Finnish Avanto Clubs） — 在安全冰洞进行冷水游泳，练入水适应与呼吸控制
+- **雪地克罗克诺家庭联赛**（Snow Crokinole Home Leagues） — 在雪地玩克罗克诺，调整击球力度并进行家庭赛
+- **雪地帐篷烟囱安全守夜**（Snowtent Stove Night Watches） — 守夜检查雪地帐篷烟囱，记录通风、积雪与火源安全
+- **雪地迷宫夜间手电赛**（Snow Maze Torch Races） — 在雪地迷宫用手电竞速，练方向判断与夜间协作
+- **雪屋过夜技术班**（Quinzee Overnight Skill Classes） — 学搭雪屋并过夜，练雪块切割、通风与保温
+- **冰上滑车家制刹车试验**（Icesled Home Brake Trials） — 测试自制冰上滑车刹车，比较摩擦材料、制动距离与稳定性
+- **雪地风筝滑雪自由式社**（Snowkiting Freestyle Clubs） — 用风筝牵引雪地滑行，练控伞、转向与落地动作
+- **候鸟过境守夜**（Nocturnal Migration Watch） — 守候候鸟过境，记录夜间迁徙声和天气条件
+- **加州超花季朝圣**（California Superbloom） — 追随加州超花季，观察野花爆发并记录花期路线
+- **枫糖季熬糖**（Sugaring Off） — 从树液收集到熬煮，记录枫糖季的温度与浓度
+- **彝族火把节火把安全编织**（Yi Torch Festival Safe Weave） — 编织彝族火把节火把，测试固定、燃烧与现场安全
+- **日本节分鬼豆撒活动组织**（Setsubun Beanthrow Organizing） — 组织节分撒豆活动，准备鬼面、流程并讲解民俗寓意
+- **西班牙火祭纸型制作**（Fallas Papiermache Building） — 制作西班牙火祭纸型，研究结构、色彩与节庆展示
+- **五月柱舞社群**（Maypole Dance Village Troupes） — 编排五月柱舞，练彩带交织、步伐与节庆队形
+- **井饰WellDressing节**（Well Dressing Festival Circuits） — 用花卉与植物装饰水井，参加Well Dressing节庆展示
+- **帕德斯托Hobby马节**（Padstow Obby Oss Festival） — 穿Hobby马参加帕德斯托节庆，练舞步与队列表演
+- **阿博茨布罗姆利角舞**（Abbots Bromley Horn Dance） — 戴角饰跳阿博茨布罗姆利传统舞，配合季节游行
+- **阿塔卡马开花沙漠**（Desierto Florido） — 在阿塔卡马花季观察沙漠植物与降雨后的景观
+- **雨季板羽球湿滑场地规则会**（Wetcourt Boardbadminton Rules） — 讨论雨季湿滑场地板羽球规则，调整落点、鞋底与暂停条件
+- **雨季泥地藤球业余联赛**（Monsoon Mud Sepak Takraw） — 参加雨季泥地藤球联赛，适应湿滑场地与团队战术
+- **雨季蛙声识别夜巡**（Monsoon Frog-call Night Walks） — 雨季夜巡听蛙声，按叫声频谱辨认种类并记录地点
+- **印尼巨风筝协作放飞**（Janggan Giant Kite Crews） — 协作放飞印尼巨风筝，调整骨架、牵引线与风向
+- **沙尘暴口罩滤材气味耐受训练**（Duststorm Mask Odor Tolerance） — 比较防尘口罩滤材气味，练佩戴适应与呼吸舒适度记录
+- **沙漠滑沙板业余计时**（Sandboarding Timed Runs） — 踩滑沙板下坡计时，比较板底处理、起滑线与线路
+- **风沙运动物理学趣谈班**（Aeolian Physics Fun Class） — 用实验理解风沙搬运、跃移与地表形态变化
+- **骆驼铃夜行节奏记录**（Camel Bell Night Rhythm Logs） — 记录骆驼铃夜行节奏，比较步频、回声与队列间距
+- **山地滑板Mountainboarding**（Mountainboarding） — 在山地滑板上练转弯、刹停与线路选择，适应坡面和季节
+- **人马越野对决赛**（Man versus Horse Marathon） — 与马匹协作完成越野障碍，练路线、节奏与人马安全
+- **云海摄影等高线徒步社**（Seaofclouds Contour Hikes） — 沿等高线徒步拍云海，安排机位、天气记录与安全路线
+- **灯塔雾笛录音田野收集**（Foghorn Field Recording） — 录下灯塔雾笛与环境声，标注潮汐、风向和听见距离
+- **雾中定向越野低能见度训练**（Fog Orienteering Drills） — 在雾中练定向越野，使用地图、指北针并控制行进间距
+- **雾日能见度市民报告网**（Fog Visibility Citizen Reports） — 报告雾日能见度，上传路段观测并校对气象数据
+- **高原霜花形态分类收集**（Hoarfrost Form Taxonomy） — 拍摄高原霜花，按晶枝形态、温度与地表分类
+- **池塘冰球Pond hockey**（Pond Hockey） — 季节玩「池塘冰球Pond hockey」（Pond Hockey）。
+- **滚轮滑雪Roller skiing**（Roller Skiing） — 用滚轮滑雪模拟雪季动作，练双杖、滑行与刹车
+- **风暴后大浪观浪不下水社**（Storm Surf Watchonly Clubs） — 风暴后岸上观测大浪，记录浪形、周期与安全退距
+- **风暴潮后海岸线重测志愿**（Poststorm Shoreline Remeasure Vols） — 重测风暴潮后的海岸线，标记侵蚀点、漂积物与坐标
+- **月光低潮夜行拾潮**（Moonlit Low-tide Night Forays） — 趁月光低潮拾潮，辨认海岸生物并记录潮汐窗口
+- **桃花汛漂流**（Spring Peach-Flood Rafting） — 趁桃花汛漂流，观察水位、流速与河岸春色
+- **感潮带垃圾潮汐节律清理志**（Tidal Litter Rhythm Clean Logs） — 按潮汐时段清理河口垃圾，记录来源、数量与漂移
+- **红树林独木舟静默观鸟潮**（Mangrove Silent Bird Kayaks） — 划独木舟穿行红树林，静默记录鸟种、潮位与栖枝
+- **泰晤士河泥滩寻宝Mudlarking**（Thames Mudlarking） — 在泰晤士河退潮滩涂寻找旧物，记录位置与年代
+- **红树林潮汐独木舟**（Mangrove Tide Kayak） — 随潮汐划红树林水道，观察根系、鸟类与水流
+- **芬兰桑拿协会传统浴礼**（Finnish Sauna Society） — 按芬兰桑拿礼序体验蒸浴、冷浴与休息流程
+- **班迪球Bandy**（Bandy） — 季节玩「班迪球Bandy」（Bandy）。
+- **草地滑雪Grass skiing**（Grass Skiing） — 穿草地滑雪器材下坡，练转弯、刹停与草坡线路
+- **铃纳特Ringette**（Ringette） — 季节玩「铃纳特Ringette」（Ringette）。
+- **雨季战斗风筝**（Monsoon Fighter Kite Contests） — 制作雨季战斗风筝，调骨架、线组并练空中缠斗
+- **雪地铲滑竞速**（Shovel Racing） — 季节玩「雪地铲滑竞速」（Shovel Racing）。
+- **雪蛇Snow Snake投掷**（Snow Snake） — 季节玩「雪蛇Snow Snake投掷」（Snow Snake）。
+- **雪鞋竞速WSSF**（Snowshoe Racing WSSF） — 穿雪鞋完成竞速路线，练上坡步法、转弯与配速
+- **风信鸡自制校准赛**（Homemade Weathercock Calibrations） — 制作风信鸡并校准指向，比较轴承阻力、配重与风向读数
+- **开普东南风日**（Cape Doctor Wind Day） — 在开普东南风日观测风向、阵风与城市天气变化
+- **城市热岛巷弄寻凉地图众包**（Urban Coolalley Crowdsource Maps） — 众包标注城市凉点，比较树荫、水体与建筑通风
+- **夜市凉风巷弄寻风地图**（Nightmarket Breeze Alley Maps） — 夜走夜市巷弄找凉风，记录风向、遮阴与体感差异
+- **夜间热浪屋顶凉风棋局**（Heatwave Rooftop Chess Nights） — 在热浪夜于屋顶下棋，调整限时、补水与乘凉安排
+- **热浪夜屋顶露水收集竞赛**（Heatwave Roof Dew Contests） — 收集热浪夜屋顶露水，比较材质、风向与凝结量
+- **热浪棋局限时缩短规则会**（Heatwave Chess Timecontrol Cuts） — 在热浪中测试缩短棋局时限，讨论计时、休息与公平
+- **超级单体雷达追车**（Supercell Radar Chase） — 跟踪超级单体雷达回波，规划安全观测路线与时间
+
+## 社群志愿
+
+- **织补Darning**（Darning Communities） — 用补缀、藏针和加固修复旧衣，交流Darning耐用缝补法
+- **缝补互助社群**（Mending Mutual-Aid Circles） — 带着旧衣和工具开展互助缝补，学习耐用修补与再用设计
+- **手锯开齿器校准工作坊**（Handsaw Set Gauge Workshops） — 校准手锯开齿器，测量齿距、角度并试锯木料
+- **自行车诊所辐条张力夜**（Bike Clinic Spoke Tension Nights） — 在自行车诊所测辐条张力，校正轮圈偏摆并练均匀受力
+- **社区织补故事口述采集**（Community Mend Story Oral Collect） — 采集社区织补故事，记录技法、材料与家庭记忆
+- **NCRC洞穴救援训练**（NCRC cave rescue training） — 学习洞穴绳索、担架与搜救协作，参加NCRC救援训练
+- **Little Free Library管家**（Little Free Library Stewardship） — 补充社区小书屋的书籍，整理借阅记录并维护开放空间
+- **气象志愿观测WOW**（Met Office WOW Weather Observers） — 定时观测云量、气压与天气现象，将数据上传共享平台
+- **皇家救生艇RNLI志愿**（RNLI Volunteering） — 参加救生艇训练，练航海、搜救、无线电与急救
+- **Toronto Caribbean Carnival乐队**（Toronto Caribbean Carnival） — 参与多伦多加勒比嘉年华乐队，排练节奏并协助巡游
+- **澳洲男子工棚协会**（Australian Men's Shed Association） — 修缮男子工棚、组织互助活动，参与澳洲地方社区服务
+- **ARES业余无线电应急通信**（ARES Emergency Communications） — 业余电台志愿应急通信演练与灾害值守
+- **天气网SKYWARN**（SKYWARN Spotter Volunteers） — 参与SKYWARN天气观测，报告风暴并协助预警
+- **Humanitarian OSM**（HOT OSM） — 志愿做「Humanitarian OSM」（HOT OSM）。
+- **OSM实地测绘**（OSM Field Mapping） — 志愿做「OSM实地测绘」（OSM Field Mapping）。
+- **维基马拉松遗产编辑夜**（Heritage Edit-a-thon Marathon Night） — 参加维基马拉松，查证资料并编辑地方遗产条目
+- **维基媒体GLAM志愿**（Wikimedia GLAM Volunteers） — 为GLAM机构整理藏品资料，编辑维基条目并补充来源
+- **志愿气象站维护**（Volunteer Weather Station Keepers） — 校准并维护志愿气象站，上传温度、雨量与风速数据
+- **社区生物实验室DIYbio**（Community Biohackerspace Biosafety） — 在社区生物实验室学习基础实验，记录样品并遵守生物安全
+- **伊斯塔帕拉帕受难剧社区筹办**（Iztapalapa Passion Play Community Organizing） — 和社区一起筹办伊斯塔帕拉帕受难剧的舞台与巡演
+- **印度Rangoli地面彩绘社群**（Rangoli / Kolam Floor Art Circles） — 节日在地面画Rangoli粉彩几何花纹
+- **墨西哥亡灵节祭坛布置爱好**（Día de Muertos Ofrenda Making） — 布置墨西哥亡灵节祭坛，摆照片糖颅花
+- **特立尼达嘉年华Mas营地**（Trinidad Carnival Mas Camps） — 参加特立尼达Mas营地做服装巡游排练
+- **里约Samba学校嘉年华排练**（Rio Samba School Carnival Rehearsal） — 进里约Samba学校排练鼓阵与花车舞步
+- **八户三社大祭山车组参与**（Hachinohe Sansha Taisai Float Groups） — 加入山车组，制作装饰并参与八户三社大祭巡行
+- **利穆赞七年展圣遗物志愿**（Limousin Septennial Ostensions Volunteering） — 协助利穆赞七年展，布置圣遗物展陈并维护仪式秩序
+- **博多祇园山笠流舁参与**（Hakata Gion Yamakasa Nagare Teams） — 跟随流舁队伍抬山笠，练体力并守祭礼规矩
+- **塞维利亚圣周兄弟会协作**（Seville Holy Week Brotherhood Participation） — 为塞维利亚圣周兄弟会做抬像、路线与队伍协作
+- **委内瑞拉圣体节舞魔兄弟会**（Venezuela Corpus Christi Dancing Devils Confraternity） — 参与委内瑞拉圣体节舞魔队，制作服饰并排练巡游
+- **威尼斯狂欢节面具工社**（Venice Carnival Mask Workshops） — 制作并佩戴威尼斯面具，参与狂欢节工坊和游行
+- **巴哈马Junkanoo棚屋工坊**（Bahamas Junkanoo Shack Crew Participation） — 在Junkanoo棚屋制作服装道具，排练巴哈马节庆巡游
+- **布鲁日圣血游行兄弟会参与**（Bruges Holy Blood Procession Brotherhood） — 参与布鲁日圣血游行，协作服装、队列与仪式流程
+- **拉巴斯大能节舞蹈兄弟会**（La Paz Gran Poder Dance Fraternity） — 参加拉巴斯大能节，排练舞蹈并协作服装与队列
+- **拉斯帕兰达斯街区队协作**（Las Parrandas Neighbourhood Team Participation） — 和拉斯帕兰达斯街区队分工，做花车、服装与巡游
+- **波帕扬圣周祭台花车协作**（Popayan Holy Week Paso Crewing） — 协作制作波帕扬圣周花车，安排祭台装饰与巡游
+- **班什吉勒社团参与**（Binche Gilles Society Participation） — 参加班什吉勒社团的节庆排练、服装和社区活动
+- **祇园祭山鉾町会参与**（Gion Matsuri Yamahoko Neighborhood Participation） — 加入山鉾町会，参与祇园祭的搭建、巡行与收尾
+- **秩父祭屋台町会参与**（Chichibu Festival Float Neighborhood Groups） — 在秩父祭町会分工，维护屋台并参加夜间巡游
+- **卡帕哈卡表演艺术**（Kapa Haka / Māori Performing Arts） — 练毛利卡帕哈卡战舞呼号与集体动作
+- **赫瓦尔跟十字夜巡志愿**（Hvar Za Krizen Cross Procession Participation） — 参加赫瓦尔跟十字夜巡，协助队列、灯火与仪式安全
+- **阿尔拜因朝访服务站志愿**（Arba'in Pilgrimage Hospitality Volunteering） — 在阿尔拜因朝访服务站轮值，做指引、补给和接待
+- **马拉尼昂牛舞团体参与**（Bumba-meu-boi Community Group Participation） — 加入马拉尼昂牛舞团，排练角色、鼓乐和巡演
+- **马耳他村庄节志愿会**（Maltese Village Festa Volunteering） — 参与马耳他村庄节，协助街饰、乐队和夜间活动
+- **高山祭屋台保存会参与**（Takayama Festival Yatai Preservation Groups） — 参与高山祭屋台的维护、装饰和节日巡行
+- **活史村庄解释员**（Living History Interpreters） — 在活史村庄讲解器物与生活场景，带访客参与复原活动
+- **NARA公民档案员转录**（NARA Citizen Archivist） — 校对扫描件并录入手写资料，帮助NARA公民档案数字化
+- **苏格兰Adopt-a-Monument遗产志愿**（Adopt-a-Monument Scotland） — 认领遗址、整理维护计划，参与苏格兰Adopt-a-Monument志愿工作
+
+## 种间共生实践
+
+- **Treibball犬牧球训圈**（Treibball Herding-Ball Clubs） — 用犬牧球训练赶球、停球与方向控制，参加训赛
+- **人犬越野跑Canicross**（Canicross Club Racing） — 与犬同步越野跑，练牵引节奏、上坡配速和人犬安全
+- **犬拉车Carting训圈**（Dog Carting Draft Clubs） — 训练犬拉车通过指定路线，调整车具、步态与安全间距
+- **狗拉滑板车Scootering**（Dog Scootering） — 驾驶滑板车配合犬只牵引，练节奏、转弯与停车
+- **自行车牵引犬Bikejoring**（Bikejoring Dryland Mushing） — 骑车牵引犬只前进，练Bikejoring配速、转弯和装备检查
+- **人犬飞盘Disc dog**（Disc Dog Freestyle） — 与犬配合抛接飞盘，练起跳、接盘、回收与动作衔接
+- **地犬Earthdog**（Earthdog Trials） — 协作练「地犬Earthdog」（Earthdog Trials）。
+- **犬只浮水救援假人拖带训**（Dog Waterrescue Dummy Drags） — 训练犬拖救援假人，练入水、拖带与岸上交接
+- **人犬雪橇泥地轮训**（Dryland Dog Sled Training） — 练人犬泥地轮训，调整牵引车并适应不同地面
+- **犬只水上救援训练志愿**（Canine Water-rescue Drill Volunteers） — 训练犬只拖带落水假人，练入水、搜索与安全回岸
+- **犬敏捷赛Agility业余**（Dog Agility Amateur Rings） — 训练犬只完成敏捷赛障碍，练引导、速度与路线记忆
+- **犬鼻工作Nosework**（Canine Nose Work NACSW） — 用藏物和气味训练犬鼻，记录搜索距离、奖励与辨识表现
+- **码头跳水Dock diving**（Dock Diving） — 协作练「码头跳水Dock diving」（Dock Diving）。
+- **诱捕追逐Lure coursing**（Lure Coursing） — 用假饵训练犬追逐，记录Lure coursing路线、速度与召回
+- **谷仓寻猎Barn hunt**（Barn Hunt） — 协作练「谷仓寻猎Barn hunt」（Barn Hunt）。
+- **飞球Flyball**（Flyball） — 协作练「飞球Flyball」（Flyball）。
+- **人犬气味源搜索地方赛**（Local Nosework Trials） — 参加人犬气味赛，设计搜索区并记录犬只指示
+- **气味源隐藏城市家具利用赛**（Urban Furniture Hide Nosework） — 在城市家具藏气味源，训练犬只搜索与指示
+- **Mushing雪橇犬驾驭俱乐部**（Dog Mushing Club Circuits） — 驾驭雪橇犬完成雪地线路，练起步、转向与队列
+- **伊比利亚古典骑乘业余班**（Iberian Classical Seat Classes） — 练伊比利亚古典骑乘，协调坐姿、缰 aids与马匹步态
+- **马体力学与鞍具适配课**（Equine Biomechanics Saddle Fit） — 按马体力学调整鞍具，观察受力、步态与背部舒适度
+- **无甲自然蹄护理志愿**（Barefoot Hoof Care Volunteer） — 志愿做自然蹄护理，观察马匹步态并修整蹄壁受力
+- **马场暴雨径流缓冲带种植**（Stable Stormwater Buffer Planting） — 在马场种植径流缓冲带，配置草本、灌木并观察排水
+- **马蹄铁回收艺术焊接社**（Horseshoe Upcycle Welding Clubs） — 回收马蹄铁做焊接艺术，练清理、定位与结构拼接
+- **工作马术WAWE**（Working Equitation WAWE） — 与工作马协作完成绕桶、控牛等项目，练骑手指令与马匹福利
+- **帐篷拔桩Tent pegging**（Tent Pegging） — 练马上拔桩，控制马匹速度并以长枪挑取目标
+- **耐力骑AERC**（Endurance Riding AERC） — 骑马完成长距离耐力赛，管理配速、补水与兽医检查
+- **西部马术再训业余**（Western Reining Amateur） — 以西部马术方法重训马匹，练缰控、步态与地面响应
+- **阿根廷Pato**（Pato） — 协作练「阿根廷Pato」（Pato）。
+- **障碍超越业余周末**（Amateur Show-jumping Weekends） — 骑马越过障碍，练路线、起跳节奏与落地后的控制
+- **马术体操Vaulting**（Equestrian Vaulting） — 在马背完成体操动作，练上马、平衡与空中姿态
+- **马棒球Polocrosse**（Polocrosse） — 协作练「马棒球Polocrosse」（Polocrosse）。
+- **马球式Horseball**（Horseball） — 协作练「马球式Horseball」（Horseball）。
+- **马背射箭传统班**（Mounted Archery Traditional Classes） — 在移动马上练弓箭，配合缰控、瞄准与安全放箭
+- **马车综合驾驶**（Combined Driving） — 协作练「马车综合驾驶」（Combined Driving）。
+- **骑跑交替Ride and Tie**（Ride and Tie） — 骑马与跑步交替前进，练人马换接、配速和路线协作
+- **兔跳障碍业余赛训圈**（Rabbit Hopping Amateur Clubs） — 训练兔跳障碍，调整高度并记录路线与动作
+- **豚鼠地板时间丰富化设计**（Guinea Pig Floortime Enrichment） — 设计豚鼠地板时间，加入隧道、觅食与安全探索
+- **兔跳障碍赛业余**（Rabbit Hopping Amateur Trials） — 训练兔子跨越障碍，练引导、距离判断与赛道节奏
+- **蝙蝠箱安装志愿**（Bat Box Volunteer） — 安装蝙蝠箱，调查栖息使用并参与夜间生态记录
+- **雪貂管道钻探游戏**（Ferret Tube-agility Play） — 让雪貂在管道中寻找出口，设计路线并观察探索行为
+- **鹦鹉声景降噪笼舍改造**（Parrot Soundscape Quiet Mods） — 改造鹦鹉笼舍声景，降低反射噪声并保留通风与互动
+- **鹦鹉点击训练正向强化社**（Parrot Clicker Training Clubs） — 用点击器训练鹦鹉，建立目标行为、奖励时机与撤回信号
+- **靛蓝发酵缸与菌膜共生养护**（Indigo Biofilm Vat Care） — 养护靛蓝发酵缸菌膜，记录温度、酸碱度与染色变化
+- **靛蓝缸冬季保温菌膜观察**（Winter Indigo Biofilm Watch） — 冬季保温靛蓝缸，观察菌膜厚度、气味与染液活性
+- **蚯蚓堆肥箱温度湿度联控**（Vermicompost Climate Control） — 监测蚯蚓堆肥箱温湿度，调节垫料、通风与投喂量
+- **阳台土壤电导率简易测量网**（Balcony Soil EC Simple Nets） — 测阳台土壤电导率，比较浇水、施肥和盆土盐分
+- **家庭酸奶菌种交换会**（Yogurt Culture Swap Meets） — 交换家庭酸奶菌种，比较温度、发酵时间与风味
+- **康普茶SCOBY分株社群**（Kombucha SCOBY Sharing Circles） — 分株并养护康普茶SCOBY，记录糖度、酸度与批次
+- **松露林菌根接种**（Truffle Orchard Mycorrhiza） — 给松露林接种菌根，观察宿主树木与土壤共生变化
+- **酸面包老面邮寄交换**（Sourdough Starter Mail Swaps） — 邮寄交换酸面包老面，记录活性、喂养比例与发酵表现
+- **促织秋虫会**（Guzhi Cricket Keeping） — 参加促织秋虫会，观察鸣叫、斗相与传统饲养方法
+- **南瓜蜂巢材湿度监测**（Squash Bee Nest Humidity Monitoring） — 监测南瓜蜂巢材湿度，比较材质、遮雨与蜂巢使用情况
+- **无刺蜂业余箱养殖**（Meliponiculture Hobby Hives） — 管理无刺蜂蜂箱，观察群势、授粉和蜂蜜储存变化
+- **独居蜂出房物候观察网**（Solitary Bee Emergence Phenology） — 记录独居蜂出房日期，上传花期、天气与物种观察
+- **独居蜂旅馆建造巡护**（Solitary Bee Hotel Stewardship） — 建造独居蜂旅馆，检查巢管、寄生迹象与入住季节
+- **访花者种类拍照识别校验**（Flowervisitor Photo ID Verify） — 拍摄访花昆虫并核对物种，记录花种、时段与识别依据
+- **无刺蜂Meliponiculture**（Stingless Bee Meliponiculture） — 饲养无刺蜂，管理蜂箱并观察授粉与蜂蜜采集
+- **独居蜂Mason bee饲育**（Mason Bee Keeping） — 为独居蜂制作巢管，观察羽化、授粉与越冬情况
+- **瓢虫越冬箱安装志愿**（Ladybug Overwinter Box Volunteers） — 安装瓢虫越冬箱，改善微栖息地并记录越冬情况
+- **萤火虫栖地夜间护飞**（Firefly Habitat Night Stewardship） — 夜间巡护萤火虫栖地，记录发光数量并减少光干扰
+- **蚕桑业余饲育**（Amateur Sericulture） — 协作练「蚕桑业余饲育」（Amateur Sericulture）。
+- **蝴蝶园寄主植物种植**（Butterfly Host-plant Gardening） — 种植蝴蝶寄主植物，观察产卵、幼虫取食与羽化
+- **螳螂观察饲养记录**（Praying-mantis Observation Keeping） — 饲养螳螂并记录蜕皮、捕食与产卵，整理观察日志
+- **跳虫苔藓微景观**（Springtail Moss Terrarium） — 搭建跳虫苔藓微景观，平衡湿度、通风与分解循环
+- **兰寿背形审视**（Ranchu Back-profile Study） — 观察兰寿背形、尾型与游姿，练习金鱼品评记录
+- **海草床移植志愿监测**（Seagrass Transplant Monitoring） — 参与海草床移植监测，记录成活率、叶长与水下位置
+- **海草床船锚禁区浮标维护**（Seagrass Noanchor Buoy Care） — 维护海草床禁锚浮标，检查系泊、反光标识与位置
+- **海龟巢穴夜间守护志愿**（Sea Turtle Nest Night Guards） — 夜间守护海龟巢穴，记录产卵活动并避开灯光干扰
+- **海龟产卵巢巡护**（Sea Turtle Nest Patrol） — 巡护海龟产卵巢，记录孵化迹象并减少光照干扰
+- **牡蛎礁修复潜水志愿**（Oyster-reef Restoration Dive Volunteers） — 潜水清理并修复牡蛎礁，记录底质、成活率与水质
+- **珊瑚海葵共生缸**（Anemonefish Reef Tank） — 维护珊瑚海葵共生缸，监测光照、水质与共生状态
+- **红白锦鲤立鳞鉴赏**（Kohaku Scale Appreciation） — 观察红白锦鲤立鳞与体色，记录鳞片状态和品评要点
+- **牡蛎礁冬季冰损监测**（Oyster Reef Icedamage Monitoring） — 监测牡蛎礁冬季冰损，记录温度、冰压与修复需求
+- **牡蛎笼社区养殖监测**（Community Oyster Cage Monitoring） — 监测社区牡蛎笼，记录生长、附着生物与水质变化
+- **蛤蜊滩采捕强度目击记录**（Clamflat Harvest Intensity Sightings） — 记录蛤蜊滩采捕强度，观察潮间带并整理目击数据
+- **锦鲤品评体型标准研习**（Koi Conformation Study） — 按体型、体色与游姿评审锦鲤，练习标准化记录
+- **猎鹰法规条文精读班**（Falconry Statute Close Reading） — 精读猎鹰法规，整理许可、猛禽福利与放飞责任
+- **牧牛犬低压力移动畜群训**（Lowstress Cattle Dog Drills） — 以低压力方法训练牧牛犬，练停走、转向与畜群距离
+- **山羊驮包Goat packing**（Goat Packing） — 训练山羊负重、跟队和坡地行走，学习驮包与动物照护
+- **驯鹿雪橇驾驭**（Reindeer Sledding） — 学习驯鹿雪橇驾驭，练转向、制动与雪地行进安全
+- **山地驮驴步道维护协力**（Packdonkey Trail Stewardship） — 用驴协助山地步道维护，运输工具并修补路面
+- **驴驮山径补给志愿**（Pack-donkey Trail Resupply Volunteers） — 用驴运送步道补给，规划负重、停靠点与动物休息
+- **丝绸之路驼铃调律业余**（Silk Road Camel Bell Tuning） — 调校丝路驼铃音高，比较材质、音程与队列识别
+- **沙漠驼队铃声导航业余**（Camelcaravan Bell Navigation） — 用驼铃声辨方向，记录沙漠队列、距离与夜间回声
+- **驼队夜营风障搭建竞赛**（Camel Camp Windbreak Contests） — 搭建驼队夜营风障，测试抗风结构并安排竞赛任务
+- **骆驼鞍具传统缝补班**（Camel Saddle Stitch Repair） — 修补骆驼鞍具，学习皮革针法、受力部位与传统结构
+- **羊驼驮运徒步社群**（Llama Packing Trek Clubs） — 带羊驼负重穿越山径，练路线管理与动物照护
+- **驮山羊北美协会徒步**（North American Packgoat Association Hiking） — 带驮山羊走北美山径，规划负重、补给与营地
+- **仓鸮巢箱小径**（Barn Owl Nest Box Trail） — 布置仓鸮巢箱小径，定期检查巢况并记录繁殖迹象
+- **赛鸽途中饮水站志愿维护**（Racing Pigeon Waterstop Care） — 维护赛鸽途中饮水站，补充清水并记录使用情况
+- **哈茨滚鸣训鸣**（Harz Roller Song Training） — 训练哈茨滚鸣，记录鸣声节奏、音色与个体变化
+- **烟囱雨燕塔维护**（Chimney Swift Tower Stewardship） — 搭建并清洁雨燕塔，记录巢位、繁殖与迁徙季变化
+- **山口风速与过境强度相关记录**（Pass Wind vs Passage Intensity Logs） — 记录山口风速与猛禽过境，比较天气和迁徙强度
+- **猛禽迁徙山口计数志愿**（Raptor Migration Count Volunteers） — 在山口统计迁徙猛禽，记录种类、方向与天气
+- **草原雕迁徙廊道志愿巡护**（Steppe Eagle Corridor Patrols） — 巡护草原雕迁徙廊道，记录过境并减少人为干扰
+- **迁徙高峰日小时计数志愿**（Migration Peak Hourly Counts） — 按小时记录迁徙高峰，比较猛禽数量与风向变化
+- **紫崖燕房东实践**（Purple Martin Landlording） — 搭建紫崖燕巢位，记录占巢、育雏并维护安全的鸟舍环境
+- **翻飞鸽Birmingham Roller**（Birmingham Roller Pigeons） — 训练Birmingham Roller翻飞鸽，记录翻飞动作与血统表现
+- **蓝鸟巢箱小径**（Bluebird Trail Monitoring） — 设置蓝鸟巢箱小径，定期查巢、辨识雏鸟并记录繁殖数据
+- **燕雀迁徙雾网环志志愿**（Passerine Mistnet Banding） — 协助雾网环志燕雀，测量体况、标记并及时放飞
+
+## 科学业余研究
+
+- **差分机复原操作**（Difference-engine Revival Ops） — 复原差分机，理解齿轮运算并操作历史计算流程
+- **折纸数学社**（Origami Mathematics Circles） — 用折纸探索几何、公理与拓扑问题，记录推导过程
+- **索玛立方社**（Soma Cube Clubs） — 观测「索玛立方社」（Soma Cube Clubs）。
+- **数学马拉松解题夜**（Math Circle Marathon Problem Night） — 参加数学马拉松，限时解题并交流证明思路
+- **打孔纸带程序复原**（Punched-tape Program Restoration） — 读取打孔纸带孔位，复原旧程序并在模拟器运行
+- **核心存储器手工编织**（Core-memory Hand-weaving Replicas） — 穿线编织磁芯阵列，理解核心存储器的寻址方式
+- **递归艺术Demoscene**（Demoscene Size-coding Parties） — 用极小程序生成图像、音乐和动画，参加Demoscene
+- **塞氏盘水体透明度调查**（Secchi Disk citizen science） — 用塞氏盘测水体透明度，按深度和天气记录数据
+- **洞穴气候监测**（Cave climate monitoring） — 在洞穴布设温湿度记录仪，追踪地下气候变化
+- **珊瑚礁生态潜水调查**（Reef Check EcoDiver survey） — 带水下样线调查珊瑚，记录鱼类、白化与底质
+- **社区积雪深度观测**（Community Snow Observations） — 固定地点测积雪厚度，记录融化过程并上传数据
+- **天然调香**（Amateur natural perfumery） — 蒸馏花草或浸泡树脂，配天然香精并做嗅觉评测
+- **号码台短波信号研究**（Numbers Stations Monitoring Research） — 监听短波号码台语音，记录频率、时刻与播报模式
+- **声学生态田野录音**（Acoustic Ecology Field Recording） — 野外录生物声景，分析鸟鸣虫声频谱
+- **声景漫步Soundwalking**（Soundwalking Practice） — 走街记录环境声，标注声源、回响和听觉路线
+- **暗夜保护区测光**（Dark-sky Reserve Photometry） — 在暗夜保护区测光，记录天光亮度并评估光污染
+- **射电业余天文**（Amateur Radio Astronomy） — 自建天线收射电信号，听木星爆发或扫射电源
+- **氢线21厘米业余**（21-cm Hydrogen-line Amateur Radio Astronomy） — 架设设备接收氢线，校准天线并分析21厘米谱线
+- **掩星与变星观测**（Occultation & Variable Stars） — 用望远镜记录掩星时刻与变星亮度变化，交业余网汇总
+- **小行星掩星计时网**（Asteroid Occultation Timing Nets） — 给小行星掩星计时，提交观测地点与光变数据
+- **流星雨守夜观测营**（Meteor Shower Overnight Observing Camp） — 守夜观测流星雨，记录峰值、辐射点与天空状况
+- **ALPO行星观测**（ALPO Lunar and Planetary Observing） — 按ALPO流程观测行星表面，记录大气、斑纹与视宁度
+- **Stellafane磨镜制镜**（Stellafane Amateur Telescope Making） — 磨制望远镜镜面，测试焦距、抛光质量并交流观测结果
+- **木星大红斑素描网**（Jupiter GRS Sketching Nets） — 定期素描木星大红斑，记录形态、漂移与观测时间
+- **Amateur气象站网络**（Personal Weather Station Networks） — 架设气象站联网，记录温湿、气压、风雨并校验传感器
+- **日晷设计校准**（Sundial Design and Equation-of-time） — 自制日晷并校准刻线，比较真太阳时、季节与纬度
+- **星盘Astrolabe自制**（Handmade Astrolabe Construction） — 制作Astrolabe星盘，练刻度、天体高度和古法定位
+- **业余电波传播信标监测**（Amateur Radio Beacon Monitoring） — 接收远距信标信号，记录电离层传播、频率与时间
+- **甚低频自然噪声收听**（VLF Natural Radio Listening） — 架设接收设备聆听甚低频自然噪声，记录雷暴与电离层变化
+- **蛾类灯诱记录夜**（Moth Trapping Recording Nights） — 夜间架灯诱蛾，拍照记录翅纹、时间与栖息环境
+- **蜻蜓池塘监测**（Dragonfly Pond Monitoring） — 巡查池塘记录蜻蜓成虫、羽化与水体环境变化
+- **硅藻显微装片俱乐部**（Diatom Microscopy Mounting） — 制作硅藻显微装片，观察形态、测量结构并整理图像档案
+- **声学频谱入门听辨课**（Spectrum Eartraining 101） — 听辨声学频谱，联系音色、泛音与波形变化
+- **玻璃杯水位音阶调音赛**（Glass Water Tuning Contests） — 调整玻璃杯水位成音阶，比较音高、共鸣与敲击位置
+- **溶剂气味安全阈值训练**（Solvent Odor Threshold Drills） — 在安全通风条件下学习溶剂气味阈值，记录暴露规避与报警信号
+- **不同光源下织物色差目视排序**（Fabric DeltaE Visual Rank under Lights） — 在不同光源下排序织物色差，记录观察角度与适应效应
+- **天空色温日出日落连续测**（Sky CCT Sunrise Continuum） — 连续测日出日落天空色温，比较云量、时刻与色温变化
+- **盲测木材端面触感识别**（Blind Wood Endgrain Touch ID） — 盲摸木材端面，凭纹理、硬度与孔隙辨认材种
+- **地衣测绘俱乐部**（Lichen Mapping Clubs） — 观测「地衣测绘俱乐部」（Lichen Mapping Clubs）。
+- **石松与蕨类专项调查**（Fern and Lycophyte Field Groups） — 辨认石松与蕨类，制作标本记录并绘制分布点
+- **苔藓区系调查团**（Bryophyte Floristic Survey Groups） — 调查苔藓样地，采集照片并按形态与基质核对种类
+- **流星录像监测IMO**（IMO Video Meteor Monitoring） — 架设摄像机记录流星，按IMO方法标注轨迹与辐射点
+- **业余蘑菇栽培**（Home Mushroom Cultivation） — 室内种平菇香菇等食用菌，调培养基、控温湿与出菇
+- **加拿大湖泊潜鸟调查**（Canadian Lakes Loon Survey） — 在湖岸调查潜鸟，记录叫声、巢位、繁殖与水质
+- **新泽西24小时观鸟赛**（World Series of Birding） — 24小时记录鸟种，规划路线、辨声并提交观鸟清单
+- **熊蜂识别志愿**（Bumblebee ID Volunteers） — 参与熊蜂志愿识别，拍照记录并核对物种特征
+- **物候花园记录**（Phenology Garden Recording） — 在花园记录萌芽开花结果，制作物候表比较年份
+- **结冰开湖日期记录**（Ice-on Ice-off Lake Records） — 记录湖泊结冰与开湖日期，分析气候和纬度差异
+- **珊瑚健康色卡监测**（CoralWatch survey） — 观测「珊瑚健康色卡监测」（CoralWatch survey）。
+- **真菌季节巡湖集会**（Seasonal Mushroom Foray Society Meet） — 参加巡湖辨认真菌，记录物种、基质与季节变化
+- **社区协同雨量观测CoCoRaHS**（CoCoRaHS） — 观测「社区协同雨量观测CoCoRaHS」（CoCoRaHS）。
+- **地衣化学显色**（Lichen Spot-test Chemistry Hobby） — 用化学试剂观察地衣显色，辅助区分种类和共生体
+- **苔藓区系业余**（Amateur Bryophyte Floristics） — 采集并鉴定苔藓，制作标本、记录基质和分布
+- **ABA名录追逐**（ABA Listing Circles） — 观测「ABA名录追逐」（ABA Listing Circles）。
+- **远洋观鸟Pelagic**（Pelagic Birding Trips） — 参加远洋观鸟航行，记录海鸟迁徙与海况坐标
+- **鹰迁徙观察Hawkwatch**（Hawkwatch Migration Counts） — 记录鹰类迁徙路线、数量与天气，参与Hawkwatch
+- **宝石刻面竞赛**（Gem Faceting Competitions） — 设计宝石刻面角度，切磨抛光并参加成品评比
+- **玻璃陨石收藏**（Tektite Collecting Circles） — 比较玻璃陨石形态、产地和化学纹理，整理标本
+- **琥珀内含物显微**（Amber Inclusion Microscopy） — 透射光观察琥珀内含物，拍摄昆虫、植物与气泡
+- **陨石寻猎鉴定**（Meteorite Hunting & Authentication） — 野外搜寻疑似陨石，切磨磁测并鉴别熔壳与球粒
+- **微矿物显微摄影**（Micromount Mineral Photography） — 显微拍摄微矿物晶体，练灯光堆栈和物种辨认
+- **荧光矿物收集与研究**（Fluorescent Mineral Collecting） — 在紫外灯下收集观察荧光矿物标本
+- **业余精密守时圈**（Amateur Precision Timekeeping） — 用原子钟或频标比对时间，记录漂移并校准本地时钟
+- **土色颜料**（Earth Pigment Collecting） — 研磨土色矿物、测试遮盖力，记录颜料粒度和调色效果
+- **木炭自制**（Charcoal Making Craft） — 观测「木炭自制」（Charcoal Making Craft）。
+- **胭脂虫红实验**（Cochineal Pigment Craft） — 培养胭脂虫并提取色素，测试酸碱度对红色的影响
+- **色淀颜料制作**（Lake Pigment Making） — 观测「色淀颜料制作」（Lake Pigment Making）。
+- **茜草媒染实验**（Madder Mordant Experiments） — 用茜草和媒染剂做小样，比较纤维、温度与色牢度
+- **赭石颜料**（Ochre Pigment Practice） — 观测「赭石颜料」（Ochre Pigment Practice）。
+- **靛蓝化学邻项Woad**（Woad Dye Chemistry） — 从Woad提取靛蓝，观察还原、氧化和染液颜色变化
+
+## 竞技游戏
+
+- **托古兹库马拉克赛事社群**（Togyzqumalaq Tournament Community） — 练托古兹库马拉克的算路、封格与比赛策略
+- **日本竞技歌牌会**（Competitive Karuta Tournament Societies） — 记歌牌读音和下句位置，练反应并参加竞技歌牌会
+- **经典俄罗斯方块世锦赛社群**（Classic Tetris World Championship Community） — 在经典俄罗斯方块规则下练堆叠、消行和高速应对
+- **穆海比斯斋月团队猜戒**（Al-Muhaibis Ramadan Team Game） — 在斋月夜玩穆海比斯，靠观察和 bluff 猜戒指
+- **艺术与嗅觉独立调香赛**（Art and Olfaction Awards） — 调配香材参加独立调香赛，比较主题、扩散与留香
+- **Lewes世界豌豆投掷赛**（Lewes World Pea Throwing Championships） — 按场地规则投掷豌豆，练距离、落点与Lewes赛的计分方式
+- **芬兰扔手机赛**（Mobile Phone Throwing） — 玩「芬兰扔手机赛」（Mobile Phone Throwing）。
+- **世界掷蛋锦标赛**（World Egg Throwing Championships） — 在安全场地投掷生鸡蛋，研究世界掷蛋赛的距离与准确度
+- **世界栗子拳锦标赛**（World Conker Championships） — 以栗子作拳套击打木板，研究世界栗子拳赛的计分方式
+- **世界沼泽足球锦标赛**（World Swamp Soccer Championships） — 穿越泥沼踢球，练耐力、落脚与团队配合，参加世界赛
+- **世界泥地足球锦标赛**（World Bog Snorkelling Championship） — 组队踢泥地足球，适应泥水、越野和连续对抗
+- **库柏山滚奶酪赛**（Cooper's Hill Cheese-Rolling） — 冲下山坡追滚奶酪，练起跑、平衡和安全翻滚
+- **世界肉汁摔跤锦标赛**（World Gravy Wrestling Championships） — 在软垫上进行肉汁摔跤，练抱持与脱身，遵守赛事安全规则
+- **世界脚趾摔跤锦标赛**（World Toe Wrestling Championship） — 用脚趾角力比拼控制与耐力，按世界脚趾摔跤规则参赛
+- **世界蛋奶馅饼大战**（World Custard Pie Championship） — 制作可抛掷蛋奶馅饼，练投掷距离与命中，体验地方节庆
+- **世界蜗牛竞速锦标赛**（World Snail Racing Championships） — 记录蜗牛爬行速度，布置赛道并比较天气、湿度对成绩的影响
+- **伊斯代尔打水漂世界赛**（World Stone Skimming Championships） — 挑选石片、调整旋转角度，练习打水漂的落点与次数
+- **兰开夏黑布丁投掷世界赛**（World Black Pudding Throwing Championships） — 从线后投掷黑布丁，练准度和落点，体验兰开夏传统赛
+- **埃格雷蒙特鬼脸世界赛**（World Gurning Championships） — 练习面部肌肉与夸张表情，参加埃格雷蒙特鬼脸比赛
+- **威彻姆射豌豆世界赛**（World Peashooting Championship） — 制作标准豌豆和吹射器，练准度并参加威彻姆射豌豆赛
+- **威拉斯顿引蚯蚓世界赛**（World Worm Charming Championships） — 在草地寻找蚯蚓并完成引蚯蚓挑战，记录方法与成绩
+- **托德河无底船旱地赛**（Henley-on-Todd Regatta） — 改造无底船参加旱地赛，测试车架、转向与耐久
+- **泰哈皮雨靴投远赛**（Taihape Gumboot Throwing） — 投掷雨靴比距离，调整助跑、旋转和出手角度
+- **纳奈莫浴缸赛**（Nanaimo Bathtub Race） — 玩「纳奈莫浴缸赛」（Nanaimo Bathtub Race）。
+- **美国南瓜称重大赛**（Giant Pumpkin Weigh-offs） — 栽培巨型南瓜，控光、水肥并参加称重记录
+- **英国割草机竞速BLMRA**（BLMRA Lawn Mower Racing） — 改装割草机赛车，调发动机、底盘和赛道操控
+- **高索普运煤世界赛**（World Coal Carrying Championship） — 推运煤车跑山坡，按高索普世界赛规则比拼速度与耐力
+- **世界弹珠锦标赛**（British and World Marbles Championship） — 弹射玻璃弹珠通过障碍，练准度、力度与赛道路线判断
+- **爱尔兰Camogie成人联赛**（Camogie Adult Club Competition） — 练Camogie的持杆、传球与射门，参加爱尔兰成人联赛
+- **约克郡Knurr and Spell**（Knurr and Spell） — 用木槌击打Knurr并追击小球，研究约克郡传统比赛规则
+- **苏塞克斯Stoolball**（Sussex Stoolball） — 用木板击球防守，练Stoolball的站位、投球与跑垒节奏
+- **英国Aunt Sally木靶投掷**（Oxfordshire Aunt Sally） — 投掷木靶并计算命中，熟悉Aunt Sally的器具、距离与赛制
+- **英格兰九柱Skittles联赛**（English Skittles League Play） — 练九柱球的投球线路、滚动与计分，参加英格兰Skittles联赛
+- **IFPA竞技弹珠**（IFPA Competitive Pinball） — 练竞技弹珠瞄准、碰撞与线路，参加IFPA计分赛
+- **国际桌上足球ITSF**（ITSF Table Soccer） — 玩「国际桌上足球ITSF」（ITSF Table Soccer）。
+- **ARDF无线电测向运动**（Amateur Radio Direction Finding） — 野外用定向接收机找隐藏电台，比ARDF成绩
+- **狐猎定向Foxoring赛**（ARDF Foxoring） — 玩「狐猎定向Foxoring赛」（ARDF Foxoring）。
+- **猎狐森林测向**（Forest ARDF Foxhunts） — 玩「猎狐森林测向」（Forest ARDF Foxhunts）。
+- **高速电报HST竞赛**（High Speed Telegraphy） — 比高速电报HST收发速度与准确率
+- **MultiGP穿越机竞速**（MultiGP Drone Racing） — 调校穿越机图传与PID，练赛道过门、急转和维修
+- **EMA竞技麻将**（EMA Competitive Mahjong） — 按EMA竞技麻将规则组局，训练牌效率、读牌与赛场决策
+- **世界解谜竞速**（World Puzzle Championship） — 限时解题并优化路线，参加世界解谜竞速的计时挑战
+- **街霸系列竞技**（Street Fighter Esports） — 打街霸对战，练连招反制并跑线下格斗赛
+- **工具辅助速通TAS社**（Tool-assisted Speedrun Communities） — 用工具辅助做完美输入速通，分享输入文件
+- **随机izer种子竞赛**（Randomizer Seed-race Circles） — 跑随机izer种子竞速，比开局物品与路线
+- **FIG跑酷竞速**（FIG parkour racing） — 玩「FIG跑酷竞速」（FIG parkour racing）。
+- **IDPA防卫射击**（IDPA defensive shooting） — 按IDPA场景练掩体、移动与防卫射击，遵守安全规范
+- **IPSC实用射击**（IPSC Practical Shooting） — 用IPSC赛道练移动射击、换弹与计时，重视枪械安全
+- **四截球**（Quadball） — 玩「四截球」（Quadball）。
+- **山地独轮车**（Mountain unicycling） — 玩「山地独轮车」（Mountain unicycling）。
+- **摩托车试炼**（Motorcycle trials） — 玩「摩托车试炼」（Motorcycle trials）。
+- **水下定向**（Underwater orienteering） — 玩「水下定向」（Underwater orienteering）。
+- **水下曲棍球**（Underwater hockey） — 玩「水下曲棍球」（Underwater hockey）。
+- **水下橄榄球**（Underwater rugby） — 玩「水下橄榄球」（Underwater rugby）。
+- **波萨球**（Bossaball） — 玩「波萨球」（Bossaball）。
+- **漆弹竞技**（NXL Paintball） — 玩「漆弹竞技」（NXL Paintball）。
+- **牛仔动作射击**（SASS Cowboy Action Shooting） — 练牛仔动作射击的拔枪、移动与多目标转换，遵守靶场安全
+- **自行车球**（Cycle-ball） — 玩「自行车球」（Cycle-ball）。
+- **自行车试炼**（Bicycle trials） — 玩「自行车试炼」（Bicycle trials）。
+- **芬泳**（CMAS Finswimming） — 玩「芬泳」（CMAS Finswimming）。
+- **象棋拳击**（Chess boxing） — 玩「象棋拳击」（Chess boxing）。
+- **雪合战**（Yukigassen） — 玩「雪合战」（Yukigassen）。
+- **鱼枪竞技**（Competitive spearfishing） — 练鱼枪瞄准、潜水呼吸与水下安全，按规则参加竞技
+
+## 美食
+
+- **哈里萨辣酱季节共制**（Harissa Seasonal Group Making） — 按季节磨辣椒和香料，批量熬制哈里萨辣酱
+- **金酱集体腌泡菜**（Communal Kimjang） — 做「金酱集体腌泡菜」（Communal Kimjang）。
+- **菲律宾稻米酒Tapuy发酵**（Philippine Tapuy / Rice Wine Ferment） — 用糯米发酵菲律宾Tapuy稻米酒
+- **发酵罐密封圈溶胀更换**（Ferment Gasket Swell Replacements） — 检查发酵罐密封圈溶胀，记录材质、尺寸并完成更换
+- **瑞典苏斯特罗明发酵鲱鱼**（Swedish Surströmming Fermented Herring） — 观察发酵鲱鱼的盐度、气味与熟成阶段，了解北欧食俗
+- **南美Yerba Mate马黛茶圈**（Yerba Mate Drinking Circles） — 围壶喝Yerba Mate，换吸管聊烘焙切法
+- **印度Idli与Dosa米豆发酵**（Idli-Dosa Batter Fermentation） — 米豆发酵蒸Idli摊Dosa，养面糊酸度
+- **埃塞俄比亚Injera苔麸饼发酵**（Ethiopian Injera Fermentation） — 发酵苔麸糊摊Injera酸饼配炖菜
+- **墨西哥Pulque龙舌兰浆发酵**（Pulque Fermentation） — 发酵龙舌兰浆做Pulque，控自然酵母
+- **墨西哥Tepache菠萝渣发酵**（Tepache Home Fermentation） — 用菠萝皮糖发酵Tepache家酿汽水
+- **巴拉圭Tereré马黛冷泡**（Paraguayan Tereré Mate Practice） — 冷泡马黛做Tereré，不锈钢壶吸管分享
+- **西非Palm Wine棕榈酒采集发酵**（Palm Wine Tapping & Ferment Hobby Circles） — 采集棕榈汁自然发酵成Palm Wine
+- **北欧酸面包黑麦传统**（Nordic Rye Sourdough Tradition） — 用黑麦酸面团发酵北欧面包，调整酸度、含水与烘烤
+- **罗马Posca复原**（Roman Posca Revival Brews） — 复原罗马Posca饮品，比较醋、蜂蜜与香料比例
+- **家庭奶酪制作**（Home Cheesemaking） — 酿「家庭奶酪制作」（Home Cheesemaking）。
+- **奇恰酒发酵**（Chicha Fermentation） — 酿「奇恰酒发酵」（Chicha Fermentation）。
+- **HORAL兰比克古兹混酿传统**（HORAL Lambic & Gueuze Tradition） — 跟HORAL传统混酿兰比克与古兹酸啤
+- **埃塞俄比亚泰吉蜜酒传统**（Ethiopian Tej Honey Wine Tradition） — 用蜂蜜、香料和水酿泰吉，比较埃塞传统酒风味
+- **格鲁吉亚天然酒与奎弗利传统**（Georgian Qvevri Natural Wine Practice） — 用奎弗利陶罐酿天然酒，观察葡萄、陶土与微生物变化
+- **斯堪的纳维亚农场艾尔**（Nordic Farmhouse Ale Brewing） — 酿斯堪的纳维亚农场艾尔，使用地方谷物并控野酵母
+- **菲律宾椰子酒Tuba采集**（Filipino Tuba Coconut Wine Tapping） — 攀树采集菲律宾椰子酒Tuba，处理树液并控制发酵
+- **蜜酒酿造（Mead）**（Mead Making） — 酿「蜜酒酿造（Mead）」（Mead Making）。
+- **makgeolli家庭酿造**（Home Makgeolli Brewing） — 蒸米、培曲并控温发酵，酿制家庭版makgeolli米酒
+- **韩国酱类坛缸晒酱**（Korean Jang Onggi Sun-ferment） — 用坛缸晒制韩国酱类，管理盐度、发酵与日照时间
+- **风干肠 / 生火腿熟成**（Charcuterie & Curing） — 风干香肠火腿控温湿熟成，防霉切品鉴
+- **ぬか漬け糠床发酵**（Nukazuke Rice-Bran Pickling） — 维护ぬか漬け糠床，腌菜控盐与翻床
+- **味噌家庭自制实践**（Home Miso Making） — 酿「味噌家庭自制实践」（Home Miso Making）。
+- **家庭制麹与麹料理实践**（Home Koji Cultivation Practice） — 家庭制麹做味噌酱油麹料理发酵
+- **盐麹调味发酵**（Shio Koji Seasoning Ferment） — 用盐麹腌肉蔬，控制发酵时间并比较鲜味
+- **菲律宾Buro发酵鱼**（Filipino Buro Fermentation） — 以米饭和鱼发酵菲律宾Buro，观察酸香与质地
+- **中世纪格鲁特啤酒复原**（Medieval Gruit Ale Revival） — 按史料复原格鲁特啤酒，试配香草并记录发酵
+- **朗姆酯香品鉴**（Rum Ester Nosing Circles） — 盲闻朗姆酒酯香，区分发酵、蒸馏与橡木陈化气息
+- **家庭自酿啤酒**（Homebrewing Beer） — 做「家庭自酿啤酒」（Homebrewing Beer）。
+- **康普茶自酿**（Kombucha Brewing） — 做「康普茶自酿」（Kombucha Brewing）。
+- **Le Nez du Vin葡萄酒嗅觉训练**（Le Nez du Vin Wine Aroma Training） — 用Le Nez du Vin香瓶训练葡萄酒香气记忆
+- **威斯康星世界奶酪锦标赛**（World Championship Cheese Contest） — 熟成奶酪并记录菌斑、质地与风味，参与威斯康星品评赛
+- **比利时修道院啤酒爱好社群**（Belgian Trappist Beer Appreciation） — 比较修道院啤酒风格，记录酵母、酒体、苦度与陈年
+- **家庭豆豉发酵**（Home Douchi Fermentation） — 蒸豆接种曲霉，发酵家庭豆豉并控制盐度与风味
+- **根霉天贝接种**（Rhizopus Tempeh Inoculation） — 用根霉接种煮熟豆类，制作天贝并监控菌丝覆盖
+- **稻草包纳豆**（Straw-wrapped Natto Making） — 用稻草包裹蒸熟黄豆，培养纳豆菌并观察拉丝
+- **辣椒酱Gochujang家酿**（Home Gochujang Brewing） — 发酵辣椒、豆麴与米，调整Gochujang甜辣和熟成
+- **酱缸大酱Meju**（Meju Doenjang Crock Aging） — 制曲煮豆入缸，发酵韩国Meju大酱并翻晒
+- **冷却槽兰比克家酿**（Coolship Lambic-style Homebrewing） — 以冷却槽接野生酵母酿兰比克，记录季节与酸香
+- **姜啤酒植物GBP**（Ginger Beer Plant Culture） — 养姜啤酒植物GBP，发酵糖水并调姜味和气泡
+- **家庭苹果酒Cider**（Home Cidermaking Guilds） — 压榨苹果汁家酿Cider，控酵母、糖度与瓶中气泡
+- **开菲尔粒分享圈**（Milk Kefir Grain Sharing Circles） — 养护开菲尔粒，记录菌群增殖并交换母液
+- **水开菲尔Tibicos**（Water Kefir Tibicos Sharing） — 用水、糖和果干培养Tibicos，控制温度与二次发酵
+- **蜜酿Jun茶**（Jun Honey-tea Ferment） — 酿「蜜酿Jun茶」（Jun Honey-tea Ferment）。
+- **家庭克瓦斯**（Home Kvass Brewing） — 酿「家庭克瓦斯」（Home Kvass Brewing）。
+- **马奶酒Kumis业余**（Amateur Kumis Fermentation） — 以马奶反复搅打发酵Kumis，观察酸味、酒精和气泡
+- **黑麦酸汤Zakwas**（Polish Zakwas Rye Sour） — 发酵黑麦面糊做Zakwas，比较酸度、麦香与发酵温度
+- **实验考古Garum**（Experimental Archaeology Garum） — 按古法复原Garum，分层鱼盐并记录熟成液风味
+- **家庭鱼露发酵**（Home Fish-sauce Fermentation） — 用鱼、盐和时间熟成鱼露，测试氨基酸与香气变化
+- **Bean-to-Bar 巧克力**（Bean-to-Bar Chocolate Making） — 从可可豆烘烤研磨做成排巧克力
+- **凝胶 / 意式冰淇淋工艺**（Gelato Making） — 酿「凝胶 / 意式冰淇淋工艺」（Gelato Making）。
+- **和菓子制作**（Wagashi Making） — 酿「和菓子制作」（Wagashi Making）。
+- **菲律宾Bibingka米糕烘焙**（Philippine Bibingka Rice Cake Baking） — 烤菲律宾Bibingka米糕，香蕉叶垫底
+- **酸种面包（Sourdough）**（Sourdough Baking） — 养酸种面种烤乡村面包，控水合与烘焙
+- **AVPN 那不勒斯披萨**（Neapolitan Pizza (AVPN)） — 按AVPN标准揉饼烤那不勒斯披萨
+- **KCBS 烧烤竞赛**（KCBS Barbecue Competition） — 练低烟慢烤冲KCBS烧烤赛评分
+- **印度Masala香料研磨调配**（Indian Masala Spice Blending） — 现磨调配印度Masala香料粉比例
+- **墨西哥Mole酱汁家庭制作**（Mexican Mole Sauce Home Cooking） — 家庭慢炖墨西哥Mole多香料酱汁
+- **西非Jollof米饭竞赛烹饪**（West African Jollof Rice Cook-offs） — 比西非Jollof米饭火候与番茄底味道
+- **辣椒酱 / 热酱自制**（Hot Sauce Making） — 酿「辣椒酱 / 热酱自制」（Hot Sauce Making）。
+- **可食野菜采集烹饪**（Foraging for Food） — 酿「可食野菜采集烹饪」（Foraging for Food）。
+- **阿萨多烧烤实践**（Asado Practice） — 酿「阿萨多烧烤实践」（Asado Practice）。
+- **CAMRA真实艾尔品鉴**（CAMRA Real Ale Campaign） — 辨认真实艾尔风味，练酒桶温度、口感记录与CAMRA品鉴
+- **古田红曲制作技艺**（Gutian Hongqu Red Yeast Fermentation） — 培养红曲菌种，控制温湿度，复原古田红曲发酵流程
+- **糠床Nukazuke维护**（Nukazuke Bed Keeping） — 照料糠床并翻拌米糠，控制盐度、湿度与发酵风味
+- **豆腐制作**（Tofu Making Craft） — 酿「豆腐制作」（Tofu Making Craft）。
+- **豆腐皮制作**（Tofu Skin Craft） — 酿「豆腐皮制作」（Tofu Skin Craft）。
+- **清酒米曲室业余**（Home Sake Koji Muro） — 酿「清酒米曲室业余」（Home Sake Koji Muro）。
+- **鱼露与古法Garum复原**（Garum and Fish Sauce Recreation） — 用鱼、盐和香草复原Garum，观察液化、过滤与熟成风味
+- **富国岛鱼露发酵**（Phu Quoc Fish Sauce Fermentation） — 处理鱼肉、盐与发酵液，追踪富国岛鱼露的熟成变化
+- **凯什凯克节庆捣煮**（Ceremonial Keşkek Pounding） — 把麦粒捣成凯什凯克，按节庆方式煮成热食
+- **切布珍节庆烹制**（Ceebu Jën Culinary Practice） — 按节庆习俗准备切布珍，练面团、馅料和烹制
+- **土耳其咖啡占杯共饮**（Turkish Coffee Social Ritual） — 煮土耳其咖啡，倒入杯中再看渣纹讲故事
+- **墨西哥米却肯节庆烹饪**（Michoacán Traditional Festive Cooking） — 学习米却肯节庆菜式，熬酱、炖肉并分工备席
+- **奥希帕拉夫聚餐制作**（Oshi Palav Communal Cooking） — 掌握抓饭的米、胡萝卜和肉比例，做聚餐大锅饭
+- **山屋通心粉炊事**（Alpine hut Älplermagronen） — 用简易炉具煮通心粉，研究山屋补给、用水与快速收拾
+- **库斯库斯手搓共作与共食**（Couscous Making and Communal Eating） — 手搓库斯库斯，蒸熟后配菜分桌共食
+- **徒步达尔巴特炊事**（Dal bhat trekker cooking） — 在徒步途中规划炉具、燃料和食材，练达尔巴特轻量炊事
+- **恩西马共食制作**（Nsima Communal Food Practice） — 把木薯粉煮成恩西马，配菜分食一桌热饭
+- **曼萨夫节庆宴共备**（Mansaf Festive Banquet Preparation） — 分工腌肉、煮酸奶酱，准备一桌曼萨夫节庆宴
+- **Nixtamal碱化玉米**（Home Nixtamalization） — 浸泡玉米并用碱处理，磨成Nixtamal面团再制传统主食
+- **荞麦打ち业余**（Amateur Soba Uchi） — 做「荞麦打ち业余」（Amateur Soba Uchi）。
+- **印度Jaggery锅煮**（Jaggery Kettle Boiling） — 以甘蔗汁熬印度Jaggery，撇沫浓缩并判断糖膏状态
+- **桦树液春采**（Birch Sap Spring Tapping） — 春季采集桦树液，浓缩成糖浆并记录树液流量
+- **椰糖GulaMelaka**（Gula Melaka Palm-sugar Making） — 熬椰汁制Gula Melaka，控制结晶、模具与焦香
+- **远征Pemican口粮**（Expedition pemmican making） — 把肉干、脂肪与浆果制成高能Pemmican，测试远征保存性
+- **阿拉伯咖啡待客礼**（Arabic Coffee Hospitality Ritual） — 现场烘豆、煮咖啡，以阿拉伯礼节招待来客
+- **马努谢薄饼清晨共烤**（Man'ouché Communal Baking） — 清晨擀面铺料，烤出香脆的马努谢薄饼
+- **开锅层厚度显微业余观察**（Seasoning Layer Micro Hobby） — 显微观察锅具开锅层，记录厚度、孔隙与使用后的变化
+- **碳钢刀氧化层稳定化**（Carbon Steel Patina Stabilizing） — 稳定碳钢刀氧化层，清理浮锈并记录油膜、湿度与色泽
+- **铸铁锅使用次数与碳层观察**（Castiron Usecount Season Watch） — 记录铸铁锅使用次数，观察碳层厚度、光泽与食材影响
+- **刀锋切削声判断锋利度**（Edge Keenness by Cut Sound） — 录听刀锋切削声，比较材料、角度与锋利度变化
+- **砧板刀痕密度月度拓印**（Board Gouge Monthly Rubbings） — 每月拓印砧板刀痕，比较刀痕密度、区域与使用变化
+- **埃塞俄比亚咖啡仪式Buna业余圈**（Ethiopian Coffee Ceremony Hobby Circles） — 办埃塞俄比亚Buna咖啡三段烘烤仪式
+- **世界杯测品鉴赛**（World Cup Tasters Championship） — 按杯测流程冲煮咖啡，记录香气、酸质与余韵评分
+- **SCA 咖啡杯测**（SCA Coffee Cupping） — 酿「SCA 咖啡杯测」（SCA Coffee Cupping）。
+- **功夫茶冲泡实践**（Gongfu Cha Practice） — 酿「功夫茶冲泡实践」（Gongfu Cha Practice）。
+- **土耳其咖啡Cezve冲煮社群**（Turkish Cezve Coffee Brewing） — 用Cezve小铜壶煮土耳其咖啡，练泡沫
+- **家庭烘焙咖啡豆**（Home Coffee Roasting） — 酿「家庭烘焙咖啡豆」（Home Coffee Roasting）。
+- **普洱茶仓储与品鉴**（Puerh Aging & Tasting） — 存普洱干仓湿仓转化，开汤对比年份仓味
+- **家烘豆杯测夜**（Home-roast Cupping Nights） — 烘豆并做咖啡杯测，比较研磨、冲煮与风味缺陷
+- **茶会主客四季翻席**（Cha-kai Seasonal Host-Guest Rotation） — 练茶会主客四季翻席，熟悉点前、器物与席间礼法
+- **Le Nez du Café咖啡嗅觉训练**（Le Nez du Café Aroma Training） — 闻咖啡香气样本，训练烘焙产区与缺陷辨识
+- **CASI辣椒烹饪锦标赛**（CASI Chili Championship） — 熬煮辣椒与肉酱，按CASI评分维度调整香气、辣度和口感
+- **Eden世界康沃尔馅饼赛**（World Pasty Championships） — 制作康沃尔馅饼，调整面皮、馅料与封边，参加Eden世界赛
+- **Lafayette布丹香肠赛**（World Championship Boudin Cook-off） — 调配布丹香肠的肉馅与香料，练灌肠、烹煮及赛场呈现
+- **Whiting波兰饺子节食艺**（Pierogi Fest Whiting Foodways） — 制作波兰饺子并练擀皮、包馅与烹煮，参与Whiting节庆食艺
+- **加州葡裔Holy Ghost Sopas宴**（Portuguese Holy Ghost Sopas Feasts） — 准备Holy Ghost Sopas宴席，制作汤、面包并协作社区供餐
+- **北美越南裔Pho家庭厨艺圈**（Vietnamese-American Pho Home Cooking Circles） — 围绕Pho熬汤、处理香草与配料，交流越南裔家庭厨艺
+- **捷克裔Kolache烘焙社**（Czech-Slovak Kolache Baking Circles） — 揉面、发酵并烘焙Kolache，研究捷克裔家庭的馅料传统
+- **普韦布洛土炉面包**（Pueblo Horno Bread Baking） — 用土炉控火烘焙面包，记录普韦布洛传统炉具与面团变化
+- **金铲粥世界锦标赛**（Golden Spurtle World Porridge Championship） — 以谷物、肉类和调味料熬制金铲粥，比较传统赛制作品
+- **澳洲营火荷兰锅节**（Australian Camp Oven Festival） — 用营火荷兰锅烹炖烤，控制炭火、锅温和户外菜单
+- **卡尔ua Imu坑炉**（Kalua Imu Earth Oven） — 用坑炉焖烤卡尔ua Imu，准备石头、叶包与整只食材
+- **墨西哥Barbacoa坑烤**（Barbacoa Pit Cooking） — 用土坑慢烤Barbacoa，处理香料、叶包与长时间焖制
+- **维也纳面包层压**（Viennoiserie Lamination Home Circles） — 层压黄油面团烤维也纳可颂类面包
+- **节日姜饼屋共作会**（Holiday Gingerbread House Build Circle） — 搭建并装饰姜饼屋，练糖霜粘接、结构与节日造型
+- **地下炉Pachamanca**（Pachamanca Earth-oven Circles） — 把肉和蔬菜埋入热石坑中，慢焖出Pachamanca
+- **地灶Hāngī土炉**（Hāngī Earth-oven Gatherings） — 在地灶中烧热石头，焖烤肉、根茎和土豆
+- **粘土锅Tagine业余**（Amateur Tagine Claypot Circles） — 用Tagine慢炖肉菜，让锥形锅盖回收香气
+- **和果子练切**（Wagashi Nerikiri） — 做「和果子练切」（Wagashi Nerikiri）。
+- **糖画**（Sugar Painting） — 做「糖画」（Sugar Painting）。
+- **茶加工焙火**（Tea Processing Roast Craft） — 控制茶叶萎凋、揉捻与焙火，记录香气和含水率变化
+- **面塑**（Dough Figurine Craft） — 做「面塑」（Dough Figurine Craft）。
+- **橄榄油感官品评**（Olive oil sensory tasting） — 盲品橄榄油，识别果香、苦味、辛辣与氧化缺陷
+
+## 规则变体与裁判圈
+
+- **拿破仑再现战术裁判**（Napoleonic Reenactment Tactical Marshals） — 按历史战例执裁拿破仑再现，核对编制、回合与胜负
+- **维京盾墙安全官**（Viking Shieldwall Safety Marshals） — 担任维京盾墙安全官，检查装备、间距与接触强度
+- **Kin-Ball合作球**（Kin-Ball） — 裁判/规则「Kin-Ball合作球」（Kin-Ball）。
+- **荷兰Korfball裁判**（Korfball Referee） — 学习Korfball规则，执法混合阵容、阻挡与投篮判罚
+- **盲抓合作球听觉信号约定**（Blindfold Coop Ball Audio Cues） — 约定盲抓合作球听觉信号，测试提示清晰度与配合
+- **轮椅合作球传球高度上限**（Wheelchair Coop Pass Height Caps） — 测试轮椅合作球传球高度，设定上限并观察可及性
+- **朝鲜巡将围棋**（Sunjang Baduk） — 裁判/规则「朝鲜巡将围棋」（Sunjang Baduk）。
+- **圆网Roundnet**（Roundnet Spikeball） — 隔网接球、垫球与扣杀，按Roundnet规则练轮转和战术
+- **中将棋Chu shogi**（Chu Shogi） — 裁判/规则「中将棋Chu shogi」（Chu Shogi）。
+- **禽将棋Tori shogi**（Tori Shogi） — 裁判/规则「禽将棋Tori shogi」（Tori Shogi）。
+- **弹网Tchoukball**（Tchoukball FITB） — 裁判/规则「弹网Tchoukball」（Tchoukball FITB）。
+- **手鼓球Tamburello**（Tamburello） — 裁判/规则「手鼓球Tamburello」（Tamburello）。
+- **拳球Fistball**（Fistball） — 裁判/规则「拳球Fistball」（Fistball）。
+- **D&D房屋规则档案馆**（D&D House-rules Archives） — 收集D&D房屋规则，比较改动目的并整理版本档案
+- **围棋应氏计点业余研读会**（Ing Counting Study Groups） — 研读应氏计点，复盘计分规则并比较围棋终局
+- **卡坦资源短缺饥荒变体投票**（Catan Famine Variant Votes） — 测试卡坦饥荒变体，记录资源短缺对交易与胜率的影响
+- **Subbuteo桌面足球竞赛**（Subbuteo Table Football） — 用手指操控Subbuteo球员，练桌面足球传接、射门与赛制
+- **中世纪九子棋规则复原赛**（Medieval Nine Mens Morris Revival） — 复原中世纪九子棋，按历史规则对局并比较走法
+- **古代棋规文献校读小组**（Ancient Ruleset Collation Groups） — 校读古代棋规文献，对照版本、术语与棋局描述
+- **双人围棋Pair Go**（Pair Go） — 进行Pair Go对局，协调搭档落子并练双人策略
+- **四国军棋业余联赛**（Four-nation Army Chess Amateur Leagues） — 参加四国军棋联赛，熟悉阵营规则、布阵与计分
+- **国际跳棋百格**（International Draughts 100-square） — 练百格国际跳棋，研究强制吃子、升变与残局计算
+- **中国象棋大棋盘公园执裁志愿**（Park Xiangqi Officiating Volunteers） — 在公园执裁大棋盘象棋，管理计时、判定与秩序
+- **围棋读秒器机械发条保养**（Go Byoyomi Clock Spring Care） — 保养围棋机械读秒器，拆洗发条并校准计时
+- **日本将棋落子回手争议裁**（Shogi Retract Dispute Officiating） — 研究将棋落子回手争议，整理棋规、案例与裁判尺度
+- **接力象棋Bughouse**（Bughouse Chess） — 裁判/规则「接力象棋Bughouse」（Bughouse Chess）。
+- **日本将棋变体大将棋研习**（Dai Shogi Variant Study Circles） — 研习大将棋棋子体系，比较走法、吃子与复杂局面
+- **暗棋Kriegspiel裁判**（Kriegspiel Chess Referees） — 研究Kriegspiel隐藏信息规则，主持棋局并裁定争议局面
+- **暗棋翻子地方规约整理**（Chinese Dark-chess Local Rule Cataloguing） — 整理暗棋翻子地方规约，对照吃子、翻棋与胜负判定
+- **泰式象棋残局计数**（Thai Chess Endgame Counting） — 研究泰式象棋残局，按局面统计步数与胜负路径
+- **疯屋象棋Crazyhouse**（Crazyhouse Chess） — 按Crazyhouse吃子回收规则对弈，练落子限制与战术计算
+- **菲舍尔任意象棋社群**（Chess960 Fischer Random Clubs） — 随机布置棋子后练开局适应，研究菲舍尔任意象棋的策略
+- **输棋Antichess**（Losing Chess Antichess） — 以输棋为目标规划弃子，研究Antichess的强制吃子策略
+- **连珠Renju禁手裁判**（Renju Forbidden-Point Referee） — 按Renju规则判定禁手，记录三三、四四与长连
+- **硬地滚球Boccia**（Boccia BISFed） — 裁判/规则「硬地滚球Boccia」（Boccia BISFed）。
+- **低视力地壶声音目标器校准**（Audio Curling Target Calibration） — 校准低视力地壶声音目标器，测试音量与定位提示
+- **坐式排球发球高度适配会**（Sitting Volleyball Serve Height） — 适配坐式排球发球高度，测试轮椅位置与规则公平
+- **无障碍规则设计原则课**（Accessible Rule Design Principles） — 学习无障碍规则设计，检查信息、场地与操作门槛
+- **门球Goalball**（Goalball） — 裁判/规则「门球Goalball」（Goalball）。
+- **高地运动会投掷项目量具校准**（Highland Games Measure Cal） — 校准高地运动投掷量具，复核距离并记录器材误差
+- **室内车球联赛裁判**（Indoor Cycle-ball League Ref） — 执法室内车球联赛，处理车辆碰撞、控球与计时判罚
+- **巴斯克回力球Jai alai规则研习**（Jai Alai Rules Study Circles） — 练Jai alai回力球，掌握弧形投掷、接球与场地规则
+- **布列塔尼盖尔式摔跤规则会**（Gouren Breton Wrestling Rules Circles） — 学习布列塔尼盖尔式摔跤，掌握抓握、投摔与比赛规约
+- **朝鲜投壶礼仪式规则研**（Korean Touhu Rite Rule Study） — 研究朝鲜投壶礼仪规则，比较投掷流程与判定
+- **板网球Padel裁判**（Padel Referee） — 执法Padel比赛，掌握玻璃墙回球、发球与计分规则
+- **棋拳交替赛规**（Chess-Boxing Round Rules） — 设计棋拳交替赛规，测试回合衔接、积分与安全边界
+- **水下攻门球裁判**（Underwater Goalball Ref） — 执法水下攻门球，掌握潜水攻防、换气与计分规则
+- **泳池水下冰球裁判**（Pool Underwater Hockey Ref） — 执法水下冰球，判定潜水接触、持杆与进球动作
+- **皮艇水球裁判**（Canoe Polo Referee） — 执法皮艇水球比赛，判定持球、冲撞与射门犯规
+- **真实网球Real Tennis**（Real Tennis / Court Tennis） — 体验Real Tennis，学习古老球场布局、击球与计分
+- **脚高尔夫Footgolf**（Footgolf Rules） — 踢Footgolf完成球洞，练方向、力度与场地策略
+- **英式木瓶Skittles地方规**（English Skittles Local Bye-laws） — 按地方规约打英式木瓶Skittles，练投球、计分与轮次
+- **澳式足球海外业余**（Australian Football Diaspora） — 学习澳式足球规则，练传接、跑位并参与海外比赛
+- **爱尔兰壁手球**（Gaelic Handball） — 裁判/规则「爱尔兰壁手球」（Gaelic Handball）。
+- **Arimaa竞赛社群**（Arimaa Community） — 裁判/规则「Arimaa竞赛社群」（Arimaa Community）。
+- **Onitama棋盘武斗赛规**（Onitama Martial Board Rules Meets） — 按Onitama卡牌规则对弈，测试移动组合与棋盘控制
+- **Tak抽象棋竞赛圈**（Tak Abstract Strategy Circles） — 下Tak抽象棋，练堆叠、连线与空间控制并参加竞赛
+- **六角格战争游戏补给规则坊**（Hex Wargame Supply Workshops） — 设计六角格战争补给规则，推演运输线与战场选择
+- **女子板棍Camogie**（Camogie） — 裁判/规则「女子板棍Camogie」（Camogie）。
+- **盖尔式足球业余海外**（Gaelic Football Diaspora Clubs） — 学习盖尔式足球传接、跑位与规则，参加海外赛
+- **触式橄榄球FIT**（Touch Rugby FIT） — 裁判/规则「触式橄榄球FIT」（Touch Rugby FIT）。
+- **TwixT竞赛圈**（TwixT Competitive） — 裁判/规则「TwixT竞赛圈」（TwixT Competitive）。
+- **六贯棋Hex竞赛圈**（Hex Board Game Competitive） — 练Hex连通路线和堵截判断，参加六贯棋竞赛与复盘
+- **哈瓦那Havannah**（Havannah） — 裁判/规则「哈瓦那Havannah」（Havannah）。
+- **GIPF项目竞赛**（GIPF Project Competitive） — 研究GIPF系列规则，练项目棋的组合、封锁和赛局复盘
+- **飞盘高尔夫PDGA**（PDGA Disc Golf） — 裁判/规则「飞盘高尔夫PDGA」（PDGA Disc Golf）。
+- **Ultimate飞盘观察员**（Ultimate Frisbee Observer Corps） — 按飞盘规则观察比赛，记录犯规、得分与裁判信号
+- **沙滩极限沙坑边界重画日**（Beach Ultimate Boundary Redraw Days） — 重画沙滩极限边界，测量场地并更新比赛标线
+- **自裁一致性录像回放研究业余**（Selfofficiate Video Consistency Hobby） — 回放飞盘自裁录像，分析判罚一致性与沟通方式
+
+## 语言与人文
+
+- **托基波纳Toki Pona社群**（Toki Pona Community） — 用Toki Pona进行简短会话，讨论词根、语法与社群表达
+- **逻辑语Lojban实践**（Lojban Speakers） — 学「逻辑语Lojban实践」（Lojban Speakers）。
+- **中国篆刻**（Chinese seal engraving） — 学「中国篆刻」（Chinese seal engraving）。
+- **北欧维京生活史重演**（Norse Viking Living History Groups） — 制作服饰、器物并排演日常场景，复原北欧维京生活
+- **布列塔尼语成年学习者**（Adult Breton Language Learners） — 用会话、读本和写作学习布列塔尼语，练成年学习者交流
+- **意第绪语成年学习者**（Adult Yiddish Language Circles） — 读写字母、练发音与会话，学习意第绪语的文化语境
+- **American Mountain Men**（American Mountain Men） — 复现早期山地生活，练野外技能、服装与历史技艺
+- **Regia Anglorum早期中世纪重演**（Regia Anglorum） — 穿着早期中世纪服饰重演生活，练手工、战术与营地
+- **Society for Creative Anachronism**（Society for Creative Anachronism） — 参与SCA历史重演，制作服饰器物并演练中世纪生活
+- **南亚梵文颂诗业余吟诵**（Sanskrit Shloka Recitation Hobby） — 业余吟诵梵文颂诗，练发音与韵律
+- **斯瓦希里语业余学习社群**（Swahili Language Learning Circles） — 学斯瓦希里语会话，练东非常用表达
+- **纳瓦特尔语业余学习圈**（Nahuatl Language Hobby Learning） — 学纳瓦特尔语词汇语法，读简单古籍句
+- **西非Griot口述史诗传习**（West African Griot Oral Epic Learning） — 听学西非Griot口述史诗与乐器伴奏
+- **勃艮第炮兵营地复原**（The Company of St. George） — 复原勃艮第炮兵营地，考据器物、操演流程与营地生活
+- **埃及彩陶釉复原**（Egyptian Faience Glaze Revival） — 复原埃及彩陶釉，测试釉料配方、烧成与蓝绿色
+- **泰尔紫业余复原**（Tyrian Purple Revival Dyeing） — 复原泰尔紫染料，处理贝类原料并比较染色深度
+- **玛雅蓝颜料复原**（Maya Blue Pigment Revival） — 复原玛雅蓝颜料，调配黏土矿物并测试耐久度
+- **维京织布机复原**（Viking Warp-weighted Loom Revival） — 复原维京织布机，研究结构并织制历史纹样
+- **罗马混凝土业余配比**（Roman Concrete Mix Revival） — 试配罗马混凝土，比较火山灰、石灰与骨料比例
+- **巴蒂萨Bartitsu复兴**（Bartitsu Revival Clubs） — 复原巴蒂萨的拳击、棍术与绅士时代自卫套路
+- **法国棍术Canne**（Canne de combat Savate Stick） — 练法国棍术的步法、挥棍和攻防距离
+- **骑射WHAF**（WHAF Horseback Archery） — 按历史资料练骑马、持弓与移动射击
+- **东巴文经书抄写**（Dongba Pictograph Copying） — 以传统笔墨抄写东巴文经书，练字形、格式与装帧
+- **圣书体芦苇笔**（Hieroglyph Reed-pen Practice） — 用芦苇笔蘸墨书写圣书体，练字形比例与布局
+- **楔形文字泥板临摹**（Cuneiform Clay-tablet Copying） — 临摹楔形文字泥板，练芦苇笔压痕、行款与泥板成形
+- **西夏文同好释读**（Tangut Script Study Circles） — 对照字表释读西夏文，练构形、音值和文献校勘
+- **苏美尔圆筒印章雕刻**（Cylinder-seal Carving Replication） — 仿照苏美尔工艺刻制圆筒印章并滚印泥板
+- **密封结社英国内战重演**（The Sealed Knot） — 学「密封结社英国内战重演」（The Sealed Knot）。
+- **欧洲历史服装再现**（Historical Costuming） — 按历史剪裁缝制欧式古装，考据形制并上台再现
+- **汉服形制考据**（Hanfu Form Research） — 学「汉服形制考据」（Hanfu Form Research）。
+- **朝鲜走绳戏传承**（Jultagi tightrope transmission） — 练朝鲜走绳戏的平衡、跳步与表演段落，记录传承谱系
+- **毛皮贸易集市**（Fur-trade Rendezvous Reenactments） — 参加毛皮贸易集市，练传统制皮、交换和边地手艺
+- **美国内战再演**（American Civil War Reenactment Units） — 穿历史服装重演内战，研究营地生活、战术与器物
+- **活史重演营地周末**（Living History Reenactment Camp Weekend） — 参加活史重演营地，制作时代装备并演练历史日常
+- **Qawwali苏菲卡瓦利业余圈**（Qawwali Amateur Devotional Circles） — 学唱苏菲Qawwali，拍手合唱与长句即兴
+- **世界语俱乐部会话桌**（Esperanto Conversation Tables） — 用世界语会话，练日常表达、语法与跨语交流
+- **印尼Gamelan加麦兰合奏**（Indonesian Gamelan Ensemble） — 合奏印尼加麦兰，铜锣金属琴分层敲击
+- **印尼Kroncong克朗章弦乐**（Kroncong String Ensemble） — 弹印尼Kroncong尤克里里式弦乐小乐队
+- **印度尼西亚Angklung竹摇琴**（Angklung Bamboo Ensemble） — 摇Angklung竹筒琴，按音高集体演奏
+- **哥伦比亚Vallenato手风琴歌谣**（Colombian Vallenato Accordion Song） — 拉Vallenato手风琴唱哥伦比亚乡谣
+- **土耳其Ney内伊笛苏菲实践**（Turkish Ney Flute Practice） — 吹土耳其Ney内伊笛，跟苏菲仪式长音
+- **巴西Chorinho小合唱器乐**（Brazilian Choro Instrumental Circles） — 奏巴西Chorinho小编制器乐，快速切分
+- **手语诗歌表演社**（Sign-language Poetry Performance Clubs） — 创作手语诗歌，运用空间、节奏与表情组织诗句
+- **特立尼达钢鼓Steelpan**（Trinidad Steelpan Music） — 敲特立尼达钢鼓，练音高排列与钢鼓乐队
+- **菲律宾Rondalla弦乐团**（Philippine Rondalla Ensemble） — 组菲律宾Rondalla拨弦乐团弹民谣
+- **俳句日课社**（Daily Haiku Practice Societies） — 每日读写俳句，练季语、切字与短句观察力
+- **古籍善本抄写**（Manuscript Copying Hobby） — 临摹善本笔迹，用毛笔抄经写牍练古书体
+- **苏格兰Burns俱乐部**（Burns Clubs） — 学「苏格兰Burns俱乐部」（Burns Clubs）。
+- **家谱编修业余**（Amateur Genealogy Compilation） — 访谈亲属整理谱系，核对族名、迁徙与档案证据
+- **短歌Tanka社**（Tanka Poetry Circles） — 每日写短歌，练五七五七七节奏与季节意象
+- **Osmothèque香水档案品鉴**（Osmothèque Perfume Conservatory） — 品鉴Osmothèque存档香水配方与年代
+- **坎瑙杰传统阿塔尔蒸馏鉴赏**（Kannauj Attar Distillation Appreciation） — 鉴赏坎瑙杰阿塔尔蒸馏花精油与涂香
+- **志野流松隐会香道教场**（Shino-ryū Shōinkai Kōdō Classes） — 按志野流仪轨识香、传香，练灰与香木的分辨
+- **志野流香道闻香**（Shino-ryū Kōdō Incense Ceremony） — 按志野流香道程式闻香辨香木组合
+- **篆香印香制作**（Incense Seal Tenkō Practice） — 研磨香材压制篆香，练香篆填灰和燃烧曲线
+- **艺术嗅觉实验与教育**（Art and Olfaction Practice） — 做艺术嗅觉工作坊，盲闻描述气味叙事
+- **藏香制作与熏习**（Tibetan Incense Making Practice） — 配柏枝、红花等香材制藏香，练搓条与烟气品评
+- **世界语业余社群**（Esperanto Community） — 学「世界语业余社群」（Esperanto Community）。
+- **国际语Interlingua**（Interlingua Correspondence Circles） — 以Interlingua阅读对话，练罗曼语词根与跨语沟通
+- **土耳其鸟语Kuşdili**（Kuş Dili Turkish Bird-language） — 学土耳其Kuşdili口哨语，练元音辅音的音高映射
+- **戈梅拉口哨语Silbo**（Silbo Gomero Whistled Language Practice） — 用Silbo口哨传递短句，练音高编码、距离与辨听
+- **沃拉普克复兴会话**（Volapük Revival Conversation） — 用沃拉普克会话和写作，练词形变化与复兴词汇
+- **拉丁语会话会**（Living Latin Conversation Circles） — 用拉丁语会话，练古典发音、日常表达与阅读
+- **世界语地方小组欧美**（Esperanto Local Groups Euro-NA） — 用世界语组织线下对话，练会话流利度与地方词汇
+- **新共同语言Novial**（Novial Language Circles） — 学习Novial新共同语言，练词汇、语法与短文会话
+- **西方国际语Occidental**（Occidental Language Circles） — 学习Occidental国际语，练语法、阅读与日常会话
+- **巴厘托彭假面**（Topeng Mask Amateur） — 学「巴厘托彭假面」（Topeng Mask Amateur）。
+- **昆曲票友**（Kunqu amateur piaoyou practice） — 以昆曲唱腔身段排戏，练水磨腔、念白和程式
+- **越南水上木偶业余**（Water-puppet Amateur Troupes） — 练越南水上木偶操演，制作偶件并配合水面乐队
+- **泰国Khon**（Khon masked dance-drama） — 学泰国Khon面具舞，练手势、步伐与史诗角色
+- **城市声景季度采样点固定观测**（Urban Soundscape Fixed Stations） — 按季度在固定点采样城市声景，记录声源、时段与分贝
+- **城市声景词汇地图共建**（Urban Soundscape Lexicon Maps） — 共建城市声景词汇地图，把声音地点、时段与描述词对应
+- **声景写作工作坊进阶**（Soundscape Writing Advanced） — 写声景文本，聆听环境层次并把声音转成文字
+- **盲文创意诗歌触感排版**（Braille Creative Poem Layouts） — 排版盲文创意诗歌，测试触感节奏与阅读顺序
+- **织物手感形容词因子分析业余**（Fabric Hand Adjective Factor Hobby） — 用问卷分析织物手感形容词，比较柔软、粗糙与滑爽维度
+- **织物手感词汇田野采集**（Textile Handfeel Lexicon Fieldwork） — 采集不同织物手感词汇，记录触摸部位、语境与地域说法
+- **国际手语艺术表演**（International Sign Performance） — 编排国际手语艺术节目，练空间构图、节奏与舞台交流
+- **手语诗歌ASL poetry**（ASL Poetry Circles） — 用ASL手语编排诗句，练空间节奏、表情与视觉韵律
+- **人造文字Neography**（Neography Constructed Scripts） — 设计新字母和书写规则，测试Neography的可读性与字体风格
+- **制墨**（Inkstick Making） — 学「制墨」（Inkstick Making）。
+- **因纽特皂石雕**（Inuit Soapstone Carving） — 雕刻皂石并打磨抛光，学习因纽特动物、人物与器物造型
+- **塔瓜坚果雕**（Tagua Nut Carving） — 学「塔瓜坚果雕」（Tagua Nut Carving）。
+- **惠特比煤玉雕**（Whitby Jet Carving） — 学「惠特比煤玉雕」（Whitby Jet Carving）。
+- **核雕**（Olive-Pit Carving） — 学「核雕」（Olive-Pit Carving）。
+- **桦树皮咬纹**（Birchbark Biting） — 学「桦树皮咬纹」（Birchbark Biting）。
+- **浮雕贝壳Cameo**（Cameo Shell Carving） — 雕刻贝壳浮层并镶嵌底托，制作Cameo肖像与纹章饰品
+- **海泡石雕**（Meerschaum Carving） — 学「海泡石雕」（Meerschaum Carving）。
+- **端砚制作**（Duan Inkstone Making） — 学「端砚制作」（Duan Inkstone Making）。
+- **通草花**（Tongcao Pith Flowers） — 学「通草花」（Tongcao Pith Flowers）。
+- **威尔士国家Eisteddfod**（National Eisteddfod of Wales） — 参加威尔士Eisteddfod，练诗歌、歌唱和传统评审项目
+- **康沃尔语复兴社群**（Cornish Language Revival） — 用康沃尔语会话写作，练复兴词汇、发音和地方文化
+- **池坊花道**（Ikenobo ikebana / kadō） — 学「池坊花道」（Ikenobo ikebana / kadō）。
+- **裏千家茶道**（Urasenke chadō / sadō） — 学「裏千家茶道」（Urasenke chadō / sadō）。
+- **香道组季节闻香会**（Kodo Seasonal Incense Gathering） — 参加香道季节闻香会，练香木辨识、礼法与记录
+- **格雷格速记爱好者**（Gregg Shorthand Hobbyists） — 用Gregg符号记录语音，练速记、回读与日常听写速度
+- **泰勒Teeline新闻速记业余**（Teeline Shorthand Amateur） — 用Teeline符号速记新闻，练听辨、压缩表达与快速回读
+- **泰氏Pitman速记**（Pitman Shorthand Hobbyists） — 学习Pitman音标和书写规则，练听写、缩写与快速记录
+- **塔希提奥特舞谱系传习**（Tahitian Ori Dance Lineage Practice） — 学习塔希提奥特舞谱系，练髋部动作、手势与队形
+- **塔赫提布棍术传承**（Tahtib transmission） — 学「塔赫提布棍术传承」（Tahtib transmission）。
+- **夏威夷卢阿武术传承**（Hawaiian Lua transmission） — 学习夏威夷卢阿的步法、摔技与传统身体观
+- **奇道巴摔跤传承**（Chidaoba transmission） — 练奇道巴摔跤的抓握、投摔与传统礼仪
+- **官贺歌QuanHo**（Quan Họ Village Singing Groups） — 学唱越南官贺歌，练和声、节奏与地方曲调
+- **散调Gayageum师徒**（Sanjo Gayageum Lineages） — 学习散调伽倻琴，练习即兴旋律与师徒曲目
+- **文乐义太夫业余**（Bunraku Gidayu Amateur Recitation） — 跟师学唱义太夫，练三味线伴奏与净琉璃腔
+- **狂言和泉流业余**（Kyogen Izumi-ryu Amateur） — 跟师学狂言和泉流，练台词、型与喜剧节奏
+- **能乐仕舞业余稽古**（Noh Shimai Amateur Keiko） — 跟师练能乐仕舞，揣摩基本步、型与舞台节奏
+- **韩国盘索里学徒**（Pansori Apprentice Circles） — 跟师学唱盘索里，练习长篇叙事与声腔身段
+- **弓道寒稽古新年练**（Kyudo Midwinter Kangeiko Practice） — 参加弓道寒稽古，练射法八节与新年场合礼仪
+- **弓道射礼研习**（Kyūdō ceremonial practice） — 按弓道射礼练站姿、行进、引弓与收势
+- **恩古尼棍斗传承**（Nguni stick-fighting transmission） — 练恩古尼棍斗的步法、距离和双棍攻防
+- **毛利哈卡战舞社群排练**（Maori Haka Community Rehearsal） — 排练毛利哈卡战舞，练呼喊、跺步与集体节奏
+- **毛利武器术传承**（Mau rākau transmission） — 学习毛利武器的步法、棍技与口述传统
+- **火刀舞**（Siva afi / fire knife） — 学「火刀舞」（Siva afi / fire knife）。
+- **薙刀术谱系研习**（Naginatajutsu lineage study） — 研习薙刀术谱系，练型、步法和兵器礼法
+- **御家流香道**（Oie-ryū Kōdō Incense Ceremony） — 焚香辨材、合香与品闻，按御家流规矩练习香道
+
+## 音乐演奏
+
+- **琴箱湿度季节性开裂监测**（Soundbox Seasonal Crack Watch） — 监测弦乐琴箱湿度，记录裂缝、温差与加湿措施
+- **木管垫片泄漏率学期统计**（Pad Leak Rate Semester Stats） — 测木管垫片泄漏率，按学期比较气密性、按键与维护
+- **木管声学与垫片密封课**（Woodwind Acoustics Pad Seal） — 学习木管声学，练垫片密封并排查漏气位置
+- **击弦机呢毡压缩量测**（Action Felt Compression Measure） — 测量击弦机呢毡压缩量，比较键感、回弹与使用次数
+- **钢琴击弦机呢毡更换听感**（Piano Action Felt Earcheck） — 更换钢琴击弦机呢毡，比较触键、音色与回弹听感
+- **钢琴调律理论入门业余**（Piano Tuning Theory Hobby） — 学习钢琴调律理论，理解音律、弦张力与听辨
+- **嫩达兹阿尔卑斯长号盲评赛**（International Alphorn Festival Nendaz） — 参加阿尔卑斯长号盲评，练音准、听辨与即兴号角
+- **瑞士约德尔歌唱竞赛**（Swiss Yodeling Competitions） — 练约德尔换声、呼吸与多声部，参加瑞士传统歌唱竞赛
+- **魁北克传统小提琴会话**（Quebec Traditional Fiddle Sessions） — 在会话中拉魁北克传统小提琴，练舞曲装饰与即兴伴奏
+- **harsh noise墙声**（Harsh-noise Wall Circles） — 制作harsh noise墙声，尝试反馈、失真与现场层次
+- **Noise噪音演出网络**（Noise Music Scene） — 办噪音演出，调反馈效果器与地下场地档期
+- **Vaporwave制作与归档**（Vaporwave Scene） — 做蒸汽波采样拼贴，归档老碟片美学与发布带
+- **独立卡带厂牌运营**（Cassette Label Running） — 运营小卡带厂牌，压带、封面与邮购发行
+- **具体音乐磁带拼接**（Musique Concrete Tape Splicing） — 剪接磁带片段，拼具体音乐并练循环、倒放与蒙太奇
+- **电路弯曲CircuitBending**（Circuit Bending Instrument Hacks） — 拆改玩具电路与磁带机，制造失真节奏和反馈声
+- **机械风琴BarrelOrgan**（Barrel Organ Crank Performance） — 修复机械风琴滚筒，校正销钉、纸带和气路演奏
+- **钢鼓调音工棚夜作**（Steelpan Tuning Yard Night Work） — 在钢鼓工棚校音，打磨音区并调试合奏音色
+- **旧时钢琴世界赛成人组**（World Championship Old-Time Piano Playing Contest） — 弹奏旧时钢琴曲目，研究踏板、触键和历史速度
+- **鼻笛Nose flute**（Nose Flute Playing） — 吹奏大洋洲鼻笛，练气息控制与传统旋律
+- **自动钢琴卷演奏会**（Player Piano Roll Performance） — 穿孔钢琴卷并校准琴速，演奏自动钢琴曲目并研究版本差异
+- **街风琴Drehorgel业余**（Street Barrel Organ Amateur） — 拆装并调音街风琴，练曲筒、风箱和机械键的演奏控制
+- **莫里斯联合会铃圈舞**（The Morris Federation） — 佩铃练莫里斯铃圈舞，配合队形、步伐和民俗乐器节奏
+- **呼麦喉音业余习练**（Khöömei Throat Singing Practice） — 用喉腔共鸣演唱呼麦，练泛音、气息与持续音
+- **琉球三线俱乐部实践**（Ryukyu Sanshin Club Practice） — 弹琉球三线伴唱，练工工四合弦与岛歌节奏
+- **Panorama钢鼓乐队竞演**（Panorama Steelband Competition） — 在钢鼓乐队分声部排练，参加Panorama大型竞演
+- **ca tru歌筹**（Ca Tru Chamber Singing） — 以歌筹节奏演唱ca tru，练习越南传统声腔与乐器配合
+- **夏威夷钢棒吉他HSGA**（Hawaiian Steel Guitar HSGA） — 用钢棒滑奏夏威夷曲调，练音准、节奏与开放弦伴奏
+- **尺八ISS**（International Shakuhachi Society） — 练习尺八呼吸、指法与本曲，探索ISS社群的合奏传统
+- **대금大笒**（Daegeum Bamboo Flute） — 奏「대금大笒」（Daegeum Bamboo Flute）。
+- **加里富纳鼓舞合奏**（Garifuna Drum and Dance Ensemble） — 打鼓跳舞合奏加里富纳节奏，练多声部与步伐
+- **北美社区Gamelan合奏**（North American Community Gamelan） — 学习甘美兰合奏，配合北美社区乐团的循环节奏
+- **卡纳提克音乐萨巴**（Carnatic Music Sabha Practice） — 听卡纳提克音乐会，学ragam与萨巴礼仪
+- **西塔琴演奏**（Sitar Playing） — 奏「西塔琴演奏」（Sitar Playing）。
+- **南太平洋马林巴节庆合奏**（South Pacific Marimba Festival Ensemble） — 用马林巴分声部合奏，准备南太平洋节庆演出
+- **卡利普索帐篷赛季驻演**（Calypso Tent Seasonal Residency） — 参加卡利普索帐篷驻演，练歌唱、舞步与现场伴奏
+- **乌克兰班杜拉业余**（Ukrainian Bandura Amateur） — 弹奏乌克兰班杜拉，练习民歌伴奏与传统曲目
+- **乌兹别克沙什马卡姆**（Shashmaqam Amateur Suites） — 演唱乌兹别克沙什马卡姆，学习套曲结构与旋律
+- **俄罗斯古斯里业余**（Russian Gusli Amateur） — 弹奏俄罗斯古斯里，练习古曲旋律与拨弦技法
+- **冬不拉业余师徒**（Dombra Amateur Lineages） — 跟师拉奏冬不拉，练习民歌伴奏与快速拨弦
+- **加利西亚风笛业余**（Galician Gaita Amateur Bands） — 吹奏加利西亚风笛，练习传统舞曲与合奏呼吸
+- **十二木卡姆业余套曲**（Uyghur Muqam Amateur Suites） — 演奏十二木卡姆套曲，练习木卡姆旋律与节拍
+- **因纽特喉歌Katajjaq**（Katajjaq Inuit Throat-game Duets） — 学习因纽特喉歌，练双人节奏、呼吸与声响模仿
+- **土耳其阿诗克弹唱**（Ashik Bard Performance Circles） — 弹唱土耳其阿诗克民歌，练长颈鲁特琴与叙事
+- **夏威夷钢吉他业余**（Hawaiian Steel-guitar Amateur） — 学习夏威夷钢吉他滑奏，练音阶与岛歌伴奏
+- **奄美岛歌业余**（Amami Shima-uta Amateur） — 学唱奄美岛歌，练习岛唄声线与传统曲目
+- **安达卢斯努巴套曲**（Andalusi Nuba Amateur Suites） — 演奏安达卢斯努巴套曲，练旋律段落与乐队衔接
+- **尺八琴古流业余**（Kinko-ryu Shakuhachi Amateur） — 学习琴古流尺八，练气息、指法与古曲本曲
+- **希腊雷贝提科业余**（Rebetiko Amateur Ensembles） — 弹唱希腊雷贝提科，练习布祖基琴与城市民谣
+- **格鲁吉亚多声部合唱**（Georgian Polyphonic Choir Amateur） — 练格鲁吉亚多声部合唱，配合持续音与声部线条
+- **芬兰坎特勒业余**（Finnish Kantele Amateur） — 弹唱芬兰坎特勒，练习民谣伴奏与传统曲调
+- **萨米约伊克**（Sámi Yoik Vocal Circles） — 学习萨米约伊克，以自然声腔演绎地方旋律与意象
+- **葡萄牙法朵业余社**（Fado Amateur Houses） — 奏「葡萄牙法朵业余社」（Fado Amateur Houses）。
+- **阿尔巴尼亚Iso复调**（Albanian Iso-polyphony Amateur） — 练唱阿尔巴尼亚Iso复调，配合持续音与多声部
+- **马头琴业余师徒**（Morin Khuur Amateur Lineages） — 跟师拉奏马头琴，练习长调伴奏与弓法
+- **减字谱古琴传习**（Jianzi Guqin Tablature Circles） — 按减字谱读古琴指法，练吟猱、按音与琴曲
+- **工尺谱业余传习**（Gongche Notation Amateur Circles） — 读工尺谱并转成旋律，练传统曲牌和工尺记谱
+- **保加利亚风笛Gaida**（Gaida Amateur Bands） — 吹奏保加利亚Gaida风笛，练不间断气息与舞曲
+- **呼麦Khoomei**（Mongolian khoomei overtone singing） — 以喉腔与泛音唱呼麦，练共鸣转换和持续气息
+- **蒙古长调乌日汀**（Mongolian Urtiin Duu Long Song） — 用长气息演唱蒙古长调，练延音、装饰和喉腔共鸣
+- **姆比拉拇指琴演奏**（Mbira performance） — 奏「姆比拉拇指琴演奏」（Mbira performance）。
+- **委内瑞拉霍罗波音乐舞会合奏**（Joropo Community Music Ensemble） — 弹唱霍罗波并配舞，练委内瑞拉节拍与合奏
+- **安第斯排箫兄弟会合奏**（Andean Siku Brotherhood Ensemble） — 合奏安第斯排箫，练呼吸接力、和声与传统曲目
+- **巴塞尔法斯纳赫特小集团排练**（Basel Fasnacht Clique Rehearsal） — 排练法斯纳赫特小集团，制作面具并参与巴塞尔巡游
+- **巴斯科鼓笛节庆队**（Basque Txistu and Drum Festival Bands） — 排练巴斯科鼓笛节庆队，练鼓、笛和行进队形
+- **布雷顿角苏格兰提琴**（Cape Breton Fiddling） — 拉奏布雷顿角提琴，练装饰音、舞曲节拍和传统合奏
+- **康纳科尔口技节奏**（Konnakol） — 奏「康纳科尔口技节奏」（Konnakol）。
+- **印度萨朗吉**（Sarangi Amateur Lineages） — 学习印度萨朗吉，练弓法、音准与声乐伴奏
+- **土耳其萨兹**（Saz Baglama Amateur） — 奏「土耳其萨兹」（Saz Baglama Amateur）。
+- **Berimbau拨弦弓演奏**（Berimbau Musical Bow Practice） — 弹Berimbau单弦弓，配卡波耶拉节奏
+- **Samba de Roda巴伊亚轮舞桑巴**（Samba de Roda of Bahia） — 巴伊亚轮舞桑巴围圈唱奏，手鼓与呼应
+- **古巴Son与Timba节奏实践**（Cuban Son & Timba Practice） — 练古巴Son与Timba钥匙节奏与康加
+- **墨西哥Mariachi街头与社群演奏**（Mariachi Ensemble Practice） — 组Mariachi街头演奏，小号提琴与歌喉
+- **阿根廷乌拉圭Tango探戈演奏**（Argentine-Uruguayan Tango Music） — 奏阿根廷乌拉圭探戈器乐，班多钮领奏
+- **新奥尔良第二线路铜管**（Second Line Brass Band Parades） — 跟着铜管乐队走街，练第二线路的即兴节奏
+- **日本太鼓团队竞演**（Japanese Taiko Team Performance） — 练日本太鼓的合奏、步伐和强弱，参加团队演出
+- **口弦Khomus制作**（Khomus Jew's Harp Making） — 选材、打磨簧片并调音，制作能发出泛音的口弦乐器
+- **尺八制作**（Shakuhachi Making） — 奏「尺八制作」（Shakuhachi Making）。
+- **手碟Handpan制作**（Handpan Making） — 奏「手碟Handpan制作」（Handpan Making）。
+- **笙制作**（Sheng Making） — 奏「笙制作」（Sheng Making）。
+- **舌鼓制作**（Tongue Drum Making） — 奏「舌鼓制作」（Tongue Drum Making）。
+- **葫芦丝制作**（Hulusi Making） — 奏「葫芦丝制作」（Hulusi Making）。
+- **锣锻造**（Gong Smithing） — 奏「锣锻造」（Gong Smithing）。
+- **陶笛制作**（Ocarina Making） — 奏「陶笛制作」（Ocarina Making）。
+- **颂钵制作**（Singing Bowl Making） — 奏「颂钵制作」（Singing Bowl Making）。
+- **马头琴制作**（Morin Khuur Making） — 奏「马头琴制作」（Morin Khuur Making）。
+- **英格兰民歌俱乐部**（English Folk-song Clubs） — 在英格兰民歌俱乐部唱传统歌，练方言、和声与伴奏
+- **爱尔兰Uilleann管业余班**（Irish Uilleann Pipes Classes） — 学习Uilleann管，练风箱控制、装饰音与爱尔兰曲目
+- **乌德琴Takht合奏**（Oud Takht Amateur Ensembles） — 乌德琴进Takht乐队，弹阿拉伯调式即兴
+- **芬兰Kantele卡泰里琴社**（Finnish Kantele Circles） — 弹奏芬兰Kantele，练拨弦、民谣伴奏与传统曲调
+- **苏格兰风笛乐队竞赛**（Pipe Band Competition Circuits） — 练风笛、鼓和行进队形，参加苏格兰乐队竞赛
+- **日本雅乐业余寮**（Amateur Gagaku Court-music Circles） — 学日本雅乐乐谱与节拍，练笙、篳篥或龙笛合奏
+- **身体打击乐**（Body percussion） — 奏「身体打击乐」（Body percussion）。
+- **弗拉门戈Palmas拍手**（Flamenco Palmas Hand-clapping） — 用拍手声型跟随弗拉门戈节拍，练Palmas合奏
+- **迪吉里杜管循环呼吸**（Didgeridoo circular breathing） — 练迪吉里杜管循环呼吸，让低音长时间不断
+- **钢鼓乐队Panorama赛**（Steelpan Panorama） — 演奏钢鼓参加Panorama赛，练合奏编曲与舞台配合
+- **Gnawa盖纳瓦音乐实践**（Gnawa Music Practice） — 奏盖纳瓦仪式音乐，弹三弦琴与响板节奏
+- **刚果Soukous吉他节奏圈**（Soukous Guitar Rhythm Circles） — 练刚果Soukous快速分解吉他扫弦
+- **南非Isicathamiya合唱**（Isicathamiya Choral Singing） — 练南非Isicathamiya无伴奏男声合唱
+- **塞内加尔Sabar鼓乐**（Senegalese Sabar Drumming） — 打塞内加尔Sabar鼓，配舞蹈鼓点对话
+- **约鲁巴Talking Drum谈话鼓**（Yoruba Talking Drum Practice） — 用约鲁巴谈话鼓模仿语言音调对话
+- **西非Djembe金贝鼓演奏**（West African Djembe Drumming） — 敲西非金贝鼓，学基本型与集体呼应
+- **阿尔及利亚Raï莱音乐**（Raï Music of Algeria） — 唱奏阿尔及利亚Raï，电声与传统鼓混合
+- **高纳音乐Highlife业余演奏**（Highlife Amateur Performance） — 弹高纳Highlife吉他节奏与铜管编配
+- **水琴Hydraulophone**（Hydraulophone） — 用水流控制音高和音色，制作Hydraulophone并练旋律演奏
+- **北美改换敲钟公会NAGCR**（North American Guild of Change Ringers） — 练改换敲钟的变化谱，配合钟组节拍完成轮次
+- **自然小号业余**（Natural Trumpet Amateur） — 练自然小号无键吹奏，依靠唇振控制泛音旋律
+- **预备钢琴业余**（Prepared-piano Amateur Circles） — 练预备钢琴曲目，专注读谱、触键与基础技巧
+- **微分音键盘改装**（Microtonal Keyboard Retuning） — 改装键盘分配微分音音阶，测试非十二平均律
+- **意大利手动钟楼鸣钟**（Italian Manual Bell Ringing） — 操控钟楼绳索与键盘，让多口钟按谱演奏和声节奏
+- **班多钮手风琴探戈**（Bandoneon Tango） — 奏「班多钮手风琴探戈」（Bandoneon Tango）。
+- **石磐Lithophone**（Lithophone Stone-key Instruments） — 敲击不同石片，调音后演奏石磐旋律
+- **低音维奥尔Viol**（Viola da Gamba Consorts） — 拉低音维奥尔，合奏文艺复兴复调
+- **竖笛Consor业余**（Recorder Consort Amateur） — 竖笛Consor合奏巴洛克曲目，练气息音准
+- **自然圆号业余**（Natural Horn Amateur） — 奏「自然圆号业余」（Natural Horn Amateur）。
+- **特雷门琴演奏**（Theremin Performance Circles） — 以手势控制特雷门琴音高音量，练无触键演奏
+- **玻璃琴演奏**（Glass Harmonica Performance） — 摩擦玻璃杯沿奏音，调水量并演绎玻璃琴旋律
+- **美国手铃音乐家协会**（Handbell Musicians of America） — 演奏手铃合奏，练分谱、起落音和队形配合
+- **Sacred Harp形状音符**（Sacred Harp Shape-note Singing） — 按Sacred Harp形状音符识谱，参加集体歌唱与和声练习
+- **塞佩雷瓦Seperewa**（Seperewa Harp-lute） — 弹奏塞佩雷瓦，练非洲弦乐拨弦与传统伴奏
+- **恩戈尼Ngoni弹拨**（Ngoni Playing） — 奏「恩戈尼Ngoni弹拨」（Ngoni Playing）。
