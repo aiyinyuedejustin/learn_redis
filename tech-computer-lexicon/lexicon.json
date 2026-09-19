@@ -1,0 +1,2032 @@
+[
+  {
+    "name_zh": "OpenMediaVault折腾",
+    "name_en": "OMV tinkering",
+    "path": "Homelab与自托管/存储与备份/OpenMediaVault折腾",
+    "blurb": "Debian系轻量NAS系统装插件跑Docker",
+    "keywords": [
+      "OMV",
+      "OpenMediaVault",
+      "NAS",
+      "Debian"
+    ],
+    "reference": "https://www.openmediavault.org/",
+    "circle_evidence": "OMV论坛; linux.do"
+  },
+  {
+    "name_zh": "TrueNAS折腾",
+    "name_en": "TrueNAS tinkering",
+    "path": "Homelab与自托管/存储与备份/TrueNAS折腾",
+    "blurb": "ZFS存储池、快照与插件服务一体机玩法",
+    "keywords": [
+      "TrueNAS",
+      "ZFS",
+      "Core",
+      "SCALE"
+    ],
+    "reference": "https://www.truenas.com/",
+    "circle_evidence": "TrueNAS论坛; linux.do存储帖"
+  },
+  {
+    "name_zh": "Unraid阵列玩",
+    "name_en": "Unraid array hobby",
+    "path": "Homelab与自托管/存储与备份/Unraid阵列玩",
+    "blurb": "奇偶校验阵列+Docker+虚拟机一体机",
+    "keywords": [
+      "Unraid",
+      "阵列",
+      "Docker",
+      "NAS"
+    ],
+    "reference": "https://unraid.net/",
+    "circle_evidence": "Unraid论坛; 少数中文博客圈"
+  },
+  {
+    "name_zh": "私有网盘同步",
+    "name_en": "Private cloud sync",
+    "path": "Homelab与自托管/存储与备份/私有网盘同步",
+    "blurb": "Nextcloud/Seafile做文件同步与协作",
+    "keywords": [
+      "Nextcloud",
+      "Seafile",
+      "私有云",
+      "网盘"
+    ],
+    "reference": "https://nextcloud.com/",
+    "circle_evidence": "Nextcloud论坛; linux.do"
+  },
+  {
+    "name_zh": "群晖DSM玩法",
+    "name_en": "Synology DSM hobby",
+    "path": "Homelab与自托管/存储与备份/群晖DSM玩法",
+    "blurb": "套件中心、快照复制与套件自建服务",
+    "keywords": [
+      "群晖",
+      "Synology",
+      "DSM",
+      "套件"
+    ],
+    "reference": "https://www.synology.cn/",
+    "circle_evidence": "恩山群晖版; 群晖中文社区"
+  },
+  {
+    "name_zh": "自建NAS",
+    "name_en": "Self-built NAS",
+    "path": "Homelab与自托管/存储与备份/自建NAS",
+    "blurb": "组装或刷机做网络存储、快照与异地备份",
+    "keywords": [
+      "NAS",
+      "自建NAS",
+      "网盘私有化",
+      "存储"
+    ],
+    "reference": "https://www.right.com.cn/forum/",
+    "circle_evidence": "恩山NAS版; 群晖俱乐部; linux.do"
+  },
+  {
+    "name_zh": "飞牛fnOS折腾",
+    "name_en": "fnOS tinkering",
+    "path": "Homelab与自托管/存储与备份/飞牛fnOS折腾",
+    "blurb": "国产NAS系统装机与影音/同步套件玩法",
+    "keywords": [
+      "飞牛",
+      "fnOS",
+      "NAS",
+      "国产NAS"
+    ],
+    "reference": "https://www.fnnas.com/",
+    "circle_evidence": "linux.do飞牛讨论; 飞牛官网社区"
+  },
+  {
+    "name_zh": "黑群晖折腾",
+    "name_en": "Xpenology hobby",
+    "path": "Homelab与自托管/存储与备份/黑群晖折腾",
+    "blurb": "非官机器刷DSM的社区装机玩法",
+    "keywords": [
+      "黑群晖",
+      "Xpenology",
+      "DSM",
+      "装机"
+    ],
+    "reference": "https://xpenology.com/forum/",
+    "circle_evidence": "恩山黑群晖版; Xpenology论坛"
+  },
+  {
+    "name_zh": "Homelab装机",
+    "name_en": "Homelab buildout",
+    "path": "Homelab与自托管/家庭实验室/Homelab装机",
+    "blurb": "家用服务器集群：虚拟化、存储与监控一体",
+    "keywords": [
+      "Homelab",
+      "家庭实验室",
+      "小主机",
+      "家用服务器"
+    ],
+    "reference": "https://linux.do/",
+    "circle_evidence": "linux.do Homelab专栏帖; r/homelab"
+  },
+  {
+    "name_zh": "家庭服务器运维",
+    "name_en": "Home server ops hobby",
+    "path": "Homelab与自托管/家庭实验室/家庭服务器运维",
+    "blurb": "通宵挂机小主机：监控告警备份与省电",
+    "keywords": [
+      "家用服务器",
+      "小主机",
+      "N100",
+      "挂机"
+    ],
+    "reference": "https://linux.do/",
+    "circle_evidence": "linux.do家庭小主机帖"
+  },
+  {
+    "name_zh": "监控告警全家桶",
+    "name_en": "Homelab monitoring stack",
+    "path": "Homelab与自托管/家庭实验室/监控告警全家桶",
+    "blurb": "Prometheus+Grafana或UPTIME盯家服",
+    "keywords": [
+      "Prometheus",
+      "Grafana",
+      "监控",
+      "告警"
+    ],
+    "reference": "https://prometheus.io/",
+    "circle_evidence": "linux.do监控帖; Homelab圈"
+  },
+  {
+    "name_zh": "Home Assistant智能家居",
+    "name_en": "Home Assistant hobby",
+    "path": "Homelab与自托管/家庭自动化/Home Assistant智能家居",
+    "blurb": "本地部署HA接入传感器与自动化场景",
+    "keywords": [
+      "Home Assistant",
+      "HA",
+      "智能家居",
+      "自动化"
+    ],
+    "reference": "https://www.home-assistant.io/",
+    "circle_evidence": "HA中文社区; linux.do HA帖"
+  },
+  {
+    "name_zh": "家庭监控录像自建",
+    "name_en": "Self-hosted NVR",
+    "path": "Homelab与自托管/家庭自动化/家庭监控录像自建",
+    "blurb": "Frigate/ZoneMinder本地AI侦测与录像",
+    "keywords": [
+      "Frigate",
+      "NVR",
+      "监控自建",
+      "ZoneMinder"
+    ],
+    "reference": "https://frigate.video/",
+    "circle_evidence": "HA社区; linux.do监控帖"
+  },
+  {
+    "name_zh": "1Panel面板折腾",
+    "name_en": "1Panel panel hobby",
+    "path": "Homelab与自托管/容器自托管/1Panel面板折腾",
+    "blurb": "国产面板管网站、数据库与应用商店",
+    "keywords": [
+      "1Panel",
+      "面板",
+      "Linux面板",
+      "自建"
+    ],
+    "reference": "https://1panel.cn/",
+    "circle_evidence": "1Panel社区; linux.do"
+  },
+  {
+    "name_zh": "CasaOS折腾",
+    "name_en": "CasaOS tinkering",
+    "path": "Homelab与自托管/容器自托管/CasaOS折腾",
+    "blurb": "个人云桌面式应用商店部署自托管服务",
+    "keywords": [
+      "CasaOS",
+      "个人云",
+      "自托管",
+      "Docker"
+    ],
+    "reference": "https://casaos.io/",
+    "circle_evidence": "CasaOS Discord/论坛; linux.do"
+  },
+  {
+    "name_zh": "Docker自建服务",
+    "name_en": "Docker self-hosting",
+    "path": "Homelab与自托管/容器自托管/Docker自建服务",
+    "blurb": "用Compose一键拉起影音、网盘与自动化",
+    "keywords": [
+      "Docker",
+      "自建",
+      "docker-compose",
+      "容器"
+    ],
+    "reference": "https://linux.do/",
+    "circle_evidence": "linux.do; 1Panel文档圈; awesome-selfhosted"
+  },
+  {
+    "name_zh": "GitOps家庭部署",
+    "name_en": "Home GitOps hobby",
+    "path": "Homelab与自托管/容器自托管/GitOps家庭部署",
+    "blurb": "compose进Git，改完推送自动更新家里服务",
+    "keywords": [
+      "GitOps",
+      "docker compose",
+      "自托管",
+      "CI"
+    ],
+    "reference": "https://linux.do/",
+    "circle_evidence": "linux.do Homelab实践帖"
+  },
+  {
+    "name_zh": "Gitea代码托管自建",
+    "name_en": "Self-hosted Gitea",
+    "path": "Homelab与自托管/容器自托管/Gitea代码托管自建",
+    "blurb": "家里搭Git服务管私人与小团队仓库",
+    "keywords": [
+      "Gitea",
+      "Git自建",
+      "代码托管",
+      "Forgejo"
+    ],
+    "reference": "https://gitea.io/",
+    "circle_evidence": "linux.do; Gitea论坛"
+  },
+  {
+    "name_zh": "Immich相册自建",
+    "name_en": "Immich self-host",
+    "path": "Homelab与自托管/容器自托管/Immich相册自建",
+    "blurb": "自托管照片库替代商业云相册",
+    "keywords": [
+      "Immich",
+      "相册自建",
+      "照片库",
+      "自托管"
+    ],
+    "reference": "https://immich.app/",
+    "circle_evidence": "linux.do Immich帖; Immich Discord"
+  },
+  {
+    "name_zh": "Stable Diffusion本地部署",
+    "name_en": "Local Stable Diffusion",
+    "path": "Homelab与自托管/容器自托管/Stable Diffusion本地部署",
+    "blurb": "本机或家服部署SD与模型管理当爱好",
+    "keywords": [
+      "Stable Diffusion",
+      "AI绘画本地",
+      "ComfyUI",
+      "WebUI"
+    ],
+    "reference": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "circle_evidence": "linux.do AI绘画; GitHub SD社区"
+  },
+  {
+    "name_zh": "密码库自建",
+    "name_en": "Self-hosted password vault",
+    "path": "Homelab与自托管/容器自托管/密码库自建",
+    "blurb": "Vaultwarden等自建密码同步服务",
+    "keywords": [
+      "Vaultwarden",
+      "Bitwarden",
+      "密码库",
+      "自建"
+    ],
+    "reference": "https://github.com/dani-garcia/vaultwarden",
+    "circle_evidence": "linux.do; awesome-selfhosted"
+  },
+  {
+    "name_zh": "本地大模型折腾",
+    "name_en": "Local LLM tinkering",
+    "path": "Homelab与自托管/容器自托管/本地大模型折腾",
+    "blurb": "Ollama/llama.cpp本地跑模型与WebUI",
+    "keywords": [
+      "本地大模型",
+      "Ollama",
+      "llama.cpp",
+      "自托管AI"
+    ],
+    "reference": "https://ollama.com/",
+    "circle_evidence": "linux.do本地模型帖; Ollama社区"
+  },
+  {
+    "name_zh": "自托管影音库",
+    "name_en": "Self-hosted media library",
+    "path": "Homelab与自托管/容器自托管/自托管影音库",
+    "blurb": "Jellyfin/Emby+刮削与硬解转码全家桶",
+    "keywords": [
+      "Jellyfin",
+      "Emby",
+      "Plex",
+      "影视库"
+    ],
+    "reference": "https://jellyfin.org/",
+    "circle_evidence": "linux.do影音自建; Jellyfin论坛"
+  },
+  {
+    "name_zh": "ESXi家用虚拟化",
+    "name_en": "ESXi home lab",
+    "path": "Homelab与自托管/虚拟化/ESXi家用虚拟化",
+    "blurb": "VMware ESXi白盒家用虚拟化实验",
+    "keywords": [
+      "ESXi",
+      "VMware",
+      "虚拟化",
+      "白盒"
+    ],
+    "reference": "https://linux.do/",
+    "circle_evidence": "linux.do; 恩山虚拟化讨论"
+  },
+  {
+    "name_zh": "PVE虚拟化折腾",
+    "name_en": "Proxmox VE hobby",
+    "path": "Homelab与自托管/虚拟化/PVE虚拟化折腾",
+    "blurb": "用Proxmox挂虚拟机与LXC跑全家桶服务",
+    "keywords": [
+      "PVE",
+      "Proxmox",
+      "虚拟化",
+      "LXC"
+    ],
+    "reference": "https://www.proxmox.com/",
+    "circle_evidence": "linux.do PVE帖; 恩山; proxmox论坛"
+  },
+  {
+    "name_zh": "Headscale组网",
+    "name_en": "Headscale mesh hobby",
+    "path": "Homelab与自托管/远程接入/Headscale组网",
+    "blurb": "自建Tailscale控制面拉齐多设备组网",
+    "keywords": [
+      "Headscale",
+      "Tailscale",
+      "组网",
+      "mesh"
+    ],
+    "reference": "https://github.com/juanfont/headscale",
+    "circle_evidence": "linux.do组网; GitHub headscale"
+  },
+  {
+    "name_zh": "WireGuard组网",
+    "name_en": "WireGuard mesh hobby",
+    "path": "Homelab与自托管/远程接入/WireGuard组网",
+    "blurb": "自建VPN把手机与多地节点拉进家庭网",
+    "keywords": [
+      "WireGuard",
+      "组网",
+      "内网穿透",
+      "VPN自建"
+    ],
+    "reference": "https://www.wireguard.com/",
+    "circle_evidence": "linux.do组网帖; 恩山"
+  },
+  {
+    "name_zh": "内网穿透折腾",
+    "name_en": "Intranet tunneling hobby",
+    "path": "Homelab与自托管/远程接入/内网穿透折腾",
+    "blurb": "frp/nps/Cloudflare Tunnel暴露家里服务",
+    "keywords": [
+      "内网穿透",
+      "frp",
+      "nps",
+      "Tunnel"
+    ],
+    "reference": "https://github.com/fatedier/frp",
+    "circle_evidence": "NodeSeek; linux.do; GitHub frp"
+  },
+  {
+    "name_zh": "NanoVNA玩天线",
+    "name_en": "NanoVNA antenna hobby",
+    "path": "业余无线电与数传/天线与仪表/NanoVNA玩天线",
+    "blurb": "手持矢量网络分析仪扫天线与滤波器",
+    "keywords": [
+      "NanoVNA",
+      "VNA",
+      "天线测量",
+      "史密斯圆图"
+    ],
+    "reference": "https://nanovna.com/",
+    "circle_evidence": "恩山; 哈罗CQ仪表帖"
+  },
+  {
+    "name_zh": "天线自制架设",
+    "name_en": "Antenna DIY & setup",
+    "path": "业余无线电与数传/天线与仪表/天线自制架设",
+    "blurb": "自制偶极/八木，测驻波与调谐",
+    "keywords": [
+      "天线自制",
+      "驻波",
+      "八木",
+      "架设"
+    ],
+    "reference": "https://www.hellocq.net/forum/",
+    "circle_evidence": "哈罗CQ天线版; 恩山天线讨论"
+  },
+  {
+    "name_zh": "业余卫星通联",
+    "name_en": "Amateur satellite QSOs",
+    "path": "业余无线电与数传/执照与通联/业余卫星通联",
+    "blurb": "过境预测、多普勒修正追卫星QSO",
+    "keywords": [
+      "业余卫星",
+      "卫星通联",
+      "AO",
+      "ISS"
+    ],
+    "reference": "http://www.crac.org.cn/",
+    "circle_evidence": "CRAC卫星活动; 哈罗CQ"
+  },
+  {
+    "name_zh": "业余无线电",
+    "name_en": "Amateur radio (ham)",
+    "path": "业余无线电与数传/执照与通联/业余无线电",
+    "blurb": "考照、架台、通联与奖状活动",
+    "keywords": [
+      "业余无线电",
+      "HAM",
+      "电台",
+      "通联"
+    ],
+    "reference": "http://www.crac.org.cn/",
+    "circle_evidence": "CRAC; 哈罗CQ hellocq.net"
+  },
+  {
+    "name_zh": "摩尔斯电码练习",
+    "name_en": "CW / Morse practice",
+    "path": "业余无线电与数传/执照与通联/摩尔斯电码练习",
+    "blurb": "听写与手键练习，竞赛与通联用CW",
+    "keywords": [
+      "摩尔斯",
+      "CW",
+      "电码",
+      "手键"
+    ],
+    "reference": "https://www.hellocq.net/forum/",
+    "circle_evidence": "哈罗CQ CW版"
+  },
+  {
+    "name_zh": "短波听音与通联",
+    "name_en": "HF listening & QSOs",
+    "path": "业余无线电与数传/执照与通联/短波听音与通联",
+    "blurb": "HF段听报、DX与竞赛日志",
+    "keywords": [
+      "短波",
+      "HF",
+      "DX",
+      "听音"
+    ],
+    "reference": "https://www.hellocq.net/forum/",
+    "circle_evidence": "哈罗CQ DX版"
+  },
+  {
+    "name_zh": "APRS轨迹玩法",
+    "name_en": "APRS tracking hobby",
+    "path": "业余无线电与数传/数字模式/APRS轨迹玩法",
+    "blurb": "位置报文、网关与地图轨迹展示",
+    "keywords": [
+      "APRS",
+      "轨迹",
+      "数字模式",
+      "定位"
+    ],
+    "reference": "https://aprs.fi/",
+    "circle_evidence": "国内APRS网关圈; HamCQ"
+  },
+  {
+    "name_zh": "FT8数字模式",
+    "name_en": "FT8 digital mode",
+    "path": "业余无线电与数传/数字模式/FT8数字模式",
+    "blurb": "弱信号数字通联，电脑声卡控台",
+    "keywords": [
+      "FT8",
+      "数字模式",
+      "WSJT-X",
+      "弱信号"
+    ],
+    "reference": "https://www.hellocq.net/forum/",
+    "circle_evidence": "哈罗CQ FT8版; HamCQ手册"
+  },
+  {
+    "name_zh": "数字中继台维护",
+    "name_en": "Digital repeater ops",
+    "path": "业余无线电与数传/数字模式/数字中继台维护",
+    "blurb": "DMR/中继台架设维护与通话组管理",
+    "keywords": [
+      "数字中继",
+      "DMR",
+      "中继台",
+      "业余中继"
+    ],
+    "reference": "https://www.hellocq.net/forum/",
+    "circle_evidence": "哈罗CQ中继讨论; 地方HAM协会"
+  },
+  {
+    "name_zh": "软件无线电SDR听音",
+    "name_en": "SDR listening hobby",
+    "path": "业余无线电与数传/软件无线电/软件无线电SDR听音",
+    "blurb": "RTL-SDR/HackRF扫频听航空海事业余段",
+    "keywords": [
+      "SDR",
+      "RTL-SDR",
+      "软件无线电",
+      "听音"
+    ],
+    "reference": "https://www.rtl-sdr.com/",
+    "circle_evidence": "rtl-sdr.com; 恩山SDR帖"
+  },
+  {
+    "name_zh": "PT保种玩法",
+    "name_en": "Private tracker seeding hobby",
+    "path": "主机与中继折腾/下载与分享/PT保种玩法",
+    "blurb": "私人种子站保种、刷流与盒子挂机",
+    "keywords": [
+      "PT",
+      "保种",
+      "私人种子",
+      "刷流"
+    ],
+    "reference": "https://www.nodeseek.com/",
+    "circle_evidence": "NodeSeek PT讨论; 馒头等站务圈"
+  },
+  {
+    "name_zh": "下载器全家桶",
+    "name_en": "Downloader suite hobby",
+    "path": "主机与中继折腾/下载与分享/下载器全家桶",
+    "blurb": "qB/TR+影音自动化追剧下载链路",
+    "keywords": [
+      "qBittorrent",
+      "Transmission",
+      "下载器",
+      "追剧"
+    ],
+    "reference": "https://linux.do/",
+    "circle_evidence": "linux.do下载/影音自动化帖"
+  },
+  {
+    "name_zh": "中继节点折腾",
+    "name_en": "Relay node tinkering",
+    "path": "主机与中继折腾/中继与中转/中继节点折腾",
+    "blurb": "多地VPS串中继测延迟与负载均衡玩法",
+    "keywords": [
+      "中继",
+      "中转",
+      "节点",
+      "中继服务器"
+    ],
+    "reference": "https://www.nodeseek.com/",
+    "circle_evidence": "NodeSeek中继/中转讨论; 主机圈"
+  },
+  {
+    "name_zh": "机场主理人业余向",
+    "name_en": "Proxy fleet ops hobby",
+    "path": "主机与中继折腾/中继与中转/机场主理人业余向",
+    "blurb": "业余向节点运维：测速、订阅与用户支持",
+    "keywords": [
+      "机场",
+      "节点运维",
+      "订阅",
+      "中转"
+    ],
+    "reference": "https://www.nodeseek.com/",
+    "circle_evidence": "NodeSeek相关版块（合规自用向）"
+  },
+  {
+    "name_zh": "VPS主机折腾",
+    "name_en": "VPS hobby tinkering",
+    "path": "主机与中继折腾/云主机玩法/VPS主机折腾",
+    "blurb": "买小鸡测线路、面板与长期挂机服务",
+    "keywords": [
+      "VPS",
+      "小鸡",
+      "主机",
+      "测评"
+    ],
+    "reference": "https://www.nodeseek.com/",
+    "circle_evidence": "NodeSeek; Hostloc"
+  },
+  {
+    "name_zh": "反代与证书自动化",
+    "name_en": "Reverse proxy & cert hobby",
+    "path": "主机与中继折腾/云主机玩法/反代与证书自动化",
+    "blurb": "Nginx/Caddy反代+Let's Encrypt自动续期",
+    "keywords": [
+      "反代",
+      "Caddy",
+      "Nginx",
+      "ACME"
+    ],
+    "reference": "https://caddyserver.com/",
+    "circle_evidence": "linux.do; NodeSeek建站帖"
+  },
+  {
+    "name_zh": "宝塔面板建站运维",
+    "name_en": "BT panel site ops",
+    "path": "主机与中继折腾/云主机玩法/宝塔面板建站运维",
+    "blurb": "用宝塔等面板管站点、计划任务与防火墙",
+    "keywords": [
+      "宝塔面板",
+      "宝塔",
+      "建站",
+      "运维"
+    ],
+    "reference": "https://www.bt.cn/",
+    "circle_evidence": "宝塔论坛; Hostloc"
+  },
+  {
+    "name_zh": "测速与线路测评",
+    "name_en": "VPS speedtest & route review",
+    "path": "主机与中继折腾/云主机玩法/测速与线路测评",
+    "blurb": "三网测速、回程路由与长文测评写作",
+    "keywords": [
+      "测速",
+      "线路测评",
+      "回程",
+      "VPS"
+    ],
+    "reference": "https://www.nodeseek.com/",
+    "circle_evidence": "NodeSeek测评帖; 老张/主机博客圈"
+  },
+  {
+    "name_zh": "LineageOS刷机维护",
+    "name_en": "LineageOS maintenance",
+    "path": "刷机与移动端折腾/安卓刷机/LineageOS刷机维护",
+    "blurb": "周更跟进、gapps与设备树关注",
+    "keywords": [
+      "LineageOS",
+      "刷机",
+      "维护",
+      "自定义ROM"
+    ],
+    "reference": "https://lineageos.org/",
+    "circle_evidence": "XDA; Lineage设备版"
+  },
+  {
+    "name_zh": "Magisk模块折腾",
+    "name_en": "Magisk module tinkering",
+    "path": "刷机与移动端折腾/安卓刷机/Magisk模块折腾",
+    "blurb": "系统级模块改机与开机脚本",
+    "keywords": [
+      "Magisk",
+      "模块",
+      "Root",
+      "LSPosed"
+    ],
+    "reference": "https://github.com/topjohnwu/Magisk",
+    "circle_evidence": "酷安; XDA Magisk"
+  },
+  {
+    "name_zh": "安卓自定义ROM",
+    "name_en": "Android custom ROM",
+    "path": "刷机与移动端折腾/安卓刷机/安卓自定义ROM",
+    "blurb": "刷Lineage等第三方ROM与维护更新",
+    "keywords": [
+      "自定义ROM",
+      "LineageOS",
+      "刷机",
+      "安卓"
+    ],
+    "reference": "https://lineageos.org/",
+    "circle_evidence": "XDA; 酷安ROM圈"
+  },
+  {
+    "name_zh": "平板当桌面折腾",
+    "name_en": "Tablet-as-desktop tinkering",
+    "path": "刷机与移动端折腾/安卓刷机/平板当桌面折腾",
+    "blurb": "DeX/多窗口与键鼠把平板当轻办公机",
+    "keywords": [
+      "平板桌面",
+      "DeX",
+      "多窗口",
+      "安卓桌面"
+    ],
+    "reference": "https://www.coolapk.com/",
+    "circle_evidence": "酷安; XDA平板版"
+  },
+  {
+    "name_zh": "手机救砖与线刷",
+    "name_en": "Phone unbrick & flash",
+    "path": "刷机与移动端折腾/安卓刷机/手机救砖与线刷",
+    "blurb": "EDL/线刷包救砖与备份分区",
+    "keywords": [
+      "救砖",
+      "线刷",
+      "fastboot",
+      "9008"
+    ],
+    "reference": "https://forum.xda-developers.com/",
+    "circle_evidence": "XDA; 酷安救砖教程圈"
+  },
+  {
+    "name_zh": "车机刷机折腾",
+    "name_en": "Car headunit flashing",
+    "path": "刷机与移动端折腾/安卓刷机/车机刷机折腾",
+    "blurb": "车机安卓系统换包、root与导航定制",
+    "keywords": [
+      "车机刷机",
+      "车载安卓",
+      "导航",
+      "root"
+    ],
+    "reference": "https://www.right.com.cn/forum/",
+    "circle_evidence": "恩山车机版; 车友刷机群"
+  },
+  {
+    "name_zh": "iOS越狱玩法",
+    "name_en": "iOS jailbreak hobby",
+    "path": "刷机与移动端折腾/苹果折腾/iOS越狱玩法",
+    "blurb": "越狱插件与主题（版本窗口期爱好向）",
+    "keywords": [
+      "越狱",
+      "jailbreak",
+      "插件",
+      "iOS"
+    ],
+    "reference": "https://www.reddit.com/r/jailbreak/",
+    "circle_evidence": "冷雨/越狱中文站; r/jailbreak"
+  },
+  {
+    "name_zh": "OpenWrt路由刷官改",
+    "name_en": "Router OEM/custom flash",
+    "path": "刷机与移动端折腾/路由刷机/OpenWrt路由刷官改",
+    "blurb": "家用路由刷官改/第三方固件扩功能",
+    "keywords": [
+      "路由刷机",
+      "官改",
+      "Breed",
+      "Padavan"
+    ],
+    "reference": "https://www.right.com.cn/forum/",
+    "circle_evidence": "恩山无线刷机版"
+  },
+  {
+    "name_zh": "软盘与光盘影像备份",
+    "name_en": "Floppy/CD imaging hobby",
+    "path": "复古计算与怀旧机/介质与备份/软盘与光盘影像备份",
+    "blurb": "把老介质镜像化并做可启动归档",
+    "keywords": [
+      "软盘",
+      "镜像",
+      "光盘镜像",
+      "归档"
+    ],
+    "reference": "https://www.vogons.org/",
+    "circle_evidence": "VOGONS; archive.org社区"
+  },
+  {
+    "name_zh": "复古Macintosh维护",
+    "name_en": "Vintage Mac maintenance",
+    "path": "复古计算与怀旧机/复古微机/复古Macintosh维护",
+    "blurb": "老Mac起机、SCSI与经典Mac OS维护",
+    "keywords": [
+      "复古Mac",
+      "经典Mac OS",
+      "PowerPC",
+      "收藏"
+    ],
+    "reference": "https://68kmla.org/",
+    "circle_evidence": "68kMLA; 国内苹果怀旧圈"
+  },
+  {
+    "name_zh": "复古电脑收藏运行",
+    "name_en": "Retro PC collecting & running",
+    "path": "复古计算与怀旧机/复古微机/复古电脑收藏运行",
+    "blurb": "收藏并实际开机跑DOS/早期Windows软件",
+    "keywords": [
+      "复古电脑",
+      "收藏",
+      "DOS",
+      "怀旧机"
+    ],
+    "reference": "https://www.vogons.org/",
+    "circle_evidence": "VOGONS; 国内复古计算群/B站圈"
+  },
+  {
+    "name_zh": "终端与串口怀旧",
+    "name_en": "Vintage terminal hobby",
+    "path": "复古计算与怀旧机/复古微机/终端与串口怀旧",
+    "blurb": "真终端/串口服务器连现代主机怀旧",
+    "keywords": [
+      "终端",
+      "串口",
+      "VT100",
+      "怀旧"
+    ],
+    "reference": "https://www.vogons.org/",
+    "circle_evidence": "VOGONS终端帖"
+  },
+  {
+    "name_zh": "DOS程序兼容折腾",
+    "name_en": "DOS compatibility tinkering",
+    "path": "复古计算与怀旧机/模拟与兼容/DOS程序兼容折腾",
+    "blurb": "DOSBox/真实硬件跑老游戏与工具",
+    "keywords": [
+      "DOSBox",
+      "DOS",
+      "兼容",
+      "复古游戏"
+    ],
+    "reference": "https://www.dosbox.com/",
+    "circle_evidence": "DOSBox论坛; VOGONS"
+  },
+  {
+    "name_zh": "复古家用机模拟器圈",
+    "name_en": "Retro console emulator hobby",
+    "path": "复古计算与怀旧机/模拟与兼容/复古家用机模拟器圈",
+    "blurb": "自建模拟前端+光驱直读与着色器",
+    "keywords": [
+      "模拟器",
+      "复古游戏机",
+      "RetroArch",
+      "光驱直读"
+    ],
+    "reference": "https://www.retroarch.com/",
+    "circle_evidence": "RetroArch论坛; 巴哈/贴吧模拟圈"
+  },
+  {
+    "name_zh": "复古掌机刷机",
+    "name_en": "Handheld retro flashing",
+    "path": "复古计算与怀旧机/模拟与兼容/复古掌机刷机",
+    "blurb": "RG/Miyoo等掌机刷CFW与主题优化",
+    "keywords": [
+      "复古掌机",
+      "CFW",
+      "Miyoo",
+      "安卓掌机"
+    ],
+    "reference": "https://www.reddit.com/r/SBCGaming/",
+    "circle_evidence": "巴哈/贴吧掌机圈; SBCGaming"
+  },
+  {
+    "name_zh": "电子管与早期计算装置",
+    "name_en": "Early computing apparatus hobby",
+    "path": "复古计算与怀旧机/计算史收藏/电子管与早期计算装置",
+    "blurb": "计算尺/早期装置收藏与演示（计算史向）",
+    "keywords": [
+      "计算史",
+      "计算尺",
+      "收藏",
+      "演示"
+    ],
+    "reference": "https://zh.wikipedia.org/wiki/计算尺",
+    "circle_evidence": "计算史爱好者群; 博物馆志愿讲解圈"
+  },
+  {
+    "name_zh": "固件安全分析学习",
+    "name_en": "Firmware analysis study",
+    "path": "安全学习与靶场/硬件与物联网安全/固件安全分析学习",
+    "blurb": "路由器/IoT固件解包与漏洞复现学习",
+    "keywords": [
+      "固件分析",
+      "IoT安全",
+      "binwalk",
+      "路由器安全"
+    ],
+    "reference": "https://www.kanxue.com/",
+    "circle_evidence": "看雪IoT版; GitHub固件分析项目"
+  },
+  {
+    "name_zh": "BUUCTF刷题",
+    "name_en": "BUUCTF practice",
+    "path": "安全学习与靶场/竞赛与题库/BUUCTF刷题",
+    "blurb": "国内题库平台系统刷题与Writeup",
+    "keywords": [
+      "BUUCTF",
+      "刷题",
+      "CTF题库",
+      "Writeup"
+    ],
+    "reference": "https://buuoj.cn/",
+    "circle_evidence": "BUUCTF; CTF中文圈"
+  },
+  {
+    "name_zh": "CTF Wiki共创",
+    "name_en": "CTF Wiki contribution",
+    "path": "安全学习与靶场/竞赛与题库/CTF Wiki共创",
+    "blurb": "给CTF Wiki补条目与校对当贡献爱好",
+    "keywords": [
+      "CTF Wiki",
+      "文档贡献",
+      "安全学习",
+      "共创"
+    ],
+    "reference": "https://ctf-wiki.org/",
+    "circle_evidence": "CTF Wiki GitHub贡献者"
+  },
+  {
+    "name_zh": "CTF竞赛学习",
+    "name_en": "CTF learning hobby",
+    "path": "安全学习与靶场/竞赛与题库/CTF竞赛学习",
+    "blurb": "做题、开源Writeup与校队/业余队训练",
+    "keywords": [
+      "CTF",
+      "夺旗",
+      "Writeup",
+      "竞赛"
+    ],
+    "reference": "https://ctf-wiki.org/",
+    "circle_evidence": "CTF Wiki; BUUCTF; 看雪"
+  },
+  {
+    "name_zh": "Web靶场刷题",
+    "name_en": "Web challenge labs",
+    "path": "安全学习与靶场/竞赛与题库/Web靶场刷题",
+    "blurb": "XSS/注入等合法靶场练习与复盘",
+    "keywords": [
+      "Web安全",
+      "靶场",
+      "DVWA",
+      "刷题"
+    ],
+    "reference": "https://buuoj.cn/",
+    "circle_evidence": "BUUCTF; 攻防世界; 看雪"
+  },
+  {
+    "name_zh": "密码学CTF玩法",
+    "name_en": "Crypto CTF hobby",
+    "path": "安全学习与靶场/竞赛与题库/密码学CTF玩法",
+    "blurb": "RSA/格密码等赛题推导与工具链",
+    "keywords": [
+      "密码学",
+      "Crypto",
+      "CTF",
+      "RSA"
+    ],
+    "reference": "https://ctf-wiki.org/",
+    "circle_evidence": "CTF Wiki Crypto; 各大OJ"
+  },
+  {
+    "name_zh": "协议分析学习",
+    "name_en": "Protocol analysis study",
+    "path": "安全学习与靶场/网络协议/协议分析学习",
+    "blurb": "Wireshark抓包与自定义协议逆向学习",
+    "keywords": [
+      "协议分析",
+      "Wireshark",
+      "抓包",
+      "流量"
+    ],
+    "reference": "https://www.wireshark.org/",
+    "circle_evidence": "看雪; CTF Misc流量题圈"
+  },
+  {
+    "name_zh": "Pwn二进制学习",
+    "name_en": "Pwn / binary exploitation study",
+    "path": "安全学习与靶场/逆向与二进制/Pwn二进制学习",
+    "blurb": "栈溢出自制题与libc套路学习（合法）",
+    "keywords": [
+      "Pwn",
+      "二进制",
+      "ROP",
+      "CTF"
+    ],
+    "reference": "https://ctf-wiki.org/",
+    "circle_evidence": "CTF Wiki Pwn; 看雪论坛"
+  },
+  {
+    "name_zh": "逆向工程入门圈",
+    "name_en": "Reverse engineering hobby",
+    "path": "安全学习与靶场/逆向与二进制/逆向工程入门圈",
+    "blurb": "IDA/Ghidra拆程序与CrackMe练习",
+    "keywords": [
+      "逆向",
+      "CrackMe",
+      "IDA",
+      "Ghidra"
+    ],
+    "reference": "https://www.kanxue.com/",
+    "circle_evidence": "看雪论坛; 52pojie学习区"
+  },
+  {
+    "name_zh": "看雪安全学习",
+    "name_en": "Kanxue security study circle",
+    "path": "安全学习与靶场/防御向学习/看雪安全学习",
+    "blurb": "看雪论坛跟帖学逆向与安全工程",
+    "keywords": [
+      "看雪",
+      "安全论坛",
+      "逆向学习",
+      "安全工程"
+    ],
+    "reference": "https://www.kanxue.com/",
+    "circle_evidence": "看雪论坛 kanxue.com"
+  },
+  {
+    "name_zh": "蓝队应急学习",
+    "name_en": "Blue team / IR study",
+    "path": "安全学习与靶场/防御向学习/蓝队应急学习",
+    "blurb": "日志溯源、蜜罐与应急演练自学",
+    "keywords": [
+      "蓝队",
+      "应急响应",
+      "蜜罐",
+      "SOC"
+    ],
+    "reference": "https://www.kanxue.com/",
+    "circle_evidence": "看雪蓝队版; 安全客社区"
+  },
+  {
+    "name_zh": "渗透测试实验室",
+    "name_en": "Pentest lab hobby",
+    "path": "安全学习与靶场/靶场环境/渗透测试实验室",
+    "blurb": "自建vuln环境做授权渗透路径练习",
+    "keywords": [
+      "渗透测试",
+      "靶场",
+      "HackTheBox",
+      "实验室"
+    ],
+    "reference": "https://www.hackthebox.com/",
+    "circle_evidence": "看雪; 国内靶场镜像讨论（合法）"
+  },
+  {
+    "name_zh": "Arduino造物",
+    "name_en": "Arduino making",
+    "path": "嵌入式与电子造物/MCU与板卡/Arduino造物",
+    "blurb": "开源硬件原型：传感器与小装置",
+    "keywords": [
+      "Arduino",
+      "开源硬件",
+      "造物",
+      "传感器"
+    ],
+    "reference": "https://www.arduino.cc/",
+    "circle_evidence": "Arduino中文社区; 创客圈"
+  },
+  {
+    "name_zh": "ESP32物联网DIY",
+    "name_en": "ESP32 IoT DIY",
+    "path": "嵌入式与电子造物/MCU与板卡/ESP32物联网DIY",
+    "blurb": "Wi-Fi/蓝牙小设备与Home Assistant联动",
+    "keywords": [
+      "ESP32",
+      "物联网",
+      "ESPHome",
+      "DIY"
+    ],
+    "reference": "https://www.espressif.com/",
+    "circle_evidence": "HA社区; 恩山/立创ESP帖"
+  },
+  {
+    "name_zh": "单片机爱好",
+    "name_en": "MCU hobby",
+    "path": "嵌入式与电子造物/MCU与板卡/单片机爱好",
+    "blurb": "STM32/AVR点灯外设与课程设计之外的造物",
+    "keywords": [
+      "单片机",
+      "STM32",
+      "MCU",
+      "嵌入式"
+    ],
+    "reference": "https://www.stmcu.com.cn/",
+    "circle_evidence": "电子发烧友; 21ic; 立创开源"
+  },
+  {
+    "name_zh": "电子墨水日历DIY",
+    "name_en": "E-ink dashboard DIY",
+    "path": "嵌入式与电子造物/MCU与板卡/电子墨水日历DIY",
+    "blurb": "墨水屏+树莓派/ESP做桌面信息面板",
+    "keywords": [
+      "电子墨水",
+      "墨水屏",
+      "桌面面板",
+      "DIY"
+    ],
+    "reference": "https://www.waveshare.net/",
+    "circle_evidence": "微雪论坛; HA墨水屏项目圈"
+  },
+  {
+    "name_zh": "示波器业余测量",
+    "name_en": "Hobby oscilloscope use",
+    "path": "嵌入式与电子造物/仪表测量/示波器业余测量",
+    "blurb": "用示波器看波形调电路与通信接口",
+    "keywords": [
+      "示波器",
+      "测量",
+      "波形",
+      "调试"
+    ],
+    "reference": "https://www.eevblog.com/",
+    "circle_evidence": "EEVblog; 电子发烧友仪表版"
+  },
+  {
+    "name_zh": "FPGA业余开发",
+    "name_en": "FPGA hobby development",
+    "path": "嵌入式与电子造物/可编程逻辑/FPGA业余开发",
+    "blurb": "HDL写外设、软核与显示实验",
+    "keywords": [
+      "FPGA",
+      "Verilog",
+      "HDL",
+      "软核"
+    ],
+    "reference": "https://www.fpga4fun.com/",
+    "circle_evidence": "开源FPGA微信/论坛; 电子发烧友"
+  },
+  {
+    "name_zh": "电子造物开源分享",
+    "name_en": "Open hardware sharing",
+    "path": "嵌入式与电子造物/开源硬件/电子造物开源分享",
+    "blurb": "把作品开源到立创/GitHub并迭代",
+    "keywords": [
+      "开源硬件",
+      "造物",
+      "立创开源",
+      "硬件分享"
+    ],
+    "reference": "https://oshwhub.com/",
+    "circle_evidence": "立创开源; Hackaday"
+  },
+  {
+    "name_zh": "LoRa节点扩频玩",
+    "name_en": "LoRa node hobby",
+    "path": "嵌入式与电子造物/无线传感/LoRa节点扩频玩",
+    "blurb": "远距离低功耗节点与网关组网实验",
+    "keywords": [
+      "LoRa",
+      "扩频",
+      "Meshtastic",
+      "物联网"
+    ],
+    "reference": "https://www.semtech.com/lora",
+    "circle_evidence": "Meshtastic中文; 恩山LoRa帖"
+  },
+  {
+    "name_zh": "Meshtastic无中心网络",
+    "name_en": "Meshtastic mesh hobby",
+    "path": "嵌入式与电子造物/无线传感/Meshtastic无中心网络",
+    "blurb": "免运营商的LoRa网格短讯实验",
+    "keywords": [
+      "Meshtastic",
+      "LoRa",
+      "网格",
+      "无中心"
+    ],
+    "reference": "https://meshtastic.org/",
+    "circle_evidence": "Meshtastic中文用户; 恩山"
+  },
+  {
+    "name_zh": "树莓派折腾",
+    "name_en": "Raspberry Pi tinkering",
+    "path": "嵌入式与电子造物/板卡与SBC/树莓派折腾",
+    "blurb": "SBC跑NAS/HA/复古游戏与GPIO实验",
+    "keywords": [
+      "树莓派",
+      "Raspberry Pi",
+      "SBC",
+      "GPIO"
+    ],
+    "reference": "https://www.raspberrypi.com/",
+    "circle_evidence": "树莓派中文论坛; linux.do"
+  },
+  {
+    "name_zh": "PCB自制打样",
+    "name_en": "PCB DIY & fab",
+    "path": "嵌入式与电子造物/电路与打样/PCB自制打样",
+    "blurb": "画板下单打样焊接调试一整套",
+    "keywords": [
+      "PCB",
+      "打样",
+      "嘉立创",
+      "画板"
+    ],
+    "reference": "https://oshwhub.com/",
+    "circle_evidence": "立创开源硬件平台; 嘉立创社区"
+  },
+  {
+    "name_zh": "焊接与贴片练习",
+    "name_en": "Soldering & SMD practice",
+    "path": "嵌入式与电子造物/电路与打样/焊接与贴片练习",
+    "blurb": "通孔/贴片焊接与返修作为造物基本功",
+    "keywords": [
+      "焊接",
+      "贴片",
+      "烙铁",
+      "返修"
+    ],
+    "reference": "https://oshwhub.com/",
+    "circle_evidence": "创客空间; 立创活动"
+  },
+  {
+    "name_zh": "Wiki站点运营",
+    "name_en": "Wiki site ops",
+    "path": "建站与站长运营/内容站点/Wiki站点运营",
+    "blurb": "MediaWiki/Outline搭知识库并邀人共编",
+    "keywords": [
+      "Wiki",
+      "MediaWiki",
+      "知识库",
+      "站长"
+    ],
+    "reference": "https://www.mediawiki.org/",
+    "circle_evidence": "MediaWiki中文; 开源项目文档站"
+  },
+  {
+    "name_zh": "个人博客建站",
+    "name_en": "Personal blog building",
+    "path": "建站与站长运营/内容站点/个人博客建站",
+    "blurb": "Hexo/Hugo/WordPress写技术博客并托管",
+    "keywords": [
+      "博客",
+      "Hexo",
+      "Hugo",
+      "WordPress"
+    ],
+    "reference": "https://hexo.io/",
+    "circle_evidence": "V2EX; 掘金/博客园站长圈"
+  },
+  {
+    "name_zh": "开源项目文档站",
+    "name_en": "OSS docs site hobby",
+    "path": "建站与站长运营/内容站点/开源项目文档站",
+    "blurb": "用VitePress/Docusaurus维护项目文档站",
+    "keywords": [
+      "VitePress",
+      "Docusaurus",
+      "文档站",
+      "开源"
+    ],
+    "reference": "https://vitepress.dev/",
+    "circle_evidence": "GitHub文档主题圈; 中文开源群"
+  },
+  {
+    "name_zh": "评论系统自建",
+    "name_en": "Self-hosted comments",
+    "path": "建站与站长运营/内容站点/评论系统自建",
+    "blurb": "Waline/Artalk等评论后端挂到静态博客",
+    "keywords": [
+      "Waline",
+      "Artalk",
+      "评论系统",
+      "博客"
+    ],
+    "reference": "https://waline.js.org/",
+    "circle_evidence": "博客主题圈; linux.do"
+  },
+  {
+    "name_zh": "静态站点托管玩",
+    "name_en": "Static site hosting hobby",
+    "path": "建站与站长运营/内容站点/静态站点托管玩",
+    "blurb": "Pages/对象存储+CDN发布个人静态站",
+    "keywords": [
+      "静态站",
+      "GitHub Pages",
+      "Cloudflare Pages",
+      "建站"
+    ],
+    "reference": "https://pages.github.com/",
+    "circle_evidence": "V2EX建站; NodeSeek"
+  },
+  {
+    "name_zh": "图床与对象存储折腾",
+    "name_en": "Image host / object storage hobby",
+    "path": "建站与站长运营/基础设施/图床与对象存储折腾",
+    "blurb": "自建图床或对接S3兼容存储给站点用",
+    "keywords": [
+      "图床",
+      "对象存储",
+      "S3",
+      "MinIO"
+    ],
+    "reference": "https://min.io/",
+    "circle_evidence": "NodeSeek; V2EX图床讨论"
+  },
+  {
+    "name_zh": "域名与DNS玩法",
+    "name_en": "Domain & DNS hobby",
+    "path": "建站与站长运营/基础设施/域名与DNS玩法",
+    "blurb": "域名选购、DNSSEC与多线路解析折腾",
+    "keywords": [
+      "域名",
+      "DNS",
+      "解析",
+      "站长"
+    ],
+    "reference": "https://www.nodeseek.com/",
+    "circle_evidence": "NodeSeek域名版; 主机论坛"
+  },
+  {
+    "name_zh": "论坛站长",
+    "name_en": "Forum webmaster",
+    "path": "建站与站长运营/论坛社区/论坛站长",
+    "blurb": "搭Discuz/Flarum等论坛并运营版规与活动",
+    "keywords": [
+      "论坛站长",
+      "Discuz",
+      "Flarum",
+      "建站"
+    ],
+    "reference": "https://www.discuz.vip/",
+    "circle_evidence": "Discuz官方社区; NodeSeek站长向讨论"
+  },
+  {
+    "name_zh": "开源贡献作为爱好",
+    "name_en": "OSS contribution hobby",
+    "path": "开源贡献与软件自制/社区贡献/开源贡献作为爱好",
+    "blurb": "业余提PR、修文档与翻译开源项目",
+    "keywords": [
+      "开源贡献",
+      "Pull Request",
+      "业余贡献",
+      "GitHub"
+    ],
+    "reference": "https://github.com/",
+    "circle_evidence": "GitHub; Linux中国; 开源之夏校友圈"
+  },
+  {
+    "name_zh": "文档翻译贡献",
+    "name_en": "Docs translation hobby",
+    "path": "开源贡献与软件自制/社区贡献/文档翻译贡献",
+    "blurb": "把英文项目文档译成中文并跟进版本",
+    "keywords": [
+      "文档翻译",
+      "本地化",
+      "i18n",
+      "开源"
+    ],
+    "reference": "https://github.com/",
+    "circle_evidence": "各项目中文翻译组; Linux中国"
+  },
+  {
+    "name_zh": "dotfiles开源分享",
+    "name_en": "Dotfiles sharing hobby",
+    "path": "开源贡献与软件自制/美化与主题/dotfiles开源分享",
+    "blurb": "把shell/编辑器配置公开维护当名片",
+    "keywords": [
+      "dotfiles",
+      "配置分享",
+      "ricing",
+      "GitHub"
+    ],
+    "reference": "https://dotfiles.github.io/",
+    "circle_evidence": "GitHub dotfiles; linux.do美化"
+  },
+  {
+    "name_zh": "主题与美化贡献",
+    "name_en": "Theme / ricing contribution",
+    "path": "开源贡献与软件自制/美化与主题/主题与美化贡献",
+    "blurb": "给编辑器/终端/桌面做主题并分享",
+    "keywords": [
+      "主题",
+      "美化",
+      "ricing",
+      "dotfiles"
+    ],
+    "reference": "https://github.com/",
+    "circle_evidence": "r/unixporn; linux.do美化帖"
+  },
+  {
+    "name_zh": "CLI小工具开发",
+    "name_en": "CLI tool crafting",
+    "path": "开源贡献与软件自制/自制软件/CLI小工具开发",
+    "blurb": "写命令行工具并打包发布到包管理器",
+    "keywords": [
+      "CLI",
+      "命令行工具",
+      "自制",
+      "开源"
+    ],
+    "reference": "https://github.com/",
+    "circle_evidence": "GitHub Awesome CLI; V2EX"
+  },
+  {
+    "name_zh": "插件生态开发",
+    "name_en": "Plugin ecosystem hobby",
+    "path": "开源贡献与软件自制/自制软件/插件生态开发",
+    "blurb": "给VSCode/IDEA/Obsidian写插件当爱好",
+    "keywords": [
+      "插件开发",
+      "VSCode扩展",
+      "Obsidian插件",
+      "IDEA"
+    ],
+    "reference": "https://code.visualstudio.com/api",
+    "circle_evidence": "VSCode扩展市场作者圈; Obsidian中文"
+  },
+  {
+    "name_zh": "浏览器扩展自制",
+    "name_en": "Browser extension DIY",
+    "path": "开源贡献与软件自制/自制软件/浏览器扩展自制",
+    "blurb": "写油猴/WebExtension改善日常网页",
+    "keywords": [
+      "浏览器扩展",
+      "油猴",
+      "Userscript",
+      "插件"
+    ],
+    "reference": "https://greasyfork.org/",
+    "circle_evidence": "Greasy Fork; 油猴中文"
+  },
+  {
+    "name_zh": "独立开发者小产品",
+    "name_en": "Indie hacker side product",
+    "path": "开源贡献与软件自制/自制软件/独立开发者小产品",
+    "blurb": "业余做小工具上架或开源变现练手",
+    "keywords": [
+      "独立开发",
+      "小品",
+      "side project",
+      "上架"
+    ],
+    "reference": "https://v2ex.com/",
+    "circle_evidence": "V2EX创意; 即刻独立开发者"
+  },
+  {
+    "name_zh": "造轮子练手项目",
+    "name_en": "Side-project wheel reinventing",
+    "path": "开源贡献与软件自制/自制软件/造轮子练手项目",
+    "blurb": "业余重写小工具练架构与发布",
+    "keywords": [
+      "造轮子",
+      "练手项目",
+      "side project",
+      "自制"
+    ],
+    "reference": "https://v2ex.com/",
+    "circle_evidence": "V2EX; linux.do开发调优"
+  },
+  {
+    "name_zh": "技术写作与newsletter",
+    "name_en": "Tech writing & newsletter",
+    "path": "极客社群与黑客松/内容创作/技术写作与newsletter",
+    "blurb": "写深度折腾笔记或邮件通讯维系读者",
+    "keywords": [
+      "技术写作",
+      "newsletter",
+      "博客",
+      "分享"
+    ],
+    "reference": "https://v2ex.com/",
+    "circle_evidence": "V2EX; 独立开发者圈"
+  },
+  {
+    "name_zh": "技术播客业余制作",
+    "name_en": "Tech podcast hobby",
+    "path": "极客社群与黑客松/内容创作/技术播客业余制作",
+    "blurb": "录程序员向播客分享折腾与书评",
+    "keywords": [
+      "技术播客",
+      "播客制作",
+      "程序员",
+      "分享"
+    ],
+    "reference": "https://github.com/",
+    "circle_evidence": "中文技术播客清单圈子"
+  },
+  {
+    "name_zh": "编程竞赛业余向",
+    "name_en": "Amateur programming contests",
+    "path": "极客社群与黑客松/活动参赛/编程竞赛业余向",
+    "blurb": "LeetCode周赛/AtCoder当脑力爱好",
+    "keywords": [
+      "算法竞赛",
+      "AtCoder",
+      "LeetCode",
+      "业余"
+    ],
+    "reference": "https://atcoder.jp/",
+    "circle_evidence": "洛谷; Codeforces中文圈"
+  },
+  {
+    "name_zh": "黑客松业余参赛",
+    "name_en": "Amateur hackathon",
+    "path": "极客社群与黑客松/活动参赛/黑客松业余参赛",
+    "blurb": "周末组队48小时做出可演示原型",
+    "keywords": [
+      "黑客松",
+      "Hackathon",
+      "编程马拉松",
+      "组队"
+    ],
+    "reference": "https://mlh.io/",
+    "circle_evidence": "国内高校/公司黑客松; MLH"
+  },
+  {
+    "name_zh": "开源之夏业余项目",
+    "name_en": "OSS summer program hobby",
+    "path": "极客社群与黑客松/社区项目/开源之夏业余项目",
+    "blurb": "季节性开源任务当阶段性爱好项目",
+    "keywords": [
+      "开源之夏",
+      "GSoC",
+      "开源实习",
+      "社区"
+    ],
+    "reference": "https://summer-ospp.ac.cn/",
+    "circle_evidence": "开源之夏; GSoC中文分享"
+  },
+  {
+    "name_zh": "Maker嘉年华参与",
+    "name_en": "Maker faire participation",
+    "path": "极客社群与黑客松/线下活动/Maker嘉年华参与",
+    "blurb": "带造物参展交流开源硬件与嵌入式",
+    "keywords": [
+      "Maker",
+      "创客",
+      "嘉年华",
+      "造物"
+    ],
+    "reference": "https://makerfaire.com/",
+    "circle_evidence": "深圳制汇节; 各地创客空间"
+  },
+  {
+    "name_zh": "城市LUG组织参与",
+    "name_en": "City LUG participation",
+    "path": "极客社群与黑客松/线下活动/城市LUG组织参与",
+    "blurb": "参与或协办本地Linux用户组活动",
+    "keywords": [
+      "LUG",
+      "Linux用户组",
+      "线下",
+      "组织"
+    ],
+    "reference": "https://www.archlinuxcn.org/",
+    "circle_evidence": "各地LUG; 中文Linux用户组名录"
+  },
+  {
+    "name_zh": "线下Geek聚会",
+    "name_en": "Local geek meetup",
+    "path": "极客社群与黑客松/线下活动/线下Geek聚会",
+    "blurb": "城市Linux用户组/极客饭局技术闲聊",
+    "keywords": [
+      "LUG",
+      "极客聚会",
+      "Meetup",
+      "线下"
+    ],
+    "reference": "https://www.archlinuxcn.org/",
+    "circle_evidence": "各地LUG; linux.do同城"
+  },
+  {
+    "name_zh": "Obsidian库癖",
+    "name_en": "Obsidian PKM hobby",
+    "path": "编程语言与工具深度玩/工具癖/Obsidian库癖",
+    "blurb": "双链笔记库、插件与发布工作流打磨",
+    "keywords": [
+      "Obsidian",
+      "双链笔记",
+      "PKM",
+      "插件"
+    ],
+    "reference": "https://obsidian.md/",
+    "circle_evidence": "Obsidian中文论坛; 少数派"
+  },
+  {
+    "name_zh": "正则与文本处理癖",
+    "name_en": "Regex & text-processing hobby",
+    "path": "编程语言与工具深度玩/工具癖/正则与文本处理癖",
+    "blurb": "sed/awk/正则把日志与语料当玩具",
+    "keywords": [
+      "正则",
+      "awk",
+      "sed",
+      "文本处理"
+    ],
+    "reference": "https://www.regular-expressions.info/",
+    "circle_evidence": "V2EX; StackOverflow中文讨论"
+  },
+  {
+    "name_zh": "NixOS声明式配置",
+    "name_en": "NixOS declarative hobby",
+    "path": "编程语言与工具深度玩/系统底层/NixOS声明式配置",
+    "blurb": "用flake管理整个系统配置可复现",
+    "keywords": [
+      "NixOS",
+      "flake",
+      "声明式",
+      "可复现"
+    ],
+    "reference": "https://nixos.org/",
+    "circle_evidence": "NixOS Discourse; linux.do Nix帖"
+  },
+  {
+    "name_zh": "发行版尝鲜切换",
+    "name_en": "Distro hopping hobby",
+    "path": "编程语言与工具深度玩/系统底层/发行版尝鲜切换",
+    "blurb": "Arch/Nix等发行版切换与declarative配置",
+    "keywords": [
+      "distro hopping",
+      "Arch",
+      "NixOS",
+      "尝鲜"
+    ],
+    "reference": "https://linux.do/",
+    "circle_evidence": "linux.do; r/distrohopping"
+  },
+  {
+    "name_zh": "容器底层玩Linux",
+    "name_en": "Linux containers deep dive",
+    "path": "编程语言与工具深度玩/系统底层/容器底层玩Linux",
+    "blurb": "namespace/cgroup亲手搭迷你容器当爱好",
+    "keywords": [
+      "容器",
+      "namespace",
+      "cgroup",
+      "Linux"
+    ],
+    "reference": "https://linux.do/",
+    "circle_evidence": "linux.do; LWN中文译介圈"
+  },
+  {
+    "name_zh": "Emacs整活配置",
+    "name_en": "Emacs tinkering",
+    "path": "编程语言与工具深度玩/编辑器文化/Emacs整活配置",
+    "blurb": "Org-mode与Emacs当作生活操作系统",
+    "keywords": [
+      "Emacs",
+      "Org-mode",
+      "配置",
+      "Lisp"
+    ],
+    "reference": "https://www.gnu.org/software/emacs/",
+    "circle_evidence": "Emacs中文网; Reddit r/emacs"
+  },
+  {
+    "name_zh": "Neovim深度配置",
+    "name_en": "Neovim ricing",
+    "path": "编程语言与工具深度玩/编辑器文化/Neovim深度配置",
+    "blurb": "键位、LSP与插件把编辑器调成主力IDE",
+    "keywords": [
+      "Neovim",
+      "Vim",
+      "dotfiles",
+      "LSP"
+    ],
+    "reference": "https://neovim.io/",
+    "circle_evidence": "neovim Discourse; linux.do"
+  },
+  {
+    "name_zh": "Go练手服务",
+    "name_en": "Go side services",
+    "path": "编程语言与工具深度玩/语言深度/Go练手服务",
+    "blurb": "业余用Go写面板、爬虫与小服务",
+    "keywords": [
+      "Go",
+      "Golang",
+      "练手",
+      "后端"
+    ],
+    "reference": "https://go.dev/",
+    "circle_evidence": "Go语言中文网; V2EX"
+  },
+  {
+    "name_zh": "Lisp系语言把玩",
+    "name_en": "Lisp family hobby",
+    "path": "编程语言与工具深度玩/语言深度/Lisp系语言把玩",
+    "blurb": "S表达式与宏，SICP式自学玩法",
+    "keywords": [
+      "Lisp",
+      "Scheme",
+      "SICP",
+      "函数式"
+    ],
+    "reference": "https://www.gnu.org/software/guile/",
+    "circle_evidence": "Emacs/Lisp中文圈"
+  },
+  {
+    "name_zh": "Python脚本自动化圈",
+    "name_en": "Python automation hobby",
+    "path": "编程语言与工具深度玩/语言深度/Python脚本自动化圈",
+    "blurb": "爬虫、桌面自动化与生活脚本分享",
+    "keywords": [
+      "Python",
+      "自动化",
+      "脚本",
+      "爬虫"
+    ],
+    "reference": "https://www.python.org/",
+    "circle_evidence": "V2EX; 少数派脚本圈"
+  },
+  {
+    "name_zh": "Rust业余练手",
+    "name_en": "Rust side projects",
+    "path": "编程语言与工具深度玩/语言深度/Rust业余练手",
+    "blurb": "用Rust写小工具吃语言特性当爱好",
+    "keywords": [
+      "Rust",
+      "业余项目",
+      "cargo",
+      "系统编程"
+    ],
+    "reference": "https://www.rust-lang.org/",
+    "circle_evidence": "Rust中文社区; V2EX"
+  },
+  {
+    "name_zh": "Shell脚本收藏夹",
+    "name_en": "Shell scripting hobby",
+    "path": "编程语言与工具深度玩/语言深度/Shell脚本收藏夹",
+    "blurb": "日常运维脚本库与可移植写法打磨",
+    "keywords": [
+      "Shell",
+      "Bash",
+      "脚本",
+      "运维"
+    ],
+    "reference": "https://www.shellcheck.net/",
+    "circle_evidence": "linux.do; V2EX运维"
+  },
+  {
+    "name_zh": "RouterOS脚本玩",
+    "name_en": "RouterOS scripting hobby",
+    "path": "网络路由与软路由/商业固件圈/RouterOS脚本玩",
+    "blurb": "在MikroTik上写脚本做QoS与IPv6前缀同步",
+    "keywords": [
+      "RouterOS",
+      "MikroTik",
+      "ROS脚本",
+      "软路由"
+    ],
+    "reference": "https://www.right.com.cn/forum/forum-169-1.html",
+    "circle_evidence": "恩山无线 RouterOS 脚本帖"
+  },
+  {
+    "name_zh": "爱快路由折腾",
+    "name_en": "iKuai tinkering",
+    "path": "网络路由与软路由/商业固件圈/爱快路由折腾",
+    "blurb": "企业级路由功能家用化：多线接入与流控",
+    "keywords": [
+      "爱快",
+      "iKuai",
+      "多拨",
+      "流控"
+    ],
+    "reference": "https://www.right.com.cn/forum/",
+    "circle_evidence": "恩山无线爱快相关版块与贴"
+  },
+  {
+    "name_zh": "AdGuardHome去广告",
+    "name_en": "AdGuard Home hobby",
+    "path": "网络路由与软路由/家庭组网/AdGuardHome去广告",
+    "blurb": "DNS级广告过滤与家庭查询日志",
+    "keywords": [
+      "AdGuardHome",
+      "DNS过滤",
+      "去广告",
+      "家庭DNS"
+    ],
+    "reference": "https://adguard.com/adguard-home/overview.html",
+    "circle_evidence": "恩山; linux.do DNS帖"
+  },
+  {
+    "name_zh": "光猫桥接折腾",
+    "name_en": "ONT bridge mode tinkering",
+    "path": "网络路由与软路由/家庭组网/光猫桥接折腾",
+    "blurb": "光猫改桥接、超密与拨号权交自建路由",
+    "keywords": [
+      "光猫桥接",
+      "超密",
+      "PPPoE",
+      "光猫"
+    ],
+    "reference": "https://www.right.com.cn/forum/",
+    "circle_evidence": "恩山无线光猫/拨号讨论"
+  },
+  {
+    "name_zh": "家用Mesh组网折腾",
+    "name_en": "Home mesh networking",
+    "path": "网络路由与软路由/家庭组网/家用Mesh组网折腾",
+    "blurb": "多AP/Mesh回程与VLAN划分家庭无线",
+    "keywords": [
+      "Mesh",
+      "家庭组网",
+      "无线回程",
+      "AP"
+    ],
+    "reference": "https://www.right.com.cn/forum/",
+    "circle_evidence": "恩山无线设备与组网版"
+  },
+  {
+    "name_zh": "家用交换机VLAN玩",
+    "name_en": "Home VLAN switching",
+    "path": "网络路由与软路由/家庭组网/家用交换机VLAN玩",
+    "blurb": "用二层/三层交换划分物联网与办公网段",
+    "keywords": [
+      "VLAN",
+      "交换机",
+      "网段隔离",
+      "家庭网络"
+    ],
+    "reference": "https://linux.do/",
+    "circle_evidence": "linux.do Homelab/网络帖"
+  },
+  {
+    "name_zh": "智能DNS分流",
+    "name_en": "Smart DNS routing hobby",
+    "path": "网络路由与软路由/家庭组网/智能DNS分流",
+    "blurb": "按域名分流解析优化家庭访问路径",
+    "keywords": [
+      "SmartDNS",
+      "DNS分流",
+      "mosdns",
+      "分流"
+    ],
+    "reference": "https://www.right.com.cn/forum/",
+    "circle_evidence": "恩山 mosdns/SmartDNS帖"
+  },
+  {
+    "name_zh": "LEDE固件编译",
+    "name_en": "LEDE/OpenWrt firmware build",
+    "path": "网络路由与软路由/开源固件/LEDE固件编译",
+    "blurb": "从源码编译自家OpenWrt/LEDE固件包",
+    "keywords": [
+      "LEDE",
+      "固件编译",
+      "coolsnowwolf",
+      "openwrt编译"
+    ],
+    "reference": "https://github.com/coolsnowwolf/lede",
+    "circle_evidence": "恩山; GitHub coolsnowwolf/lede"
+  },
+  {
+    "name_zh": "OpenClash规则折腾",
+    "name_en": "OpenClash rules hobby",
+    "path": "网络路由与软路由/开源固件/OpenClash规则折腾",
+    "blurb": "软路由上规则集、策略组与订阅管理",
+    "keywords": [
+      "OpenClash",
+      "规则",
+      "软路由",
+      "策略组"
+    ],
+    "reference": "https://www.right.com.cn/forum/",
+    "circle_evidence": "恩山 OpenClash专帖"
+  },
+  {
+    "name_zh": "OpenWrt刷机",
+    "name_en": "OpenWrt flashing",
+    "path": "网络路由与软路由/开源固件/OpenWrt刷机",
+    "blurb": "给路由或软路由刷OpenWrt并编译插件包",
+    "keywords": [
+      "OpenWrt",
+      "刷机",
+      "固件编译",
+      "luci"
+    ],
+    "reference": "https://openwrt.org/",
+    "circle_evidence": "恩山无线 OPENWRT专版; openwrt.org wiki"
+  },
+  {
+    "name_zh": "iStoreOS折腾",
+    "name_en": "iStoreOS tinkering",
+    "path": "网络路由与软路由/开源固件/iStoreOS折腾",
+    "blurb": "基于OpenWrt的易用发行版装机与应用商店",
+    "keywords": [
+      "iStoreOS",
+      "iStore",
+      "软路由",
+      "OpenWrt"
+    ],
+    "reference": "https://github.com/istoreos/istoreos",
+    "circle_evidence": "恩山; linux.do Homelab帖; GitHub istoreos"
+  },
+  {
+    "name_zh": "旁路由搭建",
+    "name_en": "Bypass router setup",
+    "path": "网络路由与软路由/软路由实践/旁路由搭建",
+    "blurb": "主路由不变，旁挂软路由做分流与广告过滤",
+    "keywords": [
+      "旁路由",
+      "旁挂",
+      "透明网关",
+      "软路由"
+    ],
+    "reference": "https://www.right.com.cn/forum/forum-169-1.html",
+    "circle_evidence": "恩山无线软路由讨论串"
+  },
+  {
+    "name_zh": "软路由折腾",
+    "name_en": "Soft router tinkering",
+    "path": "网络路由与软路由/软路由实践/软路由折腾",
+    "blurb": "用小主机跑路由系统，刷固件调插件分流",
+    "keywords": [
+      "软路由",
+      "x86软路由",
+      "旁路由",
+      "OpenWrt"
+    ],
+    "reference": "https://www.right.com.cn/forum/forum-169-1.html",
+    "circle_evidence": "恩山无线 right.com.cn 软路由版块"
+  },
+  {
+    "name_zh": "分体人体工学键盘",
+    "name_en": "Split ergo keyboard hobby",
+    "path": "键盘外设与固件客制/客制化键盘/分体人体工学键盘",
+    "blurb": "Corne/Lily58等分体配列组装与适配",
+    "keywords": [
+      "分体键盘",
+      "人体工学",
+      "Corne",
+      "Ergo"
+    ],
+    "reference": "https://zmk.dev/",
+    "circle_evidence": "ZMK/QMK圈; ZFrontier"
+  },
+  {
+    "name_zh": "机械键盘客制",
+    "name_en": "Custom mechanical keyboard",
+    "path": "键盘外设与固件客制/客制化键盘/机械键盘客制",
+    "blurb": "选轴改轴、键帽与外壳的整机客制",
+    "keywords": [
+      "机械键盘",
+      "客制化",
+      "改轴",
+      "键帽"
+    ],
+    "reference": "https://www.zfrontier.com/",
+    "circle_evidence": "ZFrontier; 小红书/贴吧客制圈"
+  },
+  {
+    "name_zh": "磁轴键盘调教",
+    "name_en": "Magnetic switch tuning",
+    "path": "键盘外设与固件客制/客制化键盘/磁轴键盘调教",
+    "blurb": "霍尔磁轴行程与快速触发参数调教",
+    "keywords": [
+      "磁轴",
+      "霍尔轴",
+      "快速触发",
+      "电竞客制"
+    ],
+    "reference": "https://www.zfrontier.com/",
+    "circle_evidence": "ZFrontier磁轴讨论"
+  },
+  {
+    "name_zh": "键盘配列设计",
+    "name_en": "Keyboard layout design",
+    "path": "键盘外设与固件客制/客制化键盘/键盘配列设计",
+    "blurb": "用Keyboard Layout Editor设计配列开孔",
+    "keywords": [
+      "配列",
+      "KLE",
+      "开孔",
+      "客制化"
+    ],
+    "reference": "http://www.keyboard-layout-editor.com/",
+    "circle_evidence": "ZFrontier; Geekhack"
+  },
+  {
+    "name_zh": "轨道球与指点杆改装",
+    "name_en": "Trackball / pointing stick mod",
+    "path": "键盘外设与固件客制/指针设备/轨道球与指点杆改装",
+    "blurb": "把轨道球/指点杆整合进客制键或独用",
+    "keywords": [
+      "轨道球",
+      "指点杆",
+      "改装",
+      "指针"
+    ],
+    "reference": "https://www.zfrontier.com/",
+    "circle_evidence": "ZFrontier外设改装帖"
+  },
+  {
+    "name_zh": "键帽收藏把玩",
+    "name_en": "Keycap collecting",
+    "path": "键盘外设与固件客制/键帽与主题/键帽收藏把玩",
+    "blurb": "原厂高度键帽套装收藏与主题搭配",
+    "keywords": [
+      "键帽",
+      "GMK",
+      "原厂高度",
+      "收藏"
+    ],
+    "reference": "https://www.zfrontier.com/",
+    "circle_evidence": "ZFrontier键帽版"
+  },
+  {
+    "name_zh": "QMK固件刷写",
+    "name_en": "QMK firmware flashing",
+    "path": "键盘外设与固件客制/键盘固件/QMK固件刷写",
+    "blurb": "改键层、宏与RGB的开源键盘固件",
+    "keywords": [
+      "QMK",
+      "固件",
+      "VIA",
+      "改键"
+    ],
+    "reference": "https://qmk.fm/",
+    "circle_evidence": "QMK Discord; ZFrontier固件帖"
+  },
+  {
+    "name_zh": "VIA改键日常",
+    "name_en": "VIA keymap hobby",
+    "path": "键盘外设与固件客制/键盘固件/VIA改键日常",
+    "blurb": "图形界面实时改层与宏，客制键常用",
+    "keywords": [
+      "VIA",
+      "改键",
+      "Vial",
+      "键层"
+    ],
+    "reference": "https://www.caniusevia.com/",
+    "circle_evidence": "ZFrontier; VIA用户圈"
+  },
+  {
+    "name_zh": "ZMK无线键盘固件",
+    "name_en": "ZMK wireless firmware",
+    "path": "键盘外设与固件客制/键盘固件/ZMK无线键盘固件",
+    "blurb": "分体无线键基于Zephyr的固件客制",
+    "keywords": [
+      "ZMK",
+      "无线键盘",
+      "分体",
+      "Zephyr"
+    ],
+    "reference": "https://zmk.dev/",
+    "circle_evidence": "ZMK Discord; 客制化圈子"
+  }
+]
