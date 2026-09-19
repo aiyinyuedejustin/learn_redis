@@ -1,927 +1,795 @@
-# 爱好词表 · deslop 精简版
+# 爱好词表 · deslop
 
-活跃叶子：**445**
-
-主参考：[https://zh.wikipedia.org/wiki/兴趣爱好列表](https://zh.wikipedia.org/wiki/兴趣爱好列表)。名优先用参考原名；弱中国相关与学科空壳已砍。
-
-## 动植物与自然
-- **业余天文学** — 养/观业余天文学相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/业余天文学
-- **公交迷** — 养/观公交迷相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/公交迷
-- **养蜂** — 养/观养蜂相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/养蜂
-- **养鱼** — 养/观养鱼相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/观赏鱼
-- **多肉植物** — 养/观多肉植物相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/多肉植物
-- **宠物** — 养/观宠物相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/宠物
-- **宠物领养** — 养/观宠物领养相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/宠物领养
-- **显微镜学** — 养/观显微镜学相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/显微镜学
-- **水族造景** — 养/观水族造景相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/水族造景
-- **水族饲养** — 养/观水族饲养相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/水族饲养
-- **盆景** — 养/观盆景相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/盆景
-- **短波收听** — 养/观短波收听相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/短波收听
-- **观鸟** — 养/观观鸟相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/观鸟
-- **赏鲸** — 养/观赏鲸相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/赏鲸
-- **采蘑菇** — 养/观采蘑菇相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/采蘑菇
-- **铁路迷** — 养/观铁路迷相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/铁路迷
-- **音响爱好者** — 养/观音响爱好者相关对象，记观察与养护  
-  参考：https://zh.wikipedia.org/wiki/音响爱好者
-
-## 影像与视觉
-- **书法** — 做书法创作或鉴赏，看作品、聊器材与题材  
-  参考：https://zh.wikipedia.org/wiki/书法
-- **动画** — 做动画创作或鉴赏，看作品、聊器材与题材  
-  参考：https://zh.wikipedia.org/wiki/动画
-- **摄影** — 做摄影创作或鉴赏，看作品、聊器材与题材  
-  参考：https://zh.wikipedia.org/wiki/摄影
-- **数字艺术** — 做数字艺术创作或鉴赏，看作品、聊器材与题材  
-  参考：https://zh.wikipedia.org/wiki/数字艺术
-- **漫画书收藏** — 做漫画书收藏创作或鉴赏，看作品、聊器材与题材  
-  参考：https://zh.wikipedia.org/wiki/漫画书收藏
-- **素描** — 做素描创作或鉴赏，看作品、聊器材与题材  
-  参考：https://zh.wikipedia.org/wiki/素描
-- **绘画** — 做绘画创作或鉴赏，看作品、聊器材与题材  
-  参考：https://zh.wikipedia.org/wiki/绘画
-- **胶片摄影** — 做胶片摄影创作或鉴赏，看作品、聊器材与题材  
-  参考：https://zh.wikipedia.org/wiki/摄影
-- **雕塑** — 做雕塑创作或鉴赏，看作品、聊器材与题材  
-  参考：https://zh.wikipedia.org/wiki/雕塑
-- **飞机摄影** — 做飞机摄影创作或鉴赏，看作品、聊器材与题材  
-  参考：https://zh.wikipedia.org/wiki/飞机摄影
-
-## 手作与工艺
-- **3D打印** — 动手做3D列印，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/3D列印
-- **DIY** — 动手做DIY，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/DIY
-- **刺绣** — 动手做刺绣，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/刺绣
-- **折纸** — 动手做折纸，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/折纸
-- **拓印** — 动手做拓印，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/拓片
-- **木工** — 动手做木工，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/木工
-- **焊接** — 动手做焊接，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/焊接
-- **立体透视模型** — 动手做立体透视模型，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/立体透视模型
-- **篆刻** — 动手做篆刻，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/篆刻
-- **编织** — 动手做编织，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/编织
-- **缝纫** — 动手做缝纫，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/缝纫
-- **肥皂** — 动手做肥皂，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/肥皂
-- **花道** — 动手做花道，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/花道
-- **蜡烛** — 动手做蜡烛，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/蜡烛
-- **遥控模型** — 动手做遥控模型，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/遥控模型
-- **遥控模型收藏** — 动手做遥控模型收藏，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/遥控模型
-- **钩针** — 动手做钩针，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/钩针编织
-- **钩针编织** — 动手做钩针编织，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/钩针编织
-- **陶器** — 动手做陶器，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/陶器
-- **陶瓷器** — 动手做陶瓷器，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/陶瓷器
-- **飞机模型** — 动手做飞机模型，跟教程与手作社群交流  
-  参考：https://zh.wikipedia.org/wiki/飞机模型
-
-## 技术与制作
-- **业余无线电** — 动手搞业余无线电，查文档、改机与同好论坛  
-  参考：https://zh.wikipedia.org/wiki/业余无线电
-- **无人机航拍** — 动手搞无人机航拍，查文档、改机与同好论坛  
-  参考：https://zh.wikipedia.org/wiki/航拍
-- **机器人实战** — 动手搞机器人实战，查文档、改机与同好论坛  
-  参考：https://zh.wikipedia.org/wiki/机器人实战
-- **机械键盘** — 动手搞机械键盘，查文档、改机与同好论坛  
-  参考：https://zh.wikipedia.org/wiki/机械键盘
-- **电子竞技** — 动手搞电子竞技，查文档、改机与同好论坛  
-  参考：https://zh.wikipedia.org/wiki/电子竞技
-
-## 收藏与鉴赏
-- **交换卡片** — 收集/鉴赏交换卡片相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/交换卡片
-- **信用卡** — 收集/鉴赏信用卡相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/信用卡
-- **元素收藏** — 收集/鉴赏元素收藏相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/元素收藏
-- **公共交通路线图收藏** — 收集/鉴赏公共交通路线图收藏相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/路线图
-- **压铸玩具** — 收集/鉴赏压铸玩具相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/压铸玩具
-- **古物** — 收集/鉴赏古物相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/古物
-- **古着** — 收集/鉴赏古着相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/古着
-- **可动人偶** — 收集/鉴赏可动人偶相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/可动人偶
-- **叶子收藏** — 收集/鉴赏叶子收藏相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/叶
-- **岩石平衡** — 收集/鉴赏岩石平衡相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/岩石平衡
-- **彩票** — 收集/鉴赏彩票相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/彩票
-- **復古玩具** — 收集/鉴赏復古玩具相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/復古玩具
-- **指纹收藏** — 收集/鉴赏指纹收藏相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/指纹
-- **文物收藏** — 收集/鉴赏文物收藏相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/文物
-- **明信片学** — 收集/鉴赏明信片学相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/明信片学
-- **模型手办** — 收集/鉴赏模型手办相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/模型
-- **毛绒玩具收藏** — 收集/鉴赏毛绒玩具收藏相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/毛绒玩具
-- **海玻璃收藏** — 收集/鉴赏海玻璃收藏相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/海玻璃
-- **火柴盒贴画** — 收集/鉴赏火柴盒贴画相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/火柴盒贴画
-- **玩偶** — 收集/鉴赏玩偶相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/玩偶
-- **电子游戏收藏** — 收集/鉴赏电子游戏收藏相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/电子游戏收藏
-- **老爷车** — 收集/鉴赏老爷车相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/老爷车
-- **胸章** — 收集/鉴赏胸章相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/胸章
-- **袋茶收藏** — 收集/鉴赏袋茶收藏相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/袋茶
-- **贝壳收藏** — 收集/鉴赏贝壳收藏相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/贝壳
-- **车载音响** — 收集/鉴赏车载音响相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/车载音响
-- **金属探测器** — 收集/鉴赏金属探测器相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/金属探测器
-- **门票收藏** — 收集/鉴赏门票收藏相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/门票
-- **集邮** — 收集/鉴赏集邮相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/集邮
-- **鞋收藏** — 收集/鉴赏鞋收藏相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/鞋
-- **香水收藏** — 收集/鉴赏香水收藏相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/香水
-- **高达模型** — 收集/鉴赏高达模型相关物，逛市集与藏友交流  
-  参考：https://zh.wikipedia.org/wiki/胶着模型
-
-## 旅行与地方探索
-- **地理藏宝** — 以地理藏宝方式出门探索，重体验不堆攻略  
-  参考：https://zh.wikipedia.org/wiki/地理藏宝
-- **旅行** — 以旅行方式出门探索，重体验不堆攻略  
-  参考：https://zh.wikipedia.org/wiki/旅行
-- **背包旅行** — 以背包旅行方式出门探索，重体验不堆攻略  
-  参考：https://zh.wikipedia.org/wiki/背包旅行
-- **铁路旅行** — 以铁路旅行方式出门探索，重体验不堆攻略  
-  参考：https://zh.wikipedia.org/wiki/铁路运输
-- **露营** — 以露营方式出门探索，重体验不堆攻略  
-  参考：https://zh.wikipedia.org/wiki/露营
-
-## 棋牌与益智
-- **克里比奇纸牌** — 玩克里比奇纸牌，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/克里比奇纸牌
-- **剧本杀** — 玩剧本杀，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/剧本杀
-- **双陆棋** — 玩双陆棋，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/双陆棋
-- **围棋** — 玩围棋，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/围棋
-- **国际象棋** — 玩国际象棋，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/国际象棋
-- **国际跳棋** — 玩国际跳棋，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/国际跳棋
-- **塔罗牌** — 玩塔罗牌，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/塔罗牌
-- **多米诺骨牌** — 玩多米诺骨牌，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/多米诺骨牌
-- **定约桥牌** — 玩定约桥牌，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/定约桥牌
-- **密室逃脱** — 玩密室逃脱，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/密室逃脱
-- **拼图** — 玩拼图，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/拼图
-- **数独** — 玩数独，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/数独
-- **日本将棋** — 玩日本将棋，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/日本将棋
-- **桌游** — 玩桌游，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/桌上游戏
-- **象棋** — 玩象棋，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/中国象棋
-- **麻将** — 玩麻将，线上线下牌局/棋局与规则讨论  
-  参考：https://zh.wikipedia.org/wiki/麻将
-
-## 游戏与电子娱乐
-- **Cosplay** — 玩Cosplay，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/Cosplay
-- **临场动态角色扮演游戏** — 玩临场动态角色扮演游戏，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/临场动态角色扮演游戏
-- **主机游戏** — 玩主机游戏，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/电子游戏
-- **卡片游戏** — 玩卡片游戏，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/卡片游戏
-- **填字游戏** — 玩填字游戏，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/填字游戏
-- **战争游戏** — 玩战争游戏，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/战争游戏
-- **手游** — 玩手游，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/电子游戏
-- **智力游戏** — 玩智力游戏，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/智力游戏
-- **生存游戏 (射击运动)** — 玩生存游戏 (射击运动)，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/生存游戏_(射击运动)
-- **电子游戏** — 玩电子游戏，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/电子游戏
-- **电子游戏制作** — 玩电子游戏制作，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/电子游戏制作
-- **电子类游戏** — 玩电子类游戏，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/电子类游戏
-- **直播弹幕游戏** — 玩直播弹幕游戏，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/电子游戏
-- **虚拟现实游戏** — 玩虚拟现实游戏，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/虚拟现实
-- **角色扮演游戏** — 玩角色扮演游戏，跟进版本与社群活动  
-  参考：https://zh.wikipedia.org/wiki/角色扮演游戏
-
-## 社群文化与亚文化
-- **汉服** — 参与汉服圈的穿搭/活动与同好聚会  
-  参考：https://zh.wikipedia.org/wiki/汉服
-- **洛丽塔时尚** — 参与洛丽塔时尚圈的穿搭/活动与同好聚会  
-  参考：https://zh.wikipedia.org/wiki/洛丽塔
-
-## 综合休闲
-- **Poi (行为艺术)** — 把Poi (行为艺术)当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/Poi_(行为艺术)
-- **乐高** — 把乐高当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/乐高
-- **书写** — 把书写当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/书写
-- **书籍修复** — 把书籍修复当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/书籍修复
-- **企划** — 把企划当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/企划
-- **体操** — 把体操当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/体操
-- **写生** — 把写生当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/写生
-- **制鞋** — 把制鞋当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/制鞋
-- **刺青** — 把刺青当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/刺青
-- **剑玉** — 把剑玉当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/剑玉
-- **剥制** — 把剥制当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/剥制
-- **剪报** — 把剪报当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/剪报
-- **化妆** — 把化妆当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/化妆
-- **十字绣** — 把十字绣当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/十字绣
-- **升级再造** — 把升级再造当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/升级再造
-- **单口喜剧** — 把单口喜剧当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/单口喜剧
-- **占星术** — 把占星术当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/占星术
-- **卡拉OK** — 把卡拉OK当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/卡拉OK
-- **发明** — 把发明当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/发明
-- **吹玻璃** — 把吹玻璃当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/吹玻璃
-- **呼啦圈** — 把呼啦圈当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/呼啦圈
-- **器具** — 把器具当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/器具
-- **奶酪制作** — 把奶酪制作当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/奶酪制作
-- **姜饼屋** — 把姜饼屋当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/姜饼屋
-- **娱乐** — 把娱乐当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/娱乐
-- **子弹日记** — 把子弹日记当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/子弹日记
-- **实验** — 把实验当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/实验
-- **家具** — 把家具当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/家具
-- **家居装修** — 把家居装修当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/家居装修
-- **尊巴** — 把尊巴当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/尊巴
-- **平面设计** — 把平面设计当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/平面设计
-- **幻想运动** — 把幻想运动当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/幻想运动
-- **幽默** — 把幽默当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/幽默
-- **建模** — 把建模当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/建模
-- **彼拉提斯** — 把彼拉提斯当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/彼拉提斯
-- **恶作剧** — 把恶作剧当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/恶作剧
-- **手相** — 把手相当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/手相
-- **押花** — 把押花当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/押花
-- **指甲彩绘** — 把指甲彩绘当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/指甲彩绘
-- **指画** — 把指画当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/指画
-- **按摩** — 把按摩当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/按摩
-- **摄录** — 把摄录当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/摄录
-- **日记** — 把日记当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/日记
-- **时尚** — 把时尚当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/时尚
-- **时尚设计** — 把时尚设计当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/时尚设计
-- **服装** — 把服装当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/服装
-- **木偶戏** — 把木偶戏当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/木偶戏
-- **木雕** — 把木雕当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/木雕
-- **机械加工** — 把机械加工当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/机械加工
-- **枪匠** — 把枪匠当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/枪匠
-- **校对** — 把校对当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/校对
-- **梭织** — 把梭织当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/梭织
-- **水产养殖** — 把水产养殖当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/水产养殖
-- **水耕栽培** — 把水耕栽培当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/水耕栽培
-- **水肺潜水** — 把水肺潜水当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/水肺潜水
-- **汽车** — 把汽车当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/汽车
-- **涂色书** — 把涂色书当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/涂色书
-- **混合饮料** — 把混合饮料当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/混合饮料
-- **演技** — 把演技当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/演技
-- **演讲** — 把演讲当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/演讲
-- **灵气疗法** — 把灵气疗法当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/灵气疗法
-- **烘烤** — 把烘烤当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/烘烤
-- **猜谜** — 把猜谜当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/猜谜
-- **珠宝设计** — 把珠宝设计当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/珠宝设计
-- **电刷车** — 把电刷车当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/电刷车
-- **电影** — 把电影当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/电影
-- **电影制作** — 把电影制作当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/电影制作
-- **电视节目** — 把电视节目当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/电视节目
-- **程序设计** — 把程序设计当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/程序设计
-- **空中丝带** — 把空中丝带当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/空中丝带
-- **笑话** — 把笑话当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/笑话
-- **简单生活** — 把简单生活当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/简单生活
-- **糖果** — 把糖果当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/糖果
-- **糖果糕点** — 把糖果糕点当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/糖果糕点
-- **纪录片** — 把纪录片当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/纪录片
-- **绗缝** — 把绗缝当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/绗缝
-- **绳结** — 把绳结当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/绳结
-- **缂织壁毯** — 把缂织壁毯当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/缂织壁毯
-- **网络直播** — 把网络直播当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/网络直播
-- **节奏口技** — 把节奏口技当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/节奏口技
-- **花切** — 把花切当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/花切
-- **花艺设计** — 把花艺设计当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/花艺设计
-- **蕾丝** — 把蕾丝当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/蕾丝
-- **虚拟现实** — 把虚拟现实当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/虚拟现实
-- **视频编辑** — 把视频编辑当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/视频编辑
-- **记忆力提升** — 把记忆力提升当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/记忆力提升
-- **诗歌** — 把诗歌当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/诗歌
-- **读书会** — 把读书会当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/读书会
-- **谚语** — 把谚语当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/谚语
-- **负重训练** — 把负重训练当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/负重训练
-- **跳水** — 把跳水当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/跳水
-- **跳绳** — 把跳绳当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/跳绳
-- **迷路园** — 把迷路园当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/迷路园
-- **造型艺术** — 把造型艺术当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/造型艺术
-- **金属加工** — 把金属加工当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/金属加工
-- **钢管舞** — 把钢管舞当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/钢管舞
-- **雕版** — 把雕版当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/雕版
-- **面包** — 把面包当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/面包
-- **风水** — 把风水当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/风水
-- **飞蝇钓** — 把飞蝇钓当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/飞蝇钓
-- **食谱** — 把食谱当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/食谱
-- **魔方** — 把魔方当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/魔方
-- **黑客** — 把黑客当业余消遣，找入门资料与同好  
-  参考：https://zh.wikipedia.org/wiki/黑客
-
-## 表演与舞台
-- **戏剧** — 练或赏戏剧，找票友/排练与演出  
-  参考：https://zh.wikipedia.org/wiki/戏剧
-- **戏曲票友** — 练或赏戏曲票友，找票友/排练与演出  
-  参考：https://zh.wikipedia.org/wiki/中国戏曲
-- **杂技** — 练或赏杂技，找票友/排练与演出  
-  参考：https://zh.wikipedia.org/wiki/杂技
-- **相声** — 练或赏相声，找票友/排练与演出  
-  参考：https://zh.wikipedia.org/wiki/相声
-- **表演** — 练或赏表演，找票友/排练与演出  
-  参考：https://zh.wikipedia.org/wiki/表演
-- **魔术** — 练或赏魔术，找票友/排练与演出  
-  参考：https://zh.wikipedia.org/wiki/魔术
-
-## 身心练习
-- **冥想** — 规律练冥想，关注呼吸、姿势与身心状态  
-  参考：https://zh.wikipedia.org/wiki/冥想
-- **太极** — 规律练太极，关注呼吸、姿势与身心状态  
-  参考：https://zh.wikipedia.org/wiki/太极拳
-- **气功** — 规律练气功，关注呼吸、姿势与身心状态  
-  参考：https://zh.wikipedia.org/wiki/气功
+活跃：**381**
 
 ## 运动与户外
-- **丢沙包** — 练丢沙包，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/丢沙包
-- **中国武术** — 练中国武术，找地方场馆或户外同好一起练  
+- **中国武术** — 传统武术套路与功法练习  
   参考：https://zh.wikipedia.org/wiki/中国武术
-- **乐旗队** — 练乐旗队，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/乐旗队
-- **乒乓球** — 练乒乓球，找地方场馆或户外同好一起练  
+- **乒乓球** — 业余对打与发球练习  
   参考：https://zh.wikipedia.org/wiki/乒乓球
-- **乘坐公共交通** — 练乘坐公共交通，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/公共交通
-- **乘车** — 练乘车，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/汽车
-- **仪乐队** — 练仪乐队，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/仪乐队
-- **低空跳伞** — 练低空跳伞，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/低空跳伞
-- **保龄球** — 练保龄球，找地方场馆或户外同好一起练  
+- **保龄球** — 球馆投球与记分练习  
   参考：https://zh.wikipedia.org/wiki/保龄球
-- **健美** — 练健美，找地方场馆或户外同好一起练  
+- **健美** — 健美塑形与训练饮食交流  
   参考：https://zh.wikipedia.org/wiki/健美
-- **健身** — 练健身，找地方场馆或户外同好一起练  
+- **健身** — 力量与体能训练（非岗位教练）  
   参考：https://zh.wikipedia.org/wiki/体适能
-- **公路自行车** — 练公路自行车，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/公路自行车
-- **养花** — 练养花，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/花
-- **农业** — 练农业，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/农业
-- **冰帆** — 练冰帆，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/冰帆
-- **冰球** — 练冰球，找地方场馆或户外同好一起练  
+- **八卦掌** — 八卦掌走圈练习  
+  参考：https://zh.wikipedia.org/wiki/八卦掌
+- **冰壶** — 冰壶投掷与扫冰体验  
+  参考：https://zh.wikipedia.org/wiki/冰壶
+- **冰球** — 业余冰球对抗与滑冰射门  
   参考：https://zh.wikipedia.org/wiki/冰球
-- **冲浪** — 练冲浪，找地方场馆或户外同好一起练  
+- **冲浪** — 浪板冲浪与海边练习  
   参考：https://zh.wikipedia.org/wiki/冲浪
-- **击剑** — 练击剑，找地方场馆或户外同好一起练  
+- **击剑** — 花剑重剑佩剑业余练习  
   参考：https://zh.wikipedia.org/wiki/击剑
-- **动力运动** — 练动力运动，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/动力运动
-- **匹克球** — 练匹克球，找地方场馆或户外同好一起练  
+- **力量举** — 深蹲卧推硬拉三项训练  
+  参考：https://zh.wikipedia.org/wiki/健力
+- **匹克球** — 新兴小球馆约球与社群  
   参考：https://zh.wikipedia.org/wiki/匹克球
-- **单板滑雪** — 练单板滑雪，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/单板滑雪
-- **单桨划船** — 练单桨划船，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/划船
-- **卡丁车** — 练卡丁车，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/卡丁车
-- **参观博物馆** — 练参观博物馆，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/博物馆
-- **参观贸易展览会** — 练参观贸易展览会，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/贸易展览会
-- **台球** — 练台球，找地方场馆或户外同好一起练  
+- **台球** — 中式八球、斯诺克业余练习  
   参考：https://zh.wikipedia.org/wiki/台球
-- **唱片骑师** — 练唱片骑师，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/唱片骑师
-- **园地栽培** — 练园地栽培，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/园地栽培
-- **地板舞** — 练地板舞，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/地板舞
-- **垒球** — 练垒球，找地方场馆或户外同好一起练  
+- **咏春拳** — 咏春拳小念头与木人桩  
+  参考：https://zh.wikipedia.org/wiki/咏春拳
+- **垒球** — 业余垒球联赛与投打练习  
   参考：https://zh.wikipedia.org/wiki/垒球
-- **堆肥** — 练堆肥，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/堆肥
-- **壁球** — 练壁球，找地方场馆或户外同好一起练  
+- **壁球** — 壁球馆对打与步法练习  
   参考：https://zh.wikipedia.org/wiki/壁球
-- **大胃王** — 练大胃王，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/大胃王
-- **夺旗式美式足球** — 练夺旗式美式足球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/夺旗式美式足球
-- **定向运动** — 练定向运动，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/定向运动
-- **寻水术** — 练寻水术，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/寻水术
-- **射击** — 练射击，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/射击
-- **射击运动** — 练射击运动，找地方场馆或户外同好一起练  
+- **太极剑** — 太极剑套路练习  
+  参考：https://zh.wikipedia.org/wiki/太极剑
+- **太极拳** — 太极推手与拳架练习  
+  参考：https://zh.wikipedia.org/wiki/太极拳
+- **定向越野** — 地图指北针定向赛事  
+  参考：https://zh.wikipedia.org/wiki/定向越野
+- **射击运动** — 气枪靶场射击运动  
   参考：https://zh.wikipedia.org/wiki/射击运动
-- **射箭** — 练射箭，找地方场馆或户外同好一起练  
+- **射箭** — 反曲与复合弓靶场练习  
   参考：https://zh.wikipedia.org/wiki/射箭
-- **小轮车** — 练小轮车，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/小轮车
-- **山地车** — 练山地车，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/山地车
-- **岩画** — 练岩画，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/岩画
-- **巴西柔术** — 练巴西柔术，找地方场馆或户外同好一起练  
+- **山地自行车** — 林道爬坡下坡与车技  
+  参考：https://zh.wikipedia.org/wiki/登山自行车
+- **巴西柔术** — 地面缠斗与降服技练习  
   参考：https://zh.wikipedia.org/wiki/巴西柔术
-- **广场舞** — 练广场舞，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/广场舞
-- **度假** — 练度假，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/度假
-- **弹珠** — 练弹珠，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/弹珠
-- **徒步** — 练徒步，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/徒步
-- **志愿服务** — 练志愿服务，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/志愿服务
-- **悠悠球** — 练悠悠球，找地方场馆或户外同好一起练  
+- **帆船** — 帆船驾驶与俱乐部出航  
+  参考：https://zh.wikipedia.org/wiki/帆船
+- **形意拳** — 形意五行拳练习  
+  参考：https://zh.wikipedia.org/wiki/形意拳
+- **徒步** — 山径徒步与轻装拉练  
+  参考：https://zh.wikipedia.org/wiki/徒步旅行
+- **悠悠球** — 花式悠悠球技巧练习  
   参考：https://zh.wikipedia.org/wiki/悠悠球
-- **手球** — 练手球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/手球
-- **扑克** — 练扑克，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/扑克
-- **打水漂** — 练打水漂，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/打水漂
-- **拳击** — 练拳击，找地方场馆或户外同好一起练  
+- **抖空竹** — 空竹抖耍传统杂技向  
+  参考：https://zh.wikipedia.org/wiki/空竹
+- **拳击** — 拳击沙袋与对练  
   参考：https://zh.wikipedia.org/wiki/拳击
-- **捉鬼** — 练捉鬼，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/捉鬼
-- **排球** — 练排球，找地方场馆或户外同好一起练  
+- **排球** — 业余排球与沙滩排球  
   参考：https://zh.wikipedia.org/wiki/排球
-- **探洞** — 练探洞，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/探洞
-- **摔跤** — 练摔跤，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/摔跤
-- **摩托艇比赛** — 练摩托艇比赛，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/摩托艇比赛
-- **摩托车** — 练摩托车，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/摩托车
-- **撞球** — 练撞球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/撞球
-- **攀岩** — 练攀岩，找地方场馆或户外同好一起练  
+- **搏击** — 自由搏击与泰拳馆练习  
+  参考：https://zh.wikipedia.org/wiki/踢拳
+- **攀岩** — 室内外抱石与线路攀岩  
   参考：https://zh.wikipedia.org/wiki/攀岩
-- **攀登** — 练攀登，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/攀登
-- **改装车** — 练改装车，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/改装车
-- **放风筝** — 练放风筝，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/风筝
-- **整建** — 练整建，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/整建
-- **旅游** — 练旅游，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/旅游
-- **日光浴** — 练日光浴，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/日光浴
-- **板球** — 练板球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/板球
-- **柔术** — 练柔术，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/柔术
-- **柔道** — 练柔道，找地方场馆或户外同好一起练  
+- **柔道** — 柔道投技与寝技练习  
   参考：https://zh.wikipedia.org/wiki/柔道
-- **桌上足球** — 练桌上足球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/桌上足球
-- **棒球** — 练棒球，找地方场馆或户外同好一起练  
+- **桨板** — SUP桨板湖海划行  
+  参考：https://zh.wikipedia.org/wiki/立式划桨
+- **棒球** — 业余棒球打击与守备练习  
   参考：https://zh.wikipedia.org/wiki/棒球
-- **槌球** — 练槌球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/槌球
-- **模拟联合国** — 练模拟联合国，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/模拟联合国
-- **橄榄球类运动** — 练橄榄球类运动，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/橄榄球类运动
-- **步行** — 练步行，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/步行
-- **武术** — 练武术，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/武术
-- **水晶球收藏** — 练水晶球收藏，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/水晶球收藏
-- **水球** — 练水球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/水球
-- **水类运动** — 练水类运动，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/水类运动
-- **汽车业** — 练汽车业，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/汽车业
-- **沙包** — 练沙包，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/沙包_(游戏用具)
-- **沙滩排球** — 练沙滩排球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/沙滩排球
-- **沙狐球** — 练沙狐球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/沙狐球
-- **沙雕** — 练沙雕，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/沙雕
-- **浅滩冲浪** — 练浅滩冲浪，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/浅滩冲浪
-- **浮潜** — 练浮潜，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/浮潜
-- **海滩拾荒** — 练海滩拾荒，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/海滩拾荒
-- **涂鸦** — 练涂鸦，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/涂鸦
-- **淘金** — 练淘金，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/淘金
-- **游乐园参观** — 练游乐园参观，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/游乐园
-- **游泳** — 练游泳，找地方场馆或户外同好一起练  
+- **橄榄球** — 业余橄榄球触式与竞赛  
+  参考：https://zh.wikipedia.org/wiki/橄榄球
+- **毽子** — 踢毽子花式与娱乐  
+  参考：https://zh.wikipedia.org/wiki/毽子
+- **毽球** — 毽球网前竞技  
+  参考：https://zh.wikipedia.org/wiki/毽球
+- **气排球** — 气排球业余联赛  
+  参考：https://baike.baidu.com/item/气排球
+- **游泳** — 泳池健身泳与公开水域  
   参考：https://zh.wikipedia.org/wiki/游泳
-- **溪降** — 练溪降，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/溪降
-- **滑冰** — 练滑冰，找地方场馆或户外同好一起练  
+- **溯溪** — 溪谷溯行与瀑布攀爬  
+  参考：https://zh.wikipedia.org/wiki/溯溪
+- **滑冰** — 冰场滑行与花样入门  
   参考：https://zh.wikipedia.org/wiki/滑冰
-- **滑板** — 练滑板，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/滑板
-- **滑翔伞** — 练滑翔伞，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/滑翔伞
-- **滑雪** — 练滑雪，找地方场馆或户外同好一起练  
+- **滑板** — 板场技巧与街头滑行  
+  参考：https://zh.wikipedia.org/wiki/滑板运动
+- **滑雪** — 双板单板滑雪与雪场练习  
   参考：https://zh.wikipedia.org/wiki/滑雪
-- **漂流** — 练漂流，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/漂流
-- **漆弹** — 练漆弹，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/漆弹
-- **潜水** — 练潜水，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/潜水
-- **犬类运动** — 练犬类运动，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/犬类运动
-- **狩猎** — 练狩猎，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/狩猎
-- **玩具相机** — 练玩具相机，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/玩具相机
-- **球场旅行** — 练球场旅行，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/球场旅行
-- **瑜伽** — 练瑜伽，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/瑜伽
-- **生存主义** — 练生存主义，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/生存主义
-- **登山运动** — 练登山运动，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/登山运动
-- **皮划艇** — 练皮划艇，找地方场馆或户外同好一起练  
+- **潜水** — 水肺潜水考证与水下探索  
+  参考：https://zh.wikipedia.org/wiki/水肺潜水
+- **登山** — 登山徒步与高山攀登入门  
+  参考：https://zh.wikipedia.org/wiki/登山
+- **皮划艇** — 静水与激流皮划艇划行  
   参考：https://zh.wikipedia.org/wiki/皮划艇
-- **皮艇** — 练皮艇，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/皮艇
-- **盆栽** — 练盆栽，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/盆栽
-- **短柄墙球** — 练短柄墙球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/短柄墙球
-- **空中运动** — 练空中运动，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/空中运动
-- **空手道** — 练空手道，找地方场馆或户外同好一起练  
+- **空手道** — 空手道型与组手练习  
   参考：https://zh.wikipedia.org/wiki/空手道
-- **竞技叠杯** — 练竞技叠杯，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/竞技叠杯
-- **竞技啦啦队** — 练竞技啦啦队，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/竞技啦啦队
-- **竞走** — 练竞走，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/竞走
-- **童军活动** — 练童军活动，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/童军活动
-- **篮球** — 练篮球，找地方场馆或户外同好一起练  
+- **篮球** — 业余球场对抗与投篮练习  
   参考：https://zh.wikipedia.org/wiki/篮球
-- **终极飞盘** — 练终极飞盘，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/终极飞盘
-- **绳索垂降** — 练绳索垂降，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/绳索垂降
-- **网球** — 练网球，找地方场馆或户外同好一起练  
+- **网球** — 业余发球对打与俱乐部约球  
   参考：https://zh.wikipedia.org/wiki/网球
-- **羽毛球** — 练羽毛球，找地方场馆或户外同好一起练  
+- **羽毛球** — 业余双打与馆内约球  
   参考：https://zh.wikipedia.org/wiki/羽毛球
-- **联盟式橄榄球** — 练联盟式橄榄球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/联盟式橄榄球
-- **航空** — 练航空，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/航空
-- **航行** — 练航行，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/航行
-- **花式台球** — 练花式台球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/花式台球
-- **花式操枪** — 练花式操枪，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/花式操枪
-- **花式足球** — 练花式足球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/花式足球
-- **花样滑冰** — 练花样滑冰，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/花样滑冰
-- **草地曲棍球** — 练草地曲棍球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/草地曲棍球
-- **草药医学** — 练草药医学，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/草药医学
-- **蔬菜种植** — 练蔬菜种植，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/蔬菜种植
-- **袋棍球** — 练袋棍球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/袋棍球
-- **观蝶** — 练观蝶，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/观蝶
-- **训犬** — 练训犬，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/训犬
-- **访问动物园** — 练访问动物园，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/动物园
-- **购物** — 练购物，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/购物
-- **赛艇** — 练赛艇，找地方场馆或户外同好一起练  
+- **自由潜水** — 屏息潜水深度与静水练习  
+  参考：https://zh.wikipedia.org/wiki/自由潜水
+- **赛艇** — 单桨双桨赛艇训练  
   参考：https://zh.wikipedia.org/wiki/赛艇
-- **赛车** — 练赛车，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/赛车
-- **走扁带** — 练走扁带，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/走扁带
-- **足球** — 练足球，找地方场馆或户外同好一起练  
+- **超马** — 超长距离跑步赛事  
+  参考：https://zh.wikipedia.org/wiki/超级马拉松
+- **越野跑** — 山野小径长距离跑步与装备圈  
+  参考：https://zh.wikipedia.org/wiki/越野跑
+- **足球** — 业余踢球、看球与草根联赛  
   参考：https://zh.wikipedia.org/wiki/足球
-- **跆拳道** — 练跆拳道，找地方场馆或户外同好一起练  
+- **跆拳道** — 跆拳道品势与对打  
   参考：https://zh.wikipedia.org/wiki/跆拳道
-- **跑步** — 练慢跑，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/慢跑
-- **跑酷** — 练跑酷，找地方场馆或户外同好一起练  
+- **跑步** — 路跑、操场跑与大众马拉松备赛交流  
+  参考：https://zh.wikipedia.org/wiki/跑步
+- **跑酷** — 城市障碍跑跳翻越练习  
   参考：https://zh.wikipedia.org/wiki/跑酷
-- **跳伞** — 练跳伞，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/跳伞
-- **轮滑** — 练轮滑，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/轮滑
-- **辩论** — 练辩论，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/辩论
-- **迷你高尔夫** — 练迷你高尔夫，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/迷你高尔夫
-- **追风 (恶劣气候)** — 练追风 (恶劣气候)，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/追风_(恶劣气候)
-- **选美活动** — 练选美活动，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/选美活动
-- **速度滑冰** — 练速度滑冰，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/速度滑冰
-- **速解魔方** — 练速解魔方，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/速解魔方
-- **遛狗** — 练遛狗，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/遛狗
-- **遥控车** — 练遥控车，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/遥控车
-- **野餐** — 练野餐，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/野餐
-- **金属探测** — 练金属探测，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/金属探测器
-- **钓鱼** — 练钓鱼，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/钓鱼
-- **铁人三项** — 练铁人三项，找地方场馆或户外同好一起练  
+- **跳水** — 跳台跳板技术练习  
+  参考：https://zh.wikipedia.org/wiki/跳水
+- **跳绳** — 花式与耐力跳绳练习  
+  参考：https://zh.wikipedia.org/wiki/跳绳
+- **轮滑** — 直排轮滑刷街与速滑  
+  参考：https://zh.wikipedia.org/wiki/直排轮滑
+- **铁人三项** — 泳骑跑三项训练与赛事  
   参考：https://zh.wikipedia.org/wiki/铁人三项
-- **铁匠** — 练铁匠，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/铁匠
-- **铁道模型** — 练铁道模型，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/铁道模型
-- **长板** — 练长板，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/长板
-- **雪上摩托车** — 练雪上摩托车，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/雪上摩托车
-- **雪地徒步** — 练雪地徒步，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/雪鞋
-- **雪橇** — 练雪橇，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/雪橇
-- **雪橇犬比赛** — 练雪橇犬比赛，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/雪橇犬
-- **风筝冲浪** — 练风筝冲浪，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/风筝冲浪
-- **飞刀** — 练飞刀，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/飞刀
-- **飞盘** — 练飞盘，找地方场馆或户外同好一起练  
+- **门球** — 门球场地击球娱乐  
+  参考：https://zh.wikipedia.org/wiki/门球
+- **露营** — 帐篷营地过夜与装备交流  
+  参考：https://zh.wikipedia.org/wiki/露营
+- **风筝** — 传统与特技风筝放飞  
+  参考：https://zh.wikipedia.org/wiki/风筝
+- **飞盘** — 飞盘抛接与终极飞盘  
   参考：https://zh.wikipedia.org/wiki/飞盘
-- **飞盘高尔夫** — 练飞盘高尔夫，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/飞盘高尔夫
-- **飞碟射击** — 练飞碟射击，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/飞碟射击
-- **飞镖** — 练飞镖，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/飞镖
-- **马术** — 练马术，找地方场馆或户外同好一起练  
+- **马拉松** — 全程半程马拉松备赛完赛  
+  参考：https://zh.wikipedia.org/wiki/马拉松
+- **马术** — 骑马训练与马场护理  
   参考：https://zh.wikipedia.org/wiki/马术
-- **马球** — 练马球，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/马球
-- **驾驶** — 练驾驶，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/驾驶
-- **骑行** — 练骑行，找地方场馆或户外同好一起练  
+- **骑行** — 公路与通勤骑行训练  
   参考：https://zh.wikipedia.org/wiki/自行车运动
-- **骑车** — 练骑车，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/骑车
-- **高尔夫球** — 练高尔夫球，找地方场馆或户外同好一起练  
+- **高尔夫球** — 下场打球与练习场挥杆  
   参考：https://zh.wikipedia.org/wiki/高尔夫球
-- **麻瓜魁地奇** — 练麻瓜魁地奇，找地方场馆或户外同好一起练  
-  参考：https://zh.wikipedia.org/wiki/麻瓜魁地奇
-
-## 阅读写作与知识
-- **创意写作** — 持续创意写作，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/创意写作
-- **博客** — 持续博客，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/博客
-- **历史** — 持续历史，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/历史
-- **微生物学** — 持续微生物学，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/微生物学
-- **手帐** — 持续手帐，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/手帐
-- **播客** — 持续播客，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/播客
-- **生命科学** — 持续生命科学，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/生命科学
-- **科技学习** — 持续科技学习，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/科技学习
-- **第二语言习得** — 持续第二语言习得，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/第二语言习得
-- **网页设计** — 持续网页设计，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/网页设计
-- **英语** — 持续英语，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/英语
-- **运动科学** — 持续运动科学，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/运动科学
-- **邮票研究** — 持续邮票研究，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/邮票研究
-- **铁路运输** — 持续铁路运输，做笔记或分享书单文章  
-  参考：https://zh.wikipedia.org/wiki/铁路运输
 
 ## 音乐与演奏
-- **乐器** — 学乐器相关演奏或欣赏，找琴房与乐友  
-  参考：https://zh.wikipedia.org/wiki/乐器
-- **歌唱** — 学歌唱相关演奏或欣赏，找琴房与乐友  
-  参考：https://zh.wikipedia.org/wiki/歌唱
-- **激光唱片** — 学激光唱片相关演奏或欣赏，找琴房与乐友  
-  参考：https://zh.wikipedia.org/wiki/激光唱片
-- **说唱** — 学说唱相关演奏或欣赏，找琴房与乐友  
+- **DJ** — 打碟混音与现场控场  
+  参考：https://zh.wikipedia.org/wiki/唱片骑师
+- **乐理学习** — 乐理视唱练耳自学交流  
+  参考：https://zh.wikipedia.org/wiki/音乐理论
+- **乐队排练** — 业余乐队组队排练演出  
+  参考：https://zh.wikipedia.org/wiki/乐队
+- **二胡** — 二胡运弓与曲目练习  
+  参考：https://zh.wikipedia.org/wiki/二胡
+- **作曲** — 旋律和声写作与编曲入门  
+  参考：https://zh.wikipedia.org/wiki/作曲
+- **单簧管** — 单簧管吹奏练习  
+  参考：https://zh.wikipedia.org/wiki/单簧管
+- **卡拉OK** — 卡拉OK练歌社交  
+  参考：https://zh.wikipedia.org/wiki/卡拉OK
+- **口琴** — 布鲁斯与半音阶口琴  
+  参考：https://zh.wikipedia.org/wiki/口琴
+- **古琴** — 古琴减字谱与琴曲练习  
+  参考：https://zh.wikipedia.org/wiki/古琴
+- **古筝** — 古筝传统与现代曲目  
+  参考：https://zh.wikipedia.org/wiki/古筝
+- **合唱** — 合唱团排练与公演  
+  参考：https://zh.wikipedia.org/wiki/合唱
+- **吉他** — 民谣与电吉他弹唱练习  
+  参考：https://zh.wikipedia.org/wiki/吉他
+- **唢呐** — 唢呐吹奏与民间锣鼓  
+  参考：https://zh.wikipedia.org/wiki/唢呐
+- **唱片收藏聆听** — 黑胶CD与HIFI聆听交流  
+  参考：https://zh.wikipedia.org/wiki/音响爱好者
+- **大提琴** — 大提琴演奏练习  
+  参考：https://zh.wikipedia.org/wiki/大提琴
+- **小号** — 小号吹奏与乐队合奏  
+  参考：https://zh.wikipedia.org/wiki/小号
+- **小提琴** — 小提琴音阶与曲目练习  
+  参考：https://zh.wikipedia.org/wiki/小提琴
+- **尤克里里** — 尤克里里弹唱入门  
+  参考：https://zh.wikipedia.org/wiki/乌克丽丽
+- **手风琴** — 手风琴演奏练习  
+  参考：https://zh.wikipedia.org/wiki/手风琴
+- **流行演唱** — 流行歌练唱与麦霸  
+  参考：https://zh.wikipedia.org/wiki/流行音乐
+- **琵琶** — 琵琶弹挑与武曲文曲  
+  参考：https://zh.wikipedia.org/wiki/琵琶
+- **电子琴** — 电子琴与合成器弹奏  
+  参考：https://zh.wikipedia.org/wiki/电子琴
+- **笛子** — 竹笛吹奏与曲目  
+  参考：https://zh.wikipedia.org/wiki/笛子
+- **箫** — 洞箫吹奏练习  
+  参考：https://zh.wikipedia.org/wiki/箫
+- **编曲** — 编曲配器与宿主软件制作  
+  参考：https://zh.wikipedia.org/wiki/编曲
+- **美声唱法** — 美声发声与艺术歌曲  
+  参考：https://zh.wikipedia.org/wiki/美声唱法
+- **萨克斯** — 萨克斯吹奏与爵士练习  
+  参考：https://zh.wikipedia.org/wiki/萨克斯管
+- **葫芦丝** — 葫芦丝吹奏与少数民族曲风  
+  参考：https://zh.wikipedia.org/wiki/葫芦丝
+- **说唱** — 说唱词作与flow练习  
   参考：https://zh.wikipedia.org/wiki/说唱
-- **非洲鼓** — 学非洲鼓相关演奏或欣赏，找琴房与乐友  
+- **钢琴** — 钢琴独奏与伴奏练习  
+  参考：https://zh.wikipedia.org/wiki/钢琴
+- **长笛** — 西洋长笛吹奏练习  
+  参考：https://zh.wikipedia.org/wiki/长笛
+- **阮** — 中阮大阮弹奏  
+  参考：https://zh.wikipedia.org/wiki/阮
+- **陶笛** — 陶笛吹奏入门  
+  参考：https://zh.wikipedia.org/wiki/陶笛
+- **非洲鼓** — 手鼓节奏与合奏  
   参考：https://zh.wikipedia.org/wiki/非洲鼓
-- **音乐创作** — 学音乐创作相关演奏或欣赏，找琴房与乐友  
-  参考：https://zh.wikipedia.org/wiki/音乐创作
-- **黑胶唱片** — 学黑胶唱片相关演奏或欣赏，找琴房与乐友  
+- **音乐制作** — 录音混音与独立音乐制作  
+  参考：https://zh.wikipedia.org/wiki/音乐制作人
+- **鼓圈** — 群体手鼓鼓圈即兴  
+  参考：https://zh.wikipedia.org/wiki/非洲鼓
+- **鼓组** — 爵士鼓节奏与乐队排练  
+  参考：https://zh.wikipedia.org/wiki/爵士鼓
+
+## 手作与工艺
+- **DIY家居** — 家居改造与动手维修装饰  
+  参考：https://zh.wikipedia.org/wiki/DIY
+- **乐高** — 乐高创意搭建与MOC  
+  参考：https://zh.wikipedia.org/wiki/乐高
+- **制香** — 线香合香制作（合规原料）  
+  参考：https://baike.baidu.com/item/制香
+- **刺绣** — 手绣与苏绣等针法  
+  参考：https://zh.wikipedia.org/wiki/刺绣
+- **剪纸** — 传统剪纸窗花与创作  
+  参考：https://zh.wikipedia.org/wiki/剪纸
+- **十字绣** — 十字绣图案绣制  
+  参考：https://zh.wikipedia.org/wiki/十字绣
+- **吹玻璃** — 玻璃吹制成型（工作室）  
+  参考：https://zh.wikipedia.org/wiki/玻璃吹制
+- **手工皂** — 手工皂皂化与配方安全制作  
+  参考：https://en.wikipedia.org/wiki/Soap_making
+- **扎染** — 扎染与絞り染色  
+  参考：https://zh.wikipedia.org/wiki/扎染
+- **折纸** — 折纸几何与复杂造型  
+  参考：https://zh.wikipedia.org/wiki/折纸
+- **押花** — 压花标本与装饰  
+  参考：https://zh.wikipedia.org/wiki/押花
+- **拓片** — 碑刻拓片制作与收藏  
+  参考：https://zh.wikipedia.org/wiki/拓片
+- **拼布** — 拼布绗缝与布艺拼贴  
+  参考：https://zh.wikipedia.org/wiki/绗缝
+- **木工** — 木作家具与小件制作  
+  参考：https://zh.wikipedia.org/wiki/木工
+- **木雕** — 木材雕刻造型  
+  参考：https://zh.wikipedia.org/wiki/木雕
+- **模型制作** — 比例模型拼装涂装  
+  参考：https://zh.wikipedia.org/wiki/模型_(业余爱好)
+- **皮具制作** — 皮革裁缝与手缝皮具  
+  参考：https://en.wikipedia.org/wiki/Leather_crafting
+- **盆景** — 盆景造型与养护  
+  参考：https://zh.wikipedia.org/wiki/盆景
+- **篆刻** — 印章篆刻刀法与印谱  
+  参考：https://zh.wikipedia.org/wiki/篆刻
+- **粘土手作** — 超轻土与树脂粘土造型  
+  参考：https://baike.baidu.com/item/超轻粘土
+- **编织** — 棒针编织衣物配饰  
+  参考：https://zh.wikipedia.org/wiki/编织
+- **缝纫** — 服装与布艺缝纫  
+  参考：https://zh.wikipedia.org/wiki/缝纫
+- **花艺** — 插花与花束造型  
+  参考：https://zh.wikipedia.org/wiki/花艺设计
+- **蓝染** — 靛蓝染色工艺  
+  参考：https://zh.wikipedia.org/wiki/蓝染
+- **蜡染** — 蜡染布艺传统工艺  
+  参考：https://zh.wikipedia.org/wiki/蜡染
+- **金工** — 金属加工与首饰胚制作  
+  参考：https://zh.wikipedia.org/wiki/金属加工
+- **钩针** — 钩针玩偶与衣饰  
+  参考：https://zh.wikipedia.org/wiki/钩针编织
+- **铁道模型** — 火车模型布景与运行  
+  参考：https://zh.wikipedia.org/wiki/铁道模型
+- **陶艺** — 拉坯釉烧陶瓷制作  
+  参考：https://zh.wikipedia.org/wiki/陶器
+- **首饰制作** — 串珠金属丝与简单金工首饰  
+  参考：https://zh.wikipedia.org/wiki/珠宝设计
+- **香薰蜡烛** — 蜡烛浇注与香氛调配  
+  参考：https://en.wikipedia.org/wiki/Candle_making
+- **高达模型** — 敢达拼装素组与涂装改件  
+  参考：https://zh.wikipedia.org/wiki/高达模型
+
+## 动植物与自然
+- **业余地质** — 岩石矿物野外观察  
+  参考：https://en.wikipedia.org/wiki/Amateur_geology
+- **业余天文** — 望远镜观星与天象记录  
+  参考：https://zh.wikipedia.org/wiki/业余天文学
+- **兰花栽培** — 国兰洋兰栽培养护  
+  参考：https://zh.wikipedia.org/wiki/兰花
+- **养兔** — 家兔饲养与兔舍管理  
+  参考：https://baike.baidu.com/item/养兔
+- **养狗** — 犬只饲养训练与犬友圈  
+  参考：https://zh.wikipedia.org/wiki/狗
+- **养猫** — 家猫饲养与猫行为交流  
+  参考：https://zh.wikipedia.org/wiki/猫
+- **养蜂** — 业余养蜂与蜂蜜收获  
+  参考：https://zh.wikipedia.org/wiki/养蜂
+- **养锦鲤** — 锦鲤池养与品鉴  
+  参考：https://zh.wikipedia.org/wiki/锦鲤
+- **养鸟** — 笼鸟与观赏鸟饲养  
+  参考：https://zh.wikipedia.org/wiki/养鸟
+- **养龟** — 龟鳖类饲养与晒背护理  
+  参考：https://baike.baidu.com/item/养龟
+- **园艺** — 庭院与阳台植物种植  
+  参考：https://zh.wikipedia.org/wiki/园艺
+- **多肉植物** — 多肉繁殖与盆景造型  
+  参考：https://zh.wikipedia.org/wiki/多肉植物
+- **昆虫观察** — 昆虫拍摄与标本观察  
+  参考：https://zh.wikipedia.org/wiki/昆虫学
+- **月季栽培** — 月季修剪与花期管理  
+  参考：https://zh.wikipedia.org/wiki/月季
+- **气象观察** — 云图天气现象记录  
+  参考：https://zh.wikipedia.org/wiki/气象学
+- **水培** — 家庭水培与无土栽培  
+  参考：https://zh.wikipedia.org/wiki/水耕栽培
+- **水族造景** — 水草缸景观构图  
+  参考：https://zh.wikipedia.org/wiki/水族造景
+- **水族饲养** — 鱼缸造景与观赏鱼饲养  
+  参考：https://zh.wikipedia.org/wiki/水族饲养
+- **海水鱼缸** — 海缸珊瑚与海水生物  
+  参考：https://zh.wikipedia.org/wiki/海水水族箱
+- **爬宠饲养** — 蜥蜴蛇类等爬宠饲养  
+  参考：https://en.wikipedia.org/wiki/Herpetoculture
+- **观叶植物** — 室内观叶植物养护  
+  参考：https://en.wikipedia.org/wiki/Houseplant
+- **观蝶** — 蝴蝶识别与拍摄  
+  参考：https://zh.wikipedia.org/wiki/蝴蝶
+- **观鲸** — 鲸豚观察行程（沿海）  
+  参考：https://zh.wikipedia.org/wiki/赏鲸
+- **观鸟** — 野外鸟类识别与记录  
+  参考：https://zh.wikipedia.org/wiki/观鸟
+- **路亚** — 仿生饵路亚钓法  
+  参考：https://zh.wikipedia.org/wiki/路亚钓法
+- **采菇** — 野外蘑菇识别（勿误食）  
+  参考：https://zh.wikipedia.org/wiki/采菇
+- **金鱼饲养** — 金鱼品种饲养鉴赏  
+  参考：https://zh.wikipedia.org/wiki/金鱼
+- **钓鱼** — 淡水海水垂钓休闲  
+  参考：https://zh.wikipedia.org/wiki/钓鱼
+- **飞蝇钓** — 飞蝇拟饵钓法  
+  参考：https://zh.wikipedia.org/wiki/飞蝇钓
+
+## 影像与视觉
+- **Vlog** — 生活记录视频创作分享  
+  参考：https://zh.wikipedia.org/wiki/视频博客
+- **丙烯画** — 丙烯颜料绘画  
+  参考：https://zh.wikipedia.org/wiki/丙烯画
+- **中国画** — 水墨写意与工笔练习  
+  参考：https://zh.wikipedia.org/wiki/中国画
+- **书法** — 毛笔书法临帖与创作  
+  参考：https://zh.wikipedia.org/wiki/书法
+- **人像摄影** — 人像布光与棚拍外拍  
+  参考：https://zh.wikipedia.org/wiki/人像摄影
+- **动画** — 二维三维动画创作  
+  参考：https://zh.wikipedia.org/wiki/动画
+- **天文摄影** — 星空深空与赤道仪拍摄  
+  参考：https://zh.wikipedia.org/wiki/天文摄影
+- **平面设计** — 版式与视觉设计练习（爱好向）  
+  参考：https://zh.wikipedia.org/wiki/平面设计
+- **手机摄影** — 手机构图与后期分享  
+  参考：https://baike.baidu.com/item/手机摄影
+- **插画** — 商业与个人插画创作  
+  参考：https://zh.wikipedia.org/wiki/插图
+- **摄像** — 视频拍摄与剪辑表达  
+  参考：https://zh.wikipedia.org/wiki/摄像
+- **摄影** — 相机摄影与后期基础  
+  参考：https://zh.wikipedia.org/wiki/摄影
+- **数字绘画** — 数位板CG绘画  
+  参考：https://zh.wikipedia.org/wiki/数字艺术
+- **水彩画** — 水彩画技法练习  
+  参考：https://zh.wikipedia.org/wiki/水彩画
+- **油画** — 油画布面创作  
+  参考：https://zh.wikipedia.org/wiki/油画
+- **涂鸦** — 街头涂鸦与合法墙绘  
+  参考：https://zh.wikipedia.org/wiki/涂鸦
+- **漫画** — 漫画分镜与角色绘制  
+  参考：https://zh.wikipedia.org/wiki/漫画
+- **电影制作** — 短片编剧拍摄与成片  
+  参考：https://zh.wikipedia.org/wiki/电影制作
+- **短视频创作** — 短视频拍摄剪辑分享  
+  参考：https://baike.baidu.com/item/短视频
+- **硬笔书法** — 钢笔硬笔字练习  
+  参考：https://baike.baidu.com/item/硬笔书法
+- **素描** — 素描速写基础造型  
+  参考：https://zh.wikipedia.org/wiki/素描
+- **绘画** — 油画水彩等架上绘画  
+  参考：https://zh.wikipedia.org/wiki/绘画
+- **胶片摄影** — 胶卷冲洗与胶片机使用  
+  参考：https://zh.wikipedia.org/wiki/摄影胶片
+- **航拍摄影** — 无人机空中摄影（合规）  
+  参考：https://zh.wikipedia.org/wiki/航空摄影
+- **街头摄影** — 街头抓拍与纪实风格  
+  参考：https://zh.wikipedia.org/wiki/街头摄影
+- **风光摄影** — 山水城市风光拍摄  
+  参考：https://zh.wikipedia.org/wiki/风光摄影
+
+## 收藏与鉴赏
+- **Postcrossing** — 全球随机明信片互换  
+  参考：https://zh.wikipedia.org/wiki/Postcrossing
+- **化石收藏** — 化石标本采集与鉴赏  
+  参考：https://en.wikipedia.org/wiki/Fossil_collecting
+- **印章收藏** — 名家印章印谱集藏  
+  参考：https://zh.wikipedia.org/wiki/印章
+- **古着** — 古着服饰淘选与搭配  
+  参考：https://zh.wikipedia.org/wiki/古着
+- **古董鉴赏** — 古董器物鉴赏与交流  
+  参考：https://zh.wikipedia.org/wiki/古董
+- **图书收藏** — 版本书与藏书票集藏  
+  参考：https://zh.wikipedia.org/wiki/藏书
+- **地图收藏** — 古今地图集藏  
+  参考：https://zh.wikipedia.org/wiki/地图
+- **徽章收藏** — 纪念章与谷子徽章集藏  
+  参考：https://baike.baidu.com/item/徽章
+- **手办收藏** — 动漫手办景品集藏展示  
+  参考：https://baike.baidu.com/item/手办
+- **手表收藏** — 机械表腕表鉴赏集藏  
+  参考：https://baike.baidu.com/item/手表收藏
+- **明信片收藏** — 明信片交换与专题集藏  
+  参考：https://zh.wikipedia.org/wiki/Postcrossing
+- **漫画单行本收藏** — 漫画书刊版本集藏  
+  参考：https://en.wikipedia.org/wiki/Comic_book_collecting
+- **玉石鉴赏** — 玉器把玩与材质鉴赏  
+  参考：https://zh.wikipedia.org/wiki/玉
+- **相机收藏** — 经典相机机身镜头集藏  
+  参考：https://baike.baidu.com/item/相机收藏
+- **矿物标本** — 矿物晶体标本集藏  
+  参考：https://en.wikipedia.org/wiki/Mineral_collecting
+- **票根收藏** — 电影车票等票根集藏  
+  参考：https://baike.baidu.com/item/票根
+- **紫砂壶** — 紫砂壶壶型泥料鉴赏  
+  参考：https://zh.wikipedia.org/wiki/紫砂
+- **茶宠** — 茶宠紫砂小件把玩  
+  参考：https://zh.wikipedia.org/wiki/茶宠
+- **谷子收藏** — 动漫周边谷子集藏  
+  参考：https://baike.baidu.com/item/谷子_(二次元)
+- **贝壳收藏** — 海贝标本集藏  
+  参考：https://zh.wikipedia.org/wiki/贝壳
+- **钢笔收藏** — 钢笔笔尖与墨水集藏  
+  参考：https://baike.baidu.com/item/钢笔收藏
+- **钱币收藏** — 古今钱币集藏鉴赏  
+  参考：https://zh.wikipedia.org/wiki/钱币学
+- **集邮** — 邮票集藏与邮展交流  
+  参考：https://zh.wikipedia.org/wiki/集邮
+- **香道** — 品香与香席礼仪  
+  参考：https://zh.wikipedia.org/wiki/香道
+- **黑胶唱片收藏** — 黑胶碟片集藏与听感  
   参考：https://zh.wikipedia.org/wiki/黑胶唱片
 
+## 棋牌与益智
+- **万智牌** — 万智牌构筑与本地赛  
+  参考：https://zh.wikipedia.org/wiki/魔法风云会
+- **五子棋** — 五子棋与连珠规则对局  
+  参考：https://zh.wikipedia.org/wiki/五子棋
+- **军棋** — 军棋暗棋对局  
+  参考：https://zh.wikipedia.org/wiki/军棋
+- **剧本杀** — 线下剧本推理扮演  
+  参考：https://baike.baidu.com/item/剧本杀
+- **升级** — 中国升级扑克伙伴对局  
+  参考：https://baike.baidu.com/item/升级
+- **卡牌游戏** — 集换与构筑式卡牌对战  
+  参考：https://zh.wikipedia.org/wiki/集换式卡牌游戏
+- **双陆棋** — 双陆棋对局  
+  参考：https://zh.wikipedia.org/wiki/双陆棋
+- **四国军棋** — 四人军棋联盟对局  
+  参考：https://zh.wikipedia.org/wiki/四国军棋
+- **围棋** — 围空对局与死活研究  
+  参考：https://zh.wikipedia.org/wiki/围棋
+- **国际象棋** — 国际象棋开局与对局  
+  参考：https://zh.wikipedia.org/wiki/国际象棋
+- **填字游戏** — 中英文填字与谜题  
+  参考：https://zh.wikipedia.org/wiki/填字游戏
+- **密室逃脱** — 主题密室解谜与机关体验  
+  参考：https://zh.wikipedia.org/wiki/密室逃脱
+- **扑克** — 德州扑克等牌技娱乐（守法）  
+  参考：https://zh.wikipedia.org/wiki/扑克
+- **拼图** — 纸质拼图拼装收藏  
+  参考：https://zh.wikipedia.org/wiki/拼图
+- **掼蛋** — 掼蛋伙伴制牌类对局  
+  参考：https://zh.wikipedia.org/wiki/掼蛋
+- **数独** — 数独填数与变体练习  
+  参考：https://zh.wikipedia.org/wiki/数独
+- **日本将棋** — 将棋对局与定迹学习  
+  参考：https://zh.wikipedia.org/wiki/将棋
+- **桌游** — 现代桌面游戏开盒与局戏  
+  参考：https://zh.wikipedia.org/wiki/图版游戏
+- **桌游设计** — 业余桌游机制设计试玩  
+  参考：https://zh.wikipedia.org/wiki/图版游戏
+- **桥牌** — 定约桥牌叫牌与打牌  
+  参考：https://zh.wikipedia.org/wiki/定约桥牌
+- **花切** — 扑克花切手法练习  
+  参考：https://zh.wikipedia.org/wiki/花切
+- **象棋** — 中国象棋对局与残局  
+  参考：https://zh.wikipedia.org/wiki/中国象棋
+- **魔方** — 速拧与异形魔方练习  
+  参考：https://zh.wikipedia.org/wiki/魔方
+- **麻将** — 国标与地方规则麻将娱乐  
+  参考：https://zh.wikipedia.org/wiki/麻将
+
+## 技术与制作
+- **3D打印** — 桌面3D打印建模与切片  
+  参考：https://zh.wikipedia.org/wiki/3D打印
+- **CNC爱好** — 桌面CNC切削加工  
+  参考：https://zh.wikipedia.org/wiki/数控机床
+- **业余无线电** — 业余电台通联与执照考试  
+  参考：https://zh.wikipedia.org/wiki/业余无线电
+- **单片机开发** — Arduino等嵌入式爱好向  
+  参考：https://zh.wikipedia.org/wiki/单片机
+- **开源硬件** — 开源硬件组装与固件折腾  
+  参考：https://zh.wikipedia.org/wiki/开源硬件
+- **开锁兴趣** — 锁具结构与开锁练习（合法场景）  
+  参考：https://zh.wikipedia.org/wiki/开锁工具
+- **无人机竞速** — 穿越机竞速飞行  
+  参考：https://zh.wikipedia.org/wiki/第一人称视角飞行
+- **无人机航拍** — 消费级无人机航拍（合规）  
+  参考：https://zh.wikipedia.org/wiki/无人航空载具
+- **无线电测向** — 业余无线电测向运动  
+  参考：https://zh.wikipedia.org/wiki/无线电测向
+- **智能家居折腾** — 家庭自动化与Home Assistant  
+  参考：https://zh.wikipedia.org/wiki/家庭自动化
+- **机械键盘客制化** — 轴体键帽客制化组装  
+  参考：https://baike.baidu.com/item/机械键盘
+- **树莓派玩机** — 树莓派家庭服务器与玩机  
+  参考：https://zh.wikipedia.org/wiki/树莓派
+- **汽车改装爱好** — 合法汽车美容改装交流  
+  参考：https://zh.wikipedia.org/wiki/汽车改装
+- **激光雕刻** — 桌面激光雕刻切割  
+  参考：https://baike.baidu.com/item/激光雕刻
+- **焊接爱好** — 金属焊接小件制作  
+  参考：https://zh.wikipedia.org/wiki/焊接
+- **电子制作** — 电路焊接与单片机小制作  
+  参考：https://zh.wikipedia.org/wiki/电子学
+- **短波收听** — 短波广播收听与日志  
+  参考：https://en.wikipedia.org/wiki/Shortwave_listening
+- **程序设计** — 编程自学与开源贡献（爱好向）  
+  参考：https://zh.wikipedia.org/wiki/程序设计
+- **自行车改装** — 自行车保养改装与扳手圈  
+  参考：https://zh.wikipedia.org/wiki/自行车
+- **航模飞行** — 固定翼与穿越机飞行  
+  参考：https://zh.wikipedia.org/wiki/航空模型
+- **遥控模型** — 遥控车飞机船模操控  
+  参考：https://zh.wikipedia.org/wiki/遥控模型
+
+## 社群文化与亚文化
+- **BJD娃娃** — BJD娃娃妆造与摄影  
+  参考：https://zh.wikipedia.org/wiki/BJD
+- **Cosplay** — 角色扮演服装造型与漫展  
+  参考：https://zh.wikipedia.org/wiki/Cosplay
+- **JK制服爱好** — 日系制服穿搭交流（成人）  
+  参考：https://baike.baidu.com/item/JK制服
+- **Vocaloid** — VOCALOID调教与观赏  
+  参考：https://zh.wikipedia.org/wiki/VOCALOID
+- **偶像应援** — 演唱会应援与周边收藏（理性）  
+  参考：https://zh.wikipedia.org/wiki/偶像
+- **公交迷** — 公交线路车辆追踪拍摄  
+  参考：https://zh.wikipedia.org/wiki/公交迷
+- **军迷** — 军事史装备知识交流（守法）  
+  参考：https://baike.baidu.com/item/军迷
+- **动漫追番** — 动画追番讨论与周边  
+  参考：https://zh.wikipedia.org/wiki/动画
+- **同人创作** — 同人绘画小说音乐创作  
+  参考：https://zh.wikipedia.org/wiki/同人
+- **同人音声** — 同人音声与广播剧聆听创作  
+  参考：https://baike.baidu.com/item/同人音声
+- **城市探险** — 废弃建筑探索（注意安全法律）  
+  参考：https://zh.wikipedia.org/wiki/都市探险
+- **影迷** — 电影作品向讨论与观影  
+  参考：https://zh.wikipedia.org/wiki/影迷
+- **志愿服务** — 公益志愿与社区服务  
+  参考：https://zh.wikipedia.org/wiki/志愿服务
+- **桌游社群** — 桌游吧局戏与社团组织  
+  参考：https://zh.wikipedia.org/wiki/图版游戏
+- **汉服** — 汉服形制穿搭与同袍活动  
+  参考：https://zh.wikipedia.org/wiki/汉服
+- **洛丽塔时尚** — 洛丽塔洋装穿搭社群  
+  参考：https://zh.wikipedia.org/wiki/Lolita时装
+- **特摄爱好** — 假面骑士奥特曼等特摄圈  
+  参考：https://zh.wikipedia.org/wiki/特摄
+- **痛车** — 动漫痛车贴装饰  
+  参考：https://zh.wikipedia.org/wiki/痛车
+- **科幻迷** — 科幻作品讨论与年会  
+  参考：https://zh.wikipedia.org/wiki/科幻迷
+- **航空迷** — 飞机摄影与航线追踪  
+  参考：https://zh.wikipedia.org/wiki/飞机摄影
+- **铁路迷** — 拍车乘车与线路研究  
+  参考：https://zh.wikipedia.org/wiki/铁路迷
+
+## 表演与舞台
+- **中国古典舞** — 身韵与古典舞剧目  
+  参考：https://zh.wikipedia.org/wiki/中国古典舞
+- **京剧票友** — 京剧清唱与票友活动  
+  参考：https://zh.wikipedia.org/wiki/京剧
+- **单口喜剧** — 开放麦与段子打磨  
+  参考：https://zh.wikipedia.org/wiki/单口喜剧
+- **即兴喜剧** — 即兴剧场与喜剧练习  
+  参考：https://zh.wikipedia.org/wiki/即兴剧场
+- **广场舞** — 广场群体舞蹈健身娱乐  
+  参考：https://zh.wikipedia.org/wiki/广场舞
+- **戏剧表演** — 话剧舞台表演练习  
+  参考：https://zh.wikipedia.org/wiki/戏剧
+- **拉丁舞** — 伦巴恰恰等拉丁社交舞  
+  参考：https://zh.wikipedia.org/wiki/拉丁舞
+- **摩登舞** — 华尔兹等摩登交谊舞  
+  参考：https://zh.wikipedia.org/wiki/国际标准舞
+- **昆曲票友** — 昆曲清唱与曲社  
+  参考：https://zh.wikipedia.org/wiki/昆曲
+- **杂技** — 柔术平衡等杂技练习  
+  参考：https://zh.wikipedia.org/wiki/杂技
+- **民族舞** — 各民族民间舞练习  
+  参考：https://zh.wikipedia.org/wiki/民间舞蹈
+- **演讲** — 公众演讲与吐司大师等俱乐部  
+  参考：https://zh.wikipedia.org/wiki/演讲
+- **相声** — 相声捧逗与贯口练习  
+  参考：https://zh.wikipedia.org/wiki/相声
+- **肚皮舞** — 肚皮舞律动与表演  
+  参考：https://zh.wikipedia.org/wiki/肚皮舞
+- **舞龙舞狮** — 舞龙舞狮排练与节庆演出  
+  参考：https://zh.wikipedia.org/wiki/舞龙
+- **芭蕾** — 芭蕾基训与剧目  
+  参考：https://zh.wikipedia.org/wiki/芭蕾舞
+- **街舞** — Hip-hop等街舞风格练习  
+  参考：https://zh.wikipedia.org/wiki/街舞
+- **辩论** — 议会制与美式辩论练习  
+  参考：https://zh.wikipedia.org/wiki/辩论
+- **配音** — 业余配音与广播剧  
+  参考：https://zh.wikipedia.org/wiki/配音演员
+- **钢管舞** — 钢管力量与舞蹈练习（成人向）  
+  参考：https://zh.wikipedia.org/wiki/钢管舞
+- **魔术** — 近景与舞台魔术练习  
+  参考：https://zh.wikipedia.org/wiki/魔术
+
 ## 饮食与茶酒
-- **咖啡烘焙** — 在家实践咖啡烘焙，记录配方与品鉴笔记  
-  参考：https://zh.wikipedia.org/wiki/咖啡
-- **品酒** — 在家实践品酒，记录配方与品鉴笔记  
-  参考：https://zh.wikipedia.org/wiki/品酒
-- **家庭烘焙咖啡** — 在家实践家庭烘焙咖啡，记录配方与品鉴笔记  
-  参考：https://zh.wikipedia.org/wiki/家庭烘焙咖啡
-- **家酿啤酒** — 在家实践家酿啤酒，记录配方与品鉴笔记  
-  参考：https://zh.wikipedia.org/wiki/家酿啤酒
-- **普洱茶** — 在家实践普洱茶，记录配方与品鉴笔记  
-  参考：https://zh.wikipedia.org/wiki/普洱茶
-- **烹饪** — 在家实践烹饪，记录配方与品鉴笔记  
-  参考：https://zh.wikipedia.org/wiki/烹饪
-- **红茶菌** — 在家实践红茶菌，记录配方与品鉴笔记  
+- **发酵食品** — 泡菜酸奶康普茶等发酵  
   参考：https://zh.wikipedia.org/wiki/红茶菌
-- **自酿啤酒** — 在家实践自酿啤酒，记录配方与品鉴笔记  
+- **咖啡冲煮** — 手冲意式与豆子讨论  
+  参考：https://zh.wikipedia.org/wiki/咖啡
+- **品茶** — 六大茶类审评品饮  
+  参考：https://zh.wikipedia.org/wiki/中国茶
+- **品酒** — 葡萄酒品鉴与产区学习  
+  参考：https://zh.wikipedia.org/wiki/葡萄酒品鉴
+- **威士忌品鉴** — 威士忌风味品鉴交流  
+  参考：https://zh.wikipedia.org/wiki/威士忌
+- **家庭烘焙咖啡** — 生豆烘焙曲线与杯测  
+  参考：https://en.wikipedia.org/wiki/Home_roasting_coffee
+- **岩茶品鉴** — 武夷岩茶岩韵品鉴  
+  参考：https://zh.wikipedia.org/wiki/武夷岩茶
+- **川菜烹饪** — 川菜家常与复刻  
+  参考：https://zh.wikipedia.org/wiki/四川菜
+- **普洱茶收藏** — 普洱茶饼收藏存茶  
+  参考：https://zh.wikipedia.org/wiki/普洱茶
+- **烘焙** — 面包蛋糕甜点烘烤  
+  参考：https://zh.wikipedia.org/wiki/烘烤
+- **烧烤** — 户外烧烤与炭火技巧  
+  参考：https://zh.wikipedia.org/wiki/烧烤
+- **烹饪** — 家庭菜肴烹饪练习交流  
+  参考：https://zh.wikipedia.org/wiki/烹饪
+- **甜品制作** — 甜品裱花与法式点心  
+  参考：https://zh.wikipedia.org/wiki/糖果糕点
+- **白酒品鉴** — 白酒香型品鉴交流  
+  参考：https://zh.wikipedia.org/wiki/白酒
+- **自酿啤酒** — 家庭酿造啤酒（合法合规）  
   参考：https://zh.wikipedia.org/wiki/自酿啤酒
-- **茶道** — 在家实践茶道，记录配方与品鉴笔记  
-  参考：https://zh.wikipedia.org/wiki/茶道
-- **葡萄酒酿制** — 在家实践葡萄酒酿制，记录配方与品鉴笔记  
-  参考：https://zh.wikipedia.org/wiki/葡萄酒酿制
-- **香道** — 在家实践香道，记录配方与品鉴笔记  
-  参考：https://zh.wikipedia.org/wiki/香道
+- **茶艺** — 泡茶品鉴与茶席礼仪  
+  参考：https://zh.wikipedia.org/wiki/中国茶艺
+- **调酒** — 鸡尾酒调制与杯艺（爱好向）  
+  参考：https://zh.wikipedia.org/wiki/混合饮料
+- **面包制作** — 欧包与中式面点制作  
+  参考：https://zh.wikipedia.org/wiki/面包
+- **面食制作** — 面条饺子包子等面点  
+  参考：https://zh.wikipedia.org/wiki/中国面食
+- **黄酒品鉴** — 黄酒绍兴酒品饮文化  
+  参考：https://zh.wikipedia.org/wiki/黄酒
+
+## 阅读写作与知识
+- **博客写作** — 个人博客长文写作  
+  参考：https://zh.wikipedia.org/wiki/博客
+- **历史研读** — 历史书籍与史料业余研读  
+  参考：https://zh.wikipedia.org/wiki/历史
+- **口述历史** — 采访记录家族与地方口述史  
+  参考：https://zh.wikipedia.org/wiki/口述历史
+- **哲学阅读** — 哲学原著与讨论小组  
+  参考：https://zh.wikipedia.org/wiki/哲学
+- **家谱研究** — 族谱家谱与祖先研究  
+  参考：https://zh.wikipedia.org/wiki/系谱学
+- **小说写作** — 小说构思与连载创作  
+  参考：https://zh.wikipedia.org/wiki/创意写作
+- **推理小说阅读** — 本格与社会派推理阅读  
+  参考：https://zh.wikipedia.org/wiki/推理小说
+- **播客** — 音频节目策划录制  
+  参考：https://zh.wikipedia.org/wiki/播客
+- **日记手账** — 日记手账与子弹笔记  
+  参考：https://zh.wikipedia.org/wiki/子弹日记
+- **日语学习** — 日语自学与JLPT备考交流  
+  参考：https://zh.wikipedia.org/wiki/日语
+- **百科编辑** — 维基百科等条目编辑贡献  
+  参考：https://zh.wikipedia.org/wiki/维基百科
+- **科幻阅读** — 科幻小说专题阅读  
+  参考：https://zh.wikipedia.org/wiki/科幻
+- **英语学习** — 英语听说读写爱好向精进  
+  参考：https://zh.wikipedia.org/wiki/英语
+- **诗歌写作** — 现代诗与古体诗创作  
+  参考：https://zh.wikipedia.org/wiki/诗歌
+- **语言学习** — 外语自学与语伴练习  
+  参考：https://zh.wikipedia.org/wiki/第二语言习得
+- **读书会** — 线下线上共读讨论  
+  参考：https://zh.wikipedia.org/wiki/读书会
+- **阅读** — 书籍阅读与书单交流  
+  参考：https://zh.wikipedia.org/wiki/阅读
+
+## 旅行与地方探索
+- **博物馆参观** — 博物馆展览系统参观  
+  参考：https://zh.wikipedia.org/wiki/博物馆
+- **古建筑探访** — 古建园林与乡土建筑探访  
+  参考：https://zh.wikipedia.org/wiki/中国古代建筑
+- **古镇漫游** — 古镇老街慢游  
+  参考：https://baike.baidu.com/item/古镇
+- **地理寻宝** — GPS地理藏宝寻找游戏  
+  参考：https://zh.wikipedia.org/wiki/地理藏宝
+- **城市漫步** — 城市街区无目的漫游观察  
+  参考：https://baike.baidu.com/item/Citywalk
+- **徒步穿越** — 长距离步道穿越  
+  参考：https://zh.wikipedia.org/wiki/徒步旅行
+- **房车旅行** — 房车营地旅行  
+  参考：https://zh.wikipedia.org/wiki/休旅车
+- **摄影旅行** — 以摄影主题规划的旅行  
+  参考：https://baike.baidu.com/item/摄影旅游
+- **旅行** — 以探索为目的的旅行规划实践  
+  参考：https://zh.wikipedia.org/wiki/旅行
+- **沙发客** — 换住沙发旅行社交  
+  参考：https://zh.wikipedia.org/wiki/沙发冲浪
+- **温泉旅行** — 温泉目的地旅行体验  
+  参考：https://zh.wikipedia.org/wiki/温泉
+- **火车旅行** — 铁路线路与火车旅体验  
+  参考：https://zh.wikipedia.org/wiki/铁路旅行
+- **背包旅行** — 轻装背包长线旅行  
+  参考：https://zh.wikipedia.org/wiki/背包旅行
+- **自驾游** — 公路自驾与营地停靠  
+  参考：https://zh.wikipedia.org/wiki/公路旅行
+- **骑行旅行** — 长途骑行旅行与装备  
+  参考：https://zh.wikipedia.org/wiki/自行车旅行
+
+## 游戏与电子娱乐
+- **LARP** — 真人角色扮演活动  
+  参考：https://zh.wikipedia.org/wiki/真人角色扮演游戏
+- **VR游戏** — 头显虚拟现实游戏体验  
+  参考：https://zh.wikipedia.org/wiki/虚拟现实游戏
+- **复古游戏** — 红白机街机等复古游玩  
+  参考：https://zh.wikipedia.org/wiki/复古游戏
+- **手机游戏** — 手游娱乐与开荒交流  
+  参考：https://zh.wikipedia.org/wiki/手机游戏
+- **格斗游戏** — 格斗对战连招练习  
+  参考：https://zh.wikipedia.org/wiki/格斗游戏
+- **桌上角色扮演** — 跑团TRPG主持与扮演  
+  参考：https://zh.wikipedia.org/wiki/桌上角色扮演游戏
+- **模拟经营游戏** — 模拟经营建造类游戏  
+  参考：https://zh.wikipedia.org/wiki/模拟游戏
+- **独立游戏** — 独立游戏发掘与通关评论  
+  参考：https://zh.wikipedia.org/wiki/独立游戏
+- **电子游戏** — 主机PC游戏娱乐  
+  参考：https://zh.wikipedia.org/wiki/电子游戏
+- **电子竞技** — 业余电竞观赛与排位（非职业）  
+  参考：https://zh.wikipedia.org/wiki/电子竞技
+- **视觉小说** — 文字AVG视觉小说游玩  
+  参考：https://zh.wikipedia.org/wiki/视觉小说
+- **音游** — 节奏游戏打歌练习  
+  参考：https://zh.wikipedia.org/wiki/音乐游戏
+
+## 身心练习
+- **伸展放松** — 身体柔韧性与放松练习  
+  参考：https://zh.wikipedia.org/wiki/伸展运动
+- **八段锦** — 八段锦导引健身操  
+  参考：https://zh.wikipedia.org/wiki/八段锦
+- **冥想** — 正念冥想与静坐练习  
+  参考：https://zh.wikipedia.org/wiki/冥想
+- **呼吸练习** — 系统呼吸法练习交流  
+  参考：https://zh.wikipedia.org/wiki/呼吸法
+- **普拉提** — 核心控制与器械练习  
+  参考：https://zh.wikipedia.org/wiki/彼拉提斯
+- **正念练习** — 日常生活正念觉察训练  
+  参考：https://zh.wikipedia.org/wiki/正念
+- **气功** — 传统气功导引练习  
+  参考：https://zh.wikipedia.org/wiki/气功
+- **瑜伽** — 瑜伽体式呼吸与练习  
+  参考：https://zh.wikipedia.org/wiki/瑜伽
+- **站桩** — 武术站桩静力练习  
+  参考：https://zh.wikipedia.org/wiki/站桩
+- **芳香疗法爱好** — 精油香气与放松仪式（非医疗宣称）  
+  参考：https://zh.wikipedia.org/wiki/芳香疗法
