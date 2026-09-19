@@ -4,9 +4,9 @@
 
 词表种子：生活记录视频创作分享。平台短片见 [短视频创作](短视频创作.md)；纯摄像技法见 [摄像创作](摄像创作.md)。
 
-![对着镜头说话](https://upload.wikimedia.org/wikipedia/commons/6/66/Vlogging.jpg)
+![桌面机位和笔记本剪辑](https://upload.wikimedia.org/wikipedia/commons/6/66/Vlogging.jpg)
 
-*Vlog 的基本动作：镜头在，人在说。作者 CyraFelix，CC0。[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vlogging.jpg)*
+*桌面机位加笔记本剪辑，很多人拍 Vlog 的一套。作者 CyraFelix，CC0。[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vlogging.jpg)*
 
 ![口袋机位的云台相机](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DJI_Osmo_Pocket.jpg/960px-DJI_Osmo_Pocket.jpg)
 
