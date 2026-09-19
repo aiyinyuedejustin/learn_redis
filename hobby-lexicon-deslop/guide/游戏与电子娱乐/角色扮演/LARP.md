@@ -36,5 +36,5 @@
 ## 参考链接
 
 - 词表参考：[真人角色扮演游戏（中文维基）](https://zh.wikipedia.org/wiki/真人角色扮演游戏)
-- [沉浸式戏剧（中文维基）](https://zh.wikipedia.org/wiki/沉浸式戲劇)
 - [剧本杀（中文维基）](https://zh.wikipedia.org/wiki/剧本杀)
+- [Live action role-playing game（英文维基）](https://en.wikipedia.org/wiki/Live_action_role-playing_game)
