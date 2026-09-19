@@ -35,4 +35,4 @@ JK 制服吧和同好茶会是公开入口。城市动漫城、制服店试穿�
 
 - 词表参考：[JK制服（百度百科）](https://baike.baidu.com/item/JK制服)
 - [水手服（中文维基）](https://zh.wikipedia.org/wiki/水手服)
-- [日本的学校制服（中文维基）](https://zh.wikipedia.org/wiki/日本的學校制服)
+- [日本校服（中文维基）](https://zh.wikipedia.org/wiki/日本校服)

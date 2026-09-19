@@ -35,4 +35,4 @@ Vocaloid 吧和调教同人圈是主场。B 站、网易云、P 站残留帖还�
 
 - 词表参考：[VOCALOID（中文维基）](https://zh.wikipedia.org/wiki/VOCALOID)
 - [初音未来（中文维基）](https://zh.wikipedia.org/wiki/初音未來)
-- [歌声合成（中文维基）](https://zh.wikipedia.org/wiki/歌聲合成)
+- [虚拟歌手（中文维基）](https://zh.wikipedia.org/wiki/虛擬歌手)
