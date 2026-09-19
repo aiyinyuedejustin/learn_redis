@@ -1,445 +1,381 @@
-{"name_zh": "业余天文学", "name_en": "", "path": "动植物与自然/业余天文学", "blurb": "养/观业余天文学相关对象，记观察与养护", "keywords": ["业余天文学", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/业余天文学"}
-{"name_zh": "公交迷", "name_en": "", "path": "动植物与自然/公交迷", "blurb": "养/观公交迷相关对象，记观察与养护", "keywords": ["公交迷", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/公交迷"}
-{"name_zh": "养蜂", "name_en": "", "path": "动植物与自然/养蜂", "blurb": "养/观养蜂相关对象，记观察与养护", "keywords": ["养蜂", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/养蜂"}
-{"name_zh": "养鱼", "name_en": "", "path": "动植物与自然/养鱼", "blurb": "养/观养鱼相关对象，记观察与养护", "keywords": ["养鱼", "观赏鱼", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/观赏鱼"}
-{"name_zh": "多肉植物", "name_en": "", "path": "动植物与自然/多肉植物", "blurb": "养/观多肉植物相关对象，记观察与养护", "keywords": ["多肉植物", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/多肉植物"}
-{"name_zh": "宠物", "name_en": "", "path": "动植物与自然/宠物", "blurb": "养/观宠物相关对象，记观察与养护", "keywords": ["宠物", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/宠物"}
-{"name_zh": "宠物领养", "name_en": "", "path": "动植物与自然/宠物领养", "blurb": "养/观宠物领养相关对象，记观察与养护", "keywords": ["宠物领养", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/宠物领养"}
-{"name_zh": "显微镜学", "name_en": "", "path": "动植物与自然/显微镜学", "blurb": "养/观显微镜学相关对象，记观察与养护", "keywords": ["显微镜学", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/显微镜学"}
-{"name_zh": "水族造景", "name_en": "", "path": "动植物与自然/水族造景", "blurb": "养/观水族造景相关对象，记观察与养护", "keywords": ["水族造景", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/水族造景"}
-{"name_zh": "水族饲养", "name_en": "", "path": "动植物与自然/水族饲养", "blurb": "养/观水族饲养相关对象，记观察与养护", "keywords": ["水族饲养", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/水族饲养"}
-{"name_zh": "盆景", "name_en": "", "path": "动植物与自然/盆景", "blurb": "养/观盆景相关对象，记观察与养护", "keywords": ["盆景", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/盆景"}
-{"name_zh": "短波收听", "name_en": "", "path": "动植物与自然/短波收听", "blurb": "养/观短波收听相关对象，记观察与养护", "keywords": ["短波收听", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/短波收听"}
-{"name_zh": "观鸟", "name_en": "", "path": "动植物与自然/观鸟", "blurb": "养/观观鸟相关对象，记观察与养护", "keywords": ["观鸟", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/观鸟"}
-{"name_zh": "赏鲸", "name_en": "", "path": "动植物与自然/赏鲸", "blurb": "养/观赏鲸相关对象，记观察与养护", "keywords": ["赏鲸", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/赏鲸"}
-{"name_zh": "采蘑菇", "name_en": "", "path": "动植物与自然/采蘑菇", "blurb": "养/观采蘑菇相关对象，记观察与养护", "keywords": ["采蘑菇", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/采蘑菇"}
-{"name_zh": "铁路迷", "name_en": "", "path": "动植物与自然/铁路迷", "blurb": "养/观铁路迷相关对象，记观察与养护", "keywords": ["铁路迷", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/铁路迷"}
-{"name_zh": "音响爱好者", "name_en": "", "path": "动植物与自然/音响爱好者", "blurb": "养/观音响爱好者相关对象，记观察与养护", "keywords": ["音响爱好者", "动植", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/音响爱好者"}
-{"name_zh": "书法", "name_en": "", "path": "影像与视觉/书法", "blurb": "做书法创作或鉴赏，看作品、聊器材与题材", "keywords": ["书法", "影像", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/书法"}
-{"name_zh": "动画", "name_en": "", "path": "影像与视觉/动画", "blurb": "做动画创作或鉴赏，看作品、聊器材与题材", "keywords": ["动画", "影像", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/动画"}
-{"name_zh": "摄影", "name_en": "", "path": "影像与视觉/摄影", "blurb": "做摄影创作或鉴赏，看作品、聊器材与题材", "keywords": ["摄影", "影像", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/摄影"}
-{"name_zh": "数字艺术", "name_en": "", "path": "影像与视觉/数字艺术", "blurb": "做数字艺术创作或鉴赏，看作品、聊器材与题材", "keywords": ["数字艺术", "影像", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/数字艺术"}
-{"name_zh": "漫画书收藏", "name_en": "", "path": "影像与视觉/漫画书收藏", "blurb": "做漫画书收藏创作或鉴赏，看作品、聊器材与题材", "keywords": ["漫画书收藏", "影像", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/漫画书收藏"}
-{"name_zh": "素描", "name_en": "", "path": "影像与视觉/素描", "blurb": "做素描创作或鉴赏，看作品、聊器材与题材", "keywords": ["素描", "影像", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/素描"}
-{"name_zh": "绘画", "name_en": "", "path": "影像与视觉/绘画", "blurb": "做绘画创作或鉴赏，看作品、聊器材与题材", "keywords": ["绘画", "影像", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/绘画"}
-{"name_zh": "胶片摄影", "name_en": "", "path": "影像与视觉/胶片摄影", "blurb": "做胶片摄影创作或鉴赏，看作品、聊器材与题材", "keywords": ["胶片摄影", "摄影", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/摄影"}
-{"name_zh": "雕塑", "name_en": "", "path": "影像与视觉/雕塑", "blurb": "做雕塑创作或鉴赏，看作品、聊器材与题材", "keywords": ["雕塑", "影像", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/雕塑"}
-{"name_zh": "飞机摄影", "name_en": "", "path": "影像与视觉/飞机摄影", "blurb": "做飞机摄影创作或鉴赏，看作品、聊器材与题材", "keywords": ["飞机摄影", "影像", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/飞机摄影"}
-{"name_zh": "3D打印", "name_en": "", "path": "手作与工艺/3D打印", "blurb": "动手做3D列印，跟教程与手作社群交流", "keywords": ["3D列印", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/3D列印"}
-{"name_zh": "DIY", "name_en": "", "path": "手作与工艺/DIY", "blurb": "动手做DIY，跟教程与手作社群交流", "keywords": ["DIY", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/DIY"}
-{"name_zh": "刺绣", "name_en": "", "path": "手作与工艺/刺绣", "blurb": "动手做刺绣，跟教程与手作社群交流", "keywords": ["刺绣", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/刺绣"}
-{"name_zh": "折纸", "name_en": "", "path": "手作与工艺/折纸", "blurb": "动手做折纸，跟教程与手作社群交流", "keywords": ["折纸", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/折纸"}
-{"name_zh": "拓印", "name_en": "", "path": "手作与工艺/拓印", "blurb": "动手做拓印，跟教程与手作社群交流", "keywords": ["拓印", "拓片", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/拓片"}
-{"name_zh": "木工", "name_en": "", "path": "手作与工艺/木工", "blurb": "动手做木工，跟教程与手作社群交流", "keywords": ["木工", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/木工"}
-{"name_zh": "焊接", "name_en": "", "path": "手作与工艺/焊接", "blurb": "动手做焊接，跟教程与手作社群交流", "keywords": ["焊接", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/焊接"}
-{"name_zh": "立体透视模型", "name_en": "", "path": "手作与工艺/立体透视模型", "blurb": "动手做立体透视模型，跟教程与手作社群交流", "keywords": ["立体透视模型", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/立体透视模型"}
-{"name_zh": "篆刻", "name_en": "", "path": "手作与工艺/篆刻", "blurb": "动手做篆刻，跟教程与手作社群交流", "keywords": ["篆刻", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/篆刻"}
-{"name_zh": "编织", "name_en": "", "path": "手作与工艺/编织", "blurb": "动手做编织，跟教程与手作社群交流", "keywords": ["编织", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/编织"}
-{"name_zh": "缝纫", "name_en": "", "path": "手作与工艺/缝纫", "blurb": "动手做缝纫，跟教程与手作社群交流", "keywords": ["缝纫", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/缝纫"}
-{"name_zh": "肥皂", "name_en": "", "path": "手作与工艺/肥皂", "blurb": "动手做肥皂，跟教程与手作社群交流", "keywords": ["肥皂", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/肥皂"}
-{"name_zh": "花道", "name_en": "", "path": "手作与工艺/花道", "blurb": "动手做花道，跟教程与手作社群交流", "keywords": ["花道", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/花道"}
-{"name_zh": "蜡烛", "name_en": "", "path": "手作与工艺/蜡烛", "blurb": "动手做蜡烛，跟教程与手作社群交流", "keywords": ["蜡烛", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/蜡烛"}
-{"name_zh": "遥控模型", "name_en": "", "path": "手作与工艺/遥控模型", "blurb": "动手做遥控模型，跟教程与手作社群交流", "keywords": ["遥控模型", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/遥控模型"}
-{"name_zh": "遥控模型收藏", "name_en": "", "path": "手作与工艺/遥控模型收藏", "blurb": "动手做遥控模型收藏，跟教程与手作社群交流", "keywords": ["遥控模型收藏", "遥控模型", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/遥控模型"}
-{"name_zh": "钩针", "name_en": "", "path": "手作与工艺/钩针", "blurb": "动手做钩针，跟教程与手作社群交流", "keywords": ["钩针", "钩针编织", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/钩针编织"}
-{"name_zh": "钩针编织", "name_en": "", "path": "手作与工艺/钩针编织", "blurb": "动手做钩针编织，跟教程与手作社群交流", "keywords": ["钩针编织", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/钩针编织"}
-{"name_zh": "陶器", "name_en": "", "path": "手作与工艺/陶器", "blurb": "动手做陶器，跟教程与手作社群交流", "keywords": ["陶器", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/陶器"}
-{"name_zh": "陶瓷器", "name_en": "", "path": "手作与工艺/陶瓷器", "blurb": "动手做陶瓷器，跟教程与手作社群交流", "keywords": ["陶瓷器", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/陶瓷器"}
-{"name_zh": "飞机模型", "name_en": "", "path": "手作与工艺/飞机模型", "blurb": "动手做飞机模型，跟教程与手作社群交流", "keywords": ["飞机模型", "手作", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/飞机模型"}
-{"name_zh": "业余无线电", "name_en": "", "path": "技术与制作/业余无线电", "blurb": "动手搞业余无线电，查文档、改机与同好论坛", "keywords": ["业余无线电", "技术", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/业余无线电"}
-{"name_zh": "无人机航拍", "name_en": "", "path": "技术与制作/无人机航拍", "blurb": "动手搞无人机航拍，查文档、改机与同好论坛", "keywords": ["无人机航拍", "航拍", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/航拍"}
-{"name_zh": "机器人实战", "name_en": "", "path": "技术与制作/机器人实战", "blurb": "动手搞机器人实战，查文档、改机与同好论坛", "keywords": ["机器人实战", "技术", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/机器人实战"}
-{"name_zh": "机械键盘", "name_en": "", "path": "技术与制作/机械键盘", "blurb": "动手搞机械键盘，查文档、改机与同好论坛", "keywords": ["机械键盘", "技术", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/机械键盘"}
-{"name_zh": "电子竞技", "name_en": "", "path": "技术与制作/电子竞技", "blurb": "动手搞电子竞技，查文档、改机与同好论坛", "keywords": ["电子竞技", "技术", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/电子竞技"}
-{"name_zh": "交换卡片", "name_en": "", "path": "收藏与鉴赏/交换卡片", "blurb": "收集/鉴赏交换卡片相关物，逛市集与藏友交流", "keywords": ["交换卡片", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/交换卡片"}
-{"name_zh": "信用卡", "name_en": "", "path": "收藏与鉴赏/信用卡", "blurb": "收集/鉴赏信用卡相关物，逛市集与藏友交流", "keywords": ["信用卡", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/信用卡"}
-{"name_zh": "元素收藏", "name_en": "", "path": "收藏与鉴赏/元素收藏", "blurb": "收集/鉴赏元素收藏相关物，逛市集与藏友交流", "keywords": ["元素收藏", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/元素收藏"}
-{"name_zh": "公共交通路线图收藏", "name_en": "", "path": "收藏与鉴赏/公共交通路线图收藏", "blurb": "收集/鉴赏公共交通路线图收藏相关物，逛市集与藏友交流", "keywords": ["公共交通路线图收藏", "路线图", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/路线图"}
-{"name_zh": "压铸玩具", "name_en": "", "path": "收藏与鉴赏/压铸玩具", "blurb": "收集/鉴赏压铸玩具相关物，逛市集与藏友交流", "keywords": ["压铸玩具", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/压铸玩具"}
-{"name_zh": "古物", "name_en": "", "path": "收藏与鉴赏/古物", "blurb": "收集/鉴赏古物相关物，逛市集与藏友交流", "keywords": ["古物", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/古物"}
-{"name_zh": "古着", "name_en": "", "path": "收藏与鉴赏/古着", "blurb": "收集/鉴赏古着相关物，逛市集与藏友交流", "keywords": ["古着", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/古着"}
-{"name_zh": "可动人偶", "name_en": "", "path": "收藏与鉴赏/可动人偶", "blurb": "收集/鉴赏可动人偶相关物，逛市集与藏友交流", "keywords": ["可动人偶", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/可动人偶"}
-{"name_zh": "叶子收藏", "name_en": "", "path": "收藏与鉴赏/叶子收藏", "blurb": "收集/鉴赏叶子收藏相关物，逛市集与藏友交流", "keywords": ["叶子收藏", "叶", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/叶"}
-{"name_zh": "岩石平衡", "name_en": "", "path": "收藏与鉴赏/岩石平衡", "blurb": "收集/鉴赏岩石平衡相关物，逛市集与藏友交流", "keywords": ["岩石平衡", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/岩石平衡"}
-{"name_zh": "彩票", "name_en": "", "path": "收藏与鉴赏/彩票", "blurb": "收集/鉴赏彩票相关物，逛市集与藏友交流", "keywords": ["彩票", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/彩票"}
-{"name_zh": "復古玩具", "name_en": "", "path": "收藏与鉴赏/復古玩具", "blurb": "收集/鉴赏復古玩具相关物，逛市集与藏友交流", "keywords": ["復古玩具", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/復古玩具"}
-{"name_zh": "指纹收藏", "name_en": "", "path": "收藏与鉴赏/指纹收藏", "blurb": "收集/鉴赏指纹收藏相关物，逛市集与藏友交流", "keywords": ["指纹收藏", "指纹", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/指纹"}
-{"name_zh": "文物收藏", "name_en": "", "path": "收藏与鉴赏/文物收藏", "blurb": "收集/鉴赏文物收藏相关物，逛市集与藏友交流", "keywords": ["文物收藏", "文物", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/文物"}
-{"name_zh": "明信片学", "name_en": "", "path": "收藏与鉴赏/明信片学", "blurb": "收集/鉴赏明信片学相关物，逛市集与藏友交流", "keywords": ["明信片学", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/明信片学"}
-{"name_zh": "模型手办", "name_en": "", "path": "收藏与鉴赏/模型手办", "blurb": "收集/鉴赏模型手办相关物，逛市集与藏友交流", "keywords": ["模型手办", "模型", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/模型"}
-{"name_zh": "毛绒玩具收藏", "name_en": "", "path": "收藏与鉴赏/毛绒玩具收藏", "blurb": "收集/鉴赏毛绒玩具收藏相关物，逛市集与藏友交流", "keywords": ["毛绒玩具收藏", "毛绒玩具", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/毛绒玩具"}
-{"name_zh": "海玻璃收藏", "name_en": "", "path": "收藏与鉴赏/海玻璃收藏", "blurb": "收集/鉴赏海玻璃收藏相关物，逛市集与藏友交流", "keywords": ["海玻璃收藏", "海玻璃", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/海玻璃"}
-{"name_zh": "火柴盒贴画", "name_en": "", "path": "收藏与鉴赏/火柴盒贴画", "blurb": "收集/鉴赏火柴盒贴画相关物，逛市集与藏友交流", "keywords": ["火柴盒贴画", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/火柴盒贴画"}
-{"name_zh": "玩偶", "name_en": "", "path": "收藏与鉴赏/玩偶", "blurb": "收集/鉴赏玩偶相关物，逛市集与藏友交流", "keywords": ["玩偶", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/玩偶"}
-{"name_zh": "电子游戏收藏", "name_en": "", "path": "收藏与鉴赏/电子游戏收藏", "blurb": "收集/鉴赏电子游戏收藏相关物，逛市集与藏友交流", "keywords": ["电子游戏收藏", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/电子游戏收藏"}
-{"name_zh": "老爷车", "name_en": "", "path": "收藏与鉴赏/老爷车", "blurb": "收集/鉴赏老爷车相关物，逛市集与藏友交流", "keywords": ["老爷车", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/老爷车"}
-{"name_zh": "胸章", "name_en": "", "path": "收藏与鉴赏/胸章", "blurb": "收集/鉴赏胸章相关物，逛市集与藏友交流", "keywords": ["胸章", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/胸章"}
-{"name_zh": "袋茶收藏", "name_en": "", "path": "收藏与鉴赏/袋茶收藏", "blurb": "收集/鉴赏袋茶收藏相关物，逛市集与藏友交流", "keywords": ["袋茶收藏", "袋茶", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/袋茶"}
-{"name_zh": "贝壳收藏", "name_en": "", "path": "收藏与鉴赏/贝壳收藏", "blurb": "收集/鉴赏贝壳收藏相关物，逛市集与藏友交流", "keywords": ["贝壳收藏", "贝壳", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/贝壳"}
-{"name_zh": "车载音响", "name_en": "", "path": "收藏与鉴赏/车载音响", "blurb": "收集/鉴赏车载音响相关物，逛市集与藏友交流", "keywords": ["车载音响", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/车载音响"}
-{"name_zh": "金属探测器", "name_en": "", "path": "收藏与鉴赏/金属探测器", "blurb": "收集/鉴赏金属探测器相关物，逛市集与藏友交流", "keywords": ["金属探测器", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/金属探测器"}
-{"name_zh": "门票收藏", "name_en": "", "path": "收藏与鉴赏/门票收藏", "blurb": "收集/鉴赏门票收藏相关物，逛市集与藏友交流", "keywords": ["门票收藏", "门票", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/门票"}
-{"name_zh": "集邮", "name_en": "", "path": "收藏与鉴赏/集邮", "blurb": "收集/鉴赏集邮相关物，逛市集与藏友交流", "keywords": ["集邮", "收藏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/集邮"}
-{"name_zh": "鞋收藏", "name_en": "", "path": "收藏与鉴赏/鞋收藏", "blurb": "收集/鉴赏鞋收藏相关物，逛市集与藏友交流", "keywords": ["鞋收藏", "鞋", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/鞋"}
-{"name_zh": "香水收藏", "name_en": "", "path": "收藏与鉴赏/香水收藏", "blurb": "收集/鉴赏香水收藏相关物，逛市集与藏友交流", "keywords": ["香水收藏", "香水", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/香水"}
-{"name_zh": "高达模型", "name_en": "", "path": "收藏与鉴赏/高达模型", "blurb": "收集/鉴赏高达模型相关物，逛市集与藏友交流", "keywords": ["高达模型", "胶着模型", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/胶着模型"}
-{"name_zh": "地理藏宝", "name_en": "", "path": "旅行与地方探索/地理藏宝", "blurb": "以地理藏宝方式出门探索，重体验不堆攻略", "keywords": ["地理藏宝", "旅行", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/地理藏宝"}
-{"name_zh": "旅行", "name_en": "", "path": "旅行与地方探索/旅行", "blurb": "以旅行方式出门探索，重体验不堆攻略", "keywords": ["旅行", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/旅行"}
-{"name_zh": "背包旅行", "name_en": "", "path": "旅行与地方探索/背包旅行", "blurb": "以背包旅行方式出门探索，重体验不堆攻略", "keywords": ["背包旅行", "旅行", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/背包旅行"}
-{"name_zh": "铁路旅行", "name_en": "", "path": "旅行与地方探索/铁路旅行", "blurb": "以铁路旅行方式出门探索，重体验不堆攻略", "keywords": ["铁路旅行", "铁路运输", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/铁路运输"}
-{"name_zh": "露营", "name_en": "", "path": "旅行与地方探索/露营", "blurb": "以露营方式出门探索，重体验不堆攻略", "keywords": ["露营", "旅行", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/露营"}
-{"name_zh": "克里比奇纸牌", "name_en": "", "path": "棋牌与益智/克里比奇纸牌", "blurb": "玩克里比奇纸牌，线上线下牌局/棋局与规则讨论", "keywords": ["克里比奇纸牌", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/克里比奇纸牌"}
-{"name_zh": "剧本杀", "name_en": "", "path": "棋牌与益智/剧本杀", "blurb": "玩剧本杀，线上线下牌局/棋局与规则讨论", "keywords": ["剧本杀", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/剧本杀"}
-{"name_zh": "双陆棋", "name_en": "", "path": "棋牌与益智/双陆棋", "blurb": "玩双陆棋，线上线下牌局/棋局与规则讨论", "keywords": ["双陆棋", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/双陆棋"}
-{"name_zh": "围棋", "name_en": "", "path": "棋牌与益智/围棋", "blurb": "玩围棋，线上线下牌局/棋局与规则讨论", "keywords": ["围棋", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/围棋"}
-{"name_zh": "国际象棋", "name_en": "", "path": "棋牌与益智/国际象棋", "blurb": "玩国际象棋，线上线下牌局/棋局与规则讨论", "keywords": ["国际象棋", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/国际象棋"}
-{"name_zh": "国际跳棋", "name_en": "", "path": "棋牌与益智/国际跳棋", "blurb": "玩国际跳棋，线上线下牌局/棋局与规则讨论", "keywords": ["国际跳棋", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/国际跳棋"}
-{"name_zh": "塔罗牌", "name_en": "", "path": "棋牌与益智/塔罗牌", "blurb": "玩塔罗牌，线上线下牌局/棋局与规则讨论", "keywords": ["塔罗牌", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/塔罗牌"}
-{"name_zh": "多米诺骨牌", "name_en": "", "path": "棋牌与益智/多米诺骨牌", "blurb": "玩多米诺骨牌，线上线下牌局/棋局与规则讨论", "keywords": ["多米诺骨牌", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/多米诺骨牌"}
-{"name_zh": "定约桥牌", "name_en": "", "path": "棋牌与益智/定约桥牌", "blurb": "玩定约桥牌，线上线下牌局/棋局与规则讨论", "keywords": ["定约桥牌", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/定约桥牌"}
-{"name_zh": "密室逃脱", "name_en": "", "path": "棋牌与益智/密室逃脱", "blurb": "玩密室逃脱，线上线下牌局/棋局与规则讨论", "keywords": ["密室逃脱", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/密室逃脱"}
-{"name_zh": "拼图", "name_en": "", "path": "棋牌与益智/拼图", "blurb": "玩拼图，线上线下牌局/棋局与规则讨论", "keywords": ["拼图", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/拼图"}
-{"name_zh": "数独", "name_en": "", "path": "棋牌与益智/数独", "blurb": "玩数独，线上线下牌局/棋局与规则讨论", "keywords": ["数独", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/数独"}
-{"name_zh": "日本将棋", "name_en": "", "path": "棋牌与益智/日本将棋", "blurb": "玩日本将棋，线上线下牌局/棋局与规则讨论", "keywords": ["日本将棋", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/日本将棋"}
-{"name_zh": "桌游", "name_en": "", "path": "棋牌与益智/桌游", "blurb": "玩桌游，线上线下牌局/棋局与规则讨论", "keywords": ["桌游", "桌上游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/桌上游戏"}
-{"name_zh": "象棋", "name_en": "", "path": "棋牌与益智/象棋", "blurb": "玩象棋，线上线下牌局/棋局与规则讨论", "keywords": ["象棋", "中国象棋", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/中国象棋"}
-{"name_zh": "麻将", "name_en": "", "path": "棋牌与益智/麻将", "blurb": "玩麻将，线上线下牌局/棋局与规则讨论", "keywords": ["麻将", "棋牌", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/麻将"}
-{"name_zh": "Cosplay", "name_en": "", "path": "游戏与电子娱乐/Cosplay", "blurb": "玩Cosplay，跟进版本与社群活动", "keywords": ["Cosplay", "游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/Cosplay"}
-{"name_zh": "临场动态角色扮演游戏", "name_en": "", "path": "游戏与电子娱乐/临场动态角色扮演游戏", "blurb": "玩临场动态角色扮演游戏，跟进版本与社群活动", "keywords": ["临场动态角色扮演游戏", "游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/临场动态角色扮演游戏"}
-{"name_zh": "主机游戏", "name_en": "", "path": "游戏与电子娱乐/主机游戏", "blurb": "玩主机游戏，跟进版本与社群活动", "keywords": ["主机游戏", "电子游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/电子游戏"}
-{"name_zh": "卡片游戏", "name_en": "", "path": "游戏与电子娱乐/卡片游戏", "blurb": "玩卡片游戏，跟进版本与社群活动", "keywords": ["卡片游戏", "游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/卡片游戏"}
-{"name_zh": "填字游戏", "name_en": "", "path": "游戏与电子娱乐/填字游戏", "blurb": "玩填字游戏，跟进版本与社群活动", "keywords": ["填字游戏", "游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/填字游戏"}
-{"name_zh": "战争游戏", "name_en": "", "path": "游戏与电子娱乐/战争游戏", "blurb": "玩战争游戏，跟进版本与社群活动", "keywords": ["战争游戏", "游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/战争游戏"}
-{"name_zh": "手游", "name_en": "", "path": "游戏与电子娱乐/手游", "blurb": "玩手游，跟进版本与社群活动", "keywords": ["手游", "电子游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/电子游戏"}
-{"name_zh": "智力游戏", "name_en": "", "path": "游戏与电子娱乐/智力游戏", "blurb": "玩智力游戏，跟进版本与社群活动", "keywords": ["智力游戏", "游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/智力游戏"}
-{"name_zh": "生存游戏 (射击运动)", "name_en": "", "path": "游戏与电子娱乐/生存游戏 (射击运动)", "blurb": "玩生存游戏 (射击运动)，跟进版本与社群活动", "keywords": ["生存游戏 (射击运动)", "游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/生存游戏_(射击运动)"}
-{"name_zh": "电子游戏", "name_en": "", "path": "游戏与电子娱乐/电子游戏", "blurb": "玩电子游戏，跟进版本与社群活动", "keywords": ["电子游戏", "游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/电子游戏"}
-{"name_zh": "电子游戏制作", "name_en": "", "path": "游戏与电子娱乐/电子游戏制作", "blurb": "玩电子游戏制作，跟进版本与社群活动", "keywords": ["电子游戏制作", "游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/电子游戏制作"}
-{"name_zh": "电子类游戏", "name_en": "", "path": "游戏与电子娱乐/电子类游戏", "blurb": "玩电子类游戏，跟进版本与社群活动", "keywords": ["电子类游戏", "游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/电子类游戏"}
-{"name_zh": "直播弹幕游戏", "name_en": "", "path": "游戏与电子娱乐/直播弹幕游戏", "blurb": "玩直播弹幕游戏，跟进版本与社群活动", "keywords": ["直播弹幕游戏", "电子游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/电子游戏"}
-{"name_zh": "虚拟现实游戏", "name_en": "", "path": "游戏与电子娱乐/虚拟现实游戏", "blurb": "玩虚拟现实游戏，跟进版本与社群活动", "keywords": ["虚拟现实游戏", "虚拟现实", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/虚拟现实"}
-{"name_zh": "角色扮演游戏", "name_en": "", "path": "游戏与电子娱乐/角色扮演游戏", "blurb": "玩角色扮演游戏，跟进版本与社群活动", "keywords": ["角色扮演游戏", "游戏", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/角色扮演游戏"}
-{"name_zh": "汉服", "name_en": "", "path": "社群文化与亚文化/汉服", "blurb": "参与汉服圈的穿搭/活动与同好聚会", "keywords": ["汉服", "社群", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/汉服"}
-{"name_zh": "洛丽塔时尚", "name_en": "", "path": "社群文化与亚文化/洛丽塔时尚", "blurb": "参与洛丽塔时尚圈的穿搭/活动与同好聚会", "keywords": ["洛丽塔时尚", "洛丽塔", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/洛丽塔"}
-{"name_zh": "Poi (行为艺术)", "name_en": "", "path": "综合休闲/Poi (行为艺术)", "blurb": "把Poi (行为艺术)当业余消遣，找入门资料与同好", "keywords": ["Poi (行为艺术)", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/Poi_(行为艺术)"}
-{"name_zh": "乐高", "name_en": "", "path": "综合休闲/乐高", "blurb": "把乐高当业余消遣，找入门资料与同好", "keywords": ["乐高", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/乐高"}
-{"name_zh": "书写", "name_en": "", "path": "综合休闲/书写", "blurb": "把书写当业余消遣，找入门资料与同好", "keywords": ["书写", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/书写"}
-{"name_zh": "书籍修复", "name_en": "", "path": "综合休闲/书籍修复", "blurb": "把书籍修复当业余消遣，找入门资料与同好", "keywords": ["书籍修复", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/书籍修复"}
-{"name_zh": "企划", "name_en": "", "path": "综合休闲/企划", "blurb": "把企划当业余消遣，找入门资料与同好", "keywords": ["企划", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/企划"}
-{"name_zh": "体操", "name_en": "", "path": "综合休闲/体操", "blurb": "把体操当业余消遣，找入门资料与同好", "keywords": ["体操", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/体操"}
-{"name_zh": "写生", "name_en": "", "path": "综合休闲/写生", "blurb": "把写生当业余消遣，找入门资料与同好", "keywords": ["写生", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/写生"}
-{"name_zh": "制鞋", "name_en": "", "path": "综合休闲/制鞋", "blurb": "把制鞋当业余消遣，找入门资料与同好", "keywords": ["制鞋", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/制鞋"}
-{"name_zh": "刺青", "name_en": "", "path": "综合休闲/刺青", "blurb": "把刺青当业余消遣，找入门资料与同好", "keywords": ["刺青", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/刺青"}
-{"name_zh": "剑玉", "name_en": "", "path": "综合休闲/剑玉", "blurb": "把剑玉当业余消遣，找入门资料与同好", "keywords": ["剑玉", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/剑玉"}
-{"name_zh": "剥制", "name_en": "", "path": "综合休闲/剥制", "blurb": "把剥制当业余消遣，找入门资料与同好", "keywords": ["剥制", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/剥制"}
-{"name_zh": "剪报", "name_en": "", "path": "综合休闲/剪报", "blurb": "把剪报当业余消遣，找入门资料与同好", "keywords": ["剪报", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/剪报"}
-{"name_zh": "化妆", "name_en": "", "path": "综合休闲/化妆", "blurb": "把化妆当业余消遣，找入门资料与同好", "keywords": ["化妆", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/化妆"}
-{"name_zh": "十字绣", "name_en": "", "path": "综合休闲/十字绣", "blurb": "把十字绣当业余消遣，找入门资料与同好", "keywords": ["十字绣", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/十字绣"}
-{"name_zh": "升级再造", "name_en": "", "path": "综合休闲/升级再造", "blurb": "把升级再造当业余消遣，找入门资料与同好", "keywords": ["升级再造", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/升级再造"}
-{"name_zh": "单口喜剧", "name_en": "", "path": "综合休闲/单口喜剧", "blurb": "把单口喜剧当业余消遣，找入门资料与同好", "keywords": ["单口喜剧", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/单口喜剧"}
-{"name_zh": "占星术", "name_en": "", "path": "综合休闲/占星术", "blurb": "把占星术当业余消遣，找入门资料与同好", "keywords": ["占星术", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/占星术"}
-{"name_zh": "卡拉OK", "name_en": "", "path": "综合休闲/卡拉OK", "blurb": "把卡拉OK当业余消遣，找入门资料与同好", "keywords": ["卡拉OK", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/卡拉OK"}
-{"name_zh": "发明", "name_en": "", "path": "综合休闲/发明", "blurb": "把发明当业余消遣，找入门资料与同好", "keywords": ["发明", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/发明"}
-{"name_zh": "吹玻璃", "name_en": "", "path": "综合休闲/吹玻璃", "blurb": "把吹玻璃当业余消遣，找入门资料与同好", "keywords": ["吹玻璃", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/吹玻璃"}
-{"name_zh": "呼啦圈", "name_en": "", "path": "综合休闲/呼啦圈", "blurb": "把呼啦圈当业余消遣，找入门资料与同好", "keywords": ["呼啦圈", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/呼啦圈"}
-{"name_zh": "器具", "name_en": "", "path": "综合休闲/器具", "blurb": "把器具当业余消遣，找入门资料与同好", "keywords": ["器具", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/器具"}
-{"name_zh": "奶酪制作", "name_en": "", "path": "综合休闲/奶酪制作", "blurb": "把奶酪制作当业余消遣，找入门资料与同好", "keywords": ["奶酪制作", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/奶酪制作"}
-{"name_zh": "姜饼屋", "name_en": "", "path": "综合休闲/姜饼屋", "blurb": "把姜饼屋当业余消遣，找入门资料与同好", "keywords": ["姜饼屋", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/姜饼屋"}
-{"name_zh": "娱乐", "name_en": "", "path": "综合休闲/娱乐", "blurb": "把娱乐当业余消遣，找入门资料与同好", "keywords": ["娱乐", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/娱乐"}
-{"name_zh": "子弹日记", "name_en": "", "path": "综合休闲/子弹日记", "blurb": "把子弹日记当业余消遣，找入门资料与同好", "keywords": ["子弹日记", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/子弹日记"}
-{"name_zh": "实验", "name_en": "", "path": "综合休闲/实验", "blurb": "把实验当业余消遣，找入门资料与同好", "keywords": ["实验", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/实验"}
-{"name_zh": "家具", "name_en": "", "path": "综合休闲/家具", "blurb": "把家具当业余消遣，找入门资料与同好", "keywords": ["家具", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/家具"}
-{"name_zh": "家居装修", "name_en": "", "path": "综合休闲/家居装修", "blurb": "把家居装修当业余消遣，找入门资料与同好", "keywords": ["家居装修", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/家居装修"}
-{"name_zh": "尊巴", "name_en": "", "path": "综合休闲/尊巴", "blurb": "把尊巴当业余消遣，找入门资料与同好", "keywords": ["尊巴", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/尊巴"}
-{"name_zh": "平面设计", "name_en": "", "path": "综合休闲/平面设计", "blurb": "把平面设计当业余消遣，找入门资料与同好", "keywords": ["平面设计", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/平面设计"}
-{"name_zh": "幻想运动", "name_en": "", "path": "综合休闲/幻想运动", "blurb": "把幻想运动当业余消遣，找入门资料与同好", "keywords": ["幻想运动", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/幻想运动"}
-{"name_zh": "幽默", "name_en": "", "path": "综合休闲/幽默", "blurb": "把幽默当业余消遣，找入门资料与同好", "keywords": ["幽默", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/幽默"}
-{"name_zh": "建模", "name_en": "", "path": "综合休闲/建模", "blurb": "把建模当业余消遣，找入门资料与同好", "keywords": ["建模", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/建模"}
-{"name_zh": "彼拉提斯", "name_en": "", "path": "综合休闲/彼拉提斯", "blurb": "把彼拉提斯当业余消遣，找入门资料与同好", "keywords": ["彼拉提斯", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/彼拉提斯"}
-{"name_zh": "恶作剧", "name_en": "", "path": "综合休闲/恶作剧", "blurb": "把恶作剧当业余消遣，找入门资料与同好", "keywords": ["恶作剧", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/恶作剧"}
-{"name_zh": "手相", "name_en": "", "path": "综合休闲/手相", "blurb": "把手相当业余消遣，找入门资料与同好", "keywords": ["手相", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/手相"}
-{"name_zh": "押花", "name_en": "", "path": "综合休闲/押花", "blurb": "把押花当业余消遣，找入门资料与同好", "keywords": ["押花", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/押花"}
-{"name_zh": "指甲彩绘", "name_en": "", "path": "综合休闲/指甲彩绘", "blurb": "把指甲彩绘当业余消遣，找入门资料与同好", "keywords": ["指甲彩绘", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/指甲彩绘"}
-{"name_zh": "指画", "name_en": "", "path": "综合休闲/指画", "blurb": "把指画当业余消遣，找入门资料与同好", "keywords": ["指画", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/指画"}
-{"name_zh": "按摩", "name_en": "", "path": "综合休闲/按摩", "blurb": "把按摩当业余消遣，找入门资料与同好", "keywords": ["按摩", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/按摩"}
-{"name_zh": "摄录", "name_en": "", "path": "综合休闲/摄录", "blurb": "把摄录当业余消遣，找入门资料与同好", "keywords": ["摄录", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/摄录"}
-{"name_zh": "日记", "name_en": "", "path": "综合休闲/日记", "blurb": "把日记当业余消遣，找入门资料与同好", "keywords": ["日记", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/日记"}
-{"name_zh": "时尚", "name_en": "", "path": "综合休闲/时尚", "blurb": "把时尚当业余消遣，找入门资料与同好", "keywords": ["时尚", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/时尚"}
-{"name_zh": "时尚设计", "name_en": "", "path": "综合休闲/时尚设计", "blurb": "把时尚设计当业余消遣，找入门资料与同好", "keywords": ["时尚设计", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/时尚设计"}
-{"name_zh": "服装", "name_en": "", "path": "综合休闲/服装", "blurb": "把服装当业余消遣，找入门资料与同好", "keywords": ["服装", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/服装"}
-{"name_zh": "木偶戏", "name_en": "", "path": "综合休闲/木偶戏", "blurb": "把木偶戏当业余消遣，找入门资料与同好", "keywords": ["木偶戏", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/木偶戏"}
-{"name_zh": "木雕", "name_en": "", "path": "综合休闲/木雕", "blurb": "把木雕当业余消遣，找入门资料与同好", "keywords": ["木雕", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/木雕"}
-{"name_zh": "机械加工", "name_en": "", "path": "综合休闲/机械加工", "blurb": "把机械加工当业余消遣，找入门资料与同好", "keywords": ["机械加工", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/机械加工"}
-{"name_zh": "枪匠", "name_en": "", "path": "综合休闲/枪匠", "blurb": "把枪匠当业余消遣，找入门资料与同好", "keywords": ["枪匠", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/枪匠"}
-{"name_zh": "校对", "name_en": "", "path": "综合休闲/校对", "blurb": "把校对当业余消遣，找入门资料与同好", "keywords": ["校对", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/校对"}
-{"name_zh": "梭织", "name_en": "", "path": "综合休闲/梭织", "blurb": "把梭织当业余消遣，找入门资料与同好", "keywords": ["梭织", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/梭织"}
-{"name_zh": "水产养殖", "name_en": "", "path": "综合休闲/水产养殖", "blurb": "把水产养殖当业余消遣，找入门资料与同好", "keywords": ["水产养殖", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/水产养殖"}
-{"name_zh": "水耕栽培", "name_en": "", "path": "综合休闲/水耕栽培", "blurb": "把水耕栽培当业余消遣，找入门资料与同好", "keywords": ["水耕栽培", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/水耕栽培"}
-{"name_zh": "水肺潜水", "name_en": "", "path": "综合休闲/水肺潜水", "blurb": "把水肺潜水当业余消遣，找入门资料与同好", "keywords": ["水肺潜水", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/水肺潜水"}
-{"name_zh": "汽车", "name_en": "", "path": "综合休闲/汽车", "blurb": "把汽车当业余消遣，找入门资料与同好", "keywords": ["汽车", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/汽车"}
-{"name_zh": "涂色书", "name_en": "", "path": "综合休闲/涂色书", "blurb": "把涂色书当业余消遣，找入门资料与同好", "keywords": ["涂色书", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/涂色书"}
-{"name_zh": "混合饮料", "name_en": "", "path": "综合休闲/混合饮料", "blurb": "把混合饮料当业余消遣，找入门资料与同好", "keywords": ["混合饮料", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/混合饮料"}
-{"name_zh": "演技", "name_en": "", "path": "综合休闲/演技", "blurb": "把演技当业余消遣，找入门资料与同好", "keywords": ["演技", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/演技"}
-{"name_zh": "演讲", "name_en": "", "path": "综合休闲/演讲", "blurb": "把演讲当业余消遣，找入门资料与同好", "keywords": ["演讲", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/演讲"}
-{"name_zh": "灵气疗法", "name_en": "", "path": "综合休闲/灵气疗法", "blurb": "把灵气疗法当业余消遣，找入门资料与同好", "keywords": ["灵气疗法", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/灵气疗法"}
-{"name_zh": "烘烤", "name_en": "", "path": "综合休闲/烘烤", "blurb": "把烘烤当业余消遣，找入门资料与同好", "keywords": ["烘烤", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/烘烤"}
-{"name_zh": "猜谜", "name_en": "", "path": "综合休闲/猜谜", "blurb": "把猜谜当业余消遣，找入门资料与同好", "keywords": ["猜谜", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/猜谜"}
-{"name_zh": "珠宝设计", "name_en": "", "path": "综合休闲/珠宝设计", "blurb": "把珠宝设计当业余消遣，找入门资料与同好", "keywords": ["珠宝设计", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/珠宝设计"}
-{"name_zh": "电刷车", "name_en": "", "path": "综合休闲/电刷车", "blurb": "把电刷车当业余消遣，找入门资料与同好", "keywords": ["电刷车", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/电刷车"}
-{"name_zh": "电影", "name_en": "", "path": "综合休闲/电影", "blurb": "把电影当业余消遣，找入门资料与同好", "keywords": ["电影", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/电影"}
-{"name_zh": "电影制作", "name_en": "", "path": "综合休闲/电影制作", "blurb": "把电影制作当业余消遣，找入门资料与同好", "keywords": ["电影制作", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/电影制作"}
-{"name_zh": "电视节目", "name_en": "", "path": "综合休闲/电视节目", "blurb": "把电视节目当业余消遣，找入门资料与同好", "keywords": ["电视节目", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/电视节目"}
-{"name_zh": "程序设计", "name_en": "", "path": "综合休闲/程序设计", "blurb": "把程序设计当业余消遣，找入门资料与同好", "keywords": ["程序设计", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/程序设计"}
-{"name_zh": "空中丝带", "name_en": "", "path": "综合休闲/空中丝带", "blurb": "把空中丝带当业余消遣，找入门资料与同好", "keywords": ["空中丝带", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/空中丝带"}
-{"name_zh": "笑话", "name_en": "", "path": "综合休闲/笑话", "blurb": "把笑话当业余消遣，找入门资料与同好", "keywords": ["笑话", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/笑话"}
-{"name_zh": "简单生活", "name_en": "", "path": "综合休闲/简单生活", "blurb": "把简单生活当业余消遣，找入门资料与同好", "keywords": ["简单生活", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/简单生活"}
-{"name_zh": "糖果", "name_en": "", "path": "综合休闲/糖果", "blurb": "把糖果当业余消遣，找入门资料与同好", "keywords": ["糖果", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/糖果"}
-{"name_zh": "糖果糕点", "name_en": "", "path": "综合休闲/糖果糕点", "blurb": "把糖果糕点当业余消遣，找入门资料与同好", "keywords": ["糖果糕点", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/糖果糕点"}
-{"name_zh": "纪录片", "name_en": "", "path": "综合休闲/纪录片", "blurb": "把纪录片当业余消遣，找入门资料与同好", "keywords": ["纪录片", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/纪录片"}
-{"name_zh": "绗缝", "name_en": "", "path": "综合休闲/绗缝", "blurb": "把绗缝当业余消遣，找入门资料与同好", "keywords": ["绗缝", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/绗缝"}
-{"name_zh": "绳结", "name_en": "", "path": "综合休闲/绳结", "blurb": "把绳结当业余消遣，找入门资料与同好", "keywords": ["绳结", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/绳结"}
-{"name_zh": "缂织壁毯", "name_en": "", "path": "综合休闲/缂织壁毯", "blurb": "把缂织壁毯当业余消遣，找入门资料与同好", "keywords": ["缂织壁毯", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/缂织壁毯"}
-{"name_zh": "网络直播", "name_en": "", "path": "综合休闲/网络直播", "blurb": "把网络直播当业余消遣，找入门资料与同好", "keywords": ["网络直播", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/网络直播"}
-{"name_zh": "节奏口技", "name_en": "", "path": "综合休闲/节奏口技", "blurb": "把节奏口技当业余消遣，找入门资料与同好", "keywords": ["节奏口技", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/节奏口技"}
-{"name_zh": "花切", "name_en": "", "path": "综合休闲/花切", "blurb": "把花切当业余消遣，找入门资料与同好", "keywords": ["花切", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/花切"}
-{"name_zh": "花艺设计", "name_en": "", "path": "综合休闲/花艺设计", "blurb": "把花艺设计当业余消遣，找入门资料与同好", "keywords": ["花艺设计", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/花艺设计"}
-{"name_zh": "蕾丝", "name_en": "", "path": "综合休闲/蕾丝", "blurb": "把蕾丝当业余消遣，找入门资料与同好", "keywords": ["蕾丝", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/蕾丝"}
-{"name_zh": "虚拟现实", "name_en": "", "path": "综合休闲/虚拟现实", "blurb": "把虚拟现实当业余消遣，找入门资料与同好", "keywords": ["虚拟现实", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/虚拟现实"}
-{"name_zh": "视频编辑", "name_en": "", "path": "综合休闲/视频编辑", "blurb": "把视频编辑当业余消遣，找入门资料与同好", "keywords": ["视频编辑", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/视频编辑"}
-{"name_zh": "记忆力提升", "name_en": "", "path": "综合休闲/记忆力提升", "blurb": "把记忆力提升当业余消遣，找入门资料与同好", "keywords": ["记忆力提升", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/记忆力提升"}
-{"name_zh": "诗歌", "name_en": "", "path": "综合休闲/诗歌", "blurb": "把诗歌当业余消遣，找入门资料与同好", "keywords": ["诗歌", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/诗歌"}
-{"name_zh": "读书会", "name_en": "", "path": "综合休闲/读书会", "blurb": "把读书会当业余消遣，找入门资料与同好", "keywords": ["读书会", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/读书会"}
-{"name_zh": "谚语", "name_en": "", "path": "综合休闲/谚语", "blurb": "把谚语当业余消遣，找入门资料与同好", "keywords": ["谚语", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/谚语"}
-{"name_zh": "负重训练", "name_en": "", "path": "综合休闲/负重训练", "blurb": "把负重训练当业余消遣，找入门资料与同好", "keywords": ["负重训练", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/负重训练"}
-{"name_zh": "跳水", "name_en": "", "path": "综合休闲/跳水", "blurb": "把跳水当业余消遣，找入门资料与同好", "keywords": ["跳水", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/跳水"}
-{"name_zh": "跳绳", "name_en": "", "path": "综合休闲/跳绳", "blurb": "把跳绳当业余消遣，找入门资料与同好", "keywords": ["跳绳", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/跳绳"}
-{"name_zh": "迷路园", "name_en": "", "path": "综合休闲/迷路园", "blurb": "把迷路园当业余消遣，找入门资料与同好", "keywords": ["迷路园", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/迷路园"}
-{"name_zh": "造型艺术", "name_en": "", "path": "综合休闲/造型艺术", "blurb": "把造型艺术当业余消遣，找入门资料与同好", "keywords": ["造型艺术", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/造型艺术"}
-{"name_zh": "金属加工", "name_en": "", "path": "综合休闲/金属加工", "blurb": "把金属加工当业余消遣，找入门资料与同好", "keywords": ["金属加工", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/金属加工"}
-{"name_zh": "钢管舞", "name_en": "", "path": "综合休闲/钢管舞", "blurb": "把钢管舞当业余消遣，找入门资料与同好", "keywords": ["钢管舞", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/钢管舞"}
-{"name_zh": "雕版", "name_en": "", "path": "综合休闲/雕版", "blurb": "把雕版当业余消遣，找入门资料与同好", "keywords": ["雕版", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/雕版"}
-{"name_zh": "面包", "name_en": "", "path": "综合休闲/面包", "blurb": "把面包当业余消遣，找入门资料与同好", "keywords": ["面包", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/面包"}
-{"name_zh": "风水", "name_en": "", "path": "综合休闲/风水", "blurb": "把风水当业余消遣，找入门资料与同好", "keywords": ["风水", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/风水"}
-{"name_zh": "飞蝇钓", "name_en": "", "path": "综合休闲/飞蝇钓", "blurb": "把飞蝇钓当业余消遣，找入门资料与同好", "keywords": ["飞蝇钓", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/飞蝇钓"}
-{"name_zh": "食谱", "name_en": "", "path": "综合休闲/食谱", "blurb": "把食谱当业余消遣，找入门资料与同好", "keywords": ["食谱", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/食谱"}
-{"name_zh": "魔方", "name_en": "", "path": "综合休闲/魔方", "blurb": "把魔方当业余消遣，找入门资料与同好", "keywords": ["魔方", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/魔方"}
-{"name_zh": "黑客", "name_en": "", "path": "综合休闲/黑客", "blurb": "把黑客当业余消遣，找入门资料与同好", "keywords": ["黑客", "综合", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/黑客"}
-{"name_zh": "戏剧", "name_en": "", "path": "表演与舞台/戏剧", "blurb": "练或赏戏剧，找票友/排练与演出", "keywords": ["戏剧", "表演", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/戏剧"}
-{"name_zh": "戏曲票友", "name_en": "", "path": "表演与舞台/戏曲票友", "blurb": "练或赏戏曲票友，找票友/排练与演出", "keywords": ["戏曲票友", "中国戏曲", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/中国戏曲"}
-{"name_zh": "杂技", "name_en": "", "path": "表演与舞台/杂技", "blurb": "练或赏杂技，找票友/排练与演出", "keywords": ["杂技", "表演", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/杂技"}
-{"name_zh": "相声", "name_en": "", "path": "表演与舞台/相声", "blurb": "练或赏相声，找票友/排练与演出", "keywords": ["相声", "表演", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/相声"}
-{"name_zh": "表演", "name_en": "", "path": "表演与舞台/表演", "blurb": "练或赏表演，找票友/排练与演出", "keywords": ["表演", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/表演"}
-{"name_zh": "魔术", "name_en": "", "path": "表演与舞台/魔术", "blurb": "练或赏魔术，找票友/排练与演出", "keywords": ["魔术", "表演", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/魔术"}
-{"name_zh": "冥想", "name_en": "", "path": "身心练习/冥想", "blurb": "规律练冥想，关注呼吸、姿势与身心状态", "keywords": ["冥想", "身心", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/冥想"}
-{"name_zh": "太极", "name_en": "", "path": "身心练习/太极", "blurb": "规律练太极，关注呼吸、姿势与身心状态", "keywords": ["太极", "太极拳", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/太极拳"}
-{"name_zh": "气功", "name_en": "", "path": "身心练习/气功", "blurb": "规律练气功，关注呼吸、姿势与身心状态", "keywords": ["气功", "身心", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/气功"}
-{"name_zh": "丢沙包", "name_en": "", "path": "运动与户外/丢沙包", "blurb": "练丢沙包，找地方场馆或户外同好一起练", "keywords": ["丢沙包", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/丢沙包"}
-{"name_zh": "中国武术", "name_en": "", "path": "运动与户外/中国武术", "blurb": "练中国武术，找地方场馆或户外同好一起练", "keywords": ["中国武术", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/中国武术"}
-{"name_zh": "乐旗队", "name_en": "", "path": "运动与户外/乐旗队", "blurb": "练乐旗队，找地方场馆或户外同好一起练", "keywords": ["乐旗队", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/乐旗队"}
-{"name_zh": "乒乓球", "name_en": "", "path": "运动与户外/乒乓球", "blurb": "练乒乓球，找地方场馆或户外同好一起练", "keywords": ["乒乓球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/乒乓球"}
-{"name_zh": "乘坐公共交通", "name_en": "", "path": "运动与户外/乘坐公共交通", "blurb": "练乘坐公共交通，找地方场馆或户外同好一起练", "keywords": ["乘坐公共交通", "公共交通", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/公共交通"}
-{"name_zh": "乘车", "name_en": "", "path": "运动与户外/乘车", "blurb": "练乘车，找地方场馆或户外同好一起练", "keywords": ["乘车", "汽车", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/汽车"}
-{"name_zh": "仪乐队", "name_en": "", "path": "运动与户外/仪乐队", "blurb": "练仪乐队，找地方场馆或户外同好一起练", "keywords": ["仪乐队", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/仪乐队"}
-{"name_zh": "低空跳伞", "name_en": "", "path": "运动与户外/低空跳伞", "blurb": "练低空跳伞，找地方场馆或户外同好一起练", "keywords": ["低空跳伞", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/低空跳伞"}
-{"name_zh": "保龄球", "name_en": "", "path": "运动与户外/保龄球", "blurb": "练保龄球，找地方场馆或户外同好一起练", "keywords": ["保龄球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/保龄球"}
-{"name_zh": "健美", "name_en": "", "path": "运动与户外/健美", "blurb": "练健美，找地方场馆或户外同好一起练", "keywords": ["健美", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/健美"}
-{"name_zh": "健身", "name_en": "", "path": "运动与户外/健身", "blurb": "练健身，找地方场馆或户外同好一起练", "keywords": ["健身", "体适能", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/体适能"}
-{"name_zh": "公路自行车", "name_en": "", "path": "运动与户外/公路自行车", "blurb": "练公路自行车，找地方场馆或户外同好一起练", "keywords": ["公路自行车", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/公路自行车"}
-{"name_zh": "养花", "name_en": "", "path": "运动与户外/养花", "blurb": "练养花，找地方场馆或户外同好一起练", "keywords": ["养花", "花", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/花"}
-{"name_zh": "农业", "name_en": "", "path": "运动与户外/农业", "blurb": "练农业，找地方场馆或户外同好一起练", "keywords": ["农业", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/农业"}
-{"name_zh": "冰帆", "name_en": "", "path": "运动与户外/冰帆", "blurb": "练冰帆，找地方场馆或户外同好一起练", "keywords": ["冰帆", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/冰帆"}
-{"name_zh": "冰球", "name_en": "", "path": "运动与户外/冰球", "blurb": "练冰球，找地方场馆或户外同好一起练", "keywords": ["冰球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/冰球"}
-{"name_zh": "冲浪", "name_en": "", "path": "运动与户外/冲浪", "blurb": "练冲浪，找地方场馆或户外同好一起练", "keywords": ["冲浪", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/冲浪"}
-{"name_zh": "击剑", "name_en": "", "path": "运动与户外/击剑", "blurb": "练击剑，找地方场馆或户外同好一起练", "keywords": ["击剑", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/击剑"}
-{"name_zh": "动力运动", "name_en": "", "path": "运动与户外/动力运动", "blurb": "练动力运动，找地方场馆或户外同好一起练", "keywords": ["动力运动", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/动力运动"}
-{"name_zh": "匹克球", "name_en": "", "path": "运动与户外/匹克球", "blurb": "练匹克球，找地方场馆或户外同好一起练", "keywords": ["匹克球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/匹克球"}
-{"name_zh": "单板滑雪", "name_en": "", "path": "运动与户外/单板滑雪", "blurb": "练单板滑雪，找地方场馆或户外同好一起练", "keywords": ["单板滑雪", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/单板滑雪"}
-{"name_zh": "单桨划船", "name_en": "", "path": "运动与户外/单桨划船", "blurb": "练单桨划船，找地方场馆或户外同好一起练", "keywords": ["单桨划船", "划船", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/划船"}
-{"name_zh": "卡丁车", "name_en": "", "path": "运动与户外/卡丁车", "blurb": "练卡丁车，找地方场馆或户外同好一起练", "keywords": ["卡丁车", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/卡丁车"}
-{"name_zh": "参观博物馆", "name_en": "", "path": "运动与户外/参观博物馆", "blurb": "练参观博物馆，找地方场馆或户外同好一起练", "keywords": ["参观博物馆", "博物馆", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/博物馆"}
-{"name_zh": "参观贸易展览会", "name_en": "", "path": "运动与户外/参观贸易展览会", "blurb": "练参观贸易展览会，找地方场馆或户外同好一起练", "keywords": ["参观贸易展览会", "贸易展览会", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/贸易展览会"}
-{"name_zh": "台球", "name_en": "", "path": "运动与户外/台球", "blurb": "练台球，找地方场馆或户外同好一起练", "keywords": ["台球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/台球"}
-{"name_zh": "唱片骑师", "name_en": "", "path": "运动与户外/唱片骑师", "blurb": "练唱片骑师，找地方场馆或户外同好一起练", "keywords": ["唱片骑师", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/唱片骑师"}
-{"name_zh": "园地栽培", "name_en": "", "path": "运动与户外/园地栽培", "blurb": "练园地栽培，找地方场馆或户外同好一起练", "keywords": ["园地栽培", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/园地栽培"}
-{"name_zh": "地板舞", "name_en": "", "path": "运动与户外/地板舞", "blurb": "练地板舞，找地方场馆或户外同好一起练", "keywords": ["地板舞", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/地板舞"}
-{"name_zh": "垒球", "name_en": "", "path": "运动与户外/垒球", "blurb": "练垒球，找地方场馆或户外同好一起练", "keywords": ["垒球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/垒球"}
-{"name_zh": "堆肥", "name_en": "", "path": "运动与户外/堆肥", "blurb": "练堆肥，找地方场馆或户外同好一起练", "keywords": ["堆肥", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/堆肥"}
-{"name_zh": "壁球", "name_en": "", "path": "运动与户外/壁球", "blurb": "练壁球，找地方场馆或户外同好一起练", "keywords": ["壁球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/壁球"}
-{"name_zh": "大胃王", "name_en": "", "path": "运动与户外/大胃王", "blurb": "练大胃王，找地方场馆或户外同好一起练", "keywords": ["大胃王", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/大胃王"}
-{"name_zh": "夺旗式美式足球", "name_en": "", "path": "运动与户外/夺旗式美式足球", "blurb": "练夺旗式美式足球，找地方场馆或户外同好一起练", "keywords": ["夺旗式美式足球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/夺旗式美式足球"}
-{"name_zh": "定向运动", "name_en": "", "path": "运动与户外/定向运动", "blurb": "练定向运动，找地方场馆或户外同好一起练", "keywords": ["定向运动", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/定向运动"}
-{"name_zh": "寻水术", "name_en": "", "path": "运动与户外/寻水术", "blurb": "练寻水术，找地方场馆或户外同好一起练", "keywords": ["寻水术", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/寻水术"}
-{"name_zh": "射击", "name_en": "", "path": "运动与户外/射击", "blurb": "练射击，找地方场馆或户外同好一起练", "keywords": ["射击", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/射击"}
-{"name_zh": "射击运动", "name_en": "", "path": "运动与户外/射击运动", "blurb": "练射击运动，找地方场馆或户外同好一起练", "keywords": ["射击运动", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/射击运动"}
-{"name_zh": "射箭", "name_en": "", "path": "运动与户外/射箭", "blurb": "练射箭，找地方场馆或户外同好一起练", "keywords": ["射箭", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/射箭"}
-{"name_zh": "小轮车", "name_en": "", "path": "运动与户外/小轮车", "blurb": "练小轮车，找地方场馆或户外同好一起练", "keywords": ["小轮车", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/小轮车"}
-{"name_zh": "山地车", "name_en": "", "path": "运动与户外/山地车", "blurb": "练山地车，找地方场馆或户外同好一起练", "keywords": ["山地车", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/山地车"}
-{"name_zh": "岩画", "name_en": "", "path": "运动与户外/岩画", "blurb": "练岩画，找地方场馆或户外同好一起练", "keywords": ["岩画", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/岩画"}
-{"name_zh": "巴西柔术", "name_en": "", "path": "运动与户外/巴西柔术", "blurb": "练巴西柔术，找地方场馆或户外同好一起练", "keywords": ["巴西柔术", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/巴西柔术"}
-{"name_zh": "广场舞", "name_en": "", "path": "运动与户外/广场舞", "blurb": "练广场舞，找地方场馆或户外同好一起练", "keywords": ["广场舞", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/广场舞"}
-{"name_zh": "度假", "name_en": "", "path": "运动与户外/度假", "blurb": "练度假，找地方场馆或户外同好一起练", "keywords": ["度假", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/度假"}
-{"name_zh": "弹珠", "name_en": "", "path": "运动与户外/弹珠", "blurb": "练弹珠，找地方场馆或户外同好一起练", "keywords": ["弹珠", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/弹珠"}
-{"name_zh": "徒步", "name_en": "", "path": "运动与户外/徒步", "blurb": "练徒步，找地方场馆或户外同好一起练", "keywords": ["徒步", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/徒步"}
-{"name_zh": "志愿服务", "name_en": "", "path": "运动与户外/志愿服务", "blurb": "练志愿服务，找地方场馆或户外同好一起练", "keywords": ["志愿服务", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/志愿服务"}
-{"name_zh": "悠悠球", "name_en": "", "path": "运动与户外/悠悠球", "blurb": "练悠悠球，找地方场馆或户外同好一起练", "keywords": ["悠悠球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/悠悠球"}
-{"name_zh": "手球", "name_en": "", "path": "运动与户外/手球", "blurb": "练手球，找地方场馆或户外同好一起练", "keywords": ["手球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/手球"}
-{"name_zh": "扑克", "name_en": "", "path": "运动与户外/扑克", "blurb": "练扑克，找地方场馆或户外同好一起练", "keywords": ["扑克", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/扑克"}
-{"name_zh": "打水漂", "name_en": "", "path": "运动与户外/打水漂", "blurb": "练打水漂，找地方场馆或户外同好一起练", "keywords": ["打水漂", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/打水漂"}
-{"name_zh": "拳击", "name_en": "", "path": "运动与户外/拳击", "blurb": "练拳击，找地方场馆或户外同好一起练", "keywords": ["拳击", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/拳击"}
-{"name_zh": "捉鬼", "name_en": "", "path": "运动与户外/捉鬼", "blurb": "练捉鬼，找地方场馆或户外同好一起练", "keywords": ["捉鬼", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/捉鬼"}
-{"name_zh": "排球", "name_en": "", "path": "运动与户外/排球", "blurb": "练排球，找地方场馆或户外同好一起练", "keywords": ["排球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/排球"}
-{"name_zh": "探洞", "name_en": "", "path": "运动与户外/探洞", "blurb": "练探洞，找地方场馆或户外同好一起练", "keywords": ["探洞", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/探洞"}
-{"name_zh": "摔跤", "name_en": "", "path": "运动与户外/摔跤", "blurb": "练摔跤，找地方场馆或户外同好一起练", "keywords": ["摔跤", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/摔跤"}
-{"name_zh": "摩托艇比赛", "name_en": "", "path": "运动与户外/摩托艇比赛", "blurb": "练摩托艇比赛，找地方场馆或户外同好一起练", "keywords": ["摩托艇比赛", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/摩托艇比赛"}
-{"name_zh": "摩托车", "name_en": "", "path": "运动与户外/摩托车", "blurb": "练摩托车，找地方场馆或户外同好一起练", "keywords": ["摩托车", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/摩托车"}
-{"name_zh": "撞球", "name_en": "", "path": "运动与户外/撞球", "blurb": "练撞球，找地方场馆或户外同好一起练", "keywords": ["撞球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/撞球"}
-{"name_zh": "攀岩", "name_en": "", "path": "运动与户外/攀岩", "blurb": "练攀岩，找地方场馆或户外同好一起练", "keywords": ["攀岩", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/攀岩"}
-{"name_zh": "攀登", "name_en": "", "path": "运动与户外/攀登", "blurb": "练攀登，找地方场馆或户外同好一起练", "keywords": ["攀登", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/攀登"}
-{"name_zh": "改装车", "name_en": "", "path": "运动与户外/改装车", "blurb": "练改装车，找地方场馆或户外同好一起练", "keywords": ["改装车", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/改装车"}
-{"name_zh": "放风筝", "name_en": "", "path": "运动与户外/放风筝", "blurb": "练放风筝，找地方场馆或户外同好一起练", "keywords": ["放风筝", "风筝", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/风筝"}
-{"name_zh": "整建", "name_en": "", "path": "运动与户外/整建", "blurb": "练整建，找地方场馆或户外同好一起练", "keywords": ["整建", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/整建"}
-{"name_zh": "旅游", "name_en": "", "path": "运动与户外/旅游", "blurb": "练旅游，找地方场馆或户外同好一起练", "keywords": ["旅游", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/旅游"}
-{"name_zh": "日光浴", "name_en": "", "path": "运动与户外/日光浴", "blurb": "练日光浴，找地方场馆或户外同好一起练", "keywords": ["日光浴", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/日光浴"}
-{"name_zh": "板球", "name_en": "", "path": "运动与户外/板球", "blurb": "练板球，找地方场馆或户外同好一起练", "keywords": ["板球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/板球"}
-{"name_zh": "柔术", "name_en": "", "path": "运动与户外/柔术", "blurb": "练柔术，找地方场馆或户外同好一起练", "keywords": ["柔术", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/柔术"}
-{"name_zh": "柔道", "name_en": "", "path": "运动与户外/柔道", "blurb": "练柔道，找地方场馆或户外同好一起练", "keywords": ["柔道", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/柔道"}
-{"name_zh": "桌上足球", "name_en": "", "path": "运动与户外/桌上足球", "blurb": "练桌上足球，找地方场馆或户外同好一起练", "keywords": ["桌上足球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/桌上足球"}
-{"name_zh": "棒球", "name_en": "", "path": "运动与户外/棒球", "blurb": "练棒球，找地方场馆或户外同好一起练", "keywords": ["棒球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/棒球"}
-{"name_zh": "槌球", "name_en": "", "path": "运动与户外/槌球", "blurb": "练槌球，找地方场馆或户外同好一起练", "keywords": ["槌球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/槌球"}
-{"name_zh": "模拟联合国", "name_en": "", "path": "运动与户外/模拟联合国", "blurb": "练模拟联合国，找地方场馆或户外同好一起练", "keywords": ["模拟联合国", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/模拟联合国"}
-{"name_zh": "橄榄球类运动", "name_en": "", "path": "运动与户外/橄榄球类运动", "blurb": "练橄榄球类运动，找地方场馆或户外同好一起练", "keywords": ["橄榄球类运动", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/橄榄球类运动"}
-{"name_zh": "步行", "name_en": "", "path": "运动与户外/步行", "blurb": "练步行，找地方场馆或户外同好一起练", "keywords": ["步行", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/步行"}
-{"name_zh": "武术", "name_en": "", "path": "运动与户外/武术", "blurb": "练武术，找地方场馆或户外同好一起练", "keywords": ["武术", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/武术"}
-{"name_zh": "水晶球收藏", "name_en": "", "path": "运动与户外/水晶球收藏", "blurb": "练水晶球收藏，找地方场馆或户外同好一起练", "keywords": ["水晶球收藏", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/水晶球收藏"}
-{"name_zh": "水球", "name_en": "", "path": "运动与户外/水球", "blurb": "练水球，找地方场馆或户外同好一起练", "keywords": ["水球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/水球"}
-{"name_zh": "水类运动", "name_en": "", "path": "运动与户外/水类运动", "blurb": "练水类运动，找地方场馆或户外同好一起练", "keywords": ["水类运动", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/水类运动"}
-{"name_zh": "汽车业", "name_en": "", "path": "运动与户外/汽车业", "blurb": "练汽车业，找地方场馆或户外同好一起练", "keywords": ["汽车业", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/汽车业"}
-{"name_zh": "沙包", "name_en": "", "path": "运动与户外/沙包", "blurb": "练沙包，找地方场馆或户外同好一起练", "keywords": ["沙包", "沙包 (游戏用具)", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/沙包_(游戏用具)"}
-{"name_zh": "沙滩排球", "name_en": "", "path": "运动与户外/沙滩排球", "blurb": "练沙滩排球，找地方场馆或户外同好一起练", "keywords": ["沙滩排球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/沙滩排球"}
-{"name_zh": "沙狐球", "name_en": "", "path": "运动与户外/沙狐球", "blurb": "练沙狐球，找地方场馆或户外同好一起练", "keywords": ["沙狐球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/沙狐球"}
-{"name_zh": "沙雕", "name_en": "", "path": "运动与户外/沙雕", "blurb": "练沙雕，找地方场馆或户外同好一起练", "keywords": ["沙雕", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/沙雕"}
-{"name_zh": "浅滩冲浪", "name_en": "", "path": "运动与户外/浅滩冲浪", "blurb": "练浅滩冲浪，找地方场馆或户外同好一起练", "keywords": ["浅滩冲浪", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/浅滩冲浪"}
-{"name_zh": "浮潜", "name_en": "", "path": "运动与户外/浮潜", "blurb": "练浮潜，找地方场馆或户外同好一起练", "keywords": ["浮潜", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/浮潜"}
-{"name_zh": "海滩拾荒", "name_en": "", "path": "运动与户外/海滩拾荒", "blurb": "练海滩拾荒，找地方场馆或户外同好一起练", "keywords": ["海滩拾荒", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/海滩拾荒"}
-{"name_zh": "涂鸦", "name_en": "", "path": "运动与户外/涂鸦", "blurb": "练涂鸦，找地方场馆或户外同好一起练", "keywords": ["涂鸦", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/涂鸦"}
-{"name_zh": "淘金", "name_en": "", "path": "运动与户外/淘金", "blurb": "练淘金，找地方场馆或户外同好一起练", "keywords": ["淘金", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/淘金"}
-{"name_zh": "游乐园参观", "name_en": "", "path": "运动与户外/游乐园参观", "blurb": "练游乐园参观，找地方场馆或户外同好一起练", "keywords": ["游乐园参观", "游乐园", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/游乐园"}
-{"name_zh": "游泳", "name_en": "", "path": "运动与户外/游泳", "blurb": "练游泳，找地方场馆或户外同好一起练", "keywords": ["游泳", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/游泳"}
-{"name_zh": "溪降", "name_en": "", "path": "运动与户外/溪降", "blurb": "练溪降，找地方场馆或户外同好一起练", "keywords": ["溪降", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/溪降"}
-{"name_zh": "滑冰", "name_en": "", "path": "运动与户外/滑冰", "blurb": "练滑冰，找地方场馆或户外同好一起练", "keywords": ["滑冰", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/滑冰"}
-{"name_zh": "滑板", "name_en": "", "path": "运动与户外/滑板", "blurb": "练滑板，找地方场馆或户外同好一起练", "keywords": ["滑板", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/滑板"}
-{"name_zh": "滑翔伞", "name_en": "", "path": "运动与户外/滑翔伞", "blurb": "练滑翔伞，找地方场馆或户外同好一起练", "keywords": ["滑翔伞", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/滑翔伞"}
-{"name_zh": "滑雪", "name_en": "", "path": "运动与户外/滑雪", "blurb": "练滑雪，找地方场馆或户外同好一起练", "keywords": ["滑雪", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/滑雪"}
-{"name_zh": "漂流", "name_en": "", "path": "运动与户外/漂流", "blurb": "练漂流，找地方场馆或户外同好一起练", "keywords": ["漂流", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/漂流"}
-{"name_zh": "漆弹", "name_en": "", "path": "运动与户外/漆弹", "blurb": "练漆弹，找地方场馆或户外同好一起练", "keywords": ["漆弹", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/漆弹"}
-{"name_zh": "潜水", "name_en": "", "path": "运动与户外/潜水", "blurb": "练潜水，找地方场馆或户外同好一起练", "keywords": ["潜水", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/潜水"}
-{"name_zh": "犬类运动", "name_en": "", "path": "运动与户外/犬类运动", "blurb": "练犬类运动，找地方场馆或户外同好一起练", "keywords": ["犬类运动", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/犬类运动"}
-{"name_zh": "狩猎", "name_en": "", "path": "运动与户外/狩猎", "blurb": "练狩猎，找地方场馆或户外同好一起练", "keywords": ["狩猎", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/狩猎"}
-{"name_zh": "玩具相机", "name_en": "", "path": "运动与户外/玩具相机", "blurb": "练玩具相机，找地方场馆或户外同好一起练", "keywords": ["玩具相机", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/玩具相机"}
-{"name_zh": "球场旅行", "name_en": "", "path": "运动与户外/球场旅行", "blurb": "练球场旅行，找地方场馆或户外同好一起练", "keywords": ["球场旅行", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/球场旅行"}
-{"name_zh": "瑜伽", "name_en": "", "path": "运动与户外/瑜伽", "blurb": "练瑜伽，找地方场馆或户外同好一起练", "keywords": ["瑜伽", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/瑜伽"}
-{"name_zh": "生存主义", "name_en": "", "path": "运动与户外/生存主义", "blurb": "练生存主义，找地方场馆或户外同好一起练", "keywords": ["生存主义", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/生存主义"}
-{"name_zh": "登山运动", "name_en": "", "path": "运动与户外/登山运动", "blurb": "练登山运动，找地方场馆或户外同好一起练", "keywords": ["登山运动", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/登山运动"}
-{"name_zh": "皮划艇", "name_en": "", "path": "运动与户外/皮划艇", "blurb": "练皮划艇，找地方场馆或户外同好一起练", "keywords": ["皮划艇", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/皮划艇"}
-{"name_zh": "皮艇", "name_en": "", "path": "运动与户外/皮艇", "blurb": "练皮艇，找地方场馆或户外同好一起练", "keywords": ["皮艇", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/皮艇"}
-{"name_zh": "盆栽", "name_en": "", "path": "运动与户外/盆栽", "blurb": "练盆栽，找地方场馆或户外同好一起练", "keywords": ["盆栽", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/盆栽"}
-{"name_zh": "短柄墙球", "name_en": "", "path": "运动与户外/短柄墙球", "blurb": "练短柄墙球，找地方场馆或户外同好一起练", "keywords": ["短柄墙球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/短柄墙球"}
-{"name_zh": "空中运动", "name_en": "", "path": "运动与户外/空中运动", "blurb": "练空中运动，找地方场馆或户外同好一起练", "keywords": ["空中运动", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/空中运动"}
-{"name_zh": "空手道", "name_en": "", "path": "运动与户外/空手道", "blurb": "练空手道，找地方场馆或户外同好一起练", "keywords": ["空手道", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/空手道"}
-{"name_zh": "竞技叠杯", "name_en": "", "path": "运动与户外/竞技叠杯", "blurb": "练竞技叠杯，找地方场馆或户外同好一起练", "keywords": ["竞技叠杯", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/竞技叠杯"}
-{"name_zh": "竞技啦啦队", "name_en": "", "path": "运动与户外/竞技啦啦队", "blurb": "练竞技啦啦队，找地方场馆或户外同好一起练", "keywords": ["竞技啦啦队", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/竞技啦啦队"}
-{"name_zh": "竞走", "name_en": "", "path": "运动与户外/竞走", "blurb": "练竞走，找地方场馆或户外同好一起练", "keywords": ["竞走", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/竞走"}
-{"name_zh": "童军活动", "name_en": "", "path": "运动与户外/童军活动", "blurb": "练童军活动，找地方场馆或户外同好一起练", "keywords": ["童军活动", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/童军活动"}
-{"name_zh": "篮球", "name_en": "", "path": "运动与户外/篮球", "blurb": "练篮球，找地方场馆或户外同好一起练", "keywords": ["篮球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/篮球"}
-{"name_zh": "终极飞盘", "name_en": "", "path": "运动与户外/终极飞盘", "blurb": "练终极飞盘，找地方场馆或户外同好一起练", "keywords": ["终极飞盘", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/终极飞盘"}
-{"name_zh": "绳索垂降", "name_en": "", "path": "运动与户外/绳索垂降", "blurb": "练绳索垂降，找地方场馆或户外同好一起练", "keywords": ["绳索垂降", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/绳索垂降"}
-{"name_zh": "网球", "name_en": "", "path": "运动与户外/网球", "blurb": "练网球，找地方场馆或户外同好一起练", "keywords": ["网球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/网球"}
-{"name_zh": "羽毛球", "name_en": "", "path": "运动与户外/羽毛球", "blurb": "练羽毛球，找地方场馆或户外同好一起练", "keywords": ["羽毛球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/羽毛球"}
-{"name_zh": "联盟式橄榄球", "name_en": "", "path": "运动与户外/联盟式橄榄球", "blurb": "练联盟式橄榄球，找地方场馆或户外同好一起练", "keywords": ["联盟式橄榄球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/联盟式橄榄球"}
-{"name_zh": "航空", "name_en": "", "path": "运动与户外/航空", "blurb": "练航空，找地方场馆或户外同好一起练", "keywords": ["航空", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/航空"}
-{"name_zh": "航行", "name_en": "", "path": "运动与户外/航行", "blurb": "练航行，找地方场馆或户外同好一起练", "keywords": ["航行", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/航行"}
-{"name_zh": "花式台球", "name_en": "", "path": "运动与户外/花式台球", "blurb": "练花式台球，找地方场馆或户外同好一起练", "keywords": ["花式台球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/花式台球"}
-{"name_zh": "花式操枪", "name_en": "", "path": "运动与户外/花式操枪", "blurb": "练花式操枪，找地方场馆或户外同好一起练", "keywords": ["花式操枪", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/花式操枪"}
-{"name_zh": "花式足球", "name_en": "", "path": "运动与户外/花式足球", "blurb": "练花式足球，找地方场馆或户外同好一起练", "keywords": ["花式足球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/花式足球"}
-{"name_zh": "花样滑冰", "name_en": "", "path": "运动与户外/花样滑冰", "blurb": "练花样滑冰，找地方场馆或户外同好一起练", "keywords": ["花样滑冰", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/花样滑冰"}
-{"name_zh": "草地曲棍球", "name_en": "", "path": "运动与户外/草地曲棍球", "blurb": "练草地曲棍球，找地方场馆或户外同好一起练", "keywords": ["草地曲棍球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/草地曲棍球"}
-{"name_zh": "草药医学", "name_en": "", "path": "运动与户外/草药医学", "blurb": "练草药医学，找地方场馆或户外同好一起练", "keywords": ["草药医学", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/草药医学"}
-{"name_zh": "蔬菜种植", "name_en": "", "path": "运动与户外/蔬菜种植", "blurb": "练蔬菜种植，找地方场馆或户外同好一起练", "keywords": ["蔬菜种植", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/蔬菜种植"}
-{"name_zh": "袋棍球", "name_en": "", "path": "运动与户外/袋棍球", "blurb": "练袋棍球，找地方场馆或户外同好一起练", "keywords": ["袋棍球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/袋棍球"}
-{"name_zh": "观蝶", "name_en": "", "path": "运动与户外/观蝶", "blurb": "练观蝶，找地方场馆或户外同好一起练", "keywords": ["观蝶", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/观蝶"}
-{"name_zh": "训犬", "name_en": "", "path": "运动与户外/训犬", "blurb": "练训犬，找地方场馆或户外同好一起练", "keywords": ["训犬", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/训犬"}
-{"name_zh": "访问动物园", "name_en": "", "path": "运动与户外/访问动物园", "blurb": "练访问动物园，找地方场馆或户外同好一起练", "keywords": ["访问动物园", "动物园", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/动物园"}
-{"name_zh": "购物", "name_en": "", "path": "运动与户外/购物", "blurb": "练购物，找地方场馆或户外同好一起练", "keywords": ["购物", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/购物"}
-{"name_zh": "赛艇", "name_en": "", "path": "运动与户外/赛艇", "blurb": "练赛艇，找地方场馆或户外同好一起练", "keywords": ["赛艇", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/赛艇"}
-{"name_zh": "赛车", "name_en": "", "path": "运动与户外/赛车", "blurb": "练赛车，找地方场馆或户外同好一起练", "keywords": ["赛车", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/赛车"}
-{"name_zh": "走扁带", "name_en": "", "path": "运动与户外/走扁带", "blurb": "练走扁带，找地方场馆或户外同好一起练", "keywords": ["走扁带", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/走扁带"}
-{"name_zh": "足球", "name_en": "", "path": "运动与户外/足球", "blurb": "练足球，找地方场馆或户外同好一起练", "keywords": ["足球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/足球"}
-{"name_zh": "跆拳道", "name_en": "", "path": "运动与户外/跆拳道", "blurb": "练跆拳道，找地方场馆或户外同好一起练", "keywords": ["跆拳道", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/跆拳道"}
-{"name_zh": "跑步", "name_en": "", "path": "运动与户外/跑步", "blurb": "练慢跑，找地方场馆或户外同好一起练", "keywords": ["慢跑", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/慢跑"}
-{"name_zh": "跑酷", "name_en": "", "path": "运动与户外/跑酷", "blurb": "练跑酷，找地方场馆或户外同好一起练", "keywords": ["跑酷", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/跑酷"}
-{"name_zh": "跳伞", "name_en": "", "path": "运动与户外/跳伞", "blurb": "练跳伞，找地方场馆或户外同好一起练", "keywords": ["跳伞", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/跳伞"}
-{"name_zh": "轮滑", "name_en": "", "path": "运动与户外/轮滑", "blurb": "练轮滑，找地方场馆或户外同好一起练", "keywords": ["轮滑", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/轮滑"}
-{"name_zh": "辩论", "name_en": "", "path": "运动与户外/辩论", "blurb": "练辩论，找地方场馆或户外同好一起练", "keywords": ["辩论", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/辩论"}
-{"name_zh": "迷你高尔夫", "name_en": "", "path": "运动与户外/迷你高尔夫", "blurb": "练迷你高尔夫，找地方场馆或户外同好一起练", "keywords": ["迷你高尔夫", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/迷你高尔夫"}
-{"name_zh": "追风 (恶劣气候)", "name_en": "", "path": "运动与户外/追风 (恶劣气候)", "blurb": "练追风 (恶劣气候)，找地方场馆或户外同好一起练", "keywords": ["追风 (恶劣气候)", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/追风_(恶劣气候)"}
-{"name_zh": "选美活动", "name_en": "", "path": "运动与户外/选美活动", "blurb": "练选美活动，找地方场馆或户外同好一起练", "keywords": ["选美活动", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/选美活动"}
-{"name_zh": "速度滑冰", "name_en": "", "path": "运动与户外/速度滑冰", "blurb": "练速度滑冰，找地方场馆或户外同好一起练", "keywords": ["速度滑冰", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/速度滑冰"}
-{"name_zh": "速解魔方", "name_en": "", "path": "运动与户外/速解魔方", "blurb": "练速解魔方，找地方场馆或户外同好一起练", "keywords": ["速解魔方", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/速解魔方"}
-{"name_zh": "遛狗", "name_en": "", "path": "运动与户外/遛狗", "blurb": "练遛狗，找地方场馆或户外同好一起练", "keywords": ["遛狗", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/遛狗"}
-{"name_zh": "遥控车", "name_en": "", "path": "运动与户外/遥控车", "blurb": "练遥控车，找地方场馆或户外同好一起练", "keywords": ["遥控车", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/遥控车"}
-{"name_zh": "野餐", "name_en": "", "path": "运动与户外/野餐", "blurb": "练野餐，找地方场馆或户外同好一起练", "keywords": ["野餐", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/野餐"}
-{"name_zh": "金属探测", "name_en": "", "path": "运动与户外/金属探测", "blurb": "练金属探测，找地方场馆或户外同好一起练", "keywords": ["金属探测", "金属探测器", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/金属探测器"}
-{"name_zh": "钓鱼", "name_en": "", "path": "运动与户外/钓鱼", "blurb": "练钓鱼，找地方场馆或户外同好一起练", "keywords": ["钓鱼", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/钓鱼"}
-{"name_zh": "铁人三项", "name_en": "", "path": "运动与户外/铁人三项", "blurb": "练铁人三项，找地方场馆或户外同好一起练", "keywords": ["铁人三项", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/铁人三项"}
-{"name_zh": "铁匠", "name_en": "", "path": "运动与户外/铁匠", "blurb": "练铁匠，找地方场馆或户外同好一起练", "keywords": ["铁匠", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/铁匠"}
-{"name_zh": "铁道模型", "name_en": "", "path": "运动与户外/铁道模型", "blurb": "练铁道模型，找地方场馆或户外同好一起练", "keywords": ["铁道模型", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/铁道模型"}
-{"name_zh": "长板", "name_en": "", "path": "运动与户外/长板", "blurb": "练长板，找地方场馆或户外同好一起练", "keywords": ["长板", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/长板"}
-{"name_zh": "雪上摩托车", "name_en": "", "path": "运动与户外/雪上摩托车", "blurb": "练雪上摩托车，找地方场馆或户外同好一起练", "keywords": ["雪上摩托车", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/雪上摩托车"}
-{"name_zh": "雪地徒步", "name_en": "", "path": "运动与户外/雪地徒步", "blurb": "练雪地徒步，找地方场馆或户外同好一起练", "keywords": ["雪地徒步", "雪鞋", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/雪鞋"}
-{"name_zh": "雪橇", "name_en": "", "path": "运动与户外/雪橇", "blurb": "练雪橇，找地方场馆或户外同好一起练", "keywords": ["雪橇", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/雪橇"}
-{"name_zh": "雪橇犬比赛", "name_en": "", "path": "运动与户外/雪橇犬比赛", "blurb": "练雪橇犬比赛，找地方场馆或户外同好一起练", "keywords": ["雪橇犬比赛", "雪橇犬", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/雪橇犬"}
-{"name_zh": "风筝冲浪", "name_en": "", "path": "运动与户外/风筝冲浪", "blurb": "练风筝冲浪，找地方场馆或户外同好一起练", "keywords": ["风筝冲浪", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/风筝冲浪"}
-{"name_zh": "飞刀", "name_en": "", "path": "运动与户外/飞刀", "blurb": "练飞刀，找地方场馆或户外同好一起练", "keywords": ["飞刀", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/飞刀"}
-{"name_zh": "飞盘", "name_en": "", "path": "运动与户外/飞盘", "blurb": "练飞盘，找地方场馆或户外同好一起练", "keywords": ["飞盘", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/飞盘"}
-{"name_zh": "飞盘高尔夫", "name_en": "", "path": "运动与户外/飞盘高尔夫", "blurb": "练飞盘高尔夫，找地方场馆或户外同好一起练", "keywords": ["飞盘高尔夫", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/飞盘高尔夫"}
-{"name_zh": "飞碟射击", "name_en": "", "path": "运动与户外/飞碟射击", "blurb": "练飞碟射击，找地方场馆或户外同好一起练", "keywords": ["飞碟射击", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/飞碟射击"}
-{"name_zh": "飞镖", "name_en": "", "path": "运动与户外/飞镖", "blurb": "练飞镖，找地方场馆或户外同好一起练", "keywords": ["飞镖", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/飞镖"}
-{"name_zh": "马术", "name_en": "", "path": "运动与户外/马术", "blurb": "练马术，找地方场馆或户外同好一起练", "keywords": ["马术", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/马术"}
-{"name_zh": "马球", "name_en": "", "path": "运动与户外/马球", "blurb": "练马球，找地方场馆或户外同好一起练", "keywords": ["马球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/马球"}
-{"name_zh": "驾驶", "name_en": "", "path": "运动与户外/驾驶", "blurb": "练驾驶，找地方场馆或户外同好一起练", "keywords": ["驾驶", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/驾驶"}
-{"name_zh": "骑行", "name_en": "", "path": "运动与户外/骑行", "blurb": "练骑行，找地方场馆或户外同好一起练", "keywords": ["骑行", "自行车运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/自行车运动"}
-{"name_zh": "骑车", "name_en": "", "path": "运动与户外/骑车", "blurb": "练骑车，找地方场馆或户外同好一起练", "keywords": ["骑车", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/骑车"}
-{"name_zh": "高尔夫球", "name_en": "", "path": "运动与户外/高尔夫球", "blurb": "练高尔夫球，找地方场馆或户外同好一起练", "keywords": ["高尔夫球", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/高尔夫球"}
-{"name_zh": "麻瓜魁地奇", "name_en": "", "path": "运动与户外/麻瓜魁地奇", "blurb": "练麻瓜魁地奇，找地方场馆或户外同好一起练", "keywords": ["麻瓜魁地奇", "运动", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/麻瓜魁地奇"}
-{"name_zh": "创意写作", "name_en": "", "path": "阅读写作与知识/创意写作", "blurb": "持续创意写作，做笔记或分享书单文章", "keywords": ["创意写作", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/创意写作"}
-{"name_zh": "博客", "name_en": "", "path": "阅读写作与知识/博客", "blurb": "持续博客，做笔记或分享书单文章", "keywords": ["博客", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/博客"}
-{"name_zh": "历史", "name_en": "", "path": "阅读写作与知识/历史", "blurb": "持续历史，做笔记或分享书单文章", "keywords": ["历史", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/历史"}
-{"name_zh": "微生物学", "name_en": "", "path": "阅读写作与知识/微生物学", "blurb": "持续微生物学，做笔记或分享书单文章", "keywords": ["微生物学", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/微生物学"}
-{"name_zh": "手帐", "name_en": "", "path": "阅读写作与知识/手帐", "blurb": "持续手帐，做笔记或分享书单文章", "keywords": ["手帐", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/手帐"}
-{"name_zh": "播客", "name_en": "", "path": "阅读写作与知识/播客", "blurb": "持续播客，做笔记或分享书单文章", "keywords": ["播客", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/播客"}
-{"name_zh": "生命科学", "name_en": "", "path": "阅读写作与知识/生命科学", "blurb": "持续生命科学，做笔记或分享书单文章", "keywords": ["生命科学", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/生命科学"}
-{"name_zh": "科技学习", "name_en": "", "path": "阅读写作与知识/科技学习", "blurb": "持续科技学习，做笔记或分享书单文章", "keywords": ["科技学习", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/科技学习"}
-{"name_zh": "第二语言习得", "name_en": "", "path": "阅读写作与知识/第二语言习得", "blurb": "持续第二语言习得，做笔记或分享书单文章", "keywords": ["第二语言习得", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/第二语言习得"}
-{"name_zh": "网页设计", "name_en": "", "path": "阅读写作与知识/网页设计", "blurb": "持续网页设计，做笔记或分享书单文章", "keywords": ["网页设计", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/网页设计"}
-{"name_zh": "英语", "name_en": "", "path": "阅读写作与知识/英语", "blurb": "持续英语，做笔记或分享书单文章", "keywords": ["英语", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/英语"}
-{"name_zh": "运动科学", "name_en": "", "path": "阅读写作与知识/运动科学", "blurb": "持续运动科学，做笔记或分享书单文章", "keywords": ["运动科学", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/运动科学"}
-{"name_zh": "邮票研究", "name_en": "", "path": "阅读写作与知识/邮票研究", "blurb": "持续邮票研究，做笔记或分享书单文章", "keywords": ["邮票研究", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/邮票研究"}
-{"name_zh": "铁路运输", "name_en": "", "path": "阅读写作与知识/铁路运输", "blurb": "持续铁路运输，做笔记或分享书单文章", "keywords": ["铁路运输", "阅读", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/铁路运输"}
-{"name_zh": "乐器", "name_en": "", "path": "音乐与演奏/乐器", "blurb": "学乐器相关演奏或欣赏，找琴房与乐友", "keywords": ["乐器", "音乐", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/乐器"}
-{"name_zh": "歌唱", "name_en": "", "path": "音乐与演奏/歌唱", "blurb": "学歌唱相关演奏或欣赏，找琴房与乐友", "keywords": ["歌唱", "音乐", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/歌唱"}
-{"name_zh": "激光唱片", "name_en": "", "path": "音乐与演奏/激光唱片", "blurb": "学激光唱片相关演奏或欣赏，找琴房与乐友", "keywords": ["激光唱片", "音乐", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/激光唱片"}
-{"name_zh": "说唱", "name_en": "", "path": "音乐与演奏/说唱", "blurb": "学说唱相关演奏或欣赏，找琴房与乐友", "keywords": ["说唱", "音乐", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/说唱"}
-{"name_zh": "非洲鼓", "name_en": "", "path": "音乐与演奏/非洲鼓", "blurb": "学非洲鼓相关演奏或欣赏，找琴房与乐友", "keywords": ["非洲鼓", "音乐", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/非洲鼓"}
-{"name_zh": "音乐创作", "name_en": "", "path": "音乐与演奏/音乐创作", "blurb": "学音乐创作相关演奏或欣赏，找琴房与乐友", "keywords": ["音乐创作", "音乐", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/音乐创作"}
-{"name_zh": "黑胶唱片", "name_en": "", "path": "音乐与演奏/黑胶唱片", "blurb": "学黑胶唱片相关演奏或欣赏，找琴房与乐友", "keywords": ["黑胶唱片", "音乐", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/黑胶唱片"}
-{"name_zh": "咖啡烘焙", "name_en": "", "path": "饮食与茶酒/咖啡烘焙", "blurb": "在家实践咖啡烘焙，记录配方与品鉴笔记", "keywords": ["咖啡烘焙", "咖啡", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/咖啡"}
-{"name_zh": "品酒", "name_en": "", "path": "饮食与茶酒/品酒", "blurb": "在家实践品酒，记录配方与品鉴笔记", "keywords": ["品酒", "饮食", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/品酒"}
-{"name_zh": "家庭烘焙咖啡", "name_en": "", "path": "饮食与茶酒/家庭烘焙咖啡", "blurb": "在家实践家庭烘焙咖啡，记录配方与品鉴笔记", "keywords": ["家庭烘焙咖啡", "饮食", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/家庭烘焙咖啡"}
-{"name_zh": "家酿啤酒", "name_en": "", "path": "饮食与茶酒/家酿啤酒", "blurb": "在家实践家酿啤酒，记录配方与品鉴笔记", "keywords": ["家酿啤酒", "饮食", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/家酿啤酒"}
-{"name_zh": "普洱茶", "name_en": "", "path": "饮食与茶酒/普洱茶", "blurb": "在家实践普洱茶，记录配方与品鉴笔记", "keywords": ["普洱茶", "饮食", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/普洱茶"}
-{"name_zh": "烹饪", "name_en": "", "path": "饮食与茶酒/烹饪", "blurb": "在家实践烹饪，记录配方与品鉴笔记", "keywords": ["烹饪", "饮食", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/烹饪"}
-{"name_zh": "红茶菌", "name_en": "", "path": "饮食与茶酒/红茶菌", "blurb": "在家实践红茶菌，记录配方与品鉴笔记", "keywords": ["红茶菌", "饮食", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/红茶菌"}
-{"name_zh": "自酿啤酒", "name_en": "", "path": "饮食与茶酒/自酿啤酒", "blurb": "在家实践自酿啤酒，记录配方与品鉴笔记", "keywords": ["自酿啤酒", "饮食", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/自酿啤酒"}
-{"name_zh": "茶道", "name_en": "", "path": "饮食与茶酒/茶道", "blurb": "在家实践茶道，记录配方与品鉴笔记", "keywords": ["茶道", "饮食", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/茶道"}
-{"name_zh": "葡萄酒酿制", "name_en": "", "path": "饮食与茶酒/葡萄酒酿制", "blurb": "在家实践葡萄酒酿制，记录配方与品鉴笔记", "keywords": ["葡萄酒酿制", "饮食", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/葡萄酒酿制"}
-{"name_zh": "香道", "name_en": "", "path": "饮食与茶酒/香道", "blurb": "在家实践香道，记录配方与品鉴笔记", "keywords": ["香道", "饮食", "爱好", "同好"], "reference": "https://zh.wikipedia.org/wiki/香道"}
+{"name_zh": "养兔", "name_en": "Rabbit keeping", "path": "动植物与自然/宠物禽畜/养兔", "blurb": "家兔饲养与兔舍管理", "keywords": ["养兔", "垂耳兔", "兔舍"], "reference": "https://baike.baidu.com/item/养兔"}
+{"name_zh": "养狗", "name_en": "Dog keeping", "path": "动植物与自然/宠物禽畜/养狗", "blurb": "犬只饲养训练与犬友圈", "keywords": ["养狗", "训犬", "犬种"], "reference": "https://zh.wikipedia.org/wiki/狗"}
+{"name_zh": "养猫", "name_en": "Cat keeping", "path": "动植物与自然/宠物禽畜/养猫", "blurb": "家猫饲养与猫行为交流", "keywords": ["养猫", "猫奴", "猫砂"], "reference": "https://zh.wikipedia.org/wiki/猫"}
+{"name_zh": "养蜂", "name_en": "Beekeeping", "path": "动植物与自然/宠物禽畜/养蜂", "blurb": "业余养蜂与蜂蜜收获", "keywords": ["养蜂", "蜂箱", "蜂蜜"], "reference": "https://zh.wikipedia.org/wiki/养蜂"}
+{"name_zh": "养鸟", "name_en": "Aviculture", "path": "动植物与自然/宠物禽畜/养鸟", "blurb": "笼鸟与观赏鸟饲养", "keywords": ["养鸟", "文鸟", "鹦鹉"], "reference": "https://zh.wikipedia.org/wiki/养鸟"}
+{"name_zh": "兰花栽培", "name_en": "Orchid growing", "path": "动植物与自然/植物园艺/兰花栽培", "blurb": "国兰洋兰栽培养护", "keywords": ["兰花", "国兰", "洋兰"], "reference": "https://zh.wikipedia.org/wiki/兰花"}
+{"name_zh": "园艺", "name_en": "Gardening", "path": "动植物与自然/植物园艺/园艺", "blurb": "庭院与阳台植物种植", "keywords": ["园艺", "种植", "花园"], "reference": "https://zh.wikipedia.org/wiki/园艺"}
+{"name_zh": "多肉植物", "name_en": "Succulents", "path": "动植物与自然/植物园艺/多肉植物", "blurb": "多肉繁殖与盆景造型", "keywords": ["多肉", "景天", "肉友"], "reference": "https://zh.wikipedia.org/wiki/多肉植物"}
+{"name_zh": "月季栽培", "name_en": "Rose growing", "path": "动植物与自然/植物园艺/月季栽培", "blurb": "月季修剪与花期管理", "keywords": ["月季", "蔷薇", "开花"], "reference": "https://zh.wikipedia.org/wiki/月季"}
+{"name_zh": "水培", "name_en": "Hydroponics", "path": "动植物与自然/植物园艺/水培", "blurb": "家庭水培与无土栽培", "keywords": ["水培", "无土栽培", "爱好"], "reference": "https://zh.wikipedia.org/wiki/水耕栽培"}
+{"name_zh": "观叶植物", "name_en": "Houseplants", "path": "动植物与自然/植物园艺/观叶植物", "blurb": "室内观叶植物养护", "keywords": ["观叶", "绿植", "室内植物"], "reference": "https://en.wikipedia.org/wiki/Houseplant"}
+{"name_zh": "养锦鲤", "name_en": "Koi keeping", "path": "动植物与自然/水族两爬/养锦鲤", "blurb": "锦鲤池养与品鉴", "keywords": ["锦鲤", "池塘", "养锦鲤"], "reference": "https://zh.wikipedia.org/wiki/锦鲤"}
+{"name_zh": "养龟", "name_en": "Turtle keeping", "path": "动植物与自然/水族两爬/养龟", "blurb": "龟鳖类饲养与晒背护理", "keywords": ["养龟", "龟缸", "晒背"], "reference": "https://baike.baidu.com/item/养龟"}
+{"name_zh": "水族造景", "name_en": "Aquascaping", "path": "动植物与自然/水族两爬/水族造景", "blurb": "水草缸景观构图", "keywords": ["造景", "水草缸", "ADA"], "reference": "https://zh.wikipedia.org/wiki/水族造景"}
+{"name_zh": "水族饲养", "name_en": "Fishkeeping", "path": "动植物与自然/水族两爬/水族饲养", "blurb": "鱼缸造景与观赏鱼饲养", "keywords": ["水族", "鱼缸", "草缸"], "reference": "https://zh.wikipedia.org/wiki/水族饲养"}
+{"name_zh": "海水鱼缸", "name_en": "Marine aquarium", "path": "动植物与自然/水族两爬/海水鱼缸", "blurb": "海缸珊瑚与海水生物", "keywords": ["海缸", "珊瑚", "海水"], "reference": "https://zh.wikipedia.org/wiki/海水水族箱"}
+{"name_zh": "爬宠饲养", "name_en": "Herpetoculture", "path": "动植物与自然/水族两爬/爬宠饲养", "blurb": "蜥蜴蛇类等爬宠饲养", "keywords": ["爬宠", "蜥蜴", "守宫"], "reference": "https://en.wikipedia.org/wiki/Herpetoculture"}
+{"name_zh": "金鱼饲养", "name_en": "Goldfish keeping", "path": "动植物与自然/水族两爬/金鱼饲养", "blurb": "金鱼品种饲养鉴赏", "keywords": ["金鱼", "观赏鱼", "金鱼饲养"], "reference": "https://zh.wikipedia.org/wiki/金鱼"}
+{"name_zh": "业余地质", "name_en": "Amateur geology", "path": "动植物与自然/自然观察/业余地质", "blurb": "岩石矿物野外观察", "keywords": ["地质", "岩石", "矿物"], "reference": "https://en.wikipedia.org/wiki/Amateur_geology"}
+{"name_zh": "业余天文", "name_en": "Amateur astronomy", "path": "动植物与自然/自然观察/业余天文", "blurb": "望远镜观星与天象记录", "keywords": ["天文", "观星", "望远镜"], "reference": "https://zh.wikipedia.org/wiki/业余天文学"}
+{"name_zh": "昆虫观察", "name_en": "Insect watching", "path": "动植物与自然/自然观察/昆虫观察", "blurb": "昆虫拍摄与标本观察", "keywords": ["昆虫", "蝶类", "甲虫"], "reference": "https://zh.wikipedia.org/wiki/昆虫学"}
+{"name_zh": "气象观察", "name_en": "Weather watching", "path": "动植物与自然/自然观察/气象观察", "blurb": "云图天气现象记录", "keywords": ["气象", "观云", "天气"], "reference": "https://zh.wikipedia.org/wiki/气象学"}
+{"name_zh": "观蝶", "name_en": "Butterfly watching", "path": "动植物与自然/自然观察/观蝶", "blurb": "蝴蝶识别与拍摄", "keywords": ["观蝶", "蝴蝶", "识别"], "reference": "https://zh.wikipedia.org/wiki/蝴蝶"}
+{"name_zh": "观鲸", "name_en": "Whale watching", "path": "动植物与自然/自然观察/观鲸", "blurb": "鲸豚观察行程（沿海）", "keywords": ["观鲸", "鲸豚", "赏鲸"], "reference": "https://zh.wikipedia.org/wiki/赏鲸"}
+{"name_zh": "观鸟", "name_en": "Birdwatching", "path": "动植物与自然/自然观察/观鸟", "blurb": "野外鸟类识别与记录", "keywords": ["观鸟", "鸟种", "life list"], "reference": "https://zh.wikipedia.org/wiki/观鸟"}
+{"name_zh": "采菇", "name_en": "Mushroom hunting", "path": "动植物与自然/自然观察/采菇", "blurb": "野外蘑菇识别（勿误食）", "keywords": ["蘑菇", "真菌", "野菌"], "reference": "https://zh.wikipedia.org/wiki/采菇"}
+{"name_zh": "路亚", "name_en": "Lure fishing", "path": "动植物与自然/钓猎自然/路亚", "blurb": "仿生饵路亚钓法", "keywords": ["路亚", "假饵", "黑鲈"], "reference": "https://zh.wikipedia.org/wiki/路亚钓法"}
+{"name_zh": "钓鱼", "name_en": "Angling", "path": "动植物与自然/钓猎自然/钓鱼", "blurb": "淡水海水垂钓休闲", "keywords": ["钓鱼", "路亚", "台钓"], "reference": "https://zh.wikipedia.org/wiki/钓鱼"}
+{"name_zh": "飞蝇钓", "name_en": "Fly fishing", "path": "动植物与自然/钓猎自然/飞蝇钓", "blurb": "飞蝇拟饵钓法", "keywords": ["飞蝇", "fly fishing", "拟饵"], "reference": "https://zh.wikipedia.org/wiki/飞蝇钓"}
+{"name_zh": "书法", "name_en": "Chinese calligraphy", "path": "影像与视觉/平面与字/书法", "blurb": "毛笔书法临帖与创作", "keywords": ["书法", "毛笔", "临帖"], "reference": "https://zh.wikipedia.org/wiki/书法"}
+{"name_zh": "平面设计", "name_en": "Graphic design", "path": "影像与视觉/平面与字/平面设计", "blurb": "版式与视觉设计练习（爱好向）", "keywords": ["平面设计", "版式", "视觉"], "reference": "https://zh.wikipedia.org/wiki/平面设计"}
+{"name_zh": "涂鸦", "name_en": "Graffiti", "path": "影像与视觉/平面与字/涂鸦", "blurb": "街头涂鸦与合法墙绘", "keywords": ["涂鸦", "墙绘", "街头艺术"], "reference": "https://zh.wikipedia.org/wiki/涂鸦"}
+{"name_zh": "硬笔书法", "name_en": "Hard-pen calligraphy", "path": "影像与视觉/平面与字/硬笔书法", "blurb": "钢笔硬笔字练习", "keywords": ["硬笔", "钢笔字", "硬笔书法"], "reference": "https://baike.baidu.com/item/硬笔书法"}
+{"name_zh": "Vlog", "name_en": "Vlogging", "path": "影像与视觉/影像制作/Vlog", "blurb": "生活记录视频创作分享", "keywords": ["Vlog", "视频日志", "爱好"], "reference": "https://zh.wikipedia.org/wiki/视频博客"}
+{"name_zh": "动画", "name_en": "Animation", "path": "影像与视觉/影像制作/动画", "blurb": "二维三维动画创作", "keywords": ["动画", "二维", "三维"], "reference": "https://zh.wikipedia.org/wiki/动画"}
+{"name_zh": "摄像", "name_en": "Videography", "path": "影像与视觉/影像制作/摄像", "blurb": "视频拍摄与剪辑表达", "keywords": ["摄像", "视频", "剪辑"], "reference": "https://zh.wikipedia.org/wiki/摄像"}
+{"name_zh": "电影制作", "name_en": "Filmmaking", "path": "影像与视觉/影像制作/电影制作", "blurb": "短片编剧拍摄与成片", "keywords": ["电影制作", "短片", "独立电影"], "reference": "https://zh.wikipedia.org/wiki/电影制作"}
+{"name_zh": "短视频创作", "name_en": "Short video creation", "path": "影像与视觉/影像制作/短视频创作", "blurb": "短视频拍摄剪辑分享", "keywords": ["短视频", "剪辑", "创作"], "reference": "https://baike.baidu.com/item/短视频"}
+{"name_zh": "人像摄影", "name_en": "Portrait photography", "path": "影像与视觉/摄影/人像摄影", "blurb": "人像布光与棚拍外拍", "keywords": ["人像", "摄影", "棚拍"], "reference": "https://zh.wikipedia.org/wiki/人像摄影"}
+{"name_zh": "天文摄影", "name_en": "Astrophotography", "path": "影像与视觉/摄影/天文摄影", "blurb": "星空深空与赤道仪拍摄", "keywords": ["天文摄影", "星空", "深空"], "reference": "https://zh.wikipedia.org/wiki/天文摄影"}
+{"name_zh": "手机摄影", "name_en": "Mobile photography", "path": "影像与视觉/摄影/手机摄影", "blurb": "手机构图与后期分享", "keywords": ["手机摄影", "手机拍", "爱好"], "reference": "https://baike.baidu.com/item/手机摄影"}
+{"name_zh": "摄影", "name_en": "Photography", "path": "影像与视觉/摄影/摄影", "blurb": "相机摄影与后期基础", "keywords": ["摄影", "单反", "无反"], "reference": "https://zh.wikipedia.org/wiki/摄影"}
+{"name_zh": "胶片摄影", "name_en": "Film photography", "path": "影像与视觉/摄影/胶片摄影", "blurb": "胶卷冲洗与胶片机使用", "keywords": ["胶片", "胶卷", "冲洗"], "reference": "https://zh.wikipedia.org/wiki/摄影胶片"}
+{"name_zh": "航拍摄影", "name_en": "Aerial photography", "path": "影像与视觉/摄影/航拍摄影", "blurb": "无人机空中摄影（合规）", "keywords": ["航拍", "空中摄影", "航拍摄影"], "reference": "https://zh.wikipedia.org/wiki/航空摄影"}
+{"name_zh": "街头摄影", "name_en": "Street photography", "path": "影像与视觉/摄影/街头摄影", "blurb": "街头抓拍与纪实风格", "keywords": ["街头", "街拍", "纪实"], "reference": "https://zh.wikipedia.org/wiki/街头摄影"}
+{"name_zh": "风光摄影", "name_en": "Landscape photography", "path": "影像与视觉/摄影/风光摄影", "blurb": "山水城市风光拍摄", "keywords": ["风光", "摄影", "日出"], "reference": "https://zh.wikipedia.org/wiki/风光摄影"}
+{"name_zh": "丙烯画", "name_en": "Acrylic painting", "path": "影像与视觉/绘画/丙烯画", "blurb": "丙烯颜料绘画", "keywords": ["丙烯", "绘画", "丙烯画"], "reference": "https://zh.wikipedia.org/wiki/丙烯画"}
+{"name_zh": "中国画", "name_en": "Chinese painting", "path": "影像与视觉/绘画/中国画", "blurb": "水墨写意与工笔练习", "keywords": ["国画", "水墨", "工笔"], "reference": "https://zh.wikipedia.org/wiki/中国画"}
+{"name_zh": "插画", "name_en": "Illustration", "path": "影像与视觉/绘画/插画", "blurb": "商业与个人插画创作", "keywords": ["插画", "illustration", "爱好"], "reference": "https://zh.wikipedia.org/wiki/插图"}
+{"name_zh": "数字绘画", "name_en": "Digital painting", "path": "影像与视觉/绘画/数字绘画", "blurb": "数位板CG绘画", "keywords": ["数绘", "CG", "板绘"], "reference": "https://zh.wikipedia.org/wiki/数字艺术"}
+{"name_zh": "水彩画", "name_en": "Watercolor", "path": "影像与视觉/绘画/水彩画", "blurb": "水彩画技法练习", "keywords": ["水彩", "水彩颜料", "水彩画"], "reference": "https://zh.wikipedia.org/wiki/水彩画"}
+{"name_zh": "油画", "name_en": "Oil painting", "path": "影像与视觉/绘画/油画", "blurb": "油画布面创作", "keywords": ["油画", "油画颜料", "爱好"], "reference": "https://zh.wikipedia.org/wiki/油画"}
+{"name_zh": "漫画", "name_en": "Comics drawing", "path": "影像与视觉/绘画/漫画", "blurb": "漫画分镜与角色绘制", "keywords": ["漫画", "分镜", "同人绘"], "reference": "https://zh.wikipedia.org/wiki/漫画"}
+{"name_zh": "素描", "name_en": "Sketching", "path": "影像与视觉/绘画/素描", "blurb": "素描速写基础造型", "keywords": ["素描", "速写", "造型"], "reference": "https://zh.wikipedia.org/wiki/素描"}
+{"name_zh": "绘画", "name_en": "Painting", "path": "影像与视觉/绘画/绘画", "blurb": "油画水彩等架上绘画", "keywords": ["绘画", "油画", "水彩"], "reference": "https://zh.wikipedia.org/wiki/绘画"}
+{"name_zh": "DIY家居", "name_en": "Home DIY", "path": "手作与工艺/家居动手/DIY家居", "blurb": "家居改造与动手维修装饰", "keywords": ["DIY", "家居", "动手"], "reference": "https://zh.wikipedia.org/wiki/DIY"}
+{"name_zh": "吹玻璃", "name_en": "Glassblowing", "path": "手作与工艺/木金陶/吹玻璃", "blurb": "玻璃吹制成型（工作室）", "keywords": ["吹玻璃", "玻璃工艺", "爱好"], "reference": "https://zh.wikipedia.org/wiki/玻璃吹制"}
+{"name_zh": "木工", "name_en": "Woodworking", "path": "手作与工艺/木金陶/木工", "blurb": "木作家具与小件制作", "keywords": ["木工", "木作", "榫卯"], "reference": "https://zh.wikipedia.org/wiki/木工"}
+{"name_zh": "木雕", "name_en": "Wood carving", "path": "手作与工艺/木金陶/木雕", "blurb": "木材雕刻造型", "keywords": ["木雕", "雕刻", "爱好"], "reference": "https://zh.wikipedia.org/wiki/木雕"}
+{"name_zh": "篆刻", "name_en": "Seal carving", "path": "手作与工艺/木金陶/篆刻", "blurb": "印章篆刻刀法与印谱", "keywords": ["篆刻", "印章", "金石"], "reference": "https://zh.wikipedia.org/wiki/篆刻"}
+{"name_zh": "金工", "name_en": "Metalworking", "path": "手作与工艺/木金陶/金工", "blurb": "金属加工与首饰胚制作", "keywords": ["金工", "金属加工", "爱好"], "reference": "https://zh.wikipedia.org/wiki/金属加工"}
+{"name_zh": "陶艺", "name_en": "Pottery", "path": "手作与工艺/木金陶/陶艺", "blurb": "拉坯釉烧陶瓷制作", "keywords": ["陶艺", "拉坯", "陶瓷"], "reference": "https://zh.wikipedia.org/wiki/陶器"}
+{"name_zh": "乐高", "name_en": "LEGO", "path": "手作与工艺/纸艺模型/乐高", "blurb": "乐高创意搭建与MOC", "keywords": ["乐高", "LEGO", "积木"], "reference": "https://zh.wikipedia.org/wiki/乐高"}
+{"name_zh": "剪纸", "name_en": "Paper cutting", "path": "手作与工艺/纸艺模型/剪纸", "blurb": "传统剪纸窗花与创作", "keywords": ["剪纸", "窗花", "爱好"], "reference": "https://zh.wikipedia.org/wiki/剪纸"}
+{"name_zh": "折纸", "name_en": "Origami", "path": "手作与工艺/纸艺模型/折纸", "blurb": "折纸几何与复杂造型", "keywords": ["折纸", "origami", "爱好"], "reference": "https://zh.wikipedia.org/wiki/折纸"}
+{"name_zh": "拓片", "name_en": "Rubbing", "path": "手作与工艺/纸艺模型/拓片", "blurb": "碑刻拓片制作与收藏", "keywords": ["拓片", "碑拓", "金石"], "reference": "https://zh.wikipedia.org/wiki/拓片"}
+{"name_zh": "模型制作", "name_en": "Scale modeling", "path": "手作与工艺/纸艺模型/模型制作", "blurb": "比例模型拼装涂装", "keywords": ["模型", "高达", "军事模型"], "reference": "https://zh.wikipedia.org/wiki/模型_(业余爱好)"}
+{"name_zh": "铁道模型", "name_en": "Model railroading", "path": "手作与工艺/纸艺模型/铁道模型", "blurb": "火车模型布景与运行", "keywords": ["铁道模型", "火车模型", "N比例"], "reference": "https://zh.wikipedia.org/wiki/铁道模型"}
+{"name_zh": "高达模型", "name_en": "Gunpla", "path": "手作与工艺/纸艺模型/高达模型", "blurb": "敢达拼装素组与涂装改件", "keywords": ["高达", "Gunpla", "拼装"], "reference": "https://zh.wikipedia.org/wiki/高达模型"}
+{"name_zh": "刺绣", "name_en": "Embroidery", "path": "手作与工艺/编织缝绣/刺绣", "blurb": "手绣与苏绣等针法", "keywords": ["刺绣", "绣花", "苏绣"], "reference": "https://zh.wikipedia.org/wiki/刺绣"}
+{"name_zh": "十字绣", "name_en": "Cross-stitch", "path": "手作与工艺/编织缝绣/十字绣", "blurb": "十字绣图案绣制", "keywords": ["十字绣", "绣格", "爱好"], "reference": "https://zh.wikipedia.org/wiki/十字绣"}
+{"name_zh": "扎染", "name_en": "Tie-dye", "path": "手作与工艺/编织缝绣/扎染", "blurb": "扎染与絞り染色", "keywords": ["扎染", "染色", "爱好"], "reference": "https://zh.wikipedia.org/wiki/扎染"}
+{"name_zh": "拼布", "name_en": "Quilting", "path": "手作与工艺/编织缝绣/拼布", "blurb": "拼布绗缝与布艺拼贴", "keywords": ["拼布", "绗缝", "quilting"], "reference": "https://zh.wikipedia.org/wiki/绗缝"}
+{"name_zh": "皮具制作", "name_en": "Leathercraft", "path": "手作与工艺/编织缝绣/皮具制作", "blurb": "皮革裁缝与手缝皮具", "keywords": ["皮具", "皮革", "手缝"], "reference": "https://en.wikipedia.org/wiki/Leather_crafting"}
+{"name_zh": "编织", "name_en": "Knitting", "path": "手作与工艺/编织缝绣/编织", "blurb": "棒针编织衣物配饰", "keywords": ["编织", "棒针", "毛线"], "reference": "https://zh.wikipedia.org/wiki/编织"}
+{"name_zh": "缝纫", "name_en": "Sewing", "path": "手作与工艺/编织缝绣/缝纫", "blurb": "服装与布艺缝纫", "keywords": ["缝纫", "裁缝", "布艺"], "reference": "https://zh.wikipedia.org/wiki/缝纫"}
+{"name_zh": "蓝染", "name_en": "Indigo dyeing", "path": "手作与工艺/编织缝绣/蓝染", "blurb": "靛蓝染色工艺", "keywords": ["蓝染", "靛蓝", "爱好"], "reference": "https://zh.wikipedia.org/wiki/蓝染"}
+{"name_zh": "蜡染", "name_en": "Batik", "path": "手作与工艺/编织缝绣/蜡染", "blurb": "蜡染布艺传统工艺", "keywords": ["蜡染", "蓝染", "爱好"], "reference": "https://zh.wikipedia.org/wiki/蜡染"}
+{"name_zh": "钩针", "name_en": "Crochet", "path": "手作与工艺/编织缝绣/钩针", "blurb": "钩针玩偶与衣饰", "keywords": ["钩针", "crochet", "编织"], "reference": "https://zh.wikipedia.org/wiki/钩针编织"}
+{"name_zh": "制香", "name_en": "Incense making", "path": "手作与工艺/花艺香道/制香", "blurb": "线香合香制作（合规原料）", "keywords": ["制香", "合香", "线香"], "reference": "https://baike.baidu.com/item/制香"}
+{"name_zh": "押花", "name_en": "Pressed flowers", "path": "手作与工艺/花艺香道/押花", "blurb": "压花标本与装饰", "keywords": ["押花", "压花", "标本"], "reference": "https://zh.wikipedia.org/wiki/押花"}
+{"name_zh": "盆景", "name_en": "Penjing / Bonsai", "path": "手作与工艺/花艺香道/盆景", "blurb": "盆景造型与养护", "keywords": ["盆景", "树桩", "山水盆景"], "reference": "https://zh.wikipedia.org/wiki/盆景"}
+{"name_zh": "花艺", "name_en": "Floral design", "path": "手作与工艺/花艺香道/花艺", "blurb": "插花与花束造型", "keywords": ["花艺", "插花", "花束"], "reference": "https://zh.wikipedia.org/wiki/花艺设计"}
+{"name_zh": "手工皂", "name_en": "Soap making", "path": "手作与工艺/轻手作/手工皂", "blurb": "手工皂皂化与配方安全制作", "keywords": ["手工皂", "皂基", "爱好"], "reference": "https://en.wikipedia.org/wiki/Soap_making"}
+{"name_zh": "粘土手作", "name_en": "Clay craft", "path": "手作与工艺/轻手作/粘土手作", "blurb": "超轻土与树脂粘土造型", "keywords": ["粘土", "超轻土", "手作"], "reference": "https://baike.baidu.com/item/超轻粘土"}
+{"name_zh": "首饰制作", "name_en": "Jewelry making", "path": "手作与工艺/轻手作/首饰制作", "blurb": "串珠金属丝与简单金工首饰", "keywords": ["首饰", "串珠", "饰品"], "reference": "https://zh.wikipedia.org/wiki/珠宝设计"}
+{"name_zh": "香薰蜡烛", "name_en": "Candle making", "path": "手作与工艺/轻手作/香薰蜡烛", "blurb": "蜡烛浇注与香氛调配", "keywords": ["蜡烛", "香薰", "手作"], "reference": "https://en.wikipedia.org/wiki/Candle_making"}
+{"name_zh": "开锁兴趣", "name_en": "Lockpicking", "path": "技术与制作/动手技艺/开锁兴趣", "blurb": "锁具结构与开锁练习（合法场景）", "keywords": ["锁匠", "lockpicking", "锁具"], "reference": "https://zh.wikipedia.org/wiki/开锁工具"}
+{"name_zh": "汽车改装爱好", "name_en": "Car modding", "path": "技术与制作/动手技艺/汽车改装爱好", "blurb": "合法汽车美容改装交流", "keywords": ["汽车改装", "车友", "改装"], "reference": "https://zh.wikipedia.org/wiki/汽车改装"}
+{"name_zh": "焊接爱好", "name_en": "Hobby welding", "path": "技术与制作/动手技艺/焊接爱好", "blurb": "金属焊接小件制作", "keywords": ["焊接", "电焊", "金属"], "reference": "https://zh.wikipedia.org/wiki/焊接"}
+{"name_zh": "自行车改装", "name_en": "Bicycle wrenching", "path": "技术与制作/动手技艺/自行车改装", "blurb": "自行车保养改装与扳手圈", "keywords": ["自行车改装", "扳手", "保养"], "reference": "https://zh.wikipedia.org/wiki/自行车"}
+{"name_zh": "3D打印", "name_en": "3D printing", "path": "技术与制作/数字制造/3D打印", "blurb": "桌面3D打印建模与切片", "keywords": ["3D打印", "FDM", "建模"], "reference": "https://zh.wikipedia.org/wiki/3D打印"}
+{"name_zh": "CNC爱好", "name_en": "CNC hobby", "path": "技术与制作/数字制造/CNC爱好", "blurb": "桌面CNC切削加工", "keywords": ["CNC", "切削", "数控"], "reference": "https://zh.wikipedia.org/wiki/数控机床"}
+{"name_zh": "无人机竞速", "name_en": "FPV racing", "path": "技术与制作/数字制造/无人机竞速", "blurb": "穿越机竞速飞行", "keywords": ["穿越机", "FPV", "竞速"], "reference": "https://zh.wikipedia.org/wiki/第一人称视角飞行"}
+{"name_zh": "无人机航拍", "name_en": "Drone photography", "path": "技术与制作/数字制造/无人机航拍", "blurb": "消费级无人机航拍（合规）", "keywords": ["无人机", "航拍", "无人机航拍"], "reference": "https://zh.wikipedia.org/wiki/无人航空载具"}
+{"name_zh": "激光雕刻", "name_en": "Laser engraving", "path": "技术与制作/数字制造/激光雕刻", "blurb": "桌面激光雕刻切割", "keywords": ["激光", "雕刻", "切割"], "reference": "https://baike.baidu.com/item/激光雕刻"}
+{"name_zh": "航模飞行", "name_en": "Model aircraft", "path": "技术与制作/数字制造/航模飞行", "blurb": "固定翼与穿越机飞行", "keywords": ["航模", "穿越机", "FPV"], "reference": "https://zh.wikipedia.org/wiki/航空模型"}
+{"name_zh": "遥控模型", "name_en": "RC models", "path": "技术与制作/数字制造/遥控模型", "blurb": "遥控车飞机船模操控", "keywords": ["遥控", "航模", "车模"], "reference": "https://zh.wikipedia.org/wiki/遥控模型"}
+{"name_zh": "业余无线电", "name_en": "Amateur radio", "path": "技术与制作/无线电电子/业余无线电", "blurb": "业余电台通联与执照考试", "keywords": ["业余无线电", "HAM", "通联"], "reference": "https://zh.wikipedia.org/wiki/业余无线电"}
+{"name_zh": "单片机开发", "name_en": "Microcontroller hobby", "path": "技术与制作/无线电电子/单片机开发", "blurb": "Arduino等嵌入式爱好向", "keywords": ["单片机", "Arduino", "嵌入式"], "reference": "https://zh.wikipedia.org/wiki/单片机"}
+{"name_zh": "无线电测向", "name_en": "ARDF", "path": "技术与制作/无线电电子/无线电测向", "blurb": "业余无线电测向运动", "keywords": ["测向", "ARDF", "无线电"], "reference": "https://zh.wikipedia.org/wiki/无线电测向"}
+{"name_zh": "树莓派玩机", "name_en": "Raspberry Pi", "path": "技术与制作/无线电电子/树莓派玩机", "blurb": "树莓派家庭服务器与玩机", "keywords": ["树莓派", "Raspberry Pi", "树莓派玩机"], "reference": "https://zh.wikipedia.org/wiki/树莓派"}
+{"name_zh": "电子制作", "name_en": "Electronics hobby", "path": "技术与制作/无线电电子/电子制作", "blurb": "电路焊接与单片机小制作", "keywords": ["电子制作", "焊接", "单片机"], "reference": "https://zh.wikipedia.org/wiki/电子学"}
+{"name_zh": "短波收听", "name_en": "Shortwave listening", "path": "技术与制作/无线电电子/短波收听", "blurb": "短波广播收听与日志", "keywords": ["短波", "SWL", "收听"], "reference": "https://en.wikipedia.org/wiki/Shortwave_listening"}
+{"name_zh": "开源硬件", "name_en": "Open-source hardware", "path": "技术与制作/软件动手/开源硬件", "blurb": "开源硬件组装与固件折腾", "keywords": ["开源硬件", "OSH", "固件"], "reference": "https://zh.wikipedia.org/wiki/开源硬件"}
+{"name_zh": "智能家居折腾", "name_en": "Smart home", "path": "技术与制作/软件动手/智能家居折腾", "blurb": "家庭自动化与Home Assistant", "keywords": ["智能家居", "HomeAssistant", "自动化"], "reference": "https://zh.wikipedia.org/wiki/家庭自动化"}
+{"name_zh": "机械键盘客制化", "name_en": "Custom mechanical keyboard", "path": "技术与制作/软件动手/机械键盘客制化", "blurb": "轴体键帽客制化组装", "keywords": ["机械键盘", "客制化", "轴体"], "reference": "https://baike.baidu.com/item/机械键盘"}
+{"name_zh": "程序设计", "name_en": "Programming hobby", "path": "技术与制作/软件动手/程序设计", "blurb": "编程自学与开源贡献（爱好向）", "keywords": ["编程", "程序设计", "开源"], "reference": "https://zh.wikipedia.org/wiki/程序设计"}
+{"name_zh": "相机收藏", "name_en": "Camera collecting", "path": "收藏与鉴赏/器材收藏/相机收藏", "blurb": "经典相机机身镜头集藏", "keywords": ["相机收藏", "旁轴", "胶片机"], "reference": "https://baike.baidu.com/item/相机收藏"}
+{"name_zh": "古着", "name_en": "Vintage clothing", "path": "收藏与鉴赏/文创物件/古着", "blurb": "古着服饰淘选与搭配", "keywords": ["古着", "vintage", "二手衣"], "reference": "https://zh.wikipedia.org/wiki/古着"}
+{"name_zh": "徽章收藏", "name_en": "Pin collecting", "path": "收藏与鉴赏/文创物件/徽章收藏", "blurb": "纪念章与谷子徽章集藏", "keywords": ["徽章", "谷子", "吧唧"], "reference": "https://baike.baidu.com/item/徽章"}
+{"name_zh": "手办收藏", "name_en": "Figure collecting", "path": "收藏与鉴赏/文创物件/手办收藏", "blurb": "动漫手办景品集藏展示", "keywords": ["手办", "景品", "figure"], "reference": "https://baike.baidu.com/item/手办"}
+{"name_zh": "手表收藏", "name_en": "Watch collecting", "path": "收藏与鉴赏/文创物件/手表收藏", "blurb": "机械表腕表鉴赏集藏", "keywords": ["腕表", "机械表", "表友"], "reference": "https://baike.baidu.com/item/手表收藏"}
+{"name_zh": "漫画单行本收藏", "name_en": "Comic collecting", "path": "收藏与鉴赏/文创物件/漫画单行本收藏", "blurb": "漫画书刊版本集藏", "keywords": ["漫画收藏", "单行本", "漫画单行本收藏"], "reference": "https://en.wikipedia.org/wiki/Comic_book_collecting"}
+{"name_zh": "谷子收藏", "name_en": "Anime merch collecting", "path": "收藏与鉴赏/文创物件/谷子收藏", "blurb": "动漫周边谷子集藏", "keywords": ["谷子", "周边", "吧唧"], "reference": "https://baike.baidu.com/item/谷子_(二次元)"}
+{"name_zh": "钢笔收藏", "name_en": "Fountain pen collecting", "path": "收藏与鉴赏/文创物件/钢笔收藏", "blurb": "钢笔笔尖与墨水集藏", "keywords": ["钢笔", "笔尖", "墨水"], "reference": "https://baike.baidu.com/item/钢笔收藏"}
+{"name_zh": "黑胶唱片收藏", "name_en": "Vinyl collecting", "path": "收藏与鉴赏/文创物件/黑胶唱片收藏", "blurb": "黑胶碟片集藏与听感", "keywords": ["黑胶", "LP", "唱片"], "reference": "https://zh.wikipedia.org/wiki/黑胶唱片"}
+{"name_zh": "印章收藏", "name_en": "Seal collecting", "path": "收藏与鉴赏/文玩古董/印章收藏", "blurb": "名家印章印谱集藏", "keywords": ["印章", "印谱", "印章收藏"], "reference": "https://zh.wikipedia.org/wiki/印章"}
+{"name_zh": "古董鉴赏", "name_en": "Antiques", "path": "收藏与鉴赏/文玩古董/古董鉴赏", "blurb": "古董器物鉴赏与交流", "keywords": ["古董", "文玩", "器物"], "reference": "https://zh.wikipedia.org/wiki/古董"}
+{"name_zh": "玉石鉴赏", "name_en": "Jade appreciation", "path": "收藏与鉴赏/文玩古董/玉石鉴赏", "blurb": "玉器把玩与材质鉴赏", "keywords": ["玉石", "和田玉", "把玩"], "reference": "https://zh.wikipedia.org/wiki/玉"}
+{"name_zh": "紫砂壶", "name_en": "Yixing teapot", "path": "收藏与鉴赏/文玩古董/紫砂壶", "blurb": "紫砂壶壶型泥料鉴赏", "keywords": ["紫砂", "紫砂壶", "宜兴"], "reference": "https://zh.wikipedia.org/wiki/紫砂"}
+{"name_zh": "茶宠", "name_en": "Tea pet", "path": "收藏与鉴赏/文玩古董/茶宠", "blurb": "茶宠紫砂小件把玩", "keywords": ["茶宠", "紫砂", "把玩"], "reference": "https://zh.wikipedia.org/wiki/茶宠"}
+{"name_zh": "香道", "name_en": "Incense ceremony", "path": "收藏与鉴赏/文玩古董/香道", "blurb": "品香与香席礼仪", "keywords": ["香道", "品香", "香席"], "reference": "https://zh.wikipedia.org/wiki/香道"}
+{"name_zh": "Postcrossing", "name_en": "Postcrossing", "path": "收藏与鉴赏/纸品票证/Postcrossing", "blurb": "全球随机明信片互换", "keywords": ["Postcrossing", "明信片互换", "爱好"], "reference": "https://zh.wikipedia.org/wiki/Postcrossing"}
+{"name_zh": "图书收藏", "name_en": "Bibliophilia", "path": "收藏与鉴赏/纸品票证/图书收藏", "blurb": "版本书与藏书票集藏", "keywords": ["藏书", "版本", "藏书票"], "reference": "https://zh.wikipedia.org/wiki/藏书"}
+{"name_zh": "地图收藏", "name_en": "Map collecting", "path": "收藏与鉴赏/纸品票证/地图收藏", "blurb": "古今地图集藏", "keywords": ["地图", "地图收藏", "爱好"], "reference": "https://zh.wikipedia.org/wiki/地图"}
+{"name_zh": "明信片收藏", "name_en": "Postcard collecting", "path": "收藏与鉴赏/纸品票证/明信片收藏", "blurb": "明信片交换与专题集藏", "keywords": ["明信片", "邮资片", "明信片收藏"], "reference": "https://zh.wikipedia.org/wiki/Postcrossing"}
+{"name_zh": "票根收藏", "name_en": "Ticket stub collecting", "path": "收藏与鉴赏/纸品票证/票根收藏", "blurb": "电影车票等票根集藏", "keywords": ["票根", "纪念票", "票根收藏"], "reference": "https://baike.baidu.com/item/票根"}
+{"name_zh": "钱币收藏", "name_en": "Numismatics", "path": "收藏与鉴赏/纸品票证/钱币收藏", "blurb": "古今钱币集藏鉴赏", "keywords": ["钱币", "古钱", "纸币"], "reference": "https://zh.wikipedia.org/wiki/钱币学"}
+{"name_zh": "集邮", "name_en": "Philately", "path": "收藏与鉴赏/纸品票证/集邮", "blurb": "邮票集藏与邮展交流", "keywords": ["集邮", "邮票", "邮展"], "reference": "https://zh.wikipedia.org/wiki/集邮"}
+{"name_zh": "化石收藏", "name_en": "Fossil collecting", "path": "收藏与鉴赏/自然标本/化石收藏", "blurb": "化石标本采集与鉴赏", "keywords": ["化石", "标本", "化石收藏"], "reference": "https://en.wikipedia.org/wiki/Fossil_collecting"}
+{"name_zh": "矿物标本", "name_en": "Mineral collecting", "path": "收藏与鉴赏/自然标本/矿物标本", "blurb": "矿物晶体标本集藏", "keywords": ["矿物", "晶体", "标本"], "reference": "https://en.wikipedia.org/wiki/Mineral_collecting"}
+{"name_zh": "贝壳收藏", "name_en": "Seashell collecting", "path": "收藏与鉴赏/自然标本/贝壳收藏", "blurb": "海贝标本集藏", "keywords": ["贝壳", "海螺", "标本"], "reference": "https://zh.wikipedia.org/wiki/贝壳"}
+{"name_zh": "博物馆参观", "name_en": "Museum visiting", "path": "旅行与地方探索/地方探索/博物馆参观", "blurb": "博物馆展览系统参观", "keywords": ["博物馆", "展览", "策展"], "reference": "https://zh.wikipedia.org/wiki/博物馆"}
+{"name_zh": "古建筑探访", "name_en": "Historic architecture", "path": "旅行与地方探索/地方探索/古建筑探访", "blurb": "古建园林与乡土建筑探访", "keywords": ["古建", "园林", "乡土建筑"], "reference": "https://zh.wikipedia.org/wiki/中国古代建筑"}
+{"name_zh": "古镇漫游", "name_en": "Historic town wandering", "path": "旅行与地方探索/地方探索/古镇漫游", "blurb": "古镇老街慢游", "keywords": ["古镇", "老街", "慢游"], "reference": "https://baike.baidu.com/item/古镇"}
+{"name_zh": "地理寻宝", "name_en": "Geocaching", "path": "旅行与地方探索/地方探索/地理寻宝", "blurb": "GPS地理藏宝寻找游戏", "keywords": ["geocaching", "寻宝", "GPS"], "reference": "https://zh.wikipedia.org/wiki/地理藏宝"}
+{"name_zh": "城市漫步", "name_en": "City walk", "path": "旅行与地方探索/地方探索/城市漫步", "blurb": "城市街区无目的漫游观察", "keywords": ["城市漫步", "citywalk", "街区"], "reference": "https://baike.baidu.com/item/Citywalk"}
+{"name_zh": "徒步穿越", "name_en": "Thru-hiking", "path": "旅行与地方探索/地方探索/徒步穿越", "blurb": "长距离步道穿越", "keywords": ["穿越", "步道", "长距徒步"], "reference": "https://zh.wikipedia.org/wiki/徒步旅行"}
+{"name_zh": "摄影旅行", "name_en": "Photo travel", "path": "旅行与地方探索/地方探索/摄影旅行", "blurb": "以摄影主题规划的旅行", "keywords": ["摄旅", "采风", "摄影点"], "reference": "https://baike.baidu.com/item/摄影旅游"}
+{"name_zh": "房车旅行", "name_en": "RV travel", "path": "旅行与地方探索/旅行方式/房车旅行", "blurb": "房车营地旅行", "keywords": ["房车", "RV", "营地"], "reference": "https://zh.wikipedia.org/wiki/休旅车"}
+{"name_zh": "旅行", "name_en": "Travel", "path": "旅行与地方探索/旅行方式/旅行", "blurb": "以探索为目的的旅行规划实践", "keywords": ["旅行", "出行", "旅途"], "reference": "https://zh.wikipedia.org/wiki/旅行"}
+{"name_zh": "沙发客", "name_en": "Couchsurfing", "path": "旅行与地方探索/旅行方式/沙发客", "blurb": "换住沙发旅行社交", "keywords": ["沙发客", "couchsurfing", "换住"], "reference": "https://zh.wikipedia.org/wiki/沙发冲浪"}
+{"name_zh": "温泉旅行", "name_en": "Hot spring travel", "path": "旅行与地方探索/旅行方式/温泉旅行", "blurb": "温泉目的地旅行体验", "keywords": ["温泉", "汤宿", "旅行"], "reference": "https://zh.wikipedia.org/wiki/温泉"}
+{"name_zh": "火车旅行", "name_en": "Train travel", "path": "旅行与地方探索/旅行方式/火车旅行", "blurb": "铁路线路与火车旅体验", "keywords": ["火车旅行", "慢火车", "线路"], "reference": "https://zh.wikipedia.org/wiki/铁路旅行"}
+{"name_zh": "背包旅行", "name_en": "Backpacking", "path": "旅行与地方探索/旅行方式/背包旅行", "blurb": "轻装背包长线旅行", "keywords": ["背包客", "backpacking", "穷游"], "reference": "https://zh.wikipedia.org/wiki/背包旅行"}
+{"name_zh": "自驾游", "name_en": "Road trip", "path": "旅行与地方探索/旅行方式/自驾游", "blurb": "公路自驾与营地停靠", "keywords": ["自驾", "公路旅行", "房车"], "reference": "https://zh.wikipedia.org/wiki/公路旅行"}
+{"name_zh": "骑行旅行", "name_en": "Bicycle touring", "path": "旅行与地方探索/旅行方式/骑行旅行", "blurb": "长途骑行旅行与装备", "keywords": ["骑行旅行", "川藏线", "自行车旅行"], "reference": "https://zh.wikipedia.org/wiki/自行车旅行"}
+{"name_zh": "万智牌", "name_en": "Magic: The Gathering", "path": "棋牌与益智/桌游卡牌/万智牌", "blurb": "万智牌构筑与本地赛", "keywords": ["万智牌", "MTG", "爱好"], "reference": "https://zh.wikipedia.org/wiki/魔法风云会"}
+{"name_zh": "剧本杀", "name_en": "Murder mystery game", "path": "棋牌与益智/桌游卡牌/剧本杀", "blurb": "线下剧本推理扮演", "keywords": ["剧本杀", "推理", "DM"], "reference": "https://baike.baidu.com/item/剧本杀"}
+{"name_zh": "卡牌游戏", "name_en": "Trading card games", "path": "棋牌与益智/桌游卡牌/卡牌游戏", "blurb": "集换与构筑式卡牌对战", "keywords": ["卡牌", "TCG", "集换"], "reference": "https://zh.wikipedia.org/wiki/集换式卡牌游戏"}
+{"name_zh": "桌游", "name_en": "Board games", "path": "棋牌与益智/桌游卡牌/桌游", "blurb": "现代桌面游戏开盒与局戏", "keywords": ["桌游", "boardgame", "德式"], "reference": "https://zh.wikipedia.org/wiki/图版游戏"}
+{"name_zh": "桌游设计", "name_en": "Board game design", "path": "棋牌与益智/桌游卡牌/桌游设计", "blurb": "业余桌游机制设计试玩", "keywords": ["桌游设计", "机制", "试玩"], "reference": "https://zh.wikipedia.org/wiki/图版游戏"}
+{"name_zh": "五子棋", "name_en": "Gomoku", "path": "棋牌与益智/棋类/五子棋", "blurb": "五子棋与连珠规则对局", "keywords": ["五子棋", "连珠", "爱好"], "reference": "https://zh.wikipedia.org/wiki/五子棋"}
+{"name_zh": "军棋", "name_en": "Land battle chess", "path": "棋牌与益智/棋类/军棋", "blurb": "军棋暗棋对局", "keywords": ["军棋", "陆战棋", "暗棋"], "reference": "https://zh.wikipedia.org/wiki/军棋"}
+{"name_zh": "双陆棋", "name_en": "Backgammon", "path": "棋牌与益智/棋类/双陆棋", "blurb": "双陆棋对局", "keywords": ["双陆棋", "backgammon", "骰子"], "reference": "https://zh.wikipedia.org/wiki/双陆棋"}
+{"name_zh": "四国军棋", "name_en": "Four-player army chess", "path": "棋牌与益智/棋类/四国军棋", "blurb": "四人军棋联盟对局", "keywords": ["四国军棋", "军棋", "联盟"], "reference": "https://zh.wikipedia.org/wiki/四国军棋"}
+{"name_zh": "围棋", "name_en": "Go", "path": "棋牌与益智/棋类/围棋", "blurb": "围空对局与死活研究", "keywords": ["围棋", "对弈", "段位"], "reference": "https://zh.wikipedia.org/wiki/围棋"}
+{"name_zh": "国际象棋", "name_en": "Chess", "path": "棋牌与益智/棋类/国际象棋", "blurb": "国际象棋开局与对局", "keywords": ["国际象棋", "chess", "爱好"], "reference": "https://zh.wikipedia.org/wiki/国际象棋"}
+{"name_zh": "日本将棋", "name_en": "Shogi", "path": "棋牌与益智/棋类/日本将棋", "blurb": "将棋对局与定迹学习", "keywords": ["将棋", "shogi", "日本将棋"], "reference": "https://zh.wikipedia.org/wiki/将棋"}
+{"name_zh": "象棋", "name_en": "Xiangqi", "path": "棋牌与益智/棋类/象棋", "blurb": "中国象棋对局与残局", "keywords": ["象棋", "中国象棋", "爱好"], "reference": "https://zh.wikipedia.org/wiki/中国象棋"}
+{"name_zh": "升级", "name_en": "Sheng Ji", "path": "棋牌与益智/牌类/升级", "blurb": "中国升级扑克伙伴对局", "keywords": ["升级", "拖拉机", "扑克"], "reference": "https://baike.baidu.com/item/升级"}
+{"name_zh": "扑克", "name_en": "Poker", "path": "棋牌与益智/牌类/扑克", "blurb": "德州扑克等牌技娱乐（守法）", "keywords": ["扑克", "德州", "牌技"], "reference": "https://zh.wikipedia.org/wiki/扑克"}
+{"name_zh": "掼蛋", "name_en": "Guandan", "path": "棋牌与益智/牌类/掼蛋", "blurb": "掼蛋伙伴制牌类对局", "keywords": ["掼蛋", "牌类", "升级变体"], "reference": "https://zh.wikipedia.org/wiki/掼蛋"}
+{"name_zh": "桥牌", "name_en": "Contract bridge", "path": "棋牌与益智/牌类/桥牌", "blurb": "定约桥牌叫牌与打牌", "keywords": ["桥牌", "定约桥牌", "爱好"], "reference": "https://zh.wikipedia.org/wiki/定约桥牌"}
+{"name_zh": "麻将", "name_en": "Mahjong", "path": "棋牌与益智/牌类/麻将", "blurb": "国标与地方规则麻将娱乐", "keywords": ["麻将", "国标麻将", "爱好"], "reference": "https://zh.wikipedia.org/wiki/麻将"}
+{"name_zh": "填字游戏", "name_en": "Crossword", "path": "棋牌与益智/益智解谜/填字游戏", "blurb": "中英文填字与谜题", "keywords": ["填字", "crossword", "填字游戏"], "reference": "https://zh.wikipedia.org/wiki/填字游戏"}
+{"name_zh": "密室逃脱", "name_en": "Escape room", "path": "棋牌与益智/益智解谜/密室逃脱", "blurb": "主题密室解谜与机关体验", "keywords": ["密室", "逃脱", "解谜"], "reference": "https://zh.wikipedia.org/wiki/密室逃脱"}
+{"name_zh": "拼图", "name_en": "Jigsaw puzzle", "path": "棋牌与益智/益智解谜/拼图", "blurb": "纸质拼图拼装收藏", "keywords": ["拼图", "jigsaw", "爱好"], "reference": "https://zh.wikipedia.org/wiki/拼图"}
+{"name_zh": "数独", "name_en": "Sudoku", "path": "棋牌与益智/益智解谜/数独", "blurb": "数独填数与变体练习", "keywords": ["数独", "sudoku", "爱好"], "reference": "https://zh.wikipedia.org/wiki/数独"}
+{"name_zh": "花切", "name_en": "Cardistry", "path": "棋牌与益智/益智解谜/花切", "blurb": "扑克花切手法练习", "keywords": ["花切", "cardistry", "手法"], "reference": "https://zh.wikipedia.org/wiki/花切"}
+{"name_zh": "魔方", "name_en": "Rubik's Cube", "path": "棋牌与益智/益智解谜/魔方", "blurb": "速拧与异形魔方练习", "keywords": ["魔方", "速拧", "CFOP"], "reference": "https://zh.wikipedia.org/wiki/魔方"}
+{"name_zh": "VR游戏", "name_en": "VR gaming", "path": "游戏与电子娱乐/电子游戏/VR游戏", "blurb": "头显虚拟现实游戏体验", "keywords": ["VR", "头显", "虚拟现实"], "reference": "https://zh.wikipedia.org/wiki/虚拟现实游戏"}
+{"name_zh": "复古游戏", "name_en": "Retro gaming", "path": "游戏与电子娱乐/电子游戏/复古游戏", "blurb": "红白机街机等复古游玩", "keywords": ["复古游戏", "FC", "街机"], "reference": "https://zh.wikipedia.org/wiki/复古游戏"}
+{"name_zh": "手机游戏", "name_en": "Mobile gaming", "path": "游戏与电子娱乐/电子游戏/手机游戏", "blurb": "手游娱乐与开荒交流", "keywords": ["手游", "手机游戏", "爱好"], "reference": "https://zh.wikipedia.org/wiki/手机游戏"}
+{"name_zh": "格斗游戏", "name_en": "Fighting games", "path": "游戏与电子娱乐/电子游戏/格斗游戏", "blurb": "格斗对战连招练习", "keywords": ["格斗游戏", "格斗", "连招"], "reference": "https://zh.wikipedia.org/wiki/格斗游戏"}
+{"name_zh": "模拟经营游戏", "name_en": "Simulation games", "path": "游戏与电子娱乐/电子游戏/模拟经营游戏", "blurb": "模拟经营建造类游戏", "keywords": ["模拟经营", "建造", "模拟器"], "reference": "https://zh.wikipedia.org/wiki/模拟游戏"}
+{"name_zh": "独立游戏", "name_en": "Indie games", "path": "游戏与电子娱乐/电子游戏/独立游戏", "blurb": "独立游戏发掘与通关评论", "keywords": ["独立游戏", "indie", "通关"], "reference": "https://zh.wikipedia.org/wiki/独立游戏"}
+{"name_zh": "电子游戏", "name_en": "Video gaming", "path": "游戏与电子娱乐/电子游戏/电子游戏", "blurb": "主机PC游戏娱乐", "keywords": ["电子游戏", "主机", "单机"], "reference": "https://zh.wikipedia.org/wiki/电子游戏"}
+{"name_zh": "电子竞技", "name_en": "Esports hobby", "path": "游戏与电子娱乐/电子游戏/电子竞技", "blurb": "业余电竞观赛与排位（非职业）", "keywords": ["电竞", "排位", "FPS"], "reference": "https://zh.wikipedia.org/wiki/电子竞技"}
+{"name_zh": "视觉小说", "name_en": "Visual novel", "path": "游戏与电子娱乐/电子游戏/视觉小说", "blurb": "文字AVG视觉小说游玩", "keywords": ["视觉小说", "AVG", "galgame"], "reference": "https://zh.wikipedia.org/wiki/视觉小说"}
+{"name_zh": "音游", "name_en": "Rhythm games", "path": "游戏与电子娱乐/电子游戏/音游", "blurb": "节奏游戏打歌练习", "keywords": ["音游", "节奏游戏", "打歌"], "reference": "https://zh.wikipedia.org/wiki/音乐游戏"}
+{"name_zh": "LARP", "name_en": "LARP", "path": "游戏与电子娱乐/角色扮演/LARP", "blurb": "真人角色扮演活动", "keywords": ["LARP", "真人扮演", "角色扮演"], "reference": "https://zh.wikipedia.org/wiki/真人角色扮演游戏"}
+{"name_zh": "桌上角色扮演", "name_en": "Tabletop RPG", "path": "游戏与电子娱乐/角色扮演/桌上角色扮演", "blurb": "跑团TRPG主持与扮演", "keywords": ["跑团", "TRPG", "COC", "DND"], "reference": "https://zh.wikipedia.org/wiki/桌上角色扮演游戏"}
+{"name_zh": "BJD娃娃", "name_en": "Ball-jointed doll", "path": "社群文化与亚文化/二次元同人/BJD娃娃", "blurb": "BJD娃娃妆造与摄影", "keywords": ["BJD", "娃娃", "妆造"], "reference": "https://zh.wikipedia.org/wiki/BJD"}
+{"name_zh": "Cosplay", "name_en": "Cosplay", "path": "社群文化与亚文化/二次元同人/Cosplay", "blurb": "角色扮演服装造型与漫展", "keywords": ["Cosplay", "角色扮演", "漫展"], "reference": "https://zh.wikipedia.org/wiki/Cosplay"}
+{"name_zh": "JK制服爱好", "name_en": "JK uniform fashion", "path": "社群文化与亚文化/二次元同人/JK制服爱好", "blurb": "日系制服穿搭交流（成人）", "keywords": ["JK", "制服", "日系"], "reference": "https://baike.baidu.com/item/JK制服"}
+{"name_zh": "Vocaloid", "name_en": "Vocaloid", "path": "社群文化与亚文化/二次元同人/Vocaloid", "blurb": "VOCALOID调教与观赏", "keywords": ["Vocaloid", "初音", "调教"], "reference": "https://zh.wikipedia.org/wiki/VOCALOID"}
+{"name_zh": "动漫追番", "name_en": "Anime fandom", "path": "社群文化与亚文化/二次元同人/动漫追番", "blurb": "动画追番讨论与周边", "keywords": ["追番", "动漫", "二次元"], "reference": "https://zh.wikipedia.org/wiki/动画"}
+{"name_zh": "同人创作", "name_en": "Doujin / Fanwork", "path": "社群文化与亚文化/二次元同人/同人创作", "blurb": "同人绘画小说音乐创作", "keywords": ["同人", "fanart", "同人志"], "reference": "https://zh.wikipedia.org/wiki/同人"}
+{"name_zh": "同人音声", "name_en": "Doujin audio", "path": "社群文化与亚文化/二次元同人/同人音声", "blurb": "同人音声与广播剧聆听创作", "keywords": ["同人音声", "广播剧", "ASMR"], "reference": "https://baike.baidu.com/item/同人音声"}
+{"name_zh": "汉服", "name_en": "Hanfu", "path": "社群文化与亚文化/二次元同人/汉服", "blurb": "汉服形制穿搭与同袍活动", "keywords": ["汉服", "同袍", "形制"], "reference": "https://zh.wikipedia.org/wiki/汉服"}
+{"name_zh": "洛丽塔时尚", "name_en": "Lolita fashion", "path": "社群文化与亚文化/二次元同人/洛丽塔时尚", "blurb": "洛丽塔洋装穿搭社群", "keywords": ["洛丽塔", "Lolita", "洋装"], "reference": "https://zh.wikipedia.org/wiki/Lolita时装"}
+{"name_zh": "特摄爱好", "name_en": "Tokusatsu fandom", "path": "社群文化与亚文化/二次元同人/特摄爱好", "blurb": "假面骑士奥特曼等特摄圈", "keywords": ["特摄", "假面骑士", "奥特曼"], "reference": "https://zh.wikipedia.org/wiki/特摄"}
+{"name_zh": "痛车", "name_en": "Itasha", "path": "社群文化与亚文化/二次元同人/痛车", "blurb": "动漫痛车贴装饰", "keywords": ["痛车", "itasha", "痛贴"], "reference": "https://zh.wikipedia.org/wiki/痛车"}
+{"name_zh": "志愿服务", "name_en": "Volunteering", "path": "社群文化与亚文化/社群活动/志愿服务", "blurb": "公益志愿与社区服务", "keywords": ["志愿", "公益", "NGO"], "reference": "https://zh.wikipedia.org/wiki/志愿服务"}
+{"name_zh": "桌游社群", "name_en": "Board game clubbing", "path": "社群文化与亚文化/社群活动/桌游社群", "blurb": "桌游吧局戏与社团组织", "keywords": ["桌游吧", "社群", "线下"], "reference": "https://zh.wikipedia.org/wiki/图版游戏"}
+{"name_zh": "公交迷", "name_en": "Bus enthusiast", "path": "社群文化与亚文化/迷文化/公交迷", "blurb": "公交线路车辆追踪拍摄", "keywords": ["公交迷", "拍车", "线路"], "reference": "https://zh.wikipedia.org/wiki/公交迷"}
+{"name_zh": "军迷", "name_en": "Military enthusiast", "path": "社群文化与亚文化/迷文化/军迷", "blurb": "军事史装备知识交流（守法）", "keywords": ["军迷", "军事", "装备"], "reference": "https://baike.baidu.com/item/军迷"}
+{"name_zh": "城市探险", "name_en": "Urban exploration", "path": "社群文化与亚文化/迷文化/城市探险", "blurb": "废弃建筑探索（注意安全法律）", "keywords": ["城市探险", "废墟", "urbex"], "reference": "https://zh.wikipedia.org/wiki/都市探险"}
+{"name_zh": "科幻迷", "name_en": "SF fandom", "path": "社群文化与亚文化/迷文化/科幻迷", "blurb": "科幻作品讨论与年会", "keywords": ["科幻迷", "世界科幻大会", "爱好"], "reference": "https://zh.wikipedia.org/wiki/科幻迷"}
+{"name_zh": "航空迷", "name_en": "Aviation enthusiast", "path": "社群文化与亚文化/迷文化/航空迷", "blurb": "飞机摄影与航线追踪", "keywords": ["航空迷", "拍机", "planespotting"], "reference": "https://zh.wikipedia.org/wiki/飞机摄影"}
+{"name_zh": "铁路迷", "name_en": "Railfan", "path": "社群文化与亚文化/迷文化/铁路迷", "blurb": "拍车乘车与线路研究", "keywords": ["铁路迷", "拍车", "铁道"], "reference": "https://zh.wikipedia.org/wiki/铁路迷"}
+{"name_zh": "偶像应援", "name_en": "Idol fandom", "path": "社群文化与亚文化/饭圈文娱/偶像应援", "blurb": "演唱会应援与周边收藏（理性）", "keywords": ["偶像", "应援", "饭圈"], "reference": "https://zh.wikipedia.org/wiki/偶像"}
+{"name_zh": "影迷", "name_en": "Film fandom", "path": "社群文化与亚文化/饭圈文娱/影迷", "blurb": "电影作品向讨论与观影", "keywords": ["影迷", "观影", "电影"], "reference": "https://zh.wikipedia.org/wiki/影迷"}
+{"name_zh": "京剧票友", "name_en": "Peking opera amateur", "path": "表演与舞台/戏剧曲艺/京剧票友", "blurb": "京剧清唱与票友活动", "keywords": ["京剧", "票友", "国粹"], "reference": "https://zh.wikipedia.org/wiki/京剧"}
+{"name_zh": "单口喜剧", "name_en": "Stand-up comedy", "path": "表演与舞台/戏剧曲艺/单口喜剧", "blurb": "开放麦与段子打磨", "keywords": ["单口", "开放麦", "standup"], "reference": "https://zh.wikipedia.org/wiki/单口喜剧"}
+{"name_zh": "即兴喜剧", "name_en": "Improv", "path": "表演与舞台/戏剧曲艺/即兴喜剧", "blurb": "即兴剧场与喜剧练习", "keywords": ["即兴", "improv", "喜剧"], "reference": "https://zh.wikipedia.org/wiki/即兴剧场"}
+{"name_zh": "戏剧表演", "name_en": "Acting", "path": "表演与舞台/戏剧曲艺/戏剧表演", "blurb": "话剧舞台表演练习", "keywords": ["戏剧", "话剧", "表演"], "reference": "https://zh.wikipedia.org/wiki/戏剧"}
+{"name_zh": "昆曲票友", "name_en": "Kunqu amateur", "path": "表演与舞台/戏剧曲艺/昆曲票友", "blurb": "昆曲清唱与曲社", "keywords": ["昆曲", "曲社", "票友"], "reference": "https://zh.wikipedia.org/wiki/昆曲"}
+{"name_zh": "相声", "name_en": "Xiangsheng", "path": "表演与舞台/戏剧曲艺/相声", "blurb": "相声捧逗与贯口练习", "keywords": ["相声", "曲艺", "贯口"], "reference": "https://zh.wikipedia.org/wiki/相声"}
+{"name_zh": "舞龙舞狮", "name_en": "Dragon lion dance", "path": "表演与舞台/民俗表演/舞龙舞狮", "blurb": "舞龙舞狮排练与节庆演出", "keywords": ["舞龙", "舞狮", "节庆"], "reference": "https://zh.wikipedia.org/wiki/舞龙"}
+{"name_zh": "演讲", "name_en": "Public speaking", "path": "表演与舞台/演说/演讲", "blurb": "公众演讲与吐司大师等俱乐部", "keywords": ["演讲", "toastmasters", "口才"], "reference": "https://zh.wikipedia.org/wiki/演讲"}
+{"name_zh": "辩论", "name_en": "Debate", "path": "表演与舞台/演说/辩论", "blurb": "议会制与美式辩论练习", "keywords": ["辩论", "议辩", "辩手"], "reference": "https://zh.wikipedia.org/wiki/辩论"}
+{"name_zh": "配音", "name_en": "Voice acting", "path": "表演与舞台/演说/配音", "blurb": "业余配音与广播剧", "keywords": ["配音", "CV", "广播剧"], "reference": "https://zh.wikipedia.org/wiki/配音演员"}
+{"name_zh": "中国古典舞", "name_en": "Chinese classical dance", "path": "表演与舞台/舞蹈/中国古典舞", "blurb": "身韵与古典舞剧目", "keywords": ["古典舞", "身韵", "剧目"], "reference": "https://zh.wikipedia.org/wiki/中国古典舞"}
+{"name_zh": "广场舞", "name_en": "Square dancing", "path": "表演与舞台/舞蹈/广场舞", "blurb": "广场群体舞蹈健身娱乐", "keywords": ["广场舞", "坝坝舞", "群体舞"], "reference": "https://zh.wikipedia.org/wiki/广场舞"}
+{"name_zh": "拉丁舞", "name_en": "Latin dance", "path": "表演与舞台/舞蹈/拉丁舞", "blurb": "伦巴恰恰等拉丁社交舞", "keywords": ["拉丁舞", "恰恰", "伦巴"], "reference": "https://zh.wikipedia.org/wiki/拉丁舞"}
+{"name_zh": "摩登舞", "name_en": "Ballroom dance", "path": "表演与舞台/舞蹈/摩登舞", "blurb": "华尔兹等摩登交谊舞", "keywords": ["摩登舞", "华尔兹", "交谊舞"], "reference": "https://zh.wikipedia.org/wiki/国际标准舞"}
+{"name_zh": "民族舞", "name_en": "Folk dance", "path": "表演与舞台/舞蹈/民族舞", "blurb": "各民族民间舞练习", "keywords": ["民族舞", "民间舞", "舞蹈"], "reference": "https://zh.wikipedia.org/wiki/民间舞蹈"}
+{"name_zh": "肚皮舞", "name_en": "Belly dance", "path": "表演与舞台/舞蹈/肚皮舞", "blurb": "肚皮舞律动与表演", "keywords": ["肚皮舞", "东方舞", "律动"], "reference": "https://zh.wikipedia.org/wiki/肚皮舞"}
+{"name_zh": "芭蕾", "name_en": "Ballet", "path": "表演与舞台/舞蹈/芭蕾", "blurb": "芭蕾基训与剧目", "keywords": ["芭蕾", "基训", "剧目"], "reference": "https://zh.wikipedia.org/wiki/芭蕾舞"}
+{"name_zh": "街舞", "name_en": "Street dance", "path": "表演与舞台/舞蹈/街舞", "blurb": "Hip-hop等街舞风格练习", "keywords": ["街舞", "hiphop", "breaking"], "reference": "https://zh.wikipedia.org/wiki/街舞"}
+{"name_zh": "钢管舞", "name_en": "Pole dance", "path": "表演与舞台/舞蹈/钢管舞", "blurb": "钢管力量与舞蹈练习（成人向）", "keywords": ["钢管舞", "pole", "力量舞"], "reference": "https://zh.wikipedia.org/wiki/钢管舞"}
+{"name_zh": "杂技", "name_en": "Acrobatics", "path": "表演与舞台/魔术杂技/杂技", "blurb": "柔术平衡等杂技练习", "keywords": ["杂技", "柔术", "平衡"], "reference": "https://zh.wikipedia.org/wiki/杂技"}
+{"name_zh": "魔术", "name_en": "Magic", "path": "表演与舞台/魔术杂技/魔术", "blurb": "近景与舞台魔术练习", "keywords": ["魔术", "近景", "手法"], "reference": "https://zh.wikipedia.org/wiki/魔术"}
+{"name_zh": "伸展放松", "name_en": "Stretching", "path": "身心练习/身心功法/伸展放松", "blurb": "身体柔韧性与放松练习", "keywords": ["拉伸", "柔韧性", "放松"], "reference": "https://zh.wikipedia.org/wiki/伸展运动"}
+{"name_zh": "八段锦", "name_en": "Baduanjin", "path": "身心练习/身心功法/八段锦", "blurb": "八段锦导引健身操", "keywords": ["八段锦", "导引", "养生功"], "reference": "https://zh.wikipedia.org/wiki/八段锦"}
+{"name_zh": "冥想", "name_en": "Meditation", "path": "身心练习/身心功法/冥想", "blurb": "正念冥想与静坐练习", "keywords": ["冥想", "正念", "静坐"], "reference": "https://zh.wikipedia.org/wiki/冥想"}
+{"name_zh": "呼吸练习", "name_en": "Breathwork", "path": "身心练习/身心功法/呼吸练习", "blurb": "系统呼吸法练习交流", "keywords": ["呼吸法", "breathwork", "调息"], "reference": "https://zh.wikipedia.org/wiki/呼吸法"}
+{"name_zh": "普拉提", "name_en": "Pilates", "path": "身心练习/身心功法/普拉提", "blurb": "核心控制与器械练习", "keywords": ["普拉提", "彼拉提斯", "pilates"], "reference": "https://zh.wikipedia.org/wiki/彼拉提斯"}
+{"name_zh": "正念练习", "name_en": "Mindfulness", "path": "身心练习/身心功法/正念练习", "blurb": "日常生活正念觉察训练", "keywords": ["正念", "mindfulness", "正念练习"], "reference": "https://zh.wikipedia.org/wiki/正念"}
+{"name_zh": "气功", "name_en": "Qigong", "path": "身心练习/身心功法/气功", "blurb": "传统气功导引练习", "keywords": ["气功", "导引", "站桩"], "reference": "https://zh.wikipedia.org/wiki/气功"}
+{"name_zh": "瑜伽", "name_en": "Yoga", "path": "身心练习/身心功法/瑜伽", "blurb": "瑜伽体式呼吸与练习", "keywords": ["瑜伽", "yoga", "体式"], "reference": "https://zh.wikipedia.org/wiki/瑜伽"}
+{"name_zh": "站桩", "name_en": "Zhan zhuang", "path": "身心练习/身心功法/站桩", "blurb": "武术站桩静力练习", "keywords": ["站桩", "浑圆桩", "静力"], "reference": "https://zh.wikipedia.org/wiki/站桩"}
+{"name_zh": "芳香疗法爱好", "name_en": "Aromatherapy hobby", "path": "身心练习/身心功法/芳香疗法爱好", "blurb": "精油香气与放松仪式（非医疗宣称）", "keywords": ["芳香", "精油", "香薰"], "reference": "https://zh.wikipedia.org/wiki/芳香疗法"}
+{"name_zh": "悠悠球", "name_en": "Yo-yoing", "path": "运动与户外/其他运动/悠悠球", "blurb": "花式悠悠球技巧练习", "keywords": ["悠悠球", "溜溜球", "yoyo"], "reference": "https://zh.wikipedia.org/wiki/悠悠球"}
+{"name_zh": "抖空竹", "name_en": "Diabolo", "path": "运动与户外/其他运动/抖空竹", "blurb": "空竹抖耍传统杂技向", "keywords": ["空竹", "抖空竹", "杂技"], "reference": "https://zh.wikipedia.org/wiki/空竹"}
+{"name_zh": "毽子", "name_en": "Jianzi", "path": "运动与户外/其他运动/毽子", "blurb": "踢毽子花式与娱乐", "keywords": ["毽子", "踢毽", "花式"], "reference": "https://zh.wikipedia.org/wiki/毽子"}
+{"name_zh": "跳绳", "name_en": "Jump rope", "path": "运动与户外/其他运动/跳绳", "blurb": "花式与耐力跳绳练习", "keywords": ["跳绳", "花式跳绳", "耐力"], "reference": "https://zh.wikipedia.org/wiki/跳绳"}
+{"name_zh": "铁人三项", "name_en": "Triathlon", "path": "运动与户外/其他运动/铁人三项", "blurb": "泳骑跑三项训练与赛事", "keywords": ["铁三", "triathlon", "三项"], "reference": "https://zh.wikipedia.org/wiki/铁人三项"}
+{"name_zh": "风筝", "name_en": "Kite flying", "path": "运动与户外/其他运动/风筝", "blurb": "传统与特技风筝放飞", "keywords": ["风筝", "放鸢", "特技风筝"], "reference": "https://zh.wikipedia.org/wiki/风筝"}
+{"name_zh": "飞盘", "name_en": "Flying disc", "path": "运动与户外/其他运动/飞盘", "blurb": "飞盘抛接与终极飞盘", "keywords": ["飞盘", "ultimate", "极限飞盘"], "reference": "https://zh.wikipedia.org/wiki/飞盘"}
+{"name_zh": "马术", "name_en": "Equestrianism", "path": "运动与户外/其他运动/马术", "blurb": "骑马训练与马场护理", "keywords": ["马术", "骑马", "马场"], "reference": "https://zh.wikipedia.org/wiki/马术"}
+{"name_zh": "冰壶", "name_en": "Curling", "path": "运动与户外/冰雪/冰壶", "blurb": "冰壶投掷与扫冰体验", "keywords": ["冰壶", "curling", "扫冰"], "reference": "https://zh.wikipedia.org/wiki/冰壶"}
+{"name_zh": "冰球", "name_en": "Ice hockey", "path": "运动与户外/冰雪/冰球", "blurb": "业余冰球对抗与滑冰射门", "keywords": ["冰球", "hockey", "爱好"], "reference": "https://zh.wikipedia.org/wiki/冰球"}
+{"name_zh": "滑冰", "name_en": "Ice skating", "path": "运动与户外/冰雪/滑冰", "blurb": "冰场滑行与花样入门", "keywords": ["滑冰", "冰场", "花样滑冰"], "reference": "https://zh.wikipedia.org/wiki/滑冰"}
+{"name_zh": "滑雪", "name_en": "Skiing", "path": "运动与户外/冰雪/滑雪", "blurb": "双板单板滑雪与雪场练习", "keywords": ["滑雪", "雪场", "单板"], "reference": "https://zh.wikipedia.org/wiki/滑雪"}
+{"name_zh": "健美", "name_en": "Bodybuilding", "path": "运动与户外/力量体能/健美", "blurb": "健美塑形与训练饮食交流", "keywords": ["健美", "塑形", "增肌"], "reference": "https://zh.wikipedia.org/wiki/健美"}
+{"name_zh": "健身", "name_en": "Fitness training", "path": "运动与户外/力量体能/健身", "blurb": "力量与体能训练（非岗位教练）", "keywords": ["健身", "力量训练", "撸铁"], "reference": "https://zh.wikipedia.org/wiki/体适能"}
+{"name_zh": "力量举", "name_en": "Powerlifting", "path": "运动与户外/力量体能/力量举", "blurb": "深蹲卧推硬拉三项训练", "keywords": ["力量举", "深蹲", "硬拉"], "reference": "https://zh.wikipedia.org/wiki/健力"}
+{"name_zh": "射击运动", "name_en": "Shooting sports", "path": "运动与户外/射击射箭/射击运动", "blurb": "气枪靶场射击运动", "keywords": ["射击", "气枪", "靶场"], "reference": "https://zh.wikipedia.org/wiki/射击运动"}
+{"name_zh": "射箭", "name_en": "Archery", "path": "运动与户外/射击射箭/射箭", "blurb": "反曲与复合弓靶场练习", "keywords": ["射箭", "反曲弓", "靶场"], "reference": "https://zh.wikipedia.org/wiki/射箭"}
+{"name_zh": "定向越野", "name_en": "Orienteering", "path": "运动与户外/山地户外/定向越野", "blurb": "地图指北针定向赛事", "keywords": ["定向", "orienteering", "指北针"], "reference": "https://zh.wikipedia.org/wiki/定向越野"}
+{"name_zh": "徒步", "name_en": "Hiking", "path": "运动与户外/山地户外/徒步", "blurb": "山径徒步与轻装拉练", "keywords": ["徒步", "hiking", "山径"], "reference": "https://zh.wikipedia.org/wiki/徒步旅行"}
+{"name_zh": "攀岩", "name_en": "Rock climbing", "path": "运动与户外/山地户外/攀岩", "blurb": "室内外抱石与线路攀岩", "keywords": ["攀岩", "抱石", "岩馆"], "reference": "https://zh.wikipedia.org/wiki/攀岩"}
+{"name_zh": "溯溪", "name_en": "River tracing", "path": "运动与户外/山地户外/溯溪", "blurb": "溪谷溯行与瀑布攀爬", "keywords": ["溯溪", "溪降", "canyoning"], "reference": "https://zh.wikipedia.org/wiki/溯溪"}
+{"name_zh": "登山", "name_en": "Mountaineering", "path": "运动与户外/山地户外/登山", "blurb": "登山徒步与高山攀登入门", "keywords": ["登山", "高山", "中登协"], "reference": "https://zh.wikipedia.org/wiki/登山"}
+{"name_zh": "露营", "name_en": "Camping", "path": "运动与户外/山地户外/露营", "blurb": "帐篷营地过夜与装备交流", "keywords": ["露营", "营地", "帐篷"], "reference": "https://zh.wikipedia.org/wiki/露营"}
+{"name_zh": "中国武术", "name_en": "Chinese martial arts", "path": "运动与户外/武术格斗/中国武术", "blurb": "传统武术套路与功法练习", "keywords": ["武术", "功夫", "套路"], "reference": "https://zh.wikipedia.org/wiki/中国武术"}
+{"name_zh": "八卦掌", "name_en": "Baguazhang", "path": "运动与户外/武术格斗/八卦掌", "blurb": "八卦掌走圈练习", "keywords": ["八卦掌", "走圈", "转掌"], "reference": "https://zh.wikipedia.org/wiki/八卦掌"}
+{"name_zh": "击剑", "name_en": "Fencing", "path": "运动与户外/武术格斗/击剑", "blurb": "花剑重剑佩剑业余练习", "keywords": ["击剑", "花剑", "fencing"], "reference": "https://zh.wikipedia.org/wiki/击剑"}
+{"name_zh": "咏春拳", "name_en": "Wing Chun", "path": "运动与户外/武术格斗/咏春拳", "blurb": "咏春拳小念头与木人桩", "keywords": ["咏春", "木人桩", "小念头"], "reference": "https://zh.wikipedia.org/wiki/咏春拳"}
+{"name_zh": "太极剑", "name_en": "Tai chi sword", "path": "运动与户外/武术格斗/太极剑", "blurb": "太极剑套路练习", "keywords": ["太极剑", "剑术", "套路"], "reference": "https://zh.wikipedia.org/wiki/太极剑"}
+{"name_zh": "太极拳", "name_en": "Tai chi", "path": "运动与户外/武术格斗/太极拳", "blurb": "太极推手与拳架练习", "keywords": ["太极", "太极拳", "推手"], "reference": "https://zh.wikipedia.org/wiki/太极拳"}
+{"name_zh": "巴西柔术", "name_en": "Brazilian jiu-jitsu", "path": "运动与户外/武术格斗/巴西柔术", "blurb": "地面缠斗与降服技练习", "keywords": ["巴西柔术", "BJJ", "柔术"], "reference": "https://zh.wikipedia.org/wiki/巴西柔术"}
+{"name_zh": "形意拳", "name_en": "Xingyiquan", "path": "运动与户外/武术格斗/形意拳", "blurb": "形意五行拳练习", "keywords": ["形意拳", "五行拳", "劈拳"], "reference": "https://zh.wikipedia.org/wiki/形意拳"}
+{"name_zh": "拳击", "name_en": "Boxing", "path": "运动与户外/武术格斗/拳击", "blurb": "拳击沙袋与对练", "keywords": ["拳击", "boxing", "沙袋"], "reference": "https://zh.wikipedia.org/wiki/拳击"}
+{"name_zh": "搏击", "name_en": "Kickboxing", "path": "运动与户外/武术格斗/搏击", "blurb": "自由搏击与泰拳馆练习", "keywords": ["搏击", "泰拳", "踢拳"], "reference": "https://zh.wikipedia.org/wiki/踢拳"}
+{"name_zh": "柔道", "name_en": "Judo", "path": "运动与户外/武术格斗/柔道", "blurb": "柔道投技与寝技练习", "keywords": ["柔道", "judo", "爱好"], "reference": "https://zh.wikipedia.org/wiki/柔道"}
+{"name_zh": "空手道", "name_en": "Karate", "path": "运动与户外/武术格斗/空手道", "blurb": "空手道型与组手练习", "keywords": ["空手道", "karate", "爱好"], "reference": "https://zh.wikipedia.org/wiki/空手道"}
+{"name_zh": "跆拳道", "name_en": "Taekwondo", "path": "运动与户外/武术格斗/跆拳道", "blurb": "跆拳道品势与对打", "keywords": ["跆拳道", "品势", "爱好"], "reference": "https://zh.wikipedia.org/wiki/跆拳道"}
+{"name_zh": "冲浪", "name_en": "Surfing", "path": "运动与户外/水上/冲浪", "blurb": "浪板冲浪与海边练习", "keywords": ["冲浪", "浪板", "surfing"], "reference": "https://zh.wikipedia.org/wiki/冲浪"}
+{"name_zh": "帆船", "name_en": "Sailing", "path": "运动与户外/水上/帆船", "blurb": "帆船驾驶与俱乐部出航", "keywords": ["帆船", "航行", "出海"], "reference": "https://zh.wikipedia.org/wiki/帆船"}
+{"name_zh": "桨板", "name_en": "Stand up paddleboarding", "path": "运动与户外/水上/桨板", "blurb": "SUP桨板湖海划行", "keywords": ["桨板", "SUP", "paddle"], "reference": "https://zh.wikipedia.org/wiki/立式划桨"}
+{"name_zh": "游泳", "name_en": "Swimming", "path": "运动与户外/水上/游泳", "blurb": "泳池健身泳与公开水域", "keywords": ["游泳", "泳池", "自由泳"], "reference": "https://zh.wikipedia.org/wiki/游泳"}
+{"name_zh": "潜水", "name_en": "Scuba diving", "path": "运动与户外/水上/潜水", "blurb": "水肺潜水考证与水下探索", "keywords": ["潜水", "水肺", "OW"], "reference": "https://zh.wikipedia.org/wiki/水肺潜水"}
+{"name_zh": "皮划艇", "name_en": "Canoeing", "path": "运动与户外/水上/皮划艇", "blurb": "静水与激流皮划艇划行", "keywords": ["皮划艇", "kayak", "桨"], "reference": "https://zh.wikipedia.org/wiki/皮划艇"}
+{"name_zh": "自由潜水", "name_en": "Freediving", "path": "运动与户外/水上/自由潜水", "blurb": "屏息潜水深度与静水练习", "keywords": ["自由潜", "屏息", "AIDA"], "reference": "https://zh.wikipedia.org/wiki/自由潜水"}
+{"name_zh": "赛艇", "name_en": "Rowing", "path": "运动与户外/水上/赛艇", "blurb": "单桨双桨赛艇训练", "keywords": ["赛艇", "划船", "rowing"], "reference": "https://zh.wikipedia.org/wiki/赛艇"}
+{"name_zh": "跳水", "name_en": "Diving", "path": "运动与户外/水上/跳水", "blurb": "跳台跳板技术练习", "keywords": ["跳水", "跳台", "跳板"], "reference": "https://zh.wikipedia.org/wiki/跳水"}
+{"name_zh": "乒乓球", "name_en": "Table tennis", "path": "运动与户外/球类/乒乓球", "blurb": "业余对打与发球练习", "keywords": ["乒乓球", "桌球", "国球"], "reference": "https://zh.wikipedia.org/wiki/乒乓球"}
+{"name_zh": "保龄球", "name_en": "Bowling", "path": "运动与户外/球类/保龄球", "blurb": "球馆投球与记分练习", "keywords": ["保龄球", "球馆", "爱好"], "reference": "https://zh.wikipedia.org/wiki/保龄球"}
+{"name_zh": "匹克球", "name_en": "Pickleball", "path": "运动与户外/球类/匹克球", "blurb": "新兴小球馆约球与社群", "keywords": ["匹克球", "pickleball", "约球"], "reference": "https://zh.wikipedia.org/wiki/匹克球"}
+{"name_zh": "台球", "name_en": "Cue sports", "path": "运动与户外/球类/台球", "blurb": "中式八球、斯诺克业余练习", "keywords": ["台球", "斯诺克", "中式八球"], "reference": "https://zh.wikipedia.org/wiki/台球"}
+{"name_zh": "垒球", "name_en": "Softball", "path": "运动与户外/球类/垒球", "blurb": "业余垒球联赛与投打练习", "keywords": ["垒球", "慢投", "爱好"], "reference": "https://zh.wikipedia.org/wiki/垒球"}
+{"name_zh": "壁球", "name_en": "Squash", "path": "运动与户外/球类/壁球", "blurb": "壁球馆对打与步法练习", "keywords": ["壁球", "squash", "对打"], "reference": "https://zh.wikipedia.org/wiki/壁球"}
+{"name_zh": "排球", "name_en": "Volleyball", "path": "运动与户外/球类/排球", "blurb": "业余排球与沙滩排球", "keywords": ["排球", "沙滩排球", "扣球"], "reference": "https://zh.wikipedia.org/wiki/排球"}
+{"name_zh": "棒球", "name_en": "Baseball", "path": "运动与户外/球类/棒球", "blurb": "业余棒球打击与守备练习", "keywords": ["棒球", "打击", "垒球"], "reference": "https://zh.wikipedia.org/wiki/棒球"}
+{"name_zh": "橄榄球", "name_en": "Rugby", "path": "运动与户外/球类/橄榄球", "blurb": "业余橄榄球触式与竞赛", "keywords": ["橄榄球", "触式", "Rugby"], "reference": "https://zh.wikipedia.org/wiki/橄榄球"}
+{"name_zh": "毽球", "name_en": "Shuttlecock sport", "path": "运动与户外/球类/毽球", "blurb": "毽球网前竞技", "keywords": ["毽球", "踢毽", "网前"], "reference": "https://zh.wikipedia.org/wiki/毽球"}
+{"name_zh": "气排球", "name_en": "Gas volleyball", "path": "运动与户外/球类/气排球", "blurb": "气排球业余联赛", "keywords": ["气排球", "软式排球", "联赛"], "reference": "https://baike.baidu.com/item/气排球"}
+{"name_zh": "篮球", "name_en": "Basketball", "path": "运动与户外/球类/篮球", "blurb": "业余球场对抗与投篮练习", "keywords": ["篮球", "球场", "三分"], "reference": "https://zh.wikipedia.org/wiki/篮球"}
+{"name_zh": "网球", "name_en": "Tennis", "path": "运动与户外/球类/网球", "blurb": "业余发球对打与俱乐部约球", "keywords": ["网球", "底线", "发球"], "reference": "https://zh.wikipedia.org/wiki/网球"}
+{"name_zh": "羽毛球", "name_en": "Badminton", "path": "运动与户外/球类/羽毛球", "blurb": "业余双打与馆内约球", "keywords": ["羽毛球", "羽球", "约球"], "reference": "https://zh.wikipedia.org/wiki/羽毛球"}
+{"name_zh": "足球", "name_en": "Association football", "path": "运动与户外/球类/足球", "blurb": "业余踢球、看球与草根联赛", "keywords": ["足球", "踢球", "中超"], "reference": "https://zh.wikipedia.org/wiki/足球"}
+{"name_zh": "门球", "name_en": "Gateball", "path": "运动与户外/球类/门球", "blurb": "门球场地击球娱乐", "keywords": ["门球", "gateball", "击球"], "reference": "https://zh.wikipedia.org/wiki/门球"}
+{"name_zh": "高尔夫球", "name_en": "Golf", "path": "运动与户外/球类/高尔夫球", "blurb": "下场打球与练习场挥杆", "keywords": ["高尔夫", "挥杆", "下场"], "reference": "https://zh.wikipedia.org/wiki/高尔夫球"}
+{"name_zh": "超马", "name_en": "Ultramarathon", "path": "运动与户外/路跑与田径/超马", "blurb": "超长距离跑步赛事", "keywords": ["超马", "ultra", "百公里"], "reference": "https://zh.wikipedia.org/wiki/超级马拉松"}
+{"name_zh": "越野跑", "name_en": "Trail running", "path": "运动与户外/路跑与田径/越野跑", "blurb": "山野小径长距离跑步与装备圈", "keywords": ["越野", "山野", "跑山", "UTMB"], "reference": "https://zh.wikipedia.org/wiki/越野跑"}
+{"name_zh": "跑步", "name_en": "Running", "path": "运动与户外/路跑与田径/跑步", "blurb": "路跑、操场跑与大众马拉松备赛交流", "keywords": ["路跑", "马拉松", "慢跑", "田径"], "reference": "https://zh.wikipedia.org/wiki/跑步"}
+{"name_zh": "马拉松", "name_en": "Marathon", "path": "运动与户外/路跑与田径/马拉松", "blurb": "全程半程马拉松备赛完赛", "keywords": ["马拉松", "PB", "完赛"], "reference": "https://zh.wikipedia.org/wiki/马拉松"}
+{"name_zh": "山地自行车", "name_en": "Mountain biking", "path": "运动与户外/骑行轮滑/山地自行车", "blurb": "林道爬坡下坡与车技", "keywords": ["山地车", "MTB", "林道"], "reference": "https://zh.wikipedia.org/wiki/登山自行车"}
+{"name_zh": "滑板", "name_en": "Skateboarding", "path": "运动与户外/骑行轮滑/滑板", "blurb": "板场技巧与街头滑行", "keywords": ["滑板", "skate", "板场"], "reference": "https://zh.wikipedia.org/wiki/滑板运动"}
+{"name_zh": "跑酷", "name_en": "Parkour", "path": "运动与户外/骑行轮滑/跑酷", "blurb": "城市障碍跑跳翻越练习", "keywords": ["跑酷", "parkour", "自由跑"], "reference": "https://zh.wikipedia.org/wiki/跑酷"}
+{"name_zh": "轮滑", "name_en": "Inline skating", "path": "运动与户外/骑行轮滑/轮滑", "blurb": "直排轮滑刷街与速滑", "keywords": ["轮滑", "直排轮", "刷街"], "reference": "https://zh.wikipedia.org/wiki/直排轮滑"}
+{"name_zh": "骑行", "name_en": "Cycling", "path": "运动与户外/骑行轮滑/骑行", "blurb": "公路与通勤骑行训练", "keywords": ["骑行", "公路车", "自行车"], "reference": "https://zh.wikipedia.org/wiki/自行车运动"}
+{"name_zh": "博客写作", "name_en": "Blogging", "path": "阅读写作与知识/写作/博客写作", "blurb": "个人博客长文写作", "keywords": ["博客", "blog", "写作"], "reference": "https://zh.wikipedia.org/wiki/博客"}
+{"name_zh": "小说写作", "name_en": "Fiction writing", "path": "阅读写作与知识/写作/小说写作", "blurb": "小说构思与连载创作", "keywords": ["小说", "写作", "网文"], "reference": "https://zh.wikipedia.org/wiki/创意写作"}
+{"name_zh": "日记手账", "name_en": "Journaling", "path": "阅读写作与知识/写作/日记手账", "blurb": "日记手账与子弹笔记", "keywords": ["手账", "日记", "子弹笔记"], "reference": "https://zh.wikipedia.org/wiki/子弹日记"}
+{"name_zh": "诗歌写作", "name_en": "Poetry writing", "path": "阅读写作与知识/写作/诗歌写作", "blurb": "现代诗与古体诗创作", "keywords": ["诗歌", "写诗", "现代诗"], "reference": "https://zh.wikipedia.org/wiki/诗歌"}
+{"name_zh": "播客", "name_en": "Podcasting", "path": "阅读写作与知识/知识表达/播客", "blurb": "音频节目策划录制", "keywords": ["播客", "podcast", "音频"], "reference": "https://zh.wikipedia.org/wiki/播客"}
+{"name_zh": "百科编辑", "name_en": "Wiki editing", "path": "阅读写作与知识/知识表达/百科编辑", "blurb": "维基百科等条目编辑贡献", "keywords": ["维基", "百科编辑", "志愿"], "reference": "https://zh.wikipedia.org/wiki/维基百科"}
+{"name_zh": "历史研读", "name_en": "History study", "path": "阅读写作与知识/语言人文/历史研读", "blurb": "历史书籍与史料业余研读", "keywords": ["历史", "史料", "研读"], "reference": "https://zh.wikipedia.org/wiki/历史"}
+{"name_zh": "口述历史", "name_en": "Oral history", "path": "阅读写作与知识/语言人文/口述历史", "blurb": "采访记录家族与地方口述史", "keywords": ["口述史", "采访", "地方史"], "reference": "https://zh.wikipedia.org/wiki/口述历史"}
+{"name_zh": "哲学阅读", "name_en": "Philosophy reading", "path": "阅读写作与知识/语言人文/哲学阅读", "blurb": "哲学原著与讨论小组", "keywords": ["哲学", "原著", "思辨"], "reference": "https://zh.wikipedia.org/wiki/哲学"}
+{"name_zh": "家谱研究", "name_en": "Genealogy", "path": "阅读写作与知识/语言人文/家谱研究", "blurb": "族谱家谱与祖先研究", "keywords": ["家谱", "族谱", "genealogy"], "reference": "https://zh.wikipedia.org/wiki/系谱学"}
+{"name_zh": "日语学习", "name_en": "Japanese learning", "path": "阅读写作与知识/语言人文/日语学习", "blurb": "日语自学与JLPT备考交流", "keywords": ["日语", "五十音", "JLPT"], "reference": "https://zh.wikipedia.org/wiki/日语"}
+{"name_zh": "英语学习", "name_en": "English learning", "path": "阅读写作与知识/语言人文/英语学习", "blurb": "英语听说读写爱好向精进", "keywords": ["英语", "自学英语", "英语学习"], "reference": "https://zh.wikipedia.org/wiki/英语"}
+{"name_zh": "语言学习", "name_en": "Language learning", "path": "阅读写作与知识/语言人文/语言学习", "blurb": "外语自学与语伴练习", "keywords": ["语言学习", "外语", "语伴"], "reference": "https://zh.wikipedia.org/wiki/第二语言习得"}
+{"name_zh": "推理小说阅读", "name_en": "Mystery reading", "path": "阅读写作与知识/阅读/推理小说阅读", "blurb": "本格与社会派推理阅读", "keywords": ["推理", "本格", "侦探小说"], "reference": "https://zh.wikipedia.org/wiki/推理小说"}
+{"name_zh": "科幻阅读", "name_en": "SF reading", "path": "阅读写作与知识/阅读/科幻阅读", "blurb": "科幻小说专题阅读", "keywords": ["科幻", "SF", "小说"], "reference": "https://zh.wikipedia.org/wiki/科幻"}
+{"name_zh": "读书会", "name_en": "Book club", "path": "阅读写作与知识/阅读/读书会", "blurb": "线下线上共读讨论", "keywords": ["读书会", "共读", "书友"], "reference": "https://zh.wikipedia.org/wiki/读书会"}
+{"name_zh": "阅读", "name_en": "Reading", "path": "阅读写作与知识/阅读/阅读", "blurb": "书籍阅读与书单交流", "keywords": ["阅读", "读书", "书单"], "reference": "https://zh.wikipedia.org/wiki/阅读"}
+{"name_zh": "DJ", "name_en": "DJing", "path": "音乐与演奏/创作制作/DJ", "blurb": "打碟混音与现场控场", "keywords": ["DJ", "打碟", "混音"], "reference": "https://zh.wikipedia.org/wiki/唱片骑师"}
+{"name_zh": "乐理学习", "name_en": "Music theory", "path": "音乐与演奏/创作制作/乐理学习", "blurb": "乐理视唱练耳自学交流", "keywords": ["乐理", "视唱", "练耳"], "reference": "https://zh.wikipedia.org/wiki/音乐理论"}
+{"name_zh": "作曲", "name_en": "Composition", "path": "音乐与演奏/创作制作/作曲", "blurb": "旋律和声写作与编曲入门", "keywords": ["作曲", "编曲", "和声"], "reference": "https://zh.wikipedia.org/wiki/作曲"}
+{"name_zh": "编曲", "name_en": "Arranging", "path": "音乐与演奏/创作制作/编曲", "blurb": "编曲配器与宿主软件制作", "keywords": ["编曲", "宿主", "MIDI"], "reference": "https://zh.wikipedia.org/wiki/编曲"}
+{"name_zh": "音乐制作", "name_en": "Music production", "path": "音乐与演奏/创作制作/音乐制作", "blurb": "录音混音与独立音乐制作", "keywords": ["音乐制作", "混音", "录音"], "reference": "https://zh.wikipedia.org/wiki/音乐制作人"}
+{"name_zh": "乐队排练", "name_en": "Band rehearsal", "path": "音乐与演奏/声乐/乐队排练", "blurb": "业余乐队组队排练演出", "keywords": ["乐队", "排练", "演出"], "reference": "https://zh.wikipedia.org/wiki/乐队"}
+{"name_zh": "卡拉OK", "name_en": "Karaoke", "path": "音乐与演奏/声乐/卡拉OK", "blurb": "卡拉OK练歌社交", "keywords": ["卡拉OK", "练歌房", "K歌"], "reference": "https://zh.wikipedia.org/wiki/卡拉OK"}
+{"name_zh": "合唱", "name_en": "Choir", "path": "音乐与演奏/声乐/合唱", "blurb": "合唱团排练与公演", "keywords": ["合唱", "合唱团", "声乐"], "reference": "https://zh.wikipedia.org/wiki/合唱"}
+{"name_zh": "流行演唱", "name_en": "Pop singing", "path": "音乐与演奏/声乐/流行演唱", "blurb": "流行歌练唱与麦霸", "keywords": ["流行唱", "唱歌", "练歌"], "reference": "https://zh.wikipedia.org/wiki/流行音乐"}
+{"name_zh": "美声唱法", "name_en": "Bel canto", "path": "音乐与演奏/声乐/美声唱法", "blurb": "美声发声与艺术歌曲", "keywords": ["美声", "声乐", "bel canto"], "reference": "https://zh.wikipedia.org/wiki/美声唱法"}
+{"name_zh": "说唱", "name_en": "Rap", "path": "音乐与演奏/声乐/说唱", "blurb": "说唱词作与flow练习", "keywords": ["说唱", "rap", "嘻哈"], "reference": "https://zh.wikipedia.org/wiki/说唱"}
+{"name_zh": "吉他", "name_en": "Guitar", "path": "音乐与演奏/弦乐/吉他", "blurb": "民谣与电吉他弹唱练习", "keywords": ["吉他", "民谣", "电吉他"], "reference": "https://zh.wikipedia.org/wiki/吉他"}
+{"name_zh": "大提琴", "name_en": "Cello", "path": "音乐与演奏/弦乐/大提琴", "blurb": "大提琴演奏练习", "keywords": ["大提琴", "cello", "爱好"], "reference": "https://zh.wikipedia.org/wiki/大提琴"}
+{"name_zh": "小提琴", "name_en": "Violin", "path": "音乐与演奏/弦乐/小提琴", "blurb": "小提琴音阶与曲目练习", "keywords": ["小提琴", "violin", "爱好"], "reference": "https://zh.wikipedia.org/wiki/小提琴"}
+{"name_zh": "尤克里里", "name_en": "Ukulele", "path": "音乐与演奏/弦乐/尤克里里", "blurb": "尤克里里弹唱入门", "keywords": ["尤克里里", "ukulele", "爱好"], "reference": "https://zh.wikipedia.org/wiki/乌克丽丽"}
+{"name_zh": "非洲鼓", "name_en": "Djembe", "path": "音乐与演奏/打击乐/非洲鼓", "blurb": "手鼓节奏与合奏", "keywords": ["非洲鼓", "手鼓", "djembe"], "reference": "https://zh.wikipedia.org/wiki/非洲鼓"}
+{"name_zh": "鼓圈", "name_en": "Drum circle", "path": "音乐与演奏/打击乐/鼓圈", "blurb": "群体手鼓鼓圈即兴", "keywords": ["鼓圈", "手鼓", "即兴"], "reference": "https://zh.wikipedia.org/wiki/非洲鼓"}
+{"name_zh": "鼓组", "name_en": "Drum kit", "path": "音乐与演奏/打击乐/鼓组", "blurb": "爵士鼓节奏与乐队排练", "keywords": ["架子鼓", "鼓组", "打击"], "reference": "https://zh.wikipedia.org/wiki/爵士鼓"}
+{"name_zh": "二胡", "name_en": "Erhu", "path": "音乐与演奏/民族乐器/二胡", "blurb": "二胡运弓与曲目练习", "keywords": ["二胡", "民乐", "爱好"], "reference": "https://zh.wikipedia.org/wiki/二胡"}
+{"name_zh": "古琴", "name_en": "Guqin", "path": "音乐与演奏/民族乐器/古琴", "blurb": "古琴减字谱与琴曲练习", "keywords": ["古琴", "减字谱", "琴曲"], "reference": "https://zh.wikipedia.org/wiki/古琴"}
+{"name_zh": "古筝", "name_en": "Guzheng", "path": "音乐与演奏/民族乐器/古筝", "blurb": "古筝传统与现代曲目", "keywords": ["古筝", "民乐", "爱好"], "reference": "https://zh.wikipedia.org/wiki/古筝"}
+{"name_zh": "唢呐", "name_en": "Suona", "path": "音乐与演奏/民族乐器/唢呐", "blurb": "唢呐吹奏与民间锣鼓", "keywords": ["唢呐", "民乐", "吹奏"], "reference": "https://zh.wikipedia.org/wiki/唢呐"}
+{"name_zh": "琵琶", "name_en": "Pipa", "path": "音乐与演奏/民族乐器/琵琶", "blurb": "琵琶弹挑与武曲文曲", "keywords": ["琵琶", "民乐", "爱好"], "reference": "https://zh.wikipedia.org/wiki/琵琶"}
+{"name_zh": "笛子", "name_en": "Dizi", "path": "音乐与演奏/民族乐器/笛子", "blurb": "竹笛吹奏与曲目", "keywords": ["笛子", "竹笛", "民乐"], "reference": "https://zh.wikipedia.org/wiki/笛子"}
+{"name_zh": "箫", "name_en": "Xiao", "path": "音乐与演奏/民族乐器/箫", "blurb": "洞箫吹奏练习", "keywords": ["箫", "洞箫", "民乐"], "reference": "https://zh.wikipedia.org/wiki/箫"}
+{"name_zh": "葫芦丝", "name_en": "Hulusi", "path": "音乐与演奏/民族乐器/葫芦丝", "blurb": "葫芦丝吹奏与少数民族曲风", "keywords": ["葫芦丝", "巴乌", "爱好"], "reference": "https://zh.wikipedia.org/wiki/葫芦丝"}
+{"name_zh": "阮", "name_en": "Ruan", "path": "音乐与演奏/民族乐器/阮", "blurb": "中阮大阮弹奏", "keywords": ["中阮", "阮咸", "民乐"], "reference": "https://zh.wikipedia.org/wiki/阮"}
+{"name_zh": "单簧管", "name_en": "Clarinet", "path": "音乐与演奏/管乐/单簧管", "blurb": "单簧管吹奏练习", "keywords": ["单簧管", "黑管", "爱好"], "reference": "https://zh.wikipedia.org/wiki/单簧管"}
+{"name_zh": "口琴", "name_en": "Harmonica", "path": "音乐与演奏/管乐/口琴", "blurb": "布鲁斯与半音阶口琴", "keywords": ["口琴", "blues harp", "爱好"], "reference": "https://zh.wikipedia.org/wiki/口琴"}
+{"name_zh": "小号", "name_en": "Trumpet", "path": "音乐与演奏/管乐/小号", "blurb": "小号吹奏与乐队合奏", "keywords": ["小号", "trumpet", "爱好"], "reference": "https://zh.wikipedia.org/wiki/小号"}
+{"name_zh": "萨克斯", "name_en": "Saxophone", "path": "音乐与演奏/管乐/萨克斯", "blurb": "萨克斯吹奏与爵士练习", "keywords": ["萨克斯", "saxophone", "爱好"], "reference": "https://zh.wikipedia.org/wiki/萨克斯管"}
+{"name_zh": "长笛", "name_en": "Flute", "path": "音乐与演奏/管乐/长笛", "blurb": "西洋长笛吹奏练习", "keywords": ["长笛", "flute", "爱好"], "reference": "https://zh.wikipedia.org/wiki/长笛"}
+{"name_zh": "陶笛", "name_en": "Ocarina", "path": "音乐与演奏/管乐/陶笛", "blurb": "陶笛吹奏入门", "keywords": ["陶笛", "ocarina", "吹奏"], "reference": "https://zh.wikipedia.org/wiki/陶笛"}
+{"name_zh": "唱片收藏聆听", "name_en": "Audiophile listening", "path": "音乐与演奏/鉴赏/唱片收藏聆听", "blurb": "黑胶CD与HIFI聆听交流", "keywords": ["黑胶", "HIFI", "听碟"], "reference": "https://zh.wikipedia.org/wiki/音响爱好者"}
+{"name_zh": "手风琴", "name_en": "Accordion", "path": "音乐与演奏/键盘/手风琴", "blurb": "手风琴演奏练习", "keywords": ["手风琴", "accordion", "风箱"], "reference": "https://zh.wikipedia.org/wiki/手风琴"}
+{"name_zh": "电子琴", "name_en": "Electronic keyboard", "path": "音乐与演奏/键盘/电子琴", "blurb": "电子琴与合成器弹奏", "keywords": ["电子琴", "键盘", "爱好"], "reference": "https://zh.wikipedia.org/wiki/电子琴"}
+{"name_zh": "钢琴", "name_en": "Piano", "path": "音乐与演奏/键盘/钢琴", "blurb": "钢琴独奏与伴奏练习", "keywords": ["钢琴", "键盘", "练琴"], "reference": "https://zh.wikipedia.org/wiki/钢琴"}
+{"name_zh": "发酵食品", "name_en": "Fermentation", "path": "饮食与茶酒/烹饪烘焙/发酵食品", "blurb": "泡菜酸奶康普茶等发酵", "keywords": ["发酵", "泡菜", "康普茶"], "reference": "https://zh.wikipedia.org/wiki/红茶菌"}
+{"name_zh": "川菜烹饪", "name_en": "Sichuan cooking", "path": "饮食与茶酒/烹饪烘焙/川菜烹饪", "blurb": "川菜家常与复刻", "keywords": ["川菜", "炒菜", "复刻"], "reference": "https://zh.wikipedia.org/wiki/四川菜"}
+{"name_zh": "烘焙", "name_en": "Baking", "path": "饮食与茶酒/烹饪烘焙/烘焙", "blurb": "面包蛋糕甜点烘烤", "keywords": ["烘焙", "面包", "蛋糕"], "reference": "https://zh.wikipedia.org/wiki/烘烤"}
+{"name_zh": "烧烤", "name_en": "Barbecue", "path": "饮食与茶酒/烹饪烘焙/烧烤", "blurb": "户外烧烤与炭火技巧", "keywords": ["烧烤", "BBQ", "炭火"], "reference": "https://zh.wikipedia.org/wiki/烧烤"}
+{"name_zh": "烹饪", "name_en": "Cooking", "path": "饮食与茶酒/烹饪烘焙/烹饪", "blurb": "家庭菜肴烹饪练习交流", "keywords": ["烹饪", "做饭", "菜谱"], "reference": "https://zh.wikipedia.org/wiki/烹饪"}
+{"name_zh": "甜品制作", "name_en": "Pastry", "path": "饮食与茶酒/烹饪烘焙/甜品制作", "blurb": "甜品裱花与法式点心", "keywords": ["甜品", "点心", "裱花"], "reference": "https://zh.wikipedia.org/wiki/糖果糕点"}
+{"name_zh": "面包制作", "name_en": "Breadmaking", "path": "饮食与茶酒/烹饪烘焙/面包制作", "blurb": "欧包与中式面点制作", "keywords": ["面包", "面团", "发酵"], "reference": "https://zh.wikipedia.org/wiki/面包"}
+{"name_zh": "面食制作", "name_en": "Noodle making", "path": "饮食与茶酒/烹饪烘焙/面食制作", "blurb": "面条饺子包子等面点", "keywords": ["面食", "饺子", "包子"], "reference": "https://zh.wikipedia.org/wiki/中国面食"}
+{"name_zh": "咖啡冲煮", "name_en": "Coffee brewing", "path": "饮食与茶酒/茶咖酒/咖啡冲煮", "blurb": "手冲意式与豆子讨论", "keywords": ["咖啡", "手冲", "意式"], "reference": "https://zh.wikipedia.org/wiki/咖啡"}
+{"name_zh": "品茶", "name_en": "Tea tasting", "path": "饮食与茶酒/茶咖酒/品茶", "blurb": "六大茶类审评品饮", "keywords": ["品茶", "审评", "茶友"], "reference": "https://zh.wikipedia.org/wiki/中国茶"}
+{"name_zh": "品酒", "name_en": "Wine tasting", "path": "饮食与茶酒/茶咖酒/品酒", "blurb": "葡萄酒品鉴与产区学习", "keywords": ["品酒", "葡萄酒", "产区"], "reference": "https://zh.wikipedia.org/wiki/葡萄酒品鉴"}
+{"name_zh": "威士忌品鉴", "name_en": "Whisky tasting", "path": "饮食与茶酒/茶咖酒/威士忌品鉴", "blurb": "威士忌风味品鉴交流", "keywords": ["威士忌", "单一麦芽", "品鉴"], "reference": "https://zh.wikipedia.org/wiki/威士忌"}
+{"name_zh": "家庭烘焙咖啡", "name_en": "Home coffee roasting", "path": "饮食与茶酒/茶咖酒/家庭烘焙咖啡", "blurb": "生豆烘焙曲线与杯测", "keywords": ["烘焙咖啡", "生豆", "杯测"], "reference": "https://en.wikipedia.org/wiki/Home_roasting_coffee"}
+{"name_zh": "岩茶品鉴", "name_en": "Yancha tasting", "path": "饮食与茶酒/茶咖酒/岩茶品鉴", "blurb": "武夷岩茶岩韵品鉴", "keywords": ["岩茶", "大红袍", "武夷"], "reference": "https://zh.wikipedia.org/wiki/武夷岩茶"}
+{"name_zh": "普洱茶收藏", "name_en": "Puer tea collecting", "path": "饮食与茶酒/茶咖酒/普洱茶收藏", "blurb": "普洱茶饼收藏存茶", "keywords": ["普洱", "存茶", "茶饼"], "reference": "https://zh.wikipedia.org/wiki/普洱茶"}
+{"name_zh": "白酒品鉴", "name_en": "Baijiu tasting", "path": "饮食与茶酒/茶咖酒/白酒品鉴", "blurb": "白酒香型品鉴交流", "keywords": ["白酒", "香型", "酱香"], "reference": "https://zh.wikipedia.org/wiki/白酒"}
+{"name_zh": "自酿啤酒", "name_en": "Homebrewing", "path": "饮食与茶酒/茶咖酒/自酿啤酒", "blurb": "家庭酿造啤酒（合法合规）", "keywords": ["自酿", "精酿", "homebrew"], "reference": "https://zh.wikipedia.org/wiki/自酿啤酒"}
+{"name_zh": "茶艺", "name_en": "Tea arts", "path": "饮食与茶酒/茶咖酒/茶艺", "blurb": "泡茶品鉴与茶席礼仪", "keywords": ["茶艺", "泡茶", "茶席"], "reference": "https://zh.wikipedia.org/wiki/中国茶艺"}
+{"name_zh": "调酒", "name_en": "Mixology", "path": "饮食与茶酒/茶咖酒/调酒", "blurb": "鸡尾酒调制与杯艺（爱好向）", "keywords": ["调酒", "鸡尾酒", "bartender"], "reference": "https://zh.wikipedia.org/wiki/混合饮料"}
+{"name_zh": "黄酒品鉴", "name_en": "Huangjiu tasting", "path": "饮食与茶酒/茶咖酒/黄酒品鉴", "blurb": "黄酒绍兴酒品饮文化", "keywords": ["黄酒", "绍兴酒", "品饮"], "reference": "https://zh.wikipedia.org/wiki/黄酒"}
