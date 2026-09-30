@@ -1,0 +1,5 @@
+Authorized GitHub connector workflow test.
+Test ID: 20260930-0737
+Revision: 2
+Verified create, read, and update using GitHub Contents API.
+This file is confined to test branches; main is unchanged.
