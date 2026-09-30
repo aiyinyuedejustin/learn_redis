@@ -1,4 +1,4 @@
 Authorized GitHub connector workflow test.
 Test ID: 20260930-0737
-Merge method under test: squash
+Merge method under test: rebase
 This file is confined to test branches; main is unchanged.
