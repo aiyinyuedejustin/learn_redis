@@ -1,0 +1,4 @@
+Authorized GitHub connector workflow test.
+Test ID: 20260930-0737
+Revision: 1
+This file is confined to test branches; main is unchanged.
